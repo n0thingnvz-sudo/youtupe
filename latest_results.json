@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-09-05T12:50:48.853140+00:00",
+  "generated_at_utc": "2025-09-05T12:50:51.212481+00:00",
   "hours_window": 12,
   "items": [
+    {
+      "channel": "A4",
+      "title": "I Built a SECRET Pool in My Room!",
+      "url": "https://www.youtube.com/watch?v=zDrQCiIaI0g",
+      "published_at_utc": "2025-09-01T09:01:27+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
