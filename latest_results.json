@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-09-12T05:26:31.137038+00:00",
+  "generated_at_utc": "2025-09-12T05:28:45.056979+00:00",
   "hours_window": 3,
   "items": [
+    {
+      "channel": "1337LikeR",
+      "title": "Балдёжная Hell Let Loose 2",
+      "url": "https://www.youtube.com/watch?v=Aa7s2QZyaPM",
+      "published_at_utc": "2025-09-06T12:40:22+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
