@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-09-13T23:21:31.753193+00:00",
+  "generated_at_utc": "2025-09-13T23:25:08.130030+00:00",
   "hours_window": 3,
   "items": [
+    {
+      "channel": "Nerkin",
+      "title": "Mojang Выпустили Секретную Версию Майнкрафта с Debug-режимом. Что это?",
+      "url": "https://www.youtube.com/watch?v=Vn5yijbZDhY",
+      "published_at_utc": "2025-09-12T12:06:51+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
