@@ -1,62 +1,97 @@
 {
-  "generated_at_utc": "2025-09-14T22:06:31.918685+00:00",
+  "generated_at_utc": "2025-09-14T22:11:36.081296+00:00",
   "hours_window": 3,
   "items": [
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
       "url": "https://youtu.be/pxHi5kyD2kc",
-      "published_at_utc": "2025-09-14T22:06:25.288921+00:00",
+      "published_at_utc": "2025-09-14T22:11:27.812629+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Carvs На Русском",
       "title": "Я Построил Алмазный Завод в Майнкрафте на Хардкоре",
       "url": "https://youtu.be/DKc-tspob1Y",
-      "published_at_utc": "2025-09-14T22:06:25.288921+00:00",
+      "published_at_utc": "2025-09-14T22:11:27.812629+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "Я СТАЛ БЕССМЕРТНЫМ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/YPMM8F7czzU",
-      "published_at_utc": "2025-09-14T22:05:54.244947+00:00",
+      "published_at_utc": "2025-09-14T22:10:53.322931+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "ПОСТРОИЛ САМУЮ КРАСИВУЮ БАЗУ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/F6PaU88T9Q0",
-      "published_at_utc": "2025-09-14T22:05:54.244947+00:00",
+      "published_at_utc": "2025-09-14T22:10:53.322931+00:00",
       "age_seconds": 0
+    },
+    {
+      "channel": "Нарезки Стинта",
+      "title": "ТГ: STINT INSIDE - Новости по Стинту #стинт #стинтик #stint #stintik #твич #стрим #стример",
+      "url": "https://www.youtube.com/shorts/6sQyVXQ0I2E",
+      "published_at_utc": "2025-09-14T22:05:06+00:00",
+      "age_seconds": 345
+    },
+    {
+      "channel": "Нарезки Стинта",
+      "title": "ТГ: STINT INSIDE - Новости по Стинту #стинт #стинтик #stint #stintik #твич #стрим #стример",
+      "url": "https://www.youtube.com/shorts/uL0WnMp9rhM",
+      "published_at_utc": "2025-09-14T22:04:58+00:00",
+      "age_seconds": 353
+    },
+    {
+      "channel": "Нарезки Стинта",
+      "title": "ТГ: STINT INSIDE - Новости по Стинту #стинт #стинтик #stint #stintik #твич #стрим #стример",
+      "url": "https://www.youtube.com/shorts/S_awDsKYu2k",
+      "published_at_utc": "2025-09-14T22:04:50+00:00",
+      "age_seconds": 361
+    },
+    {
+      "channel": "Нарезки Стинта",
+      "title": "ТГ: STINT INSIDE - Новости по Стинту #стинт #стинтик #stint #stintik #твич #стрим #стример",
+      "url": "https://www.youtube.com/shorts/QVE-xmKR1WM",
+      "published_at_utc": "2025-09-14T22:04:03+00:00",
+      "age_seconds": 408
+    },
+    {
+      "channel": "Enderestories",
+      "title": "Он нашел нечто необычное!",
+      "url": "https://www.youtube.com/shorts/ky4m5RZHxRk",
+      "published_at_utc": "2025-09-14T22:00:48+00:00",
+      "age_seconds": 619
     },
     {
       "channel": "Enderestories",
       "title": "Она оказалась слишком меткой!",
       "url": "https://www.youtube.com/shorts/xliE_NMiYOA",
       "published_at_utc": "2025-09-14T20:45:03+00:00",
-      "age_seconds": 4863
+      "age_seconds": 5164
     },
     {
       "channel": "Тру Шорты",
       "title": "Конкурс самых страшненьких среди собак",
       "url": "https://www.youtube.com/shorts/NE9mevFghmA",
       "published_at_utc": "2025-09-14T20:43:53+00:00",
-      "age_seconds": 4900
+      "age_seconds": 5200
     },
     {
       "channel": "EdisonPts",
       "title": "НАДЗИРАТЕЛЬ ИГРЫ В КАЛЬМАРА ДАЛ МНЕ ОСТАНОВКУ ВРЕМЕНИ!",
       "url": "https://www.youtube.com/watch?v=T2BKcAqwG4s",
       "published_at_utc": "2025-09-14T20:03:14+00:00",
-      "age_seconds": 7382
+      "age_seconds": 7684
     },
     {
       "channel": "Enderestories",
       "title": "Где он взял такой объектив?",
       "url": "https://www.youtube.com/shorts/T7gdqyRAdx0",
       "published_at_utc": "2025-09-14T19:30:03+00:00",
-      "age_seconds": 9363
+      "age_seconds": 9664
     }
   ]
 }
