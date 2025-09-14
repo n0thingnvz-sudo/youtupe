@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2025-09-14T03:56:26.759440+00:00",
+  "generated_at_utc": "2025-09-14T04:01:30.863764+00:00",
   "hours_window": 3,
   "items": [
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
       "url": "https://youtu.be/pxHi5kyD2kc",
-      "published_at_utc": "2025-09-14T03:56:20.466042+00:00",
+      "published_at_utc": "2025-09-14T04:01:24.095006+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Carvs На Русском",
       "title": "Я Построил Алмазный Завод в Майнкрафте на Хардкоре",
       "url": "https://youtu.be/DKc-tspob1Y",
-      "published_at_utc": "2025-09-14T03:56:20.466042+00:00",
+      "published_at_utc": "2025-09-14T04:01:24.095006+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "Я СТАЛ БЕССМЕРТНЫМ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/YPMM8F7czzU",
-      "published_at_utc": "2025-09-14T03:55:52.197019+00:00",
+      "published_at_utc": "2025-09-14T04:00:53.677504+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "ПОСТРОИЛ САМУЮ КРАСИВУЮ БАЗУ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/F6PaU88T9Q0",
-      "published_at_utc": "2025-09-14T03:55:52.197019+00:00",
+      "published_at_utc": "2025-09-14T04:00:53.677504+00:00",
       "age_seconds": 0
+    },
+    {
+      "channel": "WORLD TOP",
+      "title": "Бинт с не очень приятным вкусом 😳",
+      "url": "https://www.youtube.com/shorts/PZYmDsSkpI0",
+      "published_at_utc": "2025-09-14T04:00:33+00:00",
+      "age_seconds": 28
     }
   ]
 }
