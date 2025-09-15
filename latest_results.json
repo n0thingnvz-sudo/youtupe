@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2025-09-15T21:56:31.360198+00:00",
+  "generated_at_utc": "2025-09-15T22:01:36.379297+00:00",
   "hours_window": 3,
   "items": [
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
       "url": "https://youtu.be/pxHi5kyD2kc",
-      "published_at_utc": "2025-09-15T21:56:24.784809+00:00",
+      "published_at_utc": "2025-09-15T22:01:28.022247+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Carvs На Русском",
       "title": "Я Построил Алмазный Завод в Майнкрафте на Хардкоре",
       "url": "https://youtu.be/DKc-tspob1Y",
-      "published_at_utc": "2025-09-15T21:56:24.784809+00:00",
+      "published_at_utc": "2025-09-15T22:01:28.022247+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "ПРОШЕЛ НОВОЕ ВУЛКАНИЧЕСКОЕ ОБНОВЛЕНИЕ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/Tm8wlaDEE7E",
-      "published_at_utc": "2025-09-15T21:55:54.377650+00:00",
+      "published_at_utc": "2025-09-15T22:00:55.423113+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "Я СТАЛ БЕССМЕРТНЫМ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/YPMM8F7czzU",
-      "published_at_utc": "2025-09-15T21:55:54.377650+00:00",
+      "published_at_utc": "2025-09-15T22:00:55.423113+00:00",
       "age_seconds": 0
+    },
+    {
+      "channel": "Coffi Channel",
+      "title": "3 КОМАНДЫ - 1 ПОБЕДИТЕЛЬ! КТО БЫСТРЕЕ ДОБЕРЕТСЯ ОТ КРАЯ КАРТЫ до ГОРЫ ЧИЛИАД! (GTA 5 RP)",
+      "url": "https://www.youtube.com/watch?v=Gi08-hjS1u8",
+      "published_at_utc": "2025-09-15T21:43:22+00:00",
+      "age_seconds": 1075
     },
     {
       "channel": "Enderestories",
       "title": "Он долго практиковался в воровстве!",
       "url": "https://www.youtube.com/shorts/GiMkH3sNJ6k",
       "published_at_utc": "2025-09-15T21:05:00+00:00",
-      "age_seconds": 3066
+      "age_seconds": 3368
     },
     {
       "channel": "Никита Айсер",
       "title": "больше нас в тг: бункер никитоса",
       "url": "https://www.youtube.com/shorts/mibruLSayhs",
       "published_at_utc": "2025-09-15T20:19:34+00:00",
-      "age_seconds": 5796
+      "age_seconds": 6098
     },
     {
       "channel": "Bratishkin Rofls",
       "title": "БРАТИШКИН ПРО ОТМЕНУ ДИПИНСА в ТИКТОКЕ",
       "url": "https://www.youtube.com/watch?v=y2B33jdMq2M",
       "published_at_utc": "2025-09-15T20:14:17+00:00",
-      "age_seconds": 6077
+      "age_seconds": 6378
     },
     {
       "channel": "Моменты Братишкина",
       "title": "Братишкин ЗАЩИЩАЕТ Дипинса ОТ ДЕВОЧЕК из ТИК ТОКА",
       "url": "https://www.youtube.com/watch?v=ODH4azGVqW8",
       "published_at_utc": "2025-09-15T19:31:51+00:00",
-      "age_seconds": 8679
+      "age_seconds": 8984
     },
     {
       "channel": "Wylsacom",
       "title": "iOS 26  ВЫШЛА! СТАВИТЬ ИЛИ НЕТ?",
       "url": "https://www.youtube.com/watch?v=MpomXaT8IwU",
       "published_at_utc": "2025-09-15T19:05:33+00:00",
-      "age_seconds": 10244
+      "age_seconds": 10547
     }
   ]
 }
