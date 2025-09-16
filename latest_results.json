@@ -1,40 +1,33 @@
 {
-  "generated_at_utc": "2025-09-16T04:17:02.571103+00:00",
+  "generated_at_utc": "2025-09-16T04:21:30.887956+00:00",
   "hours_window": 3,
   "items": [
-    {
-      "channel": "A4",
-      "title": "I Learned Extreme Camouflage to Escape the Evil Kids !",
-      "url": "https://www.youtube.com/watch?v=XkumY6O1BrU",
-      "published_at_utc": "2025-09-06T10:35:40+00:00",
-      "age_seconds": 0
-    },
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
       "url": "https://youtu.be/pxHi5kyD2kc",
-      "published_at_utc": "2025-09-16T04:16:23.489311+00:00",
+      "published_at_utc": "2025-09-16T04:21:24.536538+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Carvs На Русском",
       "title": "Я Построил Алмазный Завод в Майнкрафте на Хардкоре",
       "url": "https://youtu.be/DKc-tspob1Y",
-      "published_at_utc": "2025-09-16T04:16:23.489311+00:00",
+      "published_at_utc": "2025-09-16T04:21:24.536538+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "ПРОШЕЛ НОВОЕ ВУЛКАНИЧЕСКОЕ ОБНОВЛЕНИЕ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/Tm8wlaDEE7E",
-      "published_at_utc": "2025-09-16T04:15:53.510352+00:00",
+      "published_at_utc": "2025-09-16T04:20:54.378860+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "Я СТАЛ БЕССМЕРТНЫМ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/YPMM8F7czzU",
-      "published_at_utc": "2025-09-16T04:15:53.510352+00:00",
+      "published_at_utc": "2025-09-16T04:20:54.378860+00:00",
       "age_seconds": 0
     },
     {
@@ -42,21 +35,21 @@
       "title": "Вот как стоит себя вести с лошадью 😮",
       "url": "https://www.youtube.com/shorts/R7RLBf8TboU",
       "published_at_utc": "2025-09-16T04:00:38+00:00",
-      "age_seconds": 922
+      "age_seconds": 1223
     },
     {
       "channel": "Enderestories",
       "title": "Она устала от своих рыбок!",
       "url": "https://www.youtube.com/shorts/jqOyrOCkieg",
       "published_at_utc": "2025-09-16T03:15:05+00:00",
-      "age_seconds": 3660
+      "age_seconds": 3961
     },
     {
       "channel": "Enderestories",
       "title": "Как можно упаковать этот торт?",
       "url": "https://www.youtube.com/shorts/DSFIamKjQXs",
       "published_at_utc": "2025-09-16T01:30:10+00:00",
-      "age_seconds": 9955
+      "age_seconds": 10256
     }
   ]
 }
