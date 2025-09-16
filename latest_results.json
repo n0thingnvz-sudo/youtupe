@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2025-09-16T04:46:31.053603+00:00",
+  "generated_at_utc": "2025-09-16T04:51:30.761905+00:00",
   "hours_window": 3,
   "items": [
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
       "url": "https://youtu.be/pxHi5kyD2kc",
-      "published_at_utc": "2025-09-16T04:46:24.366802+00:00",
+      "published_at_utc": "2025-09-16T04:51:24.099871+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Carvs На Русском",
       "title": "Я Построил Алмазный Завод в Майнкрафте на Хардкоре",
       "url": "https://youtu.be/DKc-tspob1Y",
-      "published_at_utc": "2025-09-16T04:46:24.366802+00:00",
+      "published_at_utc": "2025-09-16T04:51:24.099871+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "ПРОШЕЛ НОВОЕ ВУЛКАНИЧЕСКОЕ ОБНОВЛЕНИЕ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/Tm8wlaDEE7E",
-      "published_at_utc": "2025-09-16T04:45:53.747965+00:00",
+      "published_at_utc": "2025-09-16T04:50:53.732005+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Goryachev",
       "title": "Я СТАЛ БЕССМЕРТНЫМ В 99 НОЧЕЙ В ЛЕСУ!",
       "url": "https://youtu.be/YPMM8F7czzU",
-      "published_at_utc": "2025-09-16T04:45:53.747965+00:00",
+      "published_at_utc": "2025-09-16T04:50:53.732005+00:00",
       "age_seconds": 0
+    },
+    {
+      "channel": "Enderestories",
+      "title": "Их видео набрало миллионы просмотров!",
+      "url": "https://www.youtube.com/shorts/34ypjc9REEA",
+      "published_at_utc": "2025-09-16T04:50:00+00:00",
+      "age_seconds": 65
     },
     {
       "channel": "WORLD TOP",
       "title": "Вот как стоит себя вести с лошадью 😮",
       "url": "https://www.youtube.com/shorts/R7RLBf8TboU",
       "published_at_utc": "2025-09-16T04:00:38+00:00",
-      "age_seconds": 2723
+      "age_seconds": 3023
     },
     {
       "channel": "Enderestories",
       "title": "Она устала от своих рыбок!",
       "url": "https://www.youtube.com/shorts/jqOyrOCkieg",
       "published_at_utc": "2025-09-16T03:15:05+00:00",
-      "age_seconds": 5460
+      "age_seconds": 5760
     }
   ]
 }
