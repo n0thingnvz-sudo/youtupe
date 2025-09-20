@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-09-20T19:28:20.530728+00:00",
+  "generated_at_utc": "2025-09-20T19:29:45.171189+00:00",
   "hours_window": 9,
   "items": [
+    {
+      "channel": "IGM",
+      "title": "ТОП ИГР С УЖАСНЫМ УПРАВЛЕНИЕМ",
+      "url": "https://www.youtube.com/shorts/HcNQhHzdIzE",
+      "published_at_utc": "2025-09-19T17:00:23+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Как я Создал Самого Редкого Моба в Игре",
