@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-09-24T09:20:14.485051+00:00",
+  "generated_at_utc": "2025-09-24T09:21:54.074370+00:00",
   "hours_window": 9,
   "items": [
+    {
+      "channel": "Wylsacom",
+      "title": "Пожалуй, лучший телевизор на свете",
+      "url": "https://www.youtube.com/watch?v=__VUu6gN_dM",
+      "published_at_utc": "2025-09-23T15:41:28+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Построил Все Спрятанные Базы (Чтобы Найти Лучшую)",
