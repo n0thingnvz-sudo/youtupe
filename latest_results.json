@@ -1,12 +1,19 @@
 {
-  "generated_at_utc": "2025-10-05T09:14:51.956581+00:00",
+  "generated_at_utc": "2025-10-05T09:14:54.202684+00:00",
   "hours_window": 4,
   "items": [
     {
       "channel": "Компот",
-      "title": "ОТ КОГО Я ПРЯЧУСЬ В СВОЁМ ДОМЕ В МАЙНКРАФТ | Компот Minecraft",
-      "url": "https://www.youtube.com/watch?v=vhgB4284iWU",
-      "published_at_utc": "2025-09-29T12:01:47+00:00",
+      "title": "К НАМ В ДЕРЕВНЮ ПРИШЁЛ ФЕЙКОВЫЙ АДМИН В МАЙНКРАФТ | Компот Minecraft",
+      "url": "https://www.youtube.com/watch?v=RYGxSzkrzGQ",
+      "published_at_utc": "2025-09-28T12:00:46+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Компот",
+      "title": "КТО СМОЖЕТ ОТКРЫТЬ ЛАЗЕРНУЮ КОМНАТУ ТОТ ЗАБЕРЁТ ВСЕ ДЕНЬГИ В МАЙНКРАФТ | Компот Minecraft",
+      "url": "https://www.youtube.com/watch?v=vlzItMIjnng",
+      "published_at_utc": "2025-10-04T12:01:46+00:00",
       "age_seconds": 0
     },
     {
