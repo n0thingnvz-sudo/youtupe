@@ -1,12 +1,19 @@
 {
-  "generated_at_utc": "2025-10-06T04:10:47.138001+00:00",
+  "generated_at_utc": "2025-10-06T04:10:48.214288+00:00",
   "hours_window": 4,
   "items": [
     {
       "channel": "Тимур Сидельников",
-      "title": "Секретный рецепт сырного Доширака",
-      "url": "https://www.youtube.com/shorts/lidXEjk4f7M",
-      "published_at_utc": "2025-09-29T10:24:27+00:00",
+      "title": "Бургер но все квадратное",
+      "url": "https://www.youtube.com/shorts/2VriB0AgAxc",
+      "published_at_utc": "2025-09-28T13:31:30+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Провальная акция Coca-cola",
+      "url": "https://www.youtube.com/shorts/jHuOdRA14W0",
+      "published_at_utc": "2025-10-03T11:08:48+00:00",
       "age_seconds": 0
     },
     {
