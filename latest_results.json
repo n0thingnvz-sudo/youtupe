@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-10-21T20:51:52.774485+00:00",
+  "generated_at_utc": "2025-10-21T20:55:02.739144+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "VSRAP",
+      "title": "Baby Cute о Паше Технике",
+      "url": "https://www.youtube.com/shorts/KpXRzau-0os",
+      "published_at_utc": "2025-10-21T09:00:29+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
