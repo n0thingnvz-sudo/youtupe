@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-10-24T11:00:08.390845+00:00",
+  "generated_at_utc": "2025-10-24T11:03:24.636343+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "ZOMBIERUS",
+      "title": "ИТОГИ РЕЛИЗА BATTLEFIELD 6",
+      "url": "https://www.youtube.com/watch?v=Z7qJbfj74hI",
+      "published_at_utc": "2025-10-17T16:44:54+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
