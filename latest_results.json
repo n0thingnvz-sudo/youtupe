@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-10-25T21:28:00.302563+00:00",
+  "generated_at_utc": "2025-10-25T21:28:05.081766+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "1337LikeR",
+      "title": "Срака на Колёсах (RV There Yet)",
+      "url": "https://www.youtube.com/watch?v=nraYW17BaFQ",
+      "published_at_utc": "2025-10-25T10:43:40+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
