@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-10-26T11:36:07.919775+00:00",
+  "generated_at_utc": "2025-10-26T11:36:52.416992+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "windy31",
+      "title": "этот фнаф - ошибка",
+      "url": "https://www.youtube.com/watch?v=GkB3IxcZFKA",
+      "published_at_utc": "2025-10-21T12:33:10+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
