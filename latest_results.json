@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-10-29T00:47:53.956183+00:00",
+  "generated_at_utc": "2025-10-29T00:49:00.653392+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "PoleznyiBes",
+      "title": "Ghost of Yōtei - Даже МНЕ понравилось",
+      "url": "https://www.youtube.com/watch?v=EMG9Fw5MrFs",
+      "published_at_utc": "2025-10-27T16:06:15+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
