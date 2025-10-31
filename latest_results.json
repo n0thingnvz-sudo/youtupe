@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-10-31T01:28:00.234823+00:00",
+  "generated_at_utc": "2025-10-31T01:30:26.899991+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "dikiy_vadik",
+      "title": "Папа вам не мама",
+      "url": "https://www.youtube.com/shorts/kYBcoRzw8DI",
+      "published_at_utc": "2025-10-12T13:47:33+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
