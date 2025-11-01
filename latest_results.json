@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-01T04:35:54.131734+00:00",
+  "generated_at_utc": "2025-11-01T04:39:47.040235+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Физика от Побединского",
+      "title": "Лазерный микрофон",
+      "url": "https://www.youtube.com/shorts/YJkeeXvxQcE",
+      "published_at_utc": "2025-10-22T15:10:18+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
