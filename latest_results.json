@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-01T10:48:09.903828+00:00",
+  "generated_at_utc": "2025-11-01T10:50:34.576910+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Эта игра лучше всех",
+      "url": "https://www.youtube.com/shorts/WGIg3fOArj4",
+      "published_at_utc": "2025-10-31T11:54:53+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
