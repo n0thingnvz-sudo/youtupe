@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-05T03:51:54.706507+00:00",
+  "generated_at_utc": "2025-11-05T03:55:27.601960+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "[СТРИМ] Играбельно! Смута: Земский собор",
+      "url": "https://www.youtube.com/watch?v=R97dCzw6SQQ",
+      "published_at_utc": "2025-11-04T15:38:50+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
