@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-06T11:36:00.907220+00:00",
+  "generated_at_utc": "2025-11-06T11:38:02.591337+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Rozetked",
+      "title": "Обзор новой трикладушки Huawei",
+      "url": "https://www.youtube.com/watch?v=u_en0hrqWdA",
+      "published_at_utc": "2025-11-06T05:05:33+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Сделал Лучшую Броню В Майнкрафте",
