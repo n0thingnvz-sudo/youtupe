@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-08T11:12:05.528541+00:00",
+  "generated_at_utc": "2025-11-08T11:14:33.312835+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Физика от Побединского",
+      "title": "Лазерный микрофон",
+      "url": "https://www.youtube.com/shorts/rMmZL9dqctA",
+      "published_at_utc": "2025-11-07T16:01:20+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Майнкрафт, но я РАСТУ Каждую Минуту",
