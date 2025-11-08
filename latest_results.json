@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-08T17:12:10.907874+00:00",
+  "generated_at_utc": "2025-11-08T17:13:25.193573+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Rozetked",
+      "title": "Почему меня жутко бесит iOS 26",
+      "url": "https://www.youtube.com/watch?v=h25JSu1JdTg",
+      "published_at_utc": "2025-11-08T05:00:51+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Майнкрафт, но я РАСТУ Каждую Минуту",
