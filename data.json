@@ -1,0 +1,41 @@
+{
+  "updated_at": "2025-11-10T10:00:00+01:00",
+  "entries": [
+    {
+      "person": "Раф",
+      "platform": "YouTube",
+      "month": "2025-09",
+      "reactions": 120
+    },
+    {
+      "person": "Раф",
+      "platform": "Instagram",
+      "month": "2025-09",
+      "reactions": 95
+    },
+    {
+      "person": "Раф",
+      "platform": "TikTok",
+      "month": "2025-09",
+      "reactions": 60
+    },
+    {
+      "person": "Петя",
+      "platform": "YouTube",
+      "month": "2025-09",
+      "reactions": 80
+    },
+    {
+      "person": "Петя",
+      "platform": "Instagram",
+      "month": "2025-09",
+      "reactions": 110
+    },
+    {
+      "person": "Петя",
+      "platform": "TikTok",
+      "month": "2025-09",
+      "reactions": 40
+    }
+  ]
+}
