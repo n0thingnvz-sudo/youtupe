@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Коммент‑маркетинг — дашборд (ESM)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body { background:#f8fafc; color:#0f172a; }
+      .card { background:#fff; border:1px solid #e2e8f0; border-radius:16px; padding:16px; box-shadow:0 1px 2px rgba(0,0,0,.05); }
+      code { background:#f1f5f9; padding:2px 6px; border-radius:6px; }
+    </style>
+  </head>
+  <body>
+    <div id="root" class="p-4 md:p-8 max-w-6xl mx-auto"></div>
+
+    <script type="module">
+      const mountError = (html) => {
+        document.getElementById('root').innerHTML = `
+          <div class="card max-w-2xl mx-auto mt-6 text-sm">
+            <div class="font-semibold mb-2">Не удалось загрузить библиотеки</div>
+            <div class="text-slate-700">${html}</div>
+            <ol class="list-decimal pl-5 text-slate-700 space-y-1 mt-3">
+              <li>Если провайдер блокирует CDN — используйте этот файл (ESM) или вариант с локальными библиотеками.</li>
+              <li>Откройте через локальный сервер: <code>python3 -m http.server 8000</code> → <code>http://localhost:8000</code>.</li>
+              <li>Для продакшена — GitHub Pages + этот ESM-файл работает чаще всего.</li>
+            </ol>
+          </div>`;
+      };
+
+      const cdnSets = [
+        {
+          name: 'jsDelivr +esm',
+          react: 'https://cdn.jsdelivr.net/npm/react@18.2.0/+esm',
+          reactDomClient: 'https://cdn.jsdelivr.net/npm/react-dom@18.2.0/client/+esm',
+          recharts: 'https://cdn.jsdelivr.net/npm/recharts@2.12.7/+esm',
+        },
+        {
+          name: 'esm.sh',
+          react: 'https://esm.sh/react@18',
+          reactDomClient: 'https://esm.sh/react-dom@18/client',
+          recharts: 'https://esm.sh/recharts@2.12.7',
+        },
+        {
+          name: 'esm.run',
+          react: 'https://esm.run/react@18',
+          reactDomClient: 'https://esm.run/react-dom@18/client',
+          recharts: 'https://esm.run/recharts@2.12.7',
+        },
+      ];
+
+      let loaded = null;
+      let lastErr = null;
+      for (const s of cdnSets) {
+        try {
+          const [{ default: React }, { createRoot }, Recharts] = await Promise.all([
+            import(s.react),
+            import(s.reactDomClient),
+            import(s.recharts),
+          ]);
+          loaded = { name: s.name, React, createRoot, Recharts };
+          break;
+        } catch (e) {
+          lastErr = e;
+          // try next
+        }
+      }
+      if (!loaded) {
+        mountError(`Провалены попытки загрузки из нескольких CDN. Последняя ошибка: <br/><code>${(lastErr && (lastErr.message || String(lastErr))).replace(/</g,'&lt;')}</code>`);
+        throw lastErr;
+      }
+
+      const { React, createRoot, Recharts } = loaded;
+      const { useEffect, useMemo, useState } = React;
+      const { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip } = Recharts;
+
+      const ruMonthName = (ym) => {
+        const [y, m] = (ym || '').split('-').map(Number);
+        if (!y || !m) return ym || '';
+        const date = new Date(y, m - 1, 1);
+        return date.toLocaleDateString('ru-RU', { month: 'long', year: 'numeric' })
+          .replace(/^./, (c) => c.toUpperCase());
+      };
+      const unique = (arr) => Array.from(new Set(arr || []));
+      const normPerson = (s) => (s || '').trim().toLowerCase();
+      const PERSONS = ['Раф', 'Петя'];
+      const PLATFORMS = ['YouTube', 'Instagram', 'TikTok'];
+      const TAB_ALL = 'По всем площадкам';
+
+      const sampleEntries = [
+        { person: 'Раф', platform: 'YouTube', month: '2025-09', reactions: 120 },
+        { person: 'Раф', platform: 'Instagram', month: '2025-09', reactions: 95 },
+        { person: 'Раф', platform: 'TikTok', month: '2025-09', reactions: 60 },
+        { person: 'Петя', platform: 'YouTube', month: '2025-09', reactions: 80 },
+        { person: 'Петя', platform: 'Instagram', month: '2025-09', reactions: 110 },
+        { person: 'Петя', platform: 'TikTok', month: '2025-09', reactions: 40 },
+        { person: 'Раф', platform: 'YouTube', month: '2025-10', reactions: 140 },
+        { person: 'Раф', platform: 'Instagram', month: '2025-10', reactions: 120 },
+        { person: 'Раф', platform: 'TikTok', month: '2025-10', reactions: 80 },
+        { person: 'Петя', platform: 'YouTube', month: '2025-10', reactions: 100 },
+        { person: 'Петя', platform: 'Instagram', month: '2025-10', reactions: 130 },
+        { person: 'Петя', platform: 'TikTok', month: '2025-10', reactions: 55 },
+        { person: 'Раф', platform: 'YouTube', month: '2025-11', reactions: 160 },
+        { person: 'Раф', platform: 'Instagram', month: '2025-11', reactions: 150 },
+        { person: 'Раф', platform: 'TikTok', month: '2025-11', reactions: 90 },
+        { person: 'Петя', platform: 'YouTube', month: '2025-11', reactions: 120 },
+        { person: 'Петя', platform: 'Instagram', month: '2025-11', reactions: 140 },
+        { person: 'Петя', platform: 'TikTok', month: '2025-11', reactions: 70 },
+      ];
+
+      const Pill = ({ active, onClick, children }) =>
+        React.createElement('button', { onClick, className: `px-3 py-1.5 rounded-full text-xs md:text-sm transition ${active ? 'bg-slate-900 text-white' : 'bg-slate-200 text-slate-800 hover:bg-slate-300'}` }, children);
+
+      const Panel = ({ title, children, right }) =>
+        React.createElement('div', { className: 'card' },
+          React.createElement('div', { className: 'flex items-center justify-between gap-4 mb-4' },
+            React.createElement('h2', { className: 'text-lg md:text-xl font-semibold' }, title),
+            right || null
+          ),
+          children
+        );
+
+      function App() {
+        const [entries, setEntries] = useState(null);
+        const [person, setPerson] = useState('Раф');
+        const [platform, setPlatform] = useState('YouTube');
+
+        useEffect(() => {
+          fetch('./data.json', { cache: 'no-cache' })
+            .then(r => r.ok ? r.json() : Promise.reject(new Error('Нет data.json')))
+            .then(json => setEntries(Array.isArray(json.entries) ? json.entries : sampleEntries))
+            .catch(() => setEntries(sampleEntries));
+        }, []);
+
+        const months = useMemo(() => {
+          if (!entries) return [];
+          return unique(entries.map(e => e.month)).sort();
+        }, [entries]);
+
+        const chartData = useMemo(() => {
+          if (!entries) return [];
+          const persons = person === 'Суммарное' ? ['Раф', 'Петя'] : [person];
+          return months.map(m => {
+            let value = 0;
+            persons.forEach(p => {
+              if (platform === TAB_ALL) {
+                PLATFORMS.forEach(pl => {
+                  entries.filter(e => e.person && normPerson(e.person) === normPerson(p))
+                         .filter(e => e.platform === pl && e.month === m)
+                         .forEach(e => { value += Number(e.reactions) || 0; });
+                });
+              } else {
+                entries.filter(e => e.person && normPerson(e.person) === normPerson(p))
+                       .filter(e => e.platform === platform && e.month === m)
+                       .forEach(e => { value += Number(e.reactions) || 0; });
+              }
+            });
+            return { month: ruMonthName(m), reactions: value };
+          });
+        }, [entries, person, platform, months]);
+
+        const total = useMemo(() => chartData.reduce((s, r) => s + (Number(r.reactions) || 0), 0), [chartData]);
+
+        if (!entries) return React.createElement('div', { className: 'text-slate-500' }, 'Загрузка…');
+
+        return React.createElement('div', { className: 'space-y-6' },
+          React.createElement('header', { className: 'flex items-center justify-between gap-4' },
+            React.createElement('h1', { className: 'text-2xl md:text-3xl font-bold' }, 'Коммент‑маркетинг — дашборд (ESM)'),
+            React.createElement('div', { className: 'text-sm text-slate-500' }, `CDN: ${loaded.name}`)
+          ),
+          React.createElement(Panel, { title: 'Фильтры' },
+            React.createElement('div', { className: 'flex flex-wrap gap-2 items-center' },
+              ['Раф', 'Петя', 'Суммарное'].map(p =>
+                React.createElement(Pill, { key: p, active: person === p, onClick: () => setPerson(p) }, p)
+              ),
+              React.createElement('span', { className: 'mx-2 text-slate-300' }, '•'),
+              ['YouTube', 'Instagram', 'TikTok', 'По всем площадкам'].map(pl =>
+                React.createElement(Pill, { key: pl, active: platform === pl, onClick: () => setPlatform(pl) }, pl)
+              ),
+            )
+          ),
+          React.createElement(Panel, { title: `${person} — ${platform}`, right: React.createElement('div', { className: 'text-sm text-slate-600' }, `Итого: ${total.toLocaleString('ru-RU')}`) },
+            React.createElement('div', { className: 'h-80 w-full' },
+              React.createElement(ResponsiveContainer, null,
+                React.createElement(BarChart, { data: chartData, margin: { top: 10, right: 20, left: 0, bottom: 0 } },
+                  React.createElement(CartesianGrid, { strokeDasharray: '3 3' }),
+                  React.createElement(XAxis, { dataKey: 'month' }),
+                  React.createElement(YAxis, { allowDecimals: false }),
+                  React.createElement(Tooltip, null),
+                  React.createElement(Bar, { dataKey: 'reactions', name: 'Реакции' })
+                )
+              )
+            )
+          ),
+          React.createElement(Panel, { title: 'Сырые данные (текущий срез)' },
+            React.createElement('div', { className: 'overflow-x-auto' },
+              React.createElement('table', { className: 'min-w-full text-sm' },
+                React.createElement('thead', { className: 'text-left text-slate-500' },
+                  React.createElement('tr', null,
+                    React.createElement('th', { className: 'py-2 pr-4' }, 'Персона'),
+                    React.createElement('th', { className: 'py-2 pr-4' }, 'Площадка'),
+                    React.createElement('th', { className: 'py-2 pr-4' }, 'Месяц'),
+                    React.createElement('th', { className: 'py-2 pr-4' }, 'Реакции')
+                  )
+                ),
+                React.createElement('tbody', null,
+                  (entries || []).map((e, i) => (
+                    React.createElement('tr', { key: i, className: i % 2 ? 'bg-slate-50' : '' },
+                      React.createElement('td', { className: 'py-2 pr-4' }, e.person || ''),
+                      React.createElement('td', { className: 'py-2 pr-4' }, e.platform || ''),
+                      React.createElement('td', { className: 'py-2 pr-4' }, ruMonthName(e.month)),
+                      React.createElement('td', { className: 'py-2 pr-4' }, Number(e.reactions || 0).toLocaleString('ru-RU'))
+                    )
+                  ))
+                )
+              )
+            )
+          )
+        );
+      }
+
+      const root = createRoot(document.getElementById('root'));
+      root.render(React.createElement(App));
+    </script>
+  </body>
+</html>
