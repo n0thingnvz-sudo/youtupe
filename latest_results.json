@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-12T13:09:13.282146+00:00",
+  "generated_at_utc": "2025-11-12T15:56:18.904981+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Wylsacom",
+      "title": "Съел iPhone",
+      "url": "https://www.youtube.com/watch?v=McZ8jMKkFSc",
+      "published_at_utc": "2025-11-12T15:35:56+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Kuplinov ► Play",
       "title": "СУПЕРГЕРОЙ БЕЗ СУПЕРСПОСОБНОСТЕЙ ► Dispatch #1",
