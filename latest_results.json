@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-14T16:05:03.834587+00:00",
+  "generated_at_utc": "2025-11-14T18:00:16.803066+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Kuplinov ► Play",
+      "title": "МЕХАМЕН ОЖИЛ ► Dispatch #5",
+      "url": "https://www.youtube.com/watch?v=KFs0bL_l7JY",
+      "published_at_utc": "2025-11-14T15:00:43+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Денис Карамышев",
       "title": "Кордицепс /Grand Theft Auto V: Online",
