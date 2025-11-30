@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-11-30T09:55:34.273937+00:00",
+  "generated_at_utc": "2025-11-30T11:58:05.625448+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Disco Elysium во временной петле: дело Rue Valley",
+      "url": "https://www.youtube.com/watch?v=PmW37B5KZXw",
+      "published_at_utc": "2025-11-29T12:41:02+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Droider",
       "title": "Это ОТЕЦ всех ОС! | ИСТОРИЯ Xerox Alto",
