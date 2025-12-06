@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-12-06T08:55:41.608381+00:00",
+  "generated_at_utc": "2025-12-06T08:58:00.607205+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "Rozetked",
+      "title": "Нейронка, говорящая как человек",
+      "url": "https://www.youtube.com/shorts/S_A2RZxrpbI",
+      "published_at_utc": "2025-12-05T14:26:16+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Проверил НОВОЕ Копьё в Майнкрафте",
