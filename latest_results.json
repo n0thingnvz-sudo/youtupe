@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-12-09T11:47:41.742182+00:00",
+  "generated_at_utc": "2025-12-09T11:49:53.665843+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "MysteryForce",
+      "title": "Самый жуткий фильм про конец света",
+      "url": "https://www.youtube.com/watch?v=bsxd_7bNIbs",
+      "published_at_utc": "2025-12-02T16:20:39+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Проверил НОВОЕ Копьё в Майнкрафте",
