@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-12-10T12:23:50.792533+00:00",
+  "generated_at_utc": "2025-12-10T12:26:19.165878+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "SlivkiShow",
+      "title": "Я ПОДРУЖИЛСЯ С САМЫМ УМНЫМ ПАУКОМ В МИРЕ",
+      "url": "https://www.youtube.com/watch?v=uIWg3T8QP7U",
+      "published_at_utc": "2025-12-06T17:57:52+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "Carvs На Русском",
       "title": "Я Проверил НОВОЕ Копьё в Майнкрафте",
