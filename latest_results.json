@@ -1,82 +1,89 @@
 {
-  "generated_at_utc": "2025-12-12T16:07:51.124790+00:00",
+  "generated_at_utc": "2025-12-12T16:11:47.905235+00:00",
   "hours_window": 5,
   "items": [
     {
       "channel": "Carvs На Русском",
       "title": "Я Проверил НОВОЕ Копьё в Майнкрафте",
       "url": "https://youtu.be/vp5kVbdGs68",
-      "published_at_utc": "2025-12-12T16:07:44.521197+00:00",
+      "published_at_utc": "2025-12-12T16:11:40.898695+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Carvs На Русском",
       "title": "Я Притворился Читером Перед Владельцем Майнкрафт Сервера",
       "url": "https://youtu.be/Oo0G5Ur9cEo",
-      "published_at_utc": "2025-12-12T16:07:44.521197+00:00",
+      "published_at_utc": "2025-12-12T16:11:40.898695+00:00",
       "age_seconds": 0
     },
     {
       "channel": "лав соса",
       "title": "7 Дней На Высоте 5642м - Эльбрус ( f. Даня Лейзи )",
       "url": "https://youtu.be/XHLAa_CrQHg",
-      "published_at_utc": "2025-12-12T16:07:01.883067+00:00",
+      "published_at_utc": "2025-12-12T16:10:59.053962+00:00",
       "age_seconds": 0
     },
     {
       "channel": "лав соса",
       "title": "ШАХ ПОДВОЗИТ ГОРИЛЛУ И МИНИ ПЕККУ ( влог с работы )",
       "url": "https://youtu.be/Gm2WHApsyeU",
-      "published_at_utc": "2025-12-12T16:07:01.883067+00:00",
+      "published_at_utc": "2025-12-12T16:10:59.053962+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Объяпонился",
+      "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
+      "url": "https://youtu.be/O2QuCTeARUY",
+      "published_at_utc": "2025-12-12T16:10:38.495057+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Марк Аддерли",
       "title": "УСТАНОВИЛ САМЫЕ СТРАННЫЕ СБОРКИ WINDOWS",
       "url": "https://youtu.be/0ITxUICo5sM",
-      "published_at_utc": "2025-12-12T16:06:30.885631+00:00",
+      "published_at_utc": "2025-12-12T16:10:29.097503+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Марк Аддерли",
       "title": "Я РАЗРАБОТАЛ СВОЙ АНАЛОГ RUFUS!",
       "url": "https://youtu.be/16f90LJ1XjU",
-      "published_at_utc": "2025-12-12T16:06:30.885631+00:00",
+      "published_at_utc": "2025-12-12T16:10:29.097503+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Шайнов",
       "title": "Я 7 ДНЕЙ ПИЛ ТОЛЬКО АЛКОГОЛЬ",
       "url": "https://youtu.be/8fU17f-zQe4",
-      "published_at_utc": "2025-12-12T16:06:20.065174+00:00",
+      "published_at_utc": "2025-12-12T16:10:17.919188+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Шайнов",
       "title": "Я КУПИЛ СТРАННЫЕ ОБЪЯВЛЕНИЯ НА АВИТО",
       "url": "https://youtu.be/VEu31-8H1_I",
-      "published_at_utc": "2025-12-12T16:06:20.065174+00:00",
+      "published_at_utc": "2025-12-12T16:10:17.919188+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Shanti",
       "title": "Я ХОТЕЛА ЖИТЬ В ГОРОДЕ :(",
       "url": "https://youtu.be/6T0VBDmqdxA",
-      "published_at_utc": "2025-12-12T16:06:09.978160+00:00",
+      "published_at_utc": "2025-12-12T16:10:09.447562+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Shanti",
       "title": "Синдром навязчивых грез или я шиз?",
       "url": "https://youtu.be/Pk4a-KAOOdY",
-      "published_at_utc": "2025-12-12T16:06:09.978160+00:00",
+      "published_at_utc": "2025-12-12T16:10:09.447562+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Нерд",
       "title": "Независимый Татарстан - путь республики к реальной автономии",
       "url": "https://youtu.be/HGWVYSkvbT0",
-      "published_at_utc": "2025-12-12T16:06:06.815310+00:00",
+      "published_at_utc": "2025-12-12T16:10:06.219426+00:00",
       "age_seconds": 0
     },
     {
@@ -84,462 +91,462 @@
       "title": "DICE опять НАВАЛИЛИ... Финальный этап Первого Сезона BATTLEFIELD 6",
       "url": "https://www.youtube.com/watch?v=UCHpSHq6nAo",
       "published_at_utc": "2025-12-12T16:01:47+00:00",
-      "age_seconds": 353
+      "age_seconds": 589
     },
     {
       "channel": "VSRAP",
       "title": "Любимые игры тёмного принца",
       "url": "https://www.youtube.com/shorts/4xaaX4Q4BGY",
       "published_at_utc": "2025-12-12T16:00:08+00:00",
-      "age_seconds": 409
+      "age_seconds": 645
     },
     {
       "channel": "SonnyK",
       "title": "Ремейк Assassin's Creed 4 НЕ показали / ДЛС The Witcher 3 / Xbox всё — ТРИ ИСТОРИИ №3",
       "url": "https://www.youtube.com/watch?v=qeX-bhw7xJ8",
       "published_at_utc": "2025-12-12T15:52:36+00:00",
-      "age_seconds": 870
+      "age_seconds": 1107
     },
     {
       "channel": "FixPlay - Майнкрафт",
       "title": "😰Майнкрафт, но Мы Выбили Самого РЕДКОГО Питомца! [PetsGO] + Лололошка",
       "url": "https://www.youtube.com/watch?v=9kNg4cg5O3I",
       "published_at_utc": "2025-12-12T15:47:33+00:00",
-      "age_seconds": 1189
+      "age_seconds": 1427
     },
     {
       "channel": "Recrent",
       "title": "НОВЫЙ PUBG BLACK BUDGET",
       "url": "https://www.youtube.com/watch?v=_JWy3phj3eg",
       "published_at_utc": "2025-12-12T15:46:17+00:00",
-      "age_seconds": 1277
+      "age_seconds": 1514
     },
     {
       "channel": "Margaritka",
       "title": "Распаковка матраса пошла не по плану 🤣🤣",
       "url": "https://www.youtube.com/shorts/eOrnyGGvTjg",
       "published_at_utc": "2025-12-12T15:37:01+00:00",
-      "age_seconds": 1791
+      "age_seconds": 2028
     },
     {
       "channel": "Amitesh",
       "title": "Странные вакансии в Северной Корее #амитеш #севернаякорея #работа",
       "url": "https://www.youtube.com/shorts/bKUwUkygdks",
       "published_at_utc": "2025-12-12T15:35:14+00:00",
-      "age_seconds": 1892
+      "age_seconds": 2129
     },
     {
       "channel": "Max Maximov",
       "title": "Первый день на работе и стопервый день на работе",
       "url": "https://www.youtube.com/shorts/R8BAIQAAzh4",
       "published_at_utc": "2025-12-12T15:29:43+00:00",
-      "age_seconds": 2201
+      "age_seconds": 2439
     },
     {
       "channel": "i11ushenka",
       "title": "Одно из самых добрых мест в интернете - r/лысый.",
       "url": "https://www.youtube.com/shorts/gw-BnuFLlY8",
       "published_at_utc": "2025-12-12T15:25:34+00:00",
-      "age_seconds": 2428
+      "age_seconds": 2668
     },
     {
       "channel": "Max Maximov",
       "title": "Добрая котя",
       "url": "https://www.youtube.com/shorts/7TuIP7JHWVw",
       "published_at_utc": "2025-12-12T15:18:14+00:00",
-      "age_seconds": 2890
+      "age_seconds": 3128
     },
     {
       "channel": "Майни",
       "title": "Неправильный способ завести друзей ► Найс (Анимация) | Реакция",
       "url": "https://www.youtube.com/watch?v=erailk7a3WY",
       "published_at_utc": "2025-12-12T15:15:11+00:00",
-      "age_seconds": 3047
+      "age_seconds": 3286
     },
     {
       "channel": "Max Maximov",
       "title": "Лютый крестьянин и милая стрекоза",
       "url": "https://www.youtube.com/shorts/aZKC1GdMTIk",
       "published_at_utc": "2025-12-12T15:13:10+00:00",
-      "age_seconds": 3194
+      "age_seconds": 3432
     },
     {
       "channel": "МайорКрафт",
       "title": "Тигр в машине #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/bquMayZduhQ",
       "published_at_utc": "2025-12-12T15:06:26+00:00",
-      "age_seconds": 3619
+      "age_seconds": 3855
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Незванный гость",
       "url": "https://www.youtube.com/shorts/hbnypeOMvGo",
       "published_at_utc": "2025-12-12T15:01:27+00:00",
-      "age_seconds": 3896
+      "age_seconds": 4134
     },
     {
       "channel": "Новостной Гусь",
       "title": "Прекрасная скульптура",
       "url": "https://www.youtube.com/shorts/CMV_EfKlJkM",
       "published_at_utc": "2025-12-12T15:00:31+00:00",
-      "age_seconds": 3951
+      "age_seconds": 4188
     },
     {
       "channel": "Раскадровка",
       "title": "Как живёт и сколько зарабатывает ассенизатор?",
       "url": "https://www.youtube.com/watch?v=hnwOkRxNn5E",
       "published_at_utc": "2025-12-12T15:00:02+00:00",
-      "age_seconds": 3959
+      "age_seconds": 4198
     },
     {
       "channel": "nowkie",
       "title": "я Подкупил Спортсменов ПРОИГРАТЬ Друг Другу",
       "url": "https://www.youtube.com/watch?v=JS0DsGY8uBY",
       "published_at_utc": "2025-12-12T14:59:41+00:00",
-      "age_seconds": 3999
+      "age_seconds": 4237
     },
     {
       "channel": "Max Maximov",
       "title": "Про летсплеи",
       "url": "https://www.youtube.com/shorts/BPdUyxdK2Ow",
       "published_at_utc": "2025-12-12T14:59:02+00:00",
-      "age_seconds": 4042
+      "age_seconds": 4280
     },
     {
       "channel": "Max Maximov",
       "title": "Про Бэтмена и мышь",
       "url": "https://www.youtube.com/shorts/3Pd_PDqEPH0",
       "published_at_utc": "2025-12-12T14:52:19+00:00",
-      "age_seconds": 4445
+      "age_seconds": 4683
     },
     {
       "channel": "perox",
       "title": "МАХОРАГА😵 добьём 170к? тгк: Пекарня Пирога #магическаябитва #jujutsukaisen #jjk #перокс #perox",
       "url": "https://www.youtube.com/shorts/vCYEAlrPc6w",
       "published_at_utc": "2025-12-12T14:46:18+00:00",
-      "age_seconds": 4785
+      "age_seconds": 5024
     },
     {
       "channel": "Max Maximov",
       "title": "Про кучу дел",
       "url": "https://www.youtube.com/shorts/vMgqfiBL6zA",
       "published_at_utc": "2025-12-12T14:45:59+00:00",
-      "age_seconds": 4825
+      "age_seconds": 5063
     },
     {
       "channel": "Murzofix",
       "title": "ШОУМАТЧ НА РЕВОЛЬВЕРАХ И ДРОБОВИКАХ В CS2 ft. ШАРФ, ШУКАРЗ",
       "url": "https://www.youtube.com/watch?v=bLqgSb3orys",
       "published_at_utc": "2025-12-12T14:45:13+00:00",
-      "age_seconds": 4952
+      "age_seconds": 5189
     },
     {
       "channel": "MoreGames",
       "title": "ЧЕЛЛЕНДЖ КОТОРЫЙ СТАЛ ЖИРНЫМ ТРОЛЛИНГОМ В CS2",
       "url": "https://www.youtube.com/watch?v=e6khIYOAwYQ",
       "published_at_utc": "2025-12-12T14:45:08+00:00",
-      "age_seconds": 4933
+      "age_seconds": 5171
     },
     {
       "channel": "Max Maximov",
       "title": "Про оборотня",
       "url": "https://www.youtube.com/shorts/Df_JcTIEO2M",
       "published_at_utc": "2025-12-12T14:42:53+00:00",
-      "age_seconds": 5011
+      "age_seconds": 5249
     },
     {
       "channel": "IGM",
       "title": "ИТОГИ THE GAME AWARDS 2025",
       "url": "https://www.youtube.com/shorts/2151rQuverA",
       "published_at_utc": "2025-12-12T14:24:23+00:00",
-      "age_seconds": 6163
+      "age_seconds": 6401
     },
     {
       "channel": "Max Maximov",
       "title": "Буратино и ксеноморф",
       "url": "https://www.youtube.com/shorts/ENqykaO3Tic",
       "published_at_utc": "2025-12-12T14:05:28+00:00",
-      "age_seconds": 7256
+      "age_seconds": 7494
     },
     {
       "channel": "МЯЧ Production",
       "title": "ХАБИ АЛОНСО: УВОЛИТЬ ❌ / ОСТАВИТЬ ✅ #футбол #реал",
       "url": "https://www.youtube.com/shorts/qTfWSoEuoxo",
       "published_at_utc": "2025-12-12T14:03:43+00:00",
-      "age_seconds": 7370
+      "age_seconds": 7608
     },
     {
       "channel": "murflauer",
       "title": "РАБОТА В ШКОЛЕ | tiktok: melony_233",
       "url": "https://www.youtube.com/shorts/yVmtgCSi9Jc",
       "published_at_utc": "2025-12-12T14:01:44+00:00",
-      "age_seconds": 7564
+      "age_seconds": 7801
     },
     {
       "channel": "Никита Нестеров",
       "title": "Вот сейчас обидно было",
       "url": "https://www.youtube.com/shorts/hSysVR3OPPQ",
       "published_at_utc": "2025-12-12T14:01:17+00:00",
-      "age_seconds": 7536
+      "age_seconds": 7772
     },
     {
       "channel": "ВПИСКА",
       "title": "Дима Журавлев про свою маму - она великая! #шортс #натальнаякарта",
       "url": "https://www.youtube.com/shorts/5cUYkH1JsA8",
       "published_at_utc": "2025-12-12T13:19:29+00:00",
-      "age_seconds": 10054
+      "age_seconds": 10291
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Мама купила красивый плащ в интернете",
       "url": "https://www.youtube.com/shorts/eFswDr26jdc",
       "published_at_utc": "2025-12-12T13:15:05+00:00",
-      "age_seconds": 10279
+      "age_seconds": 10517
     },
     {
       "channel": "Майни",
       "title": "Как Миллениалы ВОСПИТАЛИ ЧУДОВИЩ | Реакция",
       "url": "https://www.youtube.com/watch?v=1eBeZ1HqvGk",
       "published_at_utc": "2025-12-12T13:15:01+00:00",
-      "age_seconds": 10257
+      "age_seconds": 10496
     },
     {
       "channel": "Новостной Гусь",
       "title": "Надолго запомнит этот прыжок",
       "url": "https://www.youtube.com/shorts/38S9q36nmm8",
       "published_at_utc": "2025-12-12T13:10:00+00:00",
-      "age_seconds": 10582
+      "age_seconds": 10819
     },
     {
       "channel": "ROUNDZZ",
       "title": "ОТКРЫЛ САМЫЕ РЕДКИЕ НОЧНЫЕ РЫНКИ В ВАЛОРАНТ",
       "url": "https://www.youtube.com/watch?v=Vs0KkXdSrTc",
       "published_at_utc": "2025-12-12T13:09:54+00:00",
-      "age_seconds": 10638
+      "age_seconds": 10875
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Осторожно албанской вирус не попадитесь звучит как мем",
       "url": "https://www.youtube.com/shorts/pNuC8QcCvcY",
       "published_at_utc": "2025-12-12T13:04:38+00:00",
-      "age_seconds": 10906
+      "age_seconds": 11144
     },
     {
       "channel": "murflauer",
       "title": "МОЖНО ВЫЙТИ? | tiktok: elenalaiv4",
       "url": "https://www.youtube.com/shorts/uOOF6HpDvkA",
       "published_at_utc": "2025-12-12T13:01:59+00:00",
-      "age_seconds": 11149
+      "age_seconds": 11386
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ну буквально я",
       "url": "https://www.youtube.com/shorts/pl4A6KFBSKQ",
       "published_at_utc": "2025-12-12T13:01:48+00:00",
-      "age_seconds": 11075
+      "age_seconds": 11313
     },
     {
       "channel": "Самый сахар",
       "title": "Купил ВСЮ ДЕШЕВУЮ еду из СССР (раньше было лучше?)",
       "url": "https://www.youtube.com/watch?v=iQGakCZqV8E",
       "published_at_utc": "2025-12-12T13:01:39+00:00",
-      "age_seconds": 11067
+      "age_seconds": 11306
     },
     {
       "channel": "Погнали!",
       "title": "Тема старая, но всегда актуальная",
       "url": "https://www.youtube.com/shorts/R9C3Howhr5w",
       "published_at_utc": "2025-12-12T13:01:04+00:00",
-      "age_seconds": 11155
+      "age_seconds": 11392
     },
     {
       "channel": "Натурал Альбертович",
       "title": "БАТЯ и Сам Сделаю (смешное видео, юмор, приколы, поржать, смех)",
       "url": "https://www.youtube.com/shorts/pz2yF6ASlGo",
       "published_at_utc": "2025-12-12T13:00:17+00:00",
-      "age_seconds": 11188
+      "age_seconds": 11425
     },
     {
       "channel": "Наташа и Вова",
       "title": "Кольцеброс 🍦 #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/IlGK_CxsWiU",
       "published_at_utc": "2025-12-12T12:56:50+00:00",
-      "age_seconds": 11399
+      "age_seconds": 11636
     },
     {
       "channel": "EVG",
       "title": "ЭТО ЖЕ iPhone ДЛЯ БЕДНЫХ!",
       "url": "https://www.youtube.com/watch?v=hzoRViBlv0A",
       "published_at_utc": "2025-12-12T12:50:07+00:00",
-      "age_seconds": 11767
+      "age_seconds": 12006
     },
     {
       "channel": "This is Хорошо",
       "title": "Стоит ли заниматься БЕГОМ в больших городах? #shorts #шортс",
       "url": "https://www.youtube.com/shorts/YGVEEISBozs",
       "published_at_utc": "2025-12-12T12:42:04+00:00",
-      "age_seconds": 12283
+      "age_seconds": 12520
     },
     {
       "channel": "IXBT Games",
       "title": "DDR-сговор корпораций. Жизнь по подписке",
       "url": "https://www.youtube.com/watch?v=kCPS8m7Ca2c",
       "published_at_utc": "2025-12-12T12:37:45+00:00",
-      "age_seconds": 12562
+      "age_seconds": 12799
     },
     {
       "channel": "Короче, новости",
       "title": "Подростки США Сходят с Ума из-за 67",
       "url": "https://www.youtube.com/shorts/abGa2s1rYXI",
       "published_at_utc": "2025-12-12T12:31:22+00:00",
-      "age_seconds": 12896
+      "age_seconds": 13135
     },
     {
       "channel": "murflauer",
       "title": "ЖИЗА ВЕДЬ? | tiktok: anxieest",
       "url": "https://www.youtube.com/shorts/GKg1RQoy5SA",
       "published_at_utc": "2025-12-12T12:30:32+00:00",
-      "age_seconds": 13036
+      "age_seconds": 13273
     },
     {
       "channel": "Team Spirit CS",
       "title": "ЧОППЕР ПЕЛЕ 😎 #teamspirit #cs2",
       "url": "https://www.youtube.com/shorts/yUv-XJ7m8z4",
       "published_at_utc": "2025-12-12T12:21:21+00:00",
-      "age_seconds": 13559
+      "age_seconds": 13797
     },
     {
       "channel": "GHOSTOVICH",
       "title": "Оказался в плену 💀",
       "url": "https://www.youtube.com/shorts/Kpu50EgUdZE",
       "published_at_utc": "2025-12-12T12:21:00+00:00",
-      "age_seconds": 13597
+      "age_seconds": 13833
     },
     {
       "channel": "ЗЛОЙ КОСМОС / EVIL SPACE",
       "title": "Самое потрясающее открытие JWST на сегодняшний день.",
       "url": "https://www.youtube.com/watch?v=XbcvHbKyodw",
       "published_at_utc": "2025-12-12T12:19:22+00:00",
-      "age_seconds": 13629
+      "age_seconds": 13867
     },
     {
       "channel": "kinoluv",
       "title": "Конишуа — японское слово😤",
       "url": "https://www.youtube.com/shorts/TNzS0bj2WgQ",
       "published_at_utc": "2025-12-12T12:19:14+00:00",
-      "age_seconds": 13627
+      "age_seconds": 13865
     },
     {
       "channel": "Короче, новости",
       "title": "Врезался в Нарисованный Туннель",
       "url": "https://www.youtube.com/shorts/85NpaHOjZp4",
       "published_at_utc": "2025-12-12T12:13:14+00:00",
-      "age_seconds": 13984
+      "age_seconds": 14223
     },
     {
       "channel": "IXBT Games",
       "title": "Итоги The Game Awards 2025 за 25 секунд #ixbt #ixbtgames #thegameawards2025 #играгода",
       "url": "https://www.youtube.com/shorts/sPwG1xsQiVs",
       "published_at_utc": "2025-12-12T12:04:52+00:00",
-      "age_seconds": 14535
+      "age_seconds": 14772
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ВОТ ТАК ВСТРЕЧА ► Lies of P #36",
       "url": "https://www.youtube.com/watch?v=rcMS2FqIDJE",
       "published_at_utc": "2025-12-12T12:01:57+00:00",
-      "age_seconds": 14717
+      "age_seconds": 14954
     },
     {
       "channel": "Шейми",
       "title": "😱Почему ПРО Игроки НЕ ИСПОЛЬЗУЮТ SAWED-OFF в CS2",
       "url": "https://www.youtube.com/shorts/WAl630At6V8",
       "published_at_utc": "2025-12-12T12:01:09+00:00",
-      "age_seconds": 14764
+      "age_seconds": 15001
     },
     {
       "channel": "murflauer",
       "title": "ВЫБОР ХОРОШИЙ.. | tiktok: rubttk",
       "url": "https://www.youtube.com/shorts/Vnw1OMM57ro",
       "published_at_utc": "2025-12-12T12:00:58+00:00",
-      "age_seconds": 14810
+      "age_seconds": 15047
     },
     {
       "channel": "Смешновости",
       "title": "Крутой фокус 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/ay244qmsEag",
       "published_at_utc": "2025-12-12T12:00:08+00:00",
-      "age_seconds": 14802
+      "age_seconds": 15039
     },
     {
       "channel": "KOSMO",
       "title": "Что находится внутри спутника Юпитера?",
       "url": "https://www.youtube.com/shorts/GwCBDba7888",
       "published_at_utc": "2025-12-12T11:49:37+00:00",
-      "age_seconds": 15383
+      "age_seconds": 15622
     },
     {
       "channel": "EVG",
       "title": "ТЕМКА С ЗАРАБОТКОМ НА ШОРТС - ПРОВЕРЯЕМ?",
       "url": "https://www.youtube.com/shorts/0HiAaYGrXdg",
       "published_at_utc": "2025-12-12T11:44:01+00:00",
-      "age_seconds": 15733
+      "age_seconds": 15972
     },
     {
       "channel": "Короче, новости",
       "title": "Австралия Запретила Подросткам ВСЕ СОЦСЕТИ",
       "url": "https://www.youtube.com/shorts/EzX5yNIHCGw",
       "published_at_utc": "2025-12-12T11:37:50+00:00",
-      "age_seconds": 16108
+      "age_seconds": 16347
     },
     {
       "channel": "Завод KURS",
       "title": "ПОЧЕМУ СНАЙПЕРЫ НЕ НОСЯТ МАСКИРОВОЧНЫЕ КОСТЮМЫ? 🎯",
       "url": "https://www.youtube.com/shorts/7jr6A7Z1GAk",
       "published_at_utc": "2025-12-12T11:37:17+00:00",
-      "age_seconds": 16162
+      "age_seconds": 16400
     },
     {
       "channel": "Раскадровка",
       "title": "В деревне никто не пьёт 🤔",
       "url": "https://www.youtube.com/shorts/SdjYhy58Sqg",
       "published_at_utc": "2025-12-12T11:35:50+00:00",
-      "age_seconds": 16211
+      "age_seconds": 16450
     },
     {
       "channel": "Новостной Гусь",
       "title": "Конусная традиция",
       "url": "https://www.youtube.com/shorts/R2LGlJVZDNc",
       "published_at_utc": "2025-12-12T11:30:33+00:00",
-      "age_seconds": 16549
+      "age_seconds": 16786
     },
     {
       "channel": "Короче, новости",
       "title": "Просчитался, но где? Преступник Проиграл в Прятки",
       "url": "https://www.youtube.com/shorts/AALSfvHjFaU",
       "published_at_utc": "2025-12-12T11:26:22+00:00",
-      "age_seconds": 16796
+      "age_seconds": 17035
     },
     {
       "channel": "ТОПЛЕС",
       "title": "Могут ли ВСЕ говорить НА ОДНОМ ЯЗЫКЕ? — ТОПЛЕС",
       "url": "https://www.youtube.com/watch?v=LyZwL-0-_tQ",
       "published_at_utc": "2025-12-12T11:24:53+00:00",
-      "age_seconds": 16874
+      "age_seconds": 17114
     },
     {
       "channel": "GHOSTOVICH",
       "title": "ОСТАТЬСЯ В ЖИВЫХ ARMA REFORGER",
       "url": "https://www.youtube.com/watch?v=FDaa6Nn08o4",
       "published_at_utc": "2025-12-12T11:15:50+00:00",
-      "age_seconds": 17507
+      "age_seconds": 17743
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Легендарные котики",
       "url": "https://www.youtube.com/shorts/3JMSAKf-B0U",
       "published_at_utc": "2025-12-12T11:14:14+00:00",
-      "age_seconds": 17529
+      "age_seconds": 17767
     }
   ]
 }
