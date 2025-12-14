@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-12-14T15:39:40.625689+00:00",
+  "generated_at_utc": "2025-12-14T18:21:21.866603+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "[СТРИМ] Василий Гальперов. 15 лет в StopGame. Разбор полетов",
+      "url": "https://www.youtube.com/watch?v=M4Ai2W8Ksl0",
+      "published_at_utc": "2025-12-08T12:11:59+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "StopGame",
       "title": "Battlefield 6 — это самая настоящая «Батла»",
