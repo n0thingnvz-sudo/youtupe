@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-12-16T16:06:17.941184+00:00",
+  "generated_at_utc": "2025-12-16T17:07:15.411629+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Skate Story. Самая «вайбовая» игра года",
+      "url": "https://www.youtube.com/watch?v=Aj6S50cODzU",
+      "published_at_utc": "2025-12-16T16:30:08+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "PoleznyiBes",
       "title": "Всем плакать ! Обзор Clair Obscur: Expedition 33",
