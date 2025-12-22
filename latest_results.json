@@ -1,7 +1,14 @@
 {
-  "generated_at_utc": "2025-12-22T10:49:57.035203+00:00",
+  "generated_at_utc": "2025-12-22T15:07:50.751459+00:00",
   "hours_window": 5,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Syberia Remastered. Как делают ремастеры",
+      "url": "https://www.youtube.com/watch?v=PHeaAQ4YqU8",
+      "published_at_utc": "2025-12-22T15:04:45+00:00",
+      "age_seconds": 0
+    },
     {
       "channel": "MoreGames",
       "title": "УСТРОИЛИ ПРОТИВНИКАМ МУЧЕНИЯ С CZ75-AUTO В CS2",
