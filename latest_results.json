@@ -1,19 +1,75 @@
 {
-  "generated_at_utc": "2026-03-18T19:37:42.105420+00:00",
+  "generated_at_utc": "2026-03-18T19:41:41.199358+00:00",
   "hours_window": 2,
   "items": [
     {
       "channel": "лав соса",
       "title": "Выживание В Тайланде На 1 ДОЛЛАР ( это было очень тяжело )",
       "url": "https://youtu.be/N1jJmUmMol0",
-      "published_at_utc": "2026-03-18T19:36:59.880388+00:00",
+      "published_at_utc": "2026-03-18T19:40:59.283049+00:00",
       "age_seconds": 0
     },
     {
       "channel": "лав соса",
       "title": "Шах Подвозит Дилблина И Даню Лейзи ( моя подработка )",
       "url": "https://youtu.be/1sspKtB3j5A",
-      "published_at_utc": "2026-03-18T19:36:59.880388+00:00",
+      "published_at_utc": "2026-03-18T19:40:59.283049+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Объяпонился",
+      "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
+      "url": "https://youtu.be/O2QuCTeARUY",
+      "published_at_utc": "2026-03-18T19:40:40.100709+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Марк Аддерли",
+      "title": "Я ПОЙМАЛ СТИЛЛЕР",
+      "url": "https://youtu.be/Noafdn247JE",
+      "published_at_utc": "2026-03-18T19:40:32.134924+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Марк Аддерли",
+      "title": "СТОИТ ЛИ СТАВИТЬ WINDOWS 10 НА СОВРЕМЕННЫЙ ИГРОВОЙ НОУТБУК?",
+      "url": "https://youtu.be/lBu5uEHNmuo",
+      "published_at_utc": "2026-03-18T19:40:32.134924+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Шайнов",
+      "title": "Я ИСПЫТАЛ ХУДШИЕ ТЮРЕМНЫЕ ПЫТКИ (см*ртельно!)",
+      "url": "https://youtu.be/TB2o6Oteiqs",
+      "published_at_utc": "2026-03-18T19:40:21.786308+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Шайнов",
+      "title": "Я ИСПЫТАЛ ХУДШИЕ ПЫТКИ СРЕДНЕВЕКОВЬЯ (30 дней ада)",
+      "url": "https://youtu.be/LpfevPkWqj4",
+      "published_at_utc": "2026-03-18T19:40:21.786308+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Shanti",
+      "title": "Я СКУЧАЮ ПО ВК",
+      "url": "https://youtu.be/MR9ghjSmowY",
+      "published_at_utc": "2026-03-18T19:40:13.012420+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Shanti",
+      "title": "Странная интернет дружба",
+      "url": "https://youtu.be/qgiTVnoHy2A",
+      "published_at_utc": "2026-03-18T19:40:13.012420+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Нерд",
+      "title": "Независимый Татарстан - путь республики к реальной автономии",
+      "url": "https://youtu.be/HGWVYSkvbT0",
+      "published_at_utc": "2026-03-18T19:40:09.980263+00:00",
       "age_seconds": 0
     },
     {
@@ -21,105 +77,42 @@
       "title": "Готовим новинку вместе с Кристиной! Записывайте рецепт обязательно 😊",
       "url": "https://www.youtube.com/shorts/iCDAzi_i6Ys",
       "published_at_utc": "2026-03-18T19:36:45+00:00",
-      "age_seconds": 7
-    },
-    {
-      "channel": "Объяпонился",
-      "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
-      "url": "https://youtu.be/O2QuCTeARUY",
-      "published_at_utc": "2026-03-18T19:36:40.176157+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Марк Аддерли",
-      "title": "Я ПОЙМАЛ СТИЛЛЕР",
-      "url": "https://youtu.be/Noafdn247JE",
-      "published_at_utc": "2026-03-18T19:36:31.858694+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Марк Аддерли",
-      "title": "СТОИТ ЛИ СТАВИТЬ WINDOWS 10 НА СОВРЕМЕННЫЙ ИГРОВОЙ НОУТБУК?",
-      "url": "https://youtu.be/lBu5uEHNmuo",
-      "published_at_utc": "2026-03-18T19:36:31.858694+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Шайнов",
-      "title": "Я ИСПЫТАЛ ХУДШИЕ ТЮРЕМНЫЕ ПЫТКИ (см*ртельно!)",
-      "url": "https://youtu.be/TB2o6Oteiqs",
-      "published_at_utc": "2026-03-18T19:36:21.517062+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Шайнов",
-      "title": "Я ИСПЫТАЛ ХУДШИЕ ПЫТКИ СРЕДНЕВЕКОВЬЯ (30 дней ада)",
-      "url": "https://youtu.be/LpfevPkWqj4",
-      "published_at_utc": "2026-03-18T19:36:21.517062+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Shanti",
-      "title": "Я СКУЧАЮ ПО ВК",
-      "url": "https://youtu.be/MR9ghjSmowY",
-      "published_at_utc": "2026-03-18T19:36:12.754428+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Shanti",
-      "title": "Странная интернет дружба",
-      "url": "https://youtu.be/qgiTVnoHy2A",
-      "published_at_utc": "2026-03-18T19:36:12.754428+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Нерд",
-      "title": "Независимый Татарстан - путь республики к реальной автономии",
-      "url": "https://youtu.be/HGWVYSkvbT0",
-      "published_at_utc": "2026-03-18T19:36:09.785931+00:00",
-      "age_seconds": 0
+      "age_seconds": 247
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Этот замок с огромным секретом",
       "url": "https://www.youtube.com/shorts/Veyf3QB9wno",
       "published_at_utc": "2026-03-18T18:49:21+00:00",
-      "age_seconds": 2825
+      "age_seconds": 3065
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "140 БАЛЛОВ ПО ШКАЛЕ БОЛИ: Самая страшная казнь в истории / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=XK6Fl40A4u8",
       "published_at_utc": "2026-03-18T18:32:41+00:00",
-      "age_seconds": 3900
+      "age_seconds": 4139
     },
     {
       "channel": "Margaritka",
       "title": "Противокражный кошелек 🤣🤣",
       "url": "https://www.youtube.com/shorts/JEUzp3104xo",
       "published_at_utc": "2026-03-18T18:28:46+00:00",
-      "age_seconds": 4085
+      "age_seconds": 4325
     },
     {
       "channel": "ДАРКАР",
       "title": "СЛОВИЛ РИТМ В КС 2",
       "url": "https://www.youtube.com/shorts/GsiRZ2SRb98",
       "published_at_utc": "2026-03-18T18:21:15+00:00",
-      "age_seconds": 4555
+      "age_seconds": 4795
     },
     {
       "channel": "МайорКрафт",
       "title": "Твой друг мега горилла #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/Rl2Vhfe1N4M",
       "published_at_utc": "2026-03-18T17:45:00+00:00",
-      "age_seconds": 6703
-    },
-    {
-      "channel": "ДУШНИЛА",
-      "title": "ДУШНИЛА № 299",
-      "url": "https://www.youtube.com/shorts/b6YxzQ_Asqw",
-      "published_at_utc": "2026-03-18T17:39:10+00:00",
-      "age_seconds": 7023
+      "age_seconds": 6943
     }
   ]
 }
