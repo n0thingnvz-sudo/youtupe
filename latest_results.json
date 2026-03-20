@@ -1,19 +1,75 @@
 {
-  "generated_at_utc": "2026-03-20T18:57:44.827703+00:00",
+  "generated_at_utc": "2026-03-20T19:01:56.541978+00:00",
   "hours_window": 2,
   "items": [
     {
       "channel": "лав соса",
       "title": "Выживание В Тайланде На 1 ДОЛЛАР ( это было очень тяжело )",
       "url": "https://youtu.be/N1jJmUmMol0",
-      "published_at_utc": "2026-03-20T18:56:59.619373+00:00",
+      "published_at_utc": "2026-03-20T19:01:05.285832+00:00",
       "age_seconds": 0
     },
     {
       "channel": "лав соса",
       "title": "Шах Подвозит Дилблина И Даню Лейзи ( моя подработка )",
       "url": "https://youtu.be/1sspKtB3j5A",
-      "published_at_utc": "2026-03-20T18:56:59.619373+00:00",
+      "published_at_utc": "2026-03-20T19:01:05.285832+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Объяпонился",
+      "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
+      "url": "https://youtu.be/O2QuCTeARUY",
+      "published_at_utc": "2026-03-20T19:00:44.068981+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Марк Аддерли",
+      "title": "Я ПОЙМАЛ СТИЛЛЕР",
+      "url": "https://youtu.be/Noafdn247JE",
+      "published_at_utc": "2026-03-20T19:00:35.078561+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Марк Аддерли",
+      "title": "СТОИТ ЛИ СТАВИТЬ WINDOWS 10 НА СОВРЕМЕННЫЙ ИГРОВОЙ НОУТБУК?",
+      "url": "https://youtu.be/lBu5uEHNmuo",
+      "published_at_utc": "2026-03-20T19:00:35.078561+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Шайнов",
+      "title": "Я ИСПЫТАЛ ХУДШИЕ ТЮРЕМНЫЕ ПЫТКИ (см*ртельно!)",
+      "url": "https://youtu.be/TB2o6Oteiqs",
+      "published_at_utc": "2026-03-20T19:00:23.338745+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Шайнов",
+      "title": "Я ИСПЫТАЛ ХУДШИЕ ПЫТКИ СРЕДНЕВЕКОВЬЯ (30 дней ада)",
+      "url": "https://youtu.be/LpfevPkWqj4",
+      "published_at_utc": "2026-03-20T19:00:23.338745+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Shanti",
+      "title": "Я СКУЧАЮ ПО ВК",
+      "url": "https://youtu.be/MR9ghjSmowY",
+      "published_at_utc": "2026-03-20T19:00:14.198380+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Shanti",
+      "title": "Странная интернет дружба",
+      "url": "https://youtu.be/qgiTVnoHy2A",
+      "published_at_utc": "2026-03-20T19:00:14.198380+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Нерд",
+      "title": "Независимый Татарстан - путь республики к реальной автономии",
+      "url": "https://youtu.be/HGWVYSkvbT0",
+      "published_at_utc": "2026-03-20T19:00:10.429220+00:00",
       "age_seconds": 0
     },
     {
@@ -21,133 +77,77 @@
       "title": "ЧТО ЭТО ЗА РЫБА?!! - UMIGARI",
       "url": "https://www.youtube.com/watch?v=Uds_fdxwJQ0",
       "published_at_utc": "2026-03-20T18:56:54+00:00",
-      "age_seconds": 30
-    },
-    {
-      "channel": "Объяпонился",
-      "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
-      "url": "https://youtu.be/O2QuCTeARUY",
-      "published_at_utc": "2026-03-20T18:56:40.926755+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Марк Аддерли",
-      "title": "Я ПОЙМАЛ СТИЛЛЕР",
-      "url": "https://youtu.be/Noafdn247JE",
-      "published_at_utc": "2026-03-20T18:56:33.497595+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Марк Аддерли",
-      "title": "СТОИТ ЛИ СТАВИТЬ WINDOWS 10 НА СОВРЕМЕННЫЙ ИГРОВОЙ НОУТБУК?",
-      "url": "https://youtu.be/lBu5uEHNmuo",
-      "published_at_utc": "2026-03-20T18:56:33.497595+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Шайнов",
-      "title": "Я ИСПЫТАЛ ХУДШИЕ ТЮРЕМНЫЕ ПЫТКИ (см*ртельно!)",
-      "url": "https://youtu.be/TB2o6Oteiqs",
-      "published_at_utc": "2026-03-20T18:56:23.384001+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Шайнов",
-      "title": "Я ИСПЫТАЛ ХУДШИЕ ПЫТКИ СРЕДНЕВЕКОВЬЯ (30 дней ада)",
-      "url": "https://youtu.be/LpfevPkWqj4",
-      "published_at_utc": "2026-03-20T18:56:23.384001+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Shanti",
-      "title": "Я СКУЧАЮ ПО ВК",
-      "url": "https://youtu.be/MR9ghjSmowY",
-      "published_at_utc": "2026-03-20T18:56:14.721522+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Shanti",
-      "title": "Странная интернет дружба",
-      "url": "https://youtu.be/qgiTVnoHy2A",
-      "published_at_utc": "2026-03-20T18:56:14.721522+00:00",
-      "age_seconds": 0
-    },
-    {
-      "channel": "Нерд",
-      "title": "Независимый Татарстан - путь республики к реальной автономии",
-      "url": "https://youtu.be/HGWVYSkvbT0",
-      "published_at_utc": "2026-03-20T18:56:11.183434+00:00",
-      "age_seconds": 0
+      "age_seconds": 277
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"Фильм с Карнавал и Зубаревым запретили / Каролина заставила Эксайла жениться?\"",
       "url": "https://www.youtube.com/watch?v=I33c_8nqi5M",
       "published_at_utc": "2026-03-20T18:27:02+00:00",
-      "age_seconds": 1842
+      "age_seconds": 2094
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "Аварии на реальных событиях в BeamNG.Drive #68 / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=cQVHzDmA724",
       "published_at_utc": "2026-03-20T17:50:00+00:00",
-      "age_seconds": 4064
+      "age_seconds": 4315
     },
     {
       "channel": "МайорКрафт",
       "title": "Легенда сильнее кобры #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/tgZEU7IKM5Q",
       "published_at_utc": "2026-03-20T17:45:00+00:00",
-      "age_seconds": 4304
+      "age_seconds": 4547
     },
     {
       "channel": "курОлеся",
       "title": "И те, кто вообще не завтракает: 🙋🏼‍♀️#жиза #юмор #скетч #пов #pov",
       "url": "https://www.youtube.com/shorts/24Ksk606NEA",
       "published_at_utc": "2026-03-20T17:42:44+00:00",
-      "age_seconds": 4420
+      "age_seconds": 4660
     },
     {
       "channel": "Никита Айсер",
       "title": "Общаемся с вами в тг: бункер никитоса",
       "url": "https://www.youtube.com/shorts/shXsWQ8Rzkg",
       "published_at_utc": "2026-03-20T17:36:25+00:00",
-      "age_seconds": 4801
+      "age_seconds": 5041
     },
     {
       "channel": "Майни",
       "title": "ВКЛЮЧАЮ МОЗГ... ► leafxup | Реакция",
       "url": "https://www.youtube.com/watch?v=Z8yqGojSWXY",
       "published_at_utc": "2026-03-20T17:30:19+00:00",
-      "age_seconds": 5144
+      "age_seconds": 5384
     },
     {
       "channel": "IGM",
       "title": "AMNESIA - САМАЯ СТРАШНАЯ НЕСТРАШНАЯ ИГРА [ШКОЛА СТРАХА]",
       "url": "https://www.youtube.com/watch?v=hYw-Cy56z0g",
       "published_at_utc": "2026-03-20T17:06:33+00:00",
-      "age_seconds": 6631
+      "age_seconds": 6878
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 301",
       "url": "https://www.youtube.com/shorts/s-Ne9vW4Gsw",
       "published_at_utc": "2026-03-20T17:06:05+00:00",
-      "age_seconds": 6610
+      "age_seconds": 6850
     },
     {
       "channel": "SonnyK",
       "title": "Assassin's Creed ПРОТИВ ИИ-слопа",
       "url": "https://www.youtube.com/watch?v=eKka70PDKz4",
       "published_at_utc": "2026-03-20T17:05:10+00:00",
-      "age_seconds": 6714
+      "age_seconds": 6960
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Древние артефакты",
       "url": "https://www.youtube.com/shorts/Vk8TIfacX54",
       "published_at_utc": "2026-03-20T17:00:56+00:00",
-      "age_seconds": 6930
+      "age_seconds": 7171
     }
   ]
 }
