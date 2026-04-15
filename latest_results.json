@@ -1,26 +1,40 @@
 {
-  "generated_at_utc": "2026-04-15T21:13:38.482801+00:00",
+  "generated_at_utc": "2026-04-15T21:17:37.148765+00:00",
   "hours_window": 2,
   "items": [
     {
       "channel": "Объяпонился",
       "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
       "url": "https://youtu.be/O2QuCTeARUY",
-      "published_at_utc": "2026-04-15T21:12:39.137005+00:00",
+      "published_at_utc": "2026-04-15T21:16:38.003437+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Марк Аддерли",
       "title": "ТВИКИ КОТОРЫЕ СДЕЛАЮТ ТЕБЕ ИДЕАЛЬНУЮ WINDOWS 11!",
       "url": "https://youtu.be/u_KLunRD8-s",
-      "published_at_utc": "2026-04-15T21:12:31.509715+00:00",
+      "published_at_utc": "2026-04-15T21:16:30.470539+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Марк Аддерли",
       "title": "ЕЩЁ ОДИН ШКОЛЬНЫЙ НОУТБУК ИЗ АМЕРИКИ",
       "url": "https://youtu.be/JDGPV4qCXMw",
-      "published_at_utc": "2026-04-15T21:12:31.509715+00:00",
+      "published_at_utc": "2026-04-15T21:16:30.470539+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Шайнов",
+      "title": "Я ИСПЫТАЛ ХУДШИЕ ТЮРЕМНЫЕ ПЫТКИ (см*ртельно!)",
+      "url": "https://youtu.be/TB2o6Oteiqs",
+      "published_at_utc": "2026-04-15T21:16:20.805679+00:00",
+      "age_seconds": 0
+    },
+    {
+      "channel": "Шайнов",
+      "title": "Я ИСПЫТАЛ ХУДШИЕ ПЫТКИ СРЕДНЕВЕКОВЬЯ (30 дней ада)",
+      "url": "https://youtu.be/LpfevPkWqj4",
+      "published_at_utc": "2026-04-15T21:16:20.805679+00:00",
       "age_seconds": 0
     },
     {
@@ -28,14 +42,14 @@
       "title": "Что делают панды, когда им дают листья 😯",
       "url": "https://www.youtube.com/shorts/WeigcV3nFCM",
       "published_at_utc": "2026-04-15T20:18:23+00:00",
-      "age_seconds": 3256
+      "age_seconds": 3495
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Windrose это ХОРОШО",
       "url": "https://www.youtube.com/watch?v=w1goddQI8Tg",
       "published_at_utc": "2026-04-15T19:48:06+00:00",
-      "age_seconds": 5096
+      "age_seconds": 5336
     }
   ]
 }
