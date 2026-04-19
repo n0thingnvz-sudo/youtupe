@@ -1,68 +1,82 @@
 {
-  "generated_at_utc": "2026-04-19T10:58:07.628414+00:00",
+  "generated_at_utc": "2026-04-19T11:02:11.477409+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Лучшее с T2x2",
+      "title": "T2x2 ИГРАЕТ в ЖУТКИЙ ХОРРОР - Uncanny Tales: Cold Road",
+      "url": "https://www.youtube.com/watch?v=yWcJMgEJ8eA",
+      "published_at_utc": "2026-04-19T11:01:24+00:00",
+      "age_seconds": 46
+    },
     {
       "channel": "лав соса",
       "title": "Выживание В Тайланде На 1 ДОЛЛАР ( это было очень тяжело )",
       "url": "https://youtu.be/N1jJmUmMol0",
-      "published_at_utc": "2026-04-19T10:57:14.612756+00:00",
+      "published_at_utc": "2026-04-19T11:01:19.483165+00:00",
       "age_seconds": 0
     },
     {
       "channel": "лав соса",
       "title": "Шах Подвозит Дилблина И Даню Лейзи ( моя подработка )",
       "url": "https://youtu.be/1sspKtB3j5A",
-      "published_at_utc": "2026-04-19T10:57:14.612756+00:00",
+      "published_at_utc": "2026-04-19T11:01:19.483165+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Объяпонился",
       "title": "10 гениальных вещей из Японии и Кореи, которые вас удивят 😯",
       "url": "https://youtu.be/O2QuCTeARUY",
-      "published_at_utc": "2026-04-19T10:56:51.533267+00:00",
+      "published_at_utc": "2026-04-19T11:00:56.374722+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Марк Аддерли",
       "title": "ТВИКИ КОТОРЫЕ СДЕЛАЮТ ТЕБЕ ИДЕАЛЬНУЮ WINDOWS 11!",
       "url": "https://youtu.be/u_KLunRD8-s",
-      "published_at_utc": "2026-04-19T10:56:42.437279+00:00",
+      "published_at_utc": "2026-04-19T11:00:46.425279+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Марк Аддерли",
       "title": "ЕЩЁ ОДИН ШКОЛЬНЫЙ НОУТБУК ИЗ АМЕРИКИ",
       "url": "https://youtu.be/JDGPV4qCXMw",
-      "published_at_utc": "2026-04-19T10:56:42.437279+00:00",
+      "published_at_utc": "2026-04-19T11:00:46.425279+00:00",
       "age_seconds": 0
+    },
+    {
+      "channel": "Team Spirit CS",
+      "title": "ПЕРЕШЕЛ НА М4А4? 😅 #teamspirit #cs2",
+      "url": "https://www.youtube.com/shorts/QfS0HtxxCZs",
+      "published_at_utc": "2026-04-19T11:00:39+00:00",
+      "age_seconds": 63
     },
     {
       "channel": "Шайнов",
       "title": "Я ИСПЫТАЛ ХУДШИЕ ТЮРЕМНЫЕ ПЫТКИ (см*ртельно!)",
       "url": "https://youtu.be/TB2o6Oteiqs",
-      "published_at_utc": "2026-04-19T10:56:28.379173+00:00",
+      "published_at_utc": "2026-04-19T11:00:32.079812+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Шайнов",
       "title": "Я ИСПЫТАЛ ХУДШИЕ ПЫТКИ СРЕДНЕВЕКОВЬЯ (30 дней ада)",
       "url": "https://youtu.be/LpfevPkWqj4",
-      "published_at_utc": "2026-04-19T10:56:28.379173+00:00",
+      "published_at_utc": "2026-04-19T11:00:32.079812+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Shanti",
       "title": "25 вещей который я поняла...ну там на превьюхе написано",
       "url": "https://youtu.be/5T6NQjh9iSY",
-      "published_at_utc": "2026-04-19T10:56:16.214648+00:00",
+      "published_at_utc": "2026-04-19T11:00:20.497057+00:00",
       "age_seconds": 0
     },
     {
       "channel": "Shanti",
       "title": "ВЫЖИТЬ В ВЗРОСЛОМ КОЛЛЕКТИВЕ",
       "url": "https://youtu.be/isTVqg658-4",
-      "published_at_utc": "2026-04-19T10:56:16.214648+00:00",
+      "published_at_utc": "2026-04-19T11:00:20.497057+00:00",
       "age_seconds": 0
     },
     {
@@ -70,70 +84,42 @@
       "title": "😱24 Часа Говорю Своей Девушке ДА в БРАВЛ СТАРС *Минус 4000 гемов*",
       "url": "https://www.youtube.com/watch?v=pB7gn5miF8w",
       "published_at_utc": "2026-04-19T10:36:23+00:00",
-      "age_seconds": 1260
+      "age_seconds": 1504
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скандальный бургер кинг",
       "url": "https://www.youtube.com/shorts/IeL-bHh11io",
       "published_at_utc": "2026-04-19T10:00:00+00:00",
-      "age_seconds": 3393
+      "age_seconds": 3637
     },
     {
       "channel": "Droider",
       "title": "ВАЙБ-КОДИНГ: ПРОГРАММИРОВАНИЕ ДЛЯ ЧАЙНИКОВ",
       "url": "https://www.youtube.com/watch?v=FbU62iJc8-g",
       "published_at_utc": "2026-04-19T09:56:49+00:00",
-      "age_seconds": 3563
+      "age_seconds": 3807
     },
     {
       "channel": "Смешновости",
       "title": "Малыш рассмешил родителей 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/su59ae6qZrA",
       "published_at_utc": "2026-04-19T09:49:44+00:00",
-      "age_seconds": 4038
+      "age_seconds": 4283
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Шаурма, но лаваш из сыра!",
       "url": "https://www.youtube.com/shorts/h08SDAtbUeU",
       "published_at_utc": "2026-04-19T09:49:31+00:00",
-      "age_seconds": 4051
+      "age_seconds": 4297
     },
     {
       "channel": "kinoluv",
       "title": "Величайший футболист в истории🏆 Смотрите футбол на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/Zl0oGX637kE",
       "published_at_utc": "2026-04-19T09:41:51+00:00",
-      "age_seconds": 4479
-    },
-    {
-      "channel": "QuarkDay lite",
-      "title": "Краткий гайд по сборке Чжуан Фанъи #ArknightsEndfield #EndfieldCreators #SpringWake",
-      "url": "https://www.youtube.com/shorts/OBgEey7co9Y",
-      "published_at_utc": "2026-04-19T09:00:35+00:00",
-      "age_seconds": 7027
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Навели шума в банке",
-      "url": "https://www.youtube.com/shorts/DhBj64NIsd0",
-      "published_at_utc": "2026-04-19T09:00:16+00:00",
-      "age_seconds": 6975
-    },
-    {
-      "channel": "VSRAP",
-      "title": "Об эстетике Y2K #кокошка #акулич #коваль #сабинахайрова",
-      "url": "https://www.youtube.com/shorts/0woLZONm6NY",
-      "published_at_utc": "2026-04-19T09:00:03+00:00",
-      "age_seconds": 7026
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Красота требует жертв",
-      "url": "https://www.youtube.com/shorts/zDIfsbkTr4Q",
-      "published_at_utc": "2026-04-19T09:00:00+00:00",
-      "age_seconds": 6993
+      "age_seconds": 4722
     }
   ]
 }
