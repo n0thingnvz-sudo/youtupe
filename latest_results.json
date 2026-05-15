@@ -1,118 +1,125 @@
 {
-  "generated_at_utc": "2026-05-15T14:29:08.059503+00:00",
+  "generated_at_utc": "2026-05-15T14:33:10.214526+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IGM",
+      "title": "КАК ОТКРЫТЫЙ МИР УБИВАЕТ ГОНКИ",
+      "url": "https://www.youtube.com/watch?v=Ambh778DVPc",
+      "published_at_utc": "2026-05-15T14:30:14+00:00",
+      "age_seconds": 131
+    },
+    {
+      "channel": "PoleznyiBes",
+      "title": "w.tv - Последний рубеж Российского стриминга",
+      "url": "https://www.youtube.com/watch?v=vSL7Kobpq_8",
+      "published_at_utc": "2026-05-15T14:28:28+00:00",
+      "age_seconds": 264
+    },
     {
       "channel": "i11ushenka",
       "title": "Не самый законный бамбуковый совет из Тиктока 🎍",
       "url": "https://www.youtube.com/shorts/ezx7bueZELo",
       "published_at_utc": "2026-05-15T14:13:47+00:00",
-      "age_seconds": 808
+      "age_seconds": 1049
     },
     {
       "channel": "Собиратель новостей",
       "title": "Трамп ПОДСМОТРЕЛ Шпаргалку СИ Цзиньпиня",
       "url": "https://www.youtube.com/shorts/7B4ut9gTu-g",
       "published_at_utc": "2026-05-15T14:09:22+00:00",
-      "age_seconds": 1088
+      "age_seconds": 1330
     },
     {
       "channel": "Team Spirit CS",
       "title": "ФИШЕЧНЫЕ НАСТРОЙКИ БОРИСА 🤪 #teamspirit #cs2",
       "url": "https://www.youtube.com/shorts/7G6TS_5U_LM",
       "published_at_utc": "2026-05-15T14:05:41+00:00",
-      "age_seconds": 1379
+      "age_seconds": 1620
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Покатались, покушали, и стоят довольные",
       "url": "https://www.youtube.com/shorts/oFSOGwQiqlw",
       "published_at_utc": "2026-05-15T14:01:24+00:00",
-      "age_seconds": 1571
+      "age_seconds": 1812
     },
     {
       "channel": "Margaritka",
       "title": "Как надеть футболку 😄😄",
       "url": "https://www.youtube.com/shorts/ta2maSvB7rc",
       "published_at_utc": "2026-05-15T13:58:41+00:00",
-      "age_seconds": 1763
+      "age_seconds": 2009
     },
     {
       "channel": "CS2TV",
       "title": "BB ОСТАНОВИЛИ VITALITY #cs2 #csgo #cs2tv",
       "url": "https://www.youtube.com/shorts/wjcF55axBqQ",
       "published_at_utc": "2026-05-15T13:52:40+00:00",
-      "age_seconds": 2160
+      "age_seconds": 2402
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ, У МЕНЯ СУПЕРСПОСОБНОСТИ",
       "url": "https://www.youtube.com/shorts/F_1u8afnPcE",
       "published_at_utc": "2026-05-15T13:46:15+00:00",
-      "age_seconds": 2462
+      "age_seconds": 2704
     },
     {
       "channel": "Sherl0ck",
       "title": "🎶НОВЫЕ MVP ДЛЯ КС2🎶| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/Wu-M9EIJNWI",
       "published_at_utc": "2026-05-15T13:45:07+00:00",
-      "age_seconds": 2596
+      "age_seconds": 2843
     },
     {
       "channel": "ZOMBIERUS",
       "title": "ШУРШИМ как МОЖЕМ!  \\\\ РАННИЙ ДОСТУП FORZA HORIZON 6",
       "url": "https://www.youtube.com/watch?v=yRsDdHr-ZwU",
       "published_at_utc": "2026-05-15T13:36:06+00:00",
-      "age_seconds": 3175
+      "age_seconds": 3415
     },
     {
       "channel": "Новостной Гусь",
       "title": "Проект площади в Майнкрафт",
       "url": "https://www.youtube.com/shorts/WUFGuBN_mGU",
       "published_at_utc": "2026-05-15T13:30:30+00:00",
-      "age_seconds": 3424
+      "age_seconds": 3665
     },
     {
       "channel": "Margaritka",
       "title": "Главная на лужайке 😀🔫",
       "url": "https://www.youtube.com/shorts/XstHnIPhEQg",
       "published_at_utc": "2026-05-15T13:25:42+00:00",
-      "age_seconds": 3742
+      "age_seconds": 3988
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Борьба с инфо-мошеннтками в Китае",
       "url": "https://www.youtube.com/shorts/sEX_LOGkphY",
       "published_at_utc": "2026-05-15T13:01:37+00:00",
-      "age_seconds": 5158
+      "age_seconds": 5399
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Тибетский Мастиф Невероятен 😲",
       "url": "https://www.youtube.com/shorts/agggGUAV2NI",
       "published_at_utc": "2026-05-15T13:00:53+00:00",
-      "age_seconds": 5226
+      "age_seconds": 5472
     },
     {
       "channel": "IXBT Games",
       "title": "ОЧЕНЬ НЕ рекомундуем. Dragonkin: The Banished (обзор)",
       "url": "https://www.youtube.com/watch?v=JD-5zlWG6xU",
       "published_at_utc": "2026-05-15T12:57:49+00:00",
-      "age_seconds": 5430
+      "age_seconds": 5676
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Лучшая гонка и точка. Forza Horizon 6",
       "url": "https://www.youtube.com/watch?v=ufVF8EqsEuQ",
       "published_at_utc": "2026-05-15T12:50:38+00:00",
-      "age_seconds": 5861
-    },
-    {
-      "channel": "Майни",
-      "title": "КОНЕЦ ПЕДОФАЙЛА ЕВГЕНА БРО ► Jim Gold ( Джим Голд ) | Реакция",
-      "url": "https://www.youtube.com/watch?v=VixZqZE6OkQ",
-      "published_at_utc": "2026-05-15T12:30:13+00:00",
-      "age_seconds": 7020
+      "age_seconds": 6107
     }
   ]
 }
