@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-05-16T23:10:38.616202+00:00",
+  "generated_at_utc": "2026-05-16T23:12:35.264303+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Что происходит в Калининграде только посмотрите",
-      "url": "https://www.youtube.com/watch?v=KNouDRL5uWE",
-      "published_at_utc": "2026-05-16T23:07:52+00:00",
-      "age_seconds": 95
-    },
     {
       "channel": "Объяпонился",
       "title": "3 вещи в Японии, которые шокируют туристов 😯",
       "url": "https://www.youtube.com/shorts/Rlmp-IDcs9Q",
       "published_at_utc": "2026-05-16T22:48:58+00:00",
-      "age_seconds": 1242
+      "age_seconds": 1362
     }
   ]
 }
