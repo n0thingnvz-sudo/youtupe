@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-16T15:12:48.666848+00:00",
+  "generated_at_utc": "2026-05-16T15:14:46.901586+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,42 @@
       "title": "Лего выгоднее золота",
       "url": "https://www.youtube.com/shorts/7zJyCQ43f0A",
       "published_at_utc": "2026-05-16T15:00:09+00:00",
-      "age_seconds": 680
+      "age_seconds": 800
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мы его понимаем",
       "url": "https://www.youtube.com/shorts/4IK-Yp6UeDc",
       "published_at_utc": "2026-05-16T14:00:08+00:00",
-      "age_seconds": 4281
+      "age_seconds": 4401
     },
     {
       "channel": "Короче, новости",
       "title": "Пентагон НЕ ЗНАЕТ, Что это Такое",
       "url": "https://www.youtube.com/shorts/SWXL_8zXSrQ",
       "published_at_utc": "2026-05-16T13:50:47+00:00",
-      "age_seconds": 4838
+      "age_seconds": 4959
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Поле одуванчиков 💨 #boardgame #настольнаяигра #game #игра #настолка",
       "url": "https://www.youtube.com/shorts/nGPphPKCTK4",
       "published_at_utc": "2026-05-16T13:42:50+00:00",
-      "age_seconds": 5344
+      "age_seconds": 5462
     },
     {
       "channel": "Новостной Гусь",
       "title": "И во время рабочих поездок можно найти время для отдыха",
       "url": "https://www.youtube.com/shorts/STHftoJe3VE",
       "published_at_utc": "2026-05-16T13:35:01+00:00",
-      "age_seconds": 5787
+      "age_seconds": 5907
     },
     {
       "channel": "Сергей Милушкин",
       "title": "За $420 я буду самая красивая на выпускном",
       "url": "https://www.youtube.com/shorts/BHpD4LgFZX0",
       "published_at_utc": "2026-05-16T13:19:51+00:00",
-      "age_seconds": 6699
-    },
-    {
-      "channel": "Майни",
-      "title": "GAMEOVERSE: ПИЛОТ | Реакция",
-      "url": "https://www.youtube.com/watch?v=6wwm4fgYri0",
-      "published_at_utc": "2026-05-16T13:12:25+00:00",
-      "age_seconds": 7122
+      "age_seconds": 6820
     }
   ]
 }
