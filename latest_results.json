@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-05-17T17:40:53.940411+00:00",
+  "generated_at_utc": "2026-05-17T17:42:58.084822+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Дима Масленников",
+      "title": "Остался НАВСЕГДА в Проклятых пещерах... 200 км под землей",
+      "url": "https://www.youtube.com/watch?v=DvYhRb4xHYI",
+      "published_at_utc": "2026-05-17T17:37:37+00:00",
+      "age_seconds": 239
+    },
     {
       "channel": "StopGame",
       "title": "Лос-Сантос в игре и в РЕАЛЬНОСТИ. Разбор локаций GTA: San Andreas",
       "url": "https://www.youtube.com/watch?v=egYjDGyBrQ8",
       "published_at_utc": "2026-05-17T16:36:29+00:00",
-      "age_seconds": 3830
+      "age_seconds": 3957
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "У каждого гангстера есть мама",
       "url": "https://www.youtube.com/shorts/9xEQ63zDZSQ",
       "published_at_utc": "2026-05-17T16:00:14+00:00",
-      "age_seconds": 5956
+      "age_seconds": 6078
     }
   ]
 }
