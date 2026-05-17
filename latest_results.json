@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-05-17T16:54:52.942372+00:00",
+  "generated_at_utc": "2026-05-17T16:56:53.951724+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Лос-Сантос в игре и в РЕАЛЬНОСТИ. Разбор локаций GTA: San Andreas",
+      "url": "https://www.youtube.com/watch?v=egYjDGyBrQ8",
+      "published_at_utc": "2026-05-17T16:36:29+00:00",
+      "age_seconds": 1190
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "У каждого гангстера есть мама",
       "url": "https://www.youtube.com/shorts/9xEQ63zDZSQ",
       "published_at_utc": "2026-05-17T16:00:14+00:00",
-      "age_seconds": 3196
+      "age_seconds": 3316
     },
     {
       "channel": "Новостной Гусь",
       "title": "Служба упаковки так себе работает",
       "url": "https://www.youtube.com/shorts/_uPfgBzkgLI",
       "published_at_utc": "2026-05-17T15:30:31+00:00",
-      "age_seconds": 4978
+      "age_seconds": 5098
     },
     {
       "channel": "Собиратель новостей",
       "title": "Смешной АВТОГОЛ в Молдавском Футболе",
       "url": "https://www.youtube.com/shorts/V4PGjSLJ5Zo",
       "published_at_utc": "2026-05-17T15:15:02+00:00",
-      "age_seconds": 5903
+      "age_seconds": 6023
     },
     {
       "channel": "Margaritka",
       "title": "Это гениально 😄😄",
       "url": "https://www.youtube.com/shorts/noDqhm0XAOM",
       "published_at_utc": "2026-05-17T15:12:31+00:00",
-      "age_seconds": 6087
+      "age_seconds": 6206
     },
     {
       "channel": "perox",
       "title": "Discipline. тгк: Пекарня Пирога #discipline #carmeme #дисциплина #perox #перокс",
       "url": "https://www.youtube.com/shorts/qJprOUV0dMg",
       "published_at_utc": "2026-05-17T15:07:06+00:00",
-      "age_seconds": 6365
+      "age_seconds": 6485
     },
     {
       "channel": "IXBT Games",
       "title": "ОЧЕНЬ рекомендуем - Diablo IV: Lord of Hatred (обзор)",
       "url": "https://www.youtube.com/watch?v=HzGG3iM2zWI",
       "published_at_utc": "2026-05-17T15:05:59+00:00",
-      "age_seconds": 6493
+      "age_seconds": 6613
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лучший транспорт на Аляске",
       "url": "https://www.youtube.com/shorts/23pivX91aik",
       "published_at_utc": "2026-05-17T15:00:03+00:00",
-      "age_seconds": 6807
+      "age_seconds": 6927
     },
     {
       "channel": "Recrent",
       "title": "ГЛАВНЫЙ ПРИЗНАК НУБА В PUBG",
       "url": "https://www.youtube.com/watch?v=NGJ7s-vRFFA",
       "published_at_utc": "2026-05-17T14:59:25+00:00",
-      "age_seconds": 6915
+      "age_seconds": 7036
     }
   ]
 }
