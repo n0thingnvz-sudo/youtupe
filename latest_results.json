@@ -1,104 +1,118 @@
 {
-  "generated_at_utc": "2026-05-17T12:54:48.644424+00:00",
+  "generated_at_utc": "2026-05-17T12:56:47.647806+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Саша Фасоваша",
+      "title": "Я ЗАВИСИМА",
+      "url": "https://www.youtube.com/shorts/gY8f_n8oZkc",
+      "published_at_utc": "2026-05-17T12:47:36+00:00",
+      "age_seconds": 486
+    },
+    {
+      "channel": "МайорКрафт",
+      "title": "Когда бабушка шарит за 67 #фильм #сериал #моменты",
+      "url": "https://www.youtube.com/shorts/9vCCIHMOHqQ",
+      "published_at_utc": "2026-05-17T12:45:14+00:00",
+      "age_seconds": 634
+    },
     {
       "channel": "Kuplinov ► Play",
       "title": "ТЁМНЫЕ КАРТИНКИ В КОСМОСЕ ► Directive 8020 #1",
       "url": "https://www.youtube.com/watch?v=yP70vpiAc7Y",
       "published_at_utc": "2026-05-17T12:01:31+00:00",
-      "age_seconds": 3166
+      "age_seconds": 3285
     },
     {
       "channel": "Смешновости",
       "title": "Опоздали на круиз 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/nBNMOzyoG-4",
       "published_at_utc": "2026-05-17T12:01:10+00:00",
-      "age_seconds": 3163
+      "age_seconds": 3284
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Робот БуддИИст",
       "url": "https://www.youtube.com/shorts/M5CCXORnBuA",
       "published_at_utc": "2026-05-17T12:00:35+00:00",
-      "age_seconds": 3174
+      "age_seconds": 3294
     },
     {
       "channel": "windy31",
       "title": "НОВЫЙ ПОППИ ПЛЕЙТАЙМ БЕЗУМЕН - DARK PALS",
       "url": "https://www.youtube.com/watch?v=nghv-TLtLLc",
       "published_at_utc": "2026-05-17T11:53:42+00:00",
-      "age_seconds": 3632
+      "age_seconds": 3751
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Это вам не оригами а Crotalaria cunninghamii",
       "url": "https://www.youtube.com/shorts/H0uDCr4ktgY",
       "published_at_utc": "2026-05-17T11:46:24+00:00",
-      "age_seconds": 4026
+      "age_seconds": 4146
     },
     {
       "channel": "Собиратель новостей",
       "title": "Парень ВЫРЫЛ на Пляже Новую Реку",
       "url": "https://www.youtube.com/shorts/SQa5YjVl5T8",
       "published_at_utc": "2026-05-17T11:30:20+00:00",
-      "age_seconds": 4984
+      "age_seconds": 5104
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Лучше пожевать канцелярских кнопок",
       "url": "https://www.youtube.com/shorts/NwlnDz2QMTk",
       "published_at_utc": "2026-05-17T11:27:32+00:00",
-      "age_seconds": 5158
+      "age_seconds": 5278
     },
     {
       "channel": "Recrent",
       "title": "ТАКОЙ ЖЕ ГЕЙМЕР",
       "url": "https://www.youtube.com/shorts/RF0Fj4G3fAU",
       "published_at_utc": "2026-05-17T11:24:48+00:00",
-      "age_seconds": 5389
+      "age_seconds": 5508
     },
     {
       "channel": "A4",
       "title": "We Built 3 Secret Rooms to Spy on Rumi! *KPop Demon Hunters*",
       "url": "https://www.youtube.com/watch?v=rC6ErN1uI_8",
       "published_at_utc": "2026-05-17T11:17:01+00:00",
-      "age_seconds": 5804
+      "age_seconds": 5924
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 358",
       "url": "https://www.youtube.com/shorts/f5S5QTQiBsI",
       "published_at_utc": "2026-05-17T11:12:06+00:00",
-      "age_seconds": 6072
+      "age_seconds": 6192
     },
     {
       "channel": "Алежа Обухов",
       "title": "Экономный муж 2026. Часть 4",
       "url": "https://www.youtube.com/shorts/SKWJaeoBe8k",
       "published_at_utc": "2026-05-17T11:03:37+00:00",
-      "age_seconds": 6610
+      "age_seconds": 6730
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Зато фото на память останется",
       "url": "https://www.youtube.com/shorts/Wp0w7BYF7kE",
       "published_at_utc": "2026-05-17T11:00:42+00:00",
-      "age_seconds": 6767
+      "age_seconds": 6887
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Концовка пакмана",
       "url": "https://www.youtube.com/shorts/pZxC6Ao_VFg",
       "published_at_utc": "2026-05-17T11:00:33+00:00",
-      "age_seconds": 6777
+      "age_seconds": 6896
     },
     {
       "channel": "Короче, новости",
       "title": "Протест Против 67: Пенсионеры Сломали Мем",
       "url": "https://www.youtube.com/shorts/Vy3o349TFYw",
       "published_at_utc": "2026-05-17T10:56:42+00:00",
-      "age_seconds": 7003
+      "age_seconds": 7123
     }
   ]
 }
