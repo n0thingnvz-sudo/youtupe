@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-05-17T11:58:46.186042+00:00",
+  "generated_at_utc": "2026-05-17T12:00:47.946160+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "windy31",
+      "title": "НОВЫЙ ПОППИ ПЛЕЙТАЙМ БЕЗУМЕН - DARK PALS",
+      "url": "https://www.youtube.com/watch?v=nghv-TLtLLc",
+      "published_at_utc": "2026-05-17T11:53:42+00:00",
+      "age_seconds": 390
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Это вам не оригами а Crotalaria cunninghamii",
       "url": "https://www.youtube.com/shorts/H0uDCr4ktgY",
       "published_at_utc": "2026-05-17T11:46:24+00:00",
-      "age_seconds": 665
+      "age_seconds": 785
     },
     {
       "channel": "Собиратель новостей",
       "title": "Парень ВЫРЫЛ на Пляже Новую Реку",
       "url": "https://www.youtube.com/shorts/SQa5YjVl5T8",
       "published_at_utc": "2026-05-17T11:30:20+00:00",
-      "age_seconds": 1624
+      "age_seconds": 1743
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Лучше пожевать канцелярских кнопок",
       "url": "https://www.youtube.com/shorts/NwlnDz2QMTk",
       "published_at_utc": "2026-05-17T11:27:32+00:00",
-      "age_seconds": 1797
+      "age_seconds": 1917
     },
     {
       "channel": "Recrent",
       "title": "ТАКОЙ ЖЕ ГЕЙМЕР",
       "url": "https://www.youtube.com/shorts/RF0Fj4G3fAU",
       "published_at_utc": "2026-05-17T11:24:48+00:00",
-      "age_seconds": 2026
+      "age_seconds": 2148
     },
     {
       "channel": "A4",
       "title": "We Built 3 Secret Rooms to Spy on Rumi! *KPop Demon Hunters*",
       "url": "https://www.youtube.com/watch?v=rC6ErN1uI_8",
       "published_at_utc": "2026-05-17T11:17:01+00:00",
-      "age_seconds": 2444
+      "age_seconds": 2562
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 358",
       "url": "https://www.youtube.com/shorts/f5S5QTQiBsI",
       "published_at_utc": "2026-05-17T11:12:06+00:00",
-      "age_seconds": 2712
+      "age_seconds": 2831
     },
     {
       "channel": "Алежа Обухов",
       "title": "Экономный муж 2026. Часть 4",
       "url": "https://www.youtube.com/shorts/SKWJaeoBe8k",
       "published_at_utc": "2026-05-17T11:03:37+00:00",
-      "age_seconds": 3249
+      "age_seconds": 3368
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Зато фото на память останется",
       "url": "https://www.youtube.com/shorts/Wp0w7BYF7kE",
       "published_at_utc": "2026-05-17T11:00:42+00:00",
-      "age_seconds": 3406
+      "age_seconds": 3526
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Концовка пакмана",
       "url": "https://www.youtube.com/shorts/pZxC6Ao_VFg",
       "published_at_utc": "2026-05-17T11:00:33+00:00",
-      "age_seconds": 3416
+      "age_seconds": 3535
     },
     {
       "channel": "Короче, новости",
       "title": "Протест Против 67: Пенсионеры Сломали Мем",
       "url": "https://www.youtube.com/shorts/Vy3o349TFYw",
       "published_at_utc": "2026-05-17T10:56:42+00:00",
-      "age_seconds": 3643
+      "age_seconds": 3762
     },
     {
       "channel": "Смешновости",
       "title": "Пранканула клиентку 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/hoa4A61rR5s",
       "published_at_utc": "2026-05-17T10:00:56+00:00",
-      "age_seconds": 7017
+      "age_seconds": 7136
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Сложно даже для него",
       "url": "https://www.youtube.com/shorts/Cwg4gKPEJqg",
       "published_at_utc": "2026-05-17T10:00:16+00:00",
-      "age_seconds": 7032
+      "age_seconds": 7152
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тот самый «невезучий» друг",
       "url": "https://www.youtube.com/shorts/lbbqQsIfEt0",
       "published_at_utc": "2026-05-17T10:00:04+00:00",
-      "age_seconds": 7045
+      "age_seconds": 7164
     },
     {
       "channel": "Короче, новости",
       "title": "Киркоров выиграл Евровидение???",
       "url": "https://www.youtube.com/shorts/CeLZMzJJrmw",
       "published_at_utc": "2026-05-17T09:59:58+00:00",
-      "age_seconds": 7047
+      "age_seconds": 7166
     }
   ]
 }
