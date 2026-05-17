@@ -1,83 +1,97 @@
 {
-  "generated_at_utc": "2026-05-17T15:12:49.595834+00:00",
+  "generated_at_utc": "2026-05-17T15:14:48.236556+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Margaritka",
+      "title": "Это гениально 😄😄",
+      "url": "https://www.youtube.com/shorts/noDqhm0XAOM",
+      "published_at_utc": "2026-05-17T15:12:31+00:00",
+      "age_seconds": 85
+    },
+    {
+      "channel": "IXBT Games",
+      "title": "ОЧЕНЬ рекомендуем - Diablo IV: Lord of Hatred (обзор)",
+      "url": "https://www.youtube.com/watch?v=HzGG3iM2zWI",
+      "published_at_utc": "2026-05-17T15:05:59+00:00",
+      "age_seconds": 491
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лучший транспорт на Аляске",
       "url": "https://www.youtube.com/shorts/23pivX91aik",
       "published_at_utc": "2026-05-17T15:00:03+00:00",
-      "age_seconds": 687
+      "age_seconds": 806
     },
     {
       "channel": "StopGame",
       "title": "Чем хороша ночная миссия?🌛",
       "url": "https://www.youtube.com/shorts/S90OZjx6RdE",
       "published_at_utc": "2026-05-17T14:41:12+00:00",
-      "age_seconds": 1868
+      "age_seconds": 1985
     },
     {
       "channel": "Margaritka",
       "title": "Немного застрял 😅",
       "url": "https://www.youtube.com/shorts/FSxnahZ9H2Y",
       "published_at_utc": "2026-05-17T14:32:40+00:00",
-      "age_seconds": 2359
+      "age_seconds": 2476
     },
     {
       "channel": "Майни",
       "title": "Итак, ты родился амурским тигром... ► FunCartoons | Реакция",
       "url": "https://www.youtube.com/watch?v=dggwBlAv49A",
       "published_at_utc": "2026-05-17T14:30:32+00:00",
-      "age_seconds": 2435
+      "age_seconds": 2555
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "От 1 до 9 по порядку #boardgames #настольныеигры #games #игры #uno",
       "url": "https://www.youtube.com/shorts/HnHhOTYt8sE",
       "published_at_utc": "2026-05-17T14:26:04+00:00",
-      "age_seconds": 2752
+      "age_seconds": 2868
     },
     {
       "channel": "Самый сахар",
       "title": "Обзор ПРОВАЛЬНЫХ новинок. Потратил деньги ЗРЯ!",
       "url": "https://www.youtube.com/watch?v=VjkUfsDwv28",
       "published_at_utc": "2026-05-17T14:13:07+00:00",
-      "age_seconds": 3487
+      "age_seconds": 3606
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Капсула времени",
       "url": "https://www.youtube.com/shorts/zWvzv2fSCjo",
       "published_at_utc": "2026-05-17T14:01:27+00:00",
-      "age_seconds": 4203
+      "age_seconds": 4322
     },
     {
       "channel": "Марк Аддерли",
       "title": "ОТКЛЮЧАЕМ WINDOWS DEFENDER НАВСЕГДА БЕЗ СТОРОННИХ ПРОГРАММ ЗА 2 МИНУТЫ",
       "url": "https://www.youtube.com/watch?v=Uo9AJiUvqeI",
       "published_at_utc": "2026-05-17T14:00:40+00:00",
-      "age_seconds": 4258
+      "age_seconds": 4376
     },
     {
       "channel": "Джей",
       "title": "Даниэль, ЗА ЧТО?) Сибас с ЧЕШУЕЙ, мерзкий СОУС и странная нарезка СЕВИЧЕ",
       "url": "https://www.youtube.com/watch?v=MdmQxKU4I_4",
       "published_at_utc": "2026-05-17T14:00:34+00:00",
-      "age_seconds": 4250
+      "age_seconds": 4369
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не оставляйте плохие комментарии",
       "url": "https://www.youtube.com/shorts/IjG-M_ECD7Q",
       "published_at_utc": "2026-05-17T13:30:31+00:00",
-      "age_seconds": 6058
+      "age_seconds": 6176
     },
     {
       "channel": "Неземной подкаст Владимира Сурдина",
       "title": "НА ВЕНЕРЕ - ЖИЗНЬ С ЗЕМЛИ? 3I/ATLAS ИЗМЕНИЛ СОСТАВ. ДРУГИЕ ЦИВИЛИЗАЦИИ ПОГИБАЮТ. Владимир Сурдин",
       "url": "https://www.youtube.com/watch?v=1ukpdazosYw",
       "published_at_utc": "2026-05-17T13:30:15+00:00",
-      "age_seconds": 6090
+      "age_seconds": 6209
     }
   ]
 }
