@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-05-17T21:12:42.829014+00:00",
+  "generated_at_utc": "2026-05-17T21:14:40.832397+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Тру Шорты",
-      "title": "Самая большая семечка растения",
-      "url": "https://www.youtube.com/shorts/FSWjTeYffeg",
-      "published_at_utc": "2026-05-17T21:05:29+00:00",
-      "age_seconds": 334
-    },
     {
       "channel": "Объяпонился",
       "title": "3 гениальные вещи из Японии 😯",
       "url": "https://www.youtube.com/shorts/6O545Jf9ZEE",
       "published_at_utc": "2026-05-17T20:58:25+00:00",
-      "age_seconds": 798
+      "age_seconds": 917
     },
     {
       "channel": "Никита Нестеров",
       "title": "Было? 😂",
       "url": "https://www.youtube.com/shorts/MHgZ-8f6quk",
       "published_at_utc": "2026-05-17T20:20:27+00:00",
-      "age_seconds": 3088
+      "age_seconds": 3207
     },
     {
       "channel": "perox",
       "title": "ОДАА ВУВА😋 тгк: Пекарня Пирога #wuwa #cyberpunk #wutheringwaves #perox #перокс",
       "url": "https://www.youtube.com/shorts/JD33nD1oxUg",
       "published_at_utc": "2026-05-17T19:51:22+00:00",
-      "age_seconds": 4788
+      "age_seconds": 4908
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде в воскресенье это надо видеть",
       "url": "https://www.youtube.com/watch?v=okBXmR2xhXg",
       "published_at_utc": "2026-05-17T19:48:10+00:00",
-      "age_seconds": 4999
+      "age_seconds": 5119
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 359",
       "url": "https://www.youtube.com/shorts/InclymGJ9_Q",
       "published_at_utc": "2026-05-17T19:15:30+00:00",
-      "age_seconds": 6947
+      "age_seconds": 7068
     }
   ]
 }
