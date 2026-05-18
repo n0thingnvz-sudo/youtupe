@@ -1,34 +1,55 @@
 {
-  "generated_at_utc": "2026-05-18T12:08:52.576856+00:00",
+  "generated_at_utc": "2026-05-18T12:10:51.411851+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Нашел в кармане новой куртки что это",
+      "url": "https://www.youtube.com/shorts/9P3DQhiqmSU",
+      "published_at_utc": "2026-05-18T12:08:13+00:00",
+      "age_seconds": 78
+    },
+    {
+      "channel": "Kuplinov ► Play",
+      "title": "ЭКИПАЖ ОЧНУЛСЯ ► Directive 8020 #2",
+      "url": "https://www.youtube.com/watch?v=UkdzZxrqSh8",
+      "published_at_utc": "2026-05-18T12:01:00+00:00",
+      "age_seconds": 559
+    },
     {
       "channel": "Смешновости",
       "title": "Вот это технология 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/PiocjwP9xZU",
       "published_at_utc": "2026-05-18T12:00:42+00:00",
-      "age_seconds": 434
+      "age_seconds": 553
     },
     {
       "channel": "IXBT Games",
       "title": "Объяснительная за плохую оценку GTA 6! #ixbt #ixbtgames #gta6 #гта6 #gta #rockstar #игра2026",
       "url": "https://www.youtube.com/shorts/HD_2k8KClik",
       "published_at_utc": "2026-05-18T12:00:35+00:00",
-      "age_seconds": 458
+      "age_seconds": 577
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Терракотовая армия",
+      "url": "https://www.youtube.com/shorts/abKU0xh1jGE",
+      "published_at_utc": "2026-05-18T12:00:02+00:00",
+      "age_seconds": 568
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самое задизлайканное видео на ютубе",
       "url": "https://www.youtube.com/shorts/ZBOe1YIbH7E",
       "published_at_utc": "2026-05-18T11:00:33+00:00",
-      "age_seconds": 4018
+      "age_seconds": 4137
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Типичные выходные пацанов",
       "url": "https://www.youtube.com/shorts/BK0FLqZQqms",
       "published_at_utc": "2026-05-18T11:00:15+00:00",
-      "age_seconds": 4035
+      "age_seconds": 4155
     }
   ]
 }
