@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-05-18T12:02:48.088382+00:00",
+  "generated_at_utc": "2026-05-18T12:04:47.976316+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Смешновости",
+      "title": "Вот это технология 😂 #истории #история #новости #новость #shorts",
+      "url": "https://www.youtube.com/shorts/PiocjwP9xZU",
+      "published_at_utc": "2026-05-18T12:00:42+00:00",
+      "age_seconds": 191
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Терракотовая армия",
       "url": "https://www.youtube.com/shorts/abKU0xh1jGE",
       "published_at_utc": "2026-05-18T12:00:02+00:00",
-      "age_seconds": 88
+      "age_seconds": 207
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самое задизлайканное видео на ютубе",
       "url": "https://www.youtube.com/shorts/ZBOe1YIbH7E",
       "published_at_utc": "2026-05-18T11:00:33+00:00",
-      "age_seconds": 3657
+      "age_seconds": 3776
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Типичные выходные пацанов",
       "url": "https://www.youtube.com/shorts/BK0FLqZQqms",
       "published_at_utc": "2026-05-18T11:00:15+00:00",
-      "age_seconds": 3675
+      "age_seconds": 3794
     }
   ]
 }
