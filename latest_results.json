@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-05-18T17:48:49.075121+00:00",
+  "generated_at_utc": "2026-05-18T17:50:54.270401+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Одна странность в GTA: San Andreas 🤔",
+      "url": "https://www.youtube.com/shorts/auK-U1u8xq8",
+      "published_at_utc": "2026-05-18T17:35:19+00:00",
+      "age_seconds": 903
+    },
     {
       "channel": "EVG",
       "title": "Эксперимент - сравниваю одни кроссовки из 4х мест!",
       "url": "https://www.youtube.com/shorts/BFQ8EoAApEk",
       "published_at_utc": "2026-05-18T17:15:13+00:00",
-      "age_seconds": 1929
+      "age_seconds": 2049
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Все мужчины одинаковые",
       "url": "https://www.youtube.com/shorts/ML5iqynp4h0",
       "published_at_utc": "2026-05-18T17:00:23+00:00",
-      "age_seconds": 2828
+      "age_seconds": 2947
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/rxKsHCbqiBY",
       "published_at_utc": "2026-05-18T16:41:00+00:00",
-      "age_seconds": 4015
+      "age_seconds": 4135
     },
     {
       "channel": "Майни",
       "title": "ГНОМ ШОУ (Пилот) ► GNOME SHOW (Pilot) | Реакция",
       "url": "https://www.youtube.com/watch?v=6FctdddYzNQ",
       "published_at_utc": "2026-05-18T16:30:01+00:00",
-      "age_seconds": 4627
+      "age_seconds": 4746
     },
     {
       "channel": "sun_kill",
       "title": "Мысли во время выступления 🥲 #adf #адф #пение #вокал",
       "url": "https://www.youtube.com/shorts/isoYGGiRZ1o",
       "published_at_utc": "2026-05-18T16:15:11+00:00",
-      "age_seconds": 5521
+      "age_seconds": 5640
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Нарекламились и довольны",
       "url": "https://www.youtube.com/shorts/YaJZHfzx0RA",
       "published_at_utc": "2026-05-18T16:00:59+00:00",
-      "age_seconds": 6392
+      "age_seconds": 6511
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Зачем переплачивать?",
       "url": "https://www.youtube.com/shorts/Ff22ez_Y4uU",
       "published_at_utc": "2026-05-18T15:56:14+00:00",
-      "age_seconds": 6702
+      "age_seconds": 6822
     }
   ]
 }
