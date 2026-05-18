@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-05-18T20:10:58.080603+00:00",
+  "generated_at_utc": "2026-05-18T20:12:49.624867+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "perox",
+      "title": "Пик эволюции😭 тгк: Пекарня Пирога #theboys #deep #пацаны #perox #перокс",
+      "url": "https://www.youtube.com/shorts/u5pARJPErzM",
+      "published_at_utc": "2026-05-18T20:00:41+00:00",
+      "age_seconds": 630
+    },
+    {
+      "channel": "Wylsacom",
+      "title": "Как Audemars Piguet и Swatch обманули весь мир!",
+      "url": "https://www.youtube.com/watch?v=0pX5ULLUbcA",
+      "published_at_utc": "2026-05-18T19:47:05+00:00",
+      "age_seconds": 1453
+    },
     {
       "channel": "Объяпонился",
       "title": "5 негласных правил Японии 😯",
       "url": "https://www.youtube.com/shorts/TQNB6VkkuMs",
       "published_at_utc": "2026-05-18T18:32:30+00:00",
-      "age_seconds": 5836
-    },
-    {
-      "channel": "LenS",
-      "title": "ПОПАЛ В ПОТНЕЙШЕЕ ЛОББИ С ЯТОРО 😈",
-      "url": "https://www.youtube.com/watch?v=-1xq_L9inqo",
-      "published_at_utc": "2026-05-18T18:11:35+00:00",
-      "age_seconds": 7140
+      "age_seconds": 5955
     }
   ]
 }
