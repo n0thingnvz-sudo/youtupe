@@ -1,97 +1,104 @@
 {
-  "generated_at_utc": "2026-05-18T16:20:55.948056+00:00",
+  "generated_at_utc": "2026-05-18T16:23:13.365436+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Нарекламились и довольны",
+      "url": "https://www.youtube.com/shorts/YaJZHfzx0RA",
+      "published_at_utc": "2026-05-18T16:00:59+00:00",
+      "age_seconds": 1234
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Какой чайник кипятит быстрее?",
       "url": "https://www.youtube.com/shorts/Ff22ez_Y4uU",
       "published_at_utc": "2026-05-18T15:56:14+00:00",
-      "age_seconds": 1422
+      "age_seconds": 1554
     },
     {
       "channel": "МайорКрафт",
       "title": "Скала быстрее Стетхэма #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/aSZ7gm1Bzoc",
       "published_at_utc": "2026-05-18T15:45:02+00:00",
-      "age_seconds": 2087
+      "age_seconds": 2219
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Донатная помойка Game of Thrones Kingsroad",
       "url": "https://www.youtube.com/watch?v=FK15Of6llQg",
       "published_at_utc": "2026-05-18T15:35:46+00:00",
-      "age_seconds": 2669
+      "age_seconds": 2799
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Doom на нейронах",
       "url": "https://www.youtube.com/shorts/FXpsRB1s1SE",
       "published_at_utc": "2026-05-18T15:30:14+00:00",
-      "age_seconds": 2955
+      "age_seconds": 3079
     },
     {
       "channel": "StopGame",
       "title": "Обзор Zero Parades: For Dead Spies",
       "url": "https://www.youtube.com/watch?v=Eylsrew6E-0",
       "published_at_utc": "2026-05-18T15:27:22+00:00",
-      "age_seconds": 3180
+      "age_seconds": 3311
     },
     {
       "channel": "Собиратель новостей",
       "title": "КОТ Приходит Обниматься с Продавцом",
       "url": "https://www.youtube.com/shorts/dZ7Ht4zXd5g",
       "published_at_utc": "2026-05-18T15:15:10+00:00",
-      "age_seconds": 3854
+      "age_seconds": 3979
     },
     {
       "channel": "Margaritka",
       "title": "Первое правило голодного клуба 😄",
       "url": "https://www.youtube.com/shorts/gtDb-vPVoK8",
       "published_at_utc": "2026-05-18T15:14:17+00:00",
-      "age_seconds": 3941
+      "age_seconds": 4073
     },
     {
       "channel": "Новостной Гусь",
       "title": "Главное лук хороший подобрать",
       "url": "https://www.youtube.com/shorts/QIS1I2U-TNc",
       "published_at_utc": "2026-05-18T15:00:40+00:00",
-      "age_seconds": 4728
+      "age_seconds": 4852
     },
     {
       "channel": "ZeeMan",
       "title": "МЫ ВЫЖИЛИ 10 НОЧЕЙ НА ПРОКЛЯТОМ ОЗЕРЕ В МАЙНКРАФТ",
       "url": "https://www.youtube.com/watch?v=sgpLwEK527Q",
       "published_at_utc": "2026-05-18T15:00:24+00:00",
-      "age_seconds": 4816
+      "age_seconds": 4955
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Всё новое — хорошо забытое старое",
       "url": "https://www.youtube.com/shorts/FXfCNH_ahPs",
       "published_at_utc": "2026-05-18T15:00:19+00:00",
-      "age_seconds": 4750
+      "age_seconds": 4874
     },
     {
       "channel": "Recrent",
       "title": "ПАБГЕРСКИЙ ФЕЙК",
       "url": "https://www.youtube.com/watch?v=XiKyfN1fjcA",
       "published_at_utc": "2026-05-18T14:59:28+00:00",
-      "age_seconds": 4875
+      "age_seconds": 5013
     },
     {
       "channel": "Сергей Милушкин",
       "title": "34 года угонщики обходили его стороной",
       "url": "https://www.youtube.com/shorts/14g2bRyjiAs",
       "published_at_utc": "2026-05-18T14:58:54+00:00",
-      "age_seconds": 4836
+      "age_seconds": 4961
     },
     {
       "channel": "МайорКрафт",
       "title": "Стэтхэм умней Скалы #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/s7UZWYcL8qw",
       "published_at_utc": "2026-05-18T14:45:23+00:00",
-      "age_seconds": 5666
+      "age_seconds": 5798
     }
   ]
 }
