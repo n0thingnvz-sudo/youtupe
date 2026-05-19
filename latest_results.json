@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-05-19T21:30:41.284273+00:00",
+  "generated_at_utc": "2026-05-19T21:32:45.182004+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "PoleznyiBes",
-      "title": "Форзирую",
-      "url": "https://www.youtube.com/watch?v=PXLqAc_X1bg",
-      "published_at_utc": "2026-05-19T21:23:06+00:00",
-      "age_seconds": 441
-    },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде это надо видеть. Влог 19 мая 2026 года",
       "url": "https://www.youtube.com/watch?v=M4apDSj-JVE",
       "published_at_utc": "2026-05-19T20:22:33+00:00",
-      "age_seconds": 4015
+      "age_seconds": 4137
     },
     {
       "channel": "Никита Нестеров",
       "title": "Мы строили, строили и наконец построили! Официальное открытие 😍",
       "url": "https://www.youtube.com/shorts/9VNpaC1Zaog",
       "published_at_utc": "2026-05-19T20:08:38+00:00",
-      "age_seconds": 4874
+      "age_seconds": 4998
     }
   ]
 }
