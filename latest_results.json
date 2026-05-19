@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-05-19T10:36:47.472645+00:00",
+  "generated_at_utc": "2026-05-19T10:38:44.724897+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Поющие Президенты: Кто Фальшивит?",
+      "url": "https://www.youtube.com/shorts/DNSwCiIGml4",
+      "published_at_utc": "2026-05-19T10:30:20+00:00",
+      "age_seconds": 424
+    },
     {
       "channel": "Recrent",
       "title": "ЭКСТРИМ ТАКТИКА",
       "url": "https://www.youtube.com/shorts/PTfn5xTzhrc",
       "published_at_utc": "2026-05-19T10:09:42+00:00",
-      "age_seconds": 1614
+      "age_seconds": 1731
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Шоб не расслаблялась",
       "url": "https://www.youtube.com/shorts/vfiB9TJ3u20",
       "published_at_utc": "2026-05-19T10:01:21+00:00",
-      "age_seconds": 2049
+      "age_seconds": 2167
     },
     {
       "channel": "Смешновости",
       "title": "Сюрприз для друга 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/_A8yoQ2Ql5U",
       "published_at_utc": "2026-05-19T10:00:41+00:00",
-      "age_seconds": 2113
+      "age_seconds": 2231
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Твич для котиков",
       "url": "https://www.youtube.com/shorts/VoCD6LKhKys",
       "published_at_utc": "2026-05-19T10:00:11+00:00",
-      "age_seconds": 2119
+      "age_seconds": 2238
     },
     {
       "channel": "sereGGa",
       "title": "[БЕЗ ЗАДЕРЖКИ] Falcons vs Tundra | bo3 | Dreamleague s29",
       "url": "https://www.youtube.com/watch?v=fDyf-UMcicI",
       "published_at_utc": "2026-05-19T09:15:37+00:00",
-      "age_seconds": 4845
+      "age_seconds": 4962
     },
     {
       "channel": "IXBT Games",
       "title": "Никаких эксклюзивов от Sony на ПК #ixbtgames #ixbt #sony #playstation #игры #ps5",
       "url": "https://www.youtube.com/shorts/mP5J_XDvHyY",
       "published_at_utc": "2026-05-19T09:01:00+00:00",
-      "age_seconds": 5710
+      "age_seconds": 5827
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Он должен был бороться со злом",
       "url": "https://www.youtube.com/shorts/gt02VHjsHs0",
       "published_at_utc": "2026-05-19T09:00:31+00:00",
-      "age_seconds": 5699
+      "age_seconds": 5818
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это (пока не) моя машина",
       "url": "https://www.youtube.com/shorts/YseyB_4kTqk",
       "published_at_utc": "2026-05-19T09:00:30+00:00",
-      "age_seconds": 5700
+      "age_seconds": 5818
     }
   ]
 }
