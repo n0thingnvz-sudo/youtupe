@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-19T16:09:06.234148+00:00",
+  "generated_at_utc": "2026-05-19T16:13:00.408082+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,84 +7,91 @@
       "title": "Бургер, но вместо булочек ГРИБЫ 🍄",
       "url": "https://www.youtube.com/shorts/hP7l4XpBuXc",
       "published_at_utc": "2026-05-19T16:05:56+00:00",
-      "age_seconds": 125
+      "age_seconds": 366
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Рожден играть, вынужден работать",
+      "url": "https://www.youtube.com/shorts/O6bUTIAwWtc",
+      "published_at_utc": "2026-05-19T16:00:29+00:00",
+      "age_seconds": 663
     },
     {
       "channel": "Майни",
       "title": "БОЛЬШЕ ПРАВ ДЛЯ ТОЛСТЫХ - Бодипозитивщицы из ТикТок ► OneGo | Реакция",
       "url": "https://www.youtube.com/watch?v=9UyF3Fbu50k",
       "published_at_utc": "2026-05-19T16:00:18+00:00",
-      "age_seconds": 410
+      "age_seconds": 649
     },
     {
       "channel": "МайорКрафт",
       "title": "Стэтхэм вернул Скалу в семью #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/rQRUJhYfYxA",
       "published_at_utc": "2026-05-19T15:45:08+00:00",
-      "age_seconds": 1365
+      "age_seconds": 1606
     },
     {
       "channel": "SonnyK",
       "title": "GTA 6 охраняют лучше ЯДЕРНЫХ КОДОВ",
       "url": "https://www.youtube.com/watch?v=3R0WuowR8Ao",
       "published_at_utc": "2026-05-19T15:38:49+00:00",
-      "age_seconds": 1767
+      "age_seconds": 2007
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Фара моя фара...",
       "url": "https://www.youtube.com/shorts/mhshDYCyWwk",
       "published_at_utc": "2026-05-19T15:01:10+00:00",
-      "age_seconds": 3982
+      "age_seconds": 4222
     },
     {
       "channel": "Новостной Гусь",
       "title": "Активировал новый скилл",
       "url": "https://www.youtube.com/shorts/jH5OgGsx_DY",
       "published_at_utc": "2026-05-19T15:01:06+00:00",
-      "age_seconds": 3985
+      "age_seconds": 4225
     },
     {
       "channel": "EVG",
       "title": "POIZON Это Что Такое?",
       "url": "https://www.youtube.com/shorts/2b79VoJ5yNA",
       "published_at_utc": "2026-05-19T15:00:10+00:00",
-      "age_seconds": 4034
+      "age_seconds": 4275
     },
     {
       "channel": "МЯЧ Production",
       "title": "Истерика Переса, спасение для «Челси», уход Пепа | Команда недели #262",
       "url": "https://www.youtube.com/watch?v=OzAtKas13jQ",
       "published_at_utc": "2026-05-19T15:00:02+00:00",
-      "age_seconds": 4060
+      "age_seconds": 4302
     },
     {
       "channel": "Recrent",
       "title": "ДУО С ДЕМОНОМ ПАБГА",
       "url": "https://www.youtube.com/watch?v=OBcYvSfrcgg",
       "published_at_utc": "2026-05-19T14:59:43+00:00",
-      "age_seconds": 4150
+      "age_seconds": 4384
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ДЕРЖИ ДВЕРЬ и БОБ3 против КЛАНОВ из 1000 человек в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=fhMyq03dTwM",
       "published_at_utc": "2026-05-19T14:39:46+00:00",
-      "age_seconds": 5350
+      "age_seconds": 5585
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "SpinDoodle #настольнаяигра #boardgame #game #игра #настолка",
       "url": "https://www.youtube.com/shorts/727wDBDNoys",
       "published_at_utc": "2026-05-19T14:31:41+00:00",
-      "age_seconds": 5778
+      "age_seconds": 6018
     },
     {
       "channel": "Майни",
       "title": "Почему нейросети постоянно врут? (и почему этого уже не исправить) ► Тостер Скрипт | Реакция",
       "url": "https://www.youtube.com/watch?v=rDcReqR8-6E",
       "published_at_utc": "2026-05-19T14:23:47+00:00",
-      "age_seconds": 6201
+      "age_seconds": 6440
     }
   ]
 }
