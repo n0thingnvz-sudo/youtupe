@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-05-19T11:16:52.152948+00:00",
+  "generated_at_utc": "2026-05-19T11:18:44.928900+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Завод KURS",
+      "title": "ДВОЙНАЯ ПУЛЯ. НАСКОЛЬКО ЭФФЕКТИВНА? 💥",
+      "url": "https://www.youtube.com/shorts/OTSXi7WJcfM",
+      "published_at_utc": "2026-05-19T11:10:25+00:00",
+      "age_seconds": 437
+    },
+    {
+      "channel": "ДУШНИЛА",
+      "title": "ОБЪЯСНИ № 29",
+      "url": "https://www.youtube.com/shorts/EgFyNojk9vY",
+      "published_at_utc": "2026-05-19T11:06:59+00:00",
+      "age_seconds": 619
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Провальное Комбо Литвина в Бургер Кинге",
       "url": "https://www.youtube.com/shorts/TujZC47Iqhc",
       "published_at_utc": "2026-05-19T11:02:51+00:00",
-      "age_seconds": 787
+      "age_seconds": 902
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Хакер - зоозащитник",
       "url": "https://www.youtube.com/shorts/JFtq7RazGck",
       "published_at_utc": "2026-05-19T11:00:19+00:00",
-      "age_seconds": 910
+      "age_seconds": 1030
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Все хотят носки Райана",
       "url": "https://www.youtube.com/shorts/99_TwDsN_6g",
       "published_at_utc": "2026-05-19T11:00:18+00:00",
-      "age_seconds": 911
+      "age_seconds": 1031
     },
     {
       "channel": "IXBT Games",
       "title": "Forza Horizon 6 игра года / KONAMI ушла из РФ / Отмена Crimson Desert / RTX 5090 еще подорожает",
       "url": "https://www.youtube.com/watch?v=3KR86WMz0Rc",
       "published_at_utc": "2026-05-19T10:37:17+00:00",
-      "age_seconds": 2338
+      "age_seconds": 2451
     },
     {
       "channel": "Короче, новости",
       "title": "Поющие Президенты: Кто Фальшивит?",
       "url": "https://www.youtube.com/shorts/DNSwCiIGml4",
       "published_at_utc": "2026-05-19T10:30:20+00:00",
-      "age_seconds": 2705
+      "age_seconds": 2825
     },
     {
       "channel": "Recrent",
       "title": "ЭКСТРИМ ТАКТИКА",
       "url": "https://www.youtube.com/shorts/PTfn5xTzhrc",
       "published_at_utc": "2026-05-19T10:09:42+00:00",
-      "age_seconds": 4018
+      "age_seconds": 4131
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Шоб не расслаблялась",
       "url": "https://www.youtube.com/shorts/vfiB9TJ3u20",
       "published_at_utc": "2026-05-19T10:01:21+00:00",
-      "age_seconds": 4448
+      "age_seconds": 4568
     },
     {
       "channel": "Смешновости",
       "title": "Сюрприз для друга 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/_A8yoQ2Ql5U",
       "published_at_utc": "2026-05-19T10:00:41+00:00",
-      "age_seconds": 4516
+      "age_seconds": 4632
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Твич для котиков",
       "url": "https://www.youtube.com/shorts/VoCD6LKhKys",
       "published_at_utc": "2026-05-19T10:00:11+00:00",
-      "age_seconds": 4518
+      "age_seconds": 4638
     }
   ]
 }
