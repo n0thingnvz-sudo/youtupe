@@ -1,97 +1,104 @@
 {
-  "generated_at_utc": "2026-05-19T16:32:51.944620+00:00",
+  "generated_at_utc": "2026-05-19T16:34:52.233661+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ZOMBIERUS",
+      "title": "Forza Horizon 6 - Великолепное DLC за 8К?",
+      "url": "https://www.youtube.com/watch?v=p78HNa5GD9A",
+      "published_at_utc": "2026-05-19T16:25:24+00:00",
+      "age_seconds": 561
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Бургер, но вместо булочек ГРИБЫ 🍄‍🟫",
       "url": "https://www.youtube.com/shorts/jtINqOoFYDs",
       "published_at_utc": "2026-05-19T16:22:36+00:00",
-      "age_seconds": 561
+      "age_seconds": 682
     },
     {
       "channel": "Wylsacom",
       "title": "Какой гриль лучше? Тест газового, угольного и электрических грилей",
       "url": "https://www.youtube.com/watch?v=6tclys3hTZk",
       "published_at_utc": "2026-05-19T16:09:10+00:00",
-      "age_seconds": 1329
+      "age_seconds": 1448
     },
     {
       "channel": "Собиратель новостей",
       "title": "Литва Предлагает НАТО Войти в Калининград",
       "url": "https://www.youtube.com/shorts/leRJtSQeaTk",
       "published_at_utc": "2026-05-19T16:01:01+00:00",
-      "age_seconds": 1825
+      "age_seconds": 1944
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Рожден играть, вынужден работать",
       "url": "https://www.youtube.com/shorts/O6bUTIAwWtc",
       "published_at_utc": "2026-05-19T16:00:29+00:00",
-      "age_seconds": 1862
+      "age_seconds": 1981
     },
     {
       "channel": "Майни",
       "title": "БОЛЬШЕ ПРАВ ДЛЯ ТОЛСТЫХ - Бодипозитивщицы из ТикТок ► OneGo | Реакция",
       "url": "https://www.youtube.com/watch?v=9UyF3Fbu50k",
       "published_at_utc": "2026-05-19T16:00:18+00:00",
-      "age_seconds": 1850
+      "age_seconds": 1969
     },
     {
       "channel": "МайорКрафт",
       "title": "Стэтхэм вернул Скалу в семью #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/rQRUJhYfYxA",
       "published_at_utc": "2026-05-19T15:45:08+00:00",
-      "age_seconds": 2802
+      "age_seconds": 2923
     },
     {
       "channel": "SonnyK",
       "title": "GTA 6 охраняют лучше ЯДЕРНЫХ КОДОВ",
       "url": "https://www.youtube.com/watch?v=3R0WuowR8Ao",
       "published_at_utc": "2026-05-19T15:38:49+00:00",
-      "age_seconds": 3202
+      "age_seconds": 3324
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Фара моя фара...",
       "url": "https://www.youtube.com/shorts/mhshDYCyWwk",
       "published_at_utc": "2026-05-19T15:01:10+00:00",
-      "age_seconds": 5421
+      "age_seconds": 5540
     },
     {
       "channel": "Новостной Гусь",
       "title": "Активировал новый скилл",
       "url": "https://www.youtube.com/shorts/jH5OgGsx_DY",
       "published_at_utc": "2026-05-19T15:01:06+00:00",
-      "age_seconds": 5424
+      "age_seconds": 5543
     },
     {
       "channel": "EVG",
       "title": "POIZON Это Что Такое?",
       "url": "https://www.youtube.com/shorts/2b79VoJ5yNA",
       "published_at_utc": "2026-05-19T15:00:10+00:00",
-      "age_seconds": 5473
+      "age_seconds": 5592
     },
     {
       "channel": "МЯЧ Production",
       "title": "Истерика Переса, спасение для «Челси», уход Пепа | Команда недели #262",
       "url": "https://www.youtube.com/watch?v=OzAtKas13jQ",
       "published_at_utc": "2026-05-19T15:00:02+00:00",
-      "age_seconds": 5499
+      "age_seconds": 5619
     },
     {
       "channel": "Recrent",
       "title": "ДУО С ДЕМОНОМ ПАБГА",
       "url": "https://www.youtube.com/watch?v=OBcYvSfrcgg",
       "published_at_utc": "2026-05-19T14:59:43+00:00",
-      "age_seconds": 5577
+      "age_seconds": 5697
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ДЕРЖИ ДВЕРЬ и БОБ3 против КЛАНОВ из 1000 человек в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=fhMyq03dTwM",
       "published_at_utc": "2026-05-19T14:39:46+00:00",
-      "age_seconds": 6777
+      "age_seconds": 6897
     }
   ]
 }
