@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-05-19T10:02:48.767527+00:00",
+  "generated_at_utc": "2026-05-19T10:04:45.717388+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Твич для котиков",
+      "url": "https://www.youtube.com/shorts/VoCD6LKhKys",
+      "published_at_utc": "2026-05-19T10:00:11+00:00",
+      "age_seconds": 198
+    },
     {
       "channel": "sereGGa",
       "title": "[БЕЗ ЗАДЕРЖКИ] Falcons vs Tundra | bo3 | Dreamleague s29",
       "url": "https://www.youtube.com/watch?v=fDyf-UMcicI",
       "published_at_utc": "2026-05-19T09:15:37+00:00",
-      "age_seconds": 2805
+      "age_seconds": 2923
     },
     {
       "channel": "IXBT Games",
       "title": "Никаких эксклюзивов от Sony на ПК #ixbtgames #ixbt #sony #playstation #игры #ps5",
       "url": "https://www.youtube.com/shorts/mP5J_XDvHyY",
       "published_at_utc": "2026-05-19T09:01:00+00:00",
-      "age_seconds": 3671
+      "age_seconds": 3789
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Он должен был бороться со злом",
       "url": "https://www.youtube.com/shorts/gt02VHjsHs0",
       "published_at_utc": "2026-05-19T09:00:31+00:00",
-      "age_seconds": 3659
+      "age_seconds": 3778
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это (пока не) моя машина",
       "url": "https://www.youtube.com/shorts/YseyB_4kTqk",
       "published_at_utc": "2026-05-19T09:00:30+00:00",
-      "age_seconds": 3660
+      "age_seconds": 3779
     },
     {
       "channel": "Новостной Гусь",
       "title": "В поисках внука",
       "url": "https://www.youtube.com/shorts/Ct1SeVQnOeg",
       "published_at_utc": "2026-05-19T08:30:10+00:00",
-      "age_seconds": 5478
+      "age_seconds": 5597
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Панцирь Черепахи Удивителен 🐢",
       "url": "https://www.youtube.com/shorts/8T6n4K8hM8k",
       "published_at_utc": "2026-05-19T08:07:01+00:00",
-      "age_seconds": 6892
+      "age_seconds": 7011
     }
   ]
 }
