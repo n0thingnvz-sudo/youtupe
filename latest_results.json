@@ -1,76 +1,55 @@
 {
-  "generated_at_utc": "2026-05-20T17:01:04.310152+00:00",
+  "generated_at_utc": "2026-05-20T17:05:07.196375+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Wylsacom",
+      "title": "Дроп-тест защитных стёкол пошёл не по плану!",
+      "url": "https://www.youtube.com/watch?v=IwsZUV9VHRw",
+      "published_at_utc": "2026-05-20T16:57:57+00:00",
+      "age_seconds": 323
+    },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"Итоги суда с семьей. Я стала бомжом?!😭💔\"",
       "url": "https://www.youtube.com/watch?v=Bii9jaYdXw0",
       "published_at_utc": "2026-05-20T16:45:08+00:00",
-      "age_seconds": 956
+      "age_seconds": 1199
     },
     {
       "channel": "МайорКрафт",
       "title": "Мама точно знает как лучше #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/JkCScDqnT-Q",
       "published_at_utc": "2026-05-20T16:45:06+00:00",
-      "age_seconds": 885
+      "age_seconds": 1129
     },
     {
       "channel": "EVG",
       "title": "Что если КУПИТЬ ЧУЖИЕ ГОСУСЛУГИ?",
       "url": "https://www.youtube.com/shorts/_iSXbJaZAsg",
       "published_at_utc": "2026-05-20T16:00:16+00:00",
-      "age_seconds": 3548
+      "age_seconds": 3790
     },
     {
       "channel": "Тру Шорты",
       "title": "Змея внезапно показывает себя с другой стороны",
       "url": "https://www.youtube.com/shorts/GpyNabpRAZY",
       "published_at_utc": "2026-05-20T15:40:21+00:00",
-      "age_seconds": 4722
+      "age_seconds": 4963
     },
     {
       "channel": "LenS",
       "title": "ИГРАЮ НА ВСЕХ ГЕРОЯХ ПО АЛФАВИТУ В МИДУ #31",
       "url": "https://www.youtube.com/watch?v=qhjIJFe9HSc",
       "published_at_utc": "2026-05-20T15:21:48+00:00",
-      "age_seconds": 5930
+      "age_seconds": 6171
     },
     {
       "channel": "dikiy_vadik",
       "title": "Беременна в 16",
       "url": "https://www.youtube.com/shorts/zoIzAuiffvI",
       "published_at_utc": "2026-05-20T15:16:56+00:00",
-      "age_seconds": 6174
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Двойник Николая II",
-      "url": "https://www.youtube.com/shorts/l_9Fql-nqYQ",
-      "published_at_utc": "2026-05-20T15:01:32+00:00",
-      "age_seconds": 7079
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Бегает везде, где возможно бегать",
-      "url": "https://www.youtube.com/shorts/W6KOv4YseuM",
-      "published_at_utc": "2026-05-20T15:00:58+00:00",
-      "age_seconds": 7114
-    },
-    {
-      "channel": "Майни",
-      "title": "Случаи Когда Зрители Стримеров Делали Жуткие Находки! ► a_ve_znali | Реакция",
-      "url": "https://www.youtube.com/watch?v=R-8t0PKsRMk",
-      "published_at_utc": "2026-05-20T15:00:26+00:00",
-      "age_seconds": 7121
-    },
-    {
-      "channel": "Собиратель новостей",
-      "title": "Шаман КРЕСТИТСЯ на Свои Портреты",
-      "url": "https://www.youtube.com/shorts/finSwLSAJyQ",
-      "published_at_utc": "2026-05-20T15:00:10+00:00",
-      "age_seconds": 7157
+      "age_seconds": 6417
     }
   ]
 }
