@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-05-20T21:30:42.430115+00:00",
+  "generated_at_utc": "2026-05-20T21:32:40.586671+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "TheDRZJ",
+      "title": "STEAM ЗАСТАВЛЯЕТ РАЗРАБОТЧИКОВ ОПТИМИЗИРОВАТЬ ИГРЫ",
+      "url": "https://www.youtube.com/watch?v=uh9zUvKf40Q",
+      "published_at_utc": "2026-05-20T21:21:30+00:00",
+      "age_seconds": 638
+    },
     {
       "channel": "Никита Нестеров",
       "title": "Для тех, кто любит покрепче 😂",
       "url": "https://www.youtube.com/shorts/CmOmSulSbJA",
       "published_at_utc": "2026-05-20T19:48:33+00:00",
-      "age_seconds": 6081
+      "age_seconds": 6200
     },
     {
       "channel": "perox",
       "title": "Discipline. 🗿тгк: Пекарня Пирога #discipline #jojo #дисциплина #perox #перокс",
       "url": "https://www.youtube.com/shorts/8Wg0g3B99qU",
       "published_at_utc": "2026-05-20T19:39:01+00:00",
-      "age_seconds": 6609
+      "age_seconds": 6729
     }
   ]
 }
