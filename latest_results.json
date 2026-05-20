@@ -1,76 +1,69 @@
 {
-  "generated_at_utc": "2026-05-20T19:18:52.546286+00:00",
+  "generated_at_utc": "2026-05-20T19:20:54.662098+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "CS2TV",
-      "title": "FALCONS ОБЯЗАНЫ ВЫИГРАТЬ ТУРНИР В КИТАЕ! КИБЕРСПОРТ ТЕРЯЕТ ДЕНЬГИ! НОВОСТИ CS, CAC",
-      "url": "https://www.youtube.com/watch?v=tFY7MNrbBBI",
-      "published_at_utc": "2026-05-20T19:09:27+00:00",
-      "age_seconds": 540
-    },
     {
       "channel": "CYBERSHOKE",
       "title": "Чего добился molodoy за год в FURIA?",
       "url": "https://www.youtube.com/watch?v=pcHM790jcm8",
       "published_at_utc": "2026-05-20T18:36:10+00:00",
-      "age_seconds": 2528
+      "age_seconds": 2647
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"ДИПЕНС УМИРАЕТ? + Продолжение любовной истории\"",
       "url": "https://www.youtube.com/watch?v=bbssVhm_xbs",
       "published_at_utc": "2026-05-20T18:09:49+00:00",
-      "age_seconds": 4143
+      "age_seconds": 4265
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"Моя утренняя «рутина» или…\"",
       "url": "https://www.youtube.com/watch?v=qkA-rHGRpyo",
       "published_at_utc": "2026-05-20T17:49:12+00:00",
-      "age_seconds": 5380
+      "age_seconds": 5502
     },
     {
       "channel": "Короче, новости",
       "title": "Логан Против Порше: Вот Это Гонка",
       "url": "https://www.youtube.com/shorts/pSOSjBVooVE",
       "published_at_utc": "2026-05-20T17:48:35+00:00",
-      "age_seconds": 5332
+      "age_seconds": 5451
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Вкусно или нет? #boardgames #настольныеигры #familygames #игрыдлядвоих #семейныеигры",
       "url": "https://www.youtube.com/shorts/94zs2tQ8IXc",
       "published_at_utc": "2026-05-20T17:41:35+00:00",
-      "age_seconds": 5781
+      "age_seconds": 5899
     },
     {
       "channel": "Короче, новости",
       "title": "Чиновник Возит за собой Кондиционеры",
       "url": "https://www.youtube.com/shorts/3nt_gX6OKAY",
       "published_at_utc": "2026-05-20T17:38:18+00:00",
-      "age_seconds": 5949
+      "age_seconds": 6068
     },
     {
       "channel": "IGM",
       "title": "ГЕЙМЕРЫ, НЕ ЖЕНИТЕСЬ",
       "url": "https://www.youtube.com/shorts/0FqEQBkAdnY",
       "published_at_utc": "2026-05-20T17:32:25+00:00",
-      "age_seconds": 6347
+      "age_seconds": 6466
     },
     {
       "channel": "perox",
       "title": "Клубника🍫 тгк: Пекарня Пирога #bleach #блич #yoruichi #perox #перокс",
       "url": "https://www.youtube.com/shorts/InCHv2JnRiE",
       "published_at_utc": "2026-05-20T17:30:58+00:00",
-      "age_seconds": 6373
+      "age_seconds": 6492
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"ИВАН ЗОЛО ВЫСТУПИЛ на СОРЕВНОВАНИЯХ по БОДИБИЛДИНГУ\"",
       "url": "https://www.youtube.com/watch?v=M0uBnhbn3kc",
       "published_at_utc": "2026-05-20T17:24:31+00:00",
-      "age_seconds": 6861
+      "age_seconds": 6983
     }
   ]
 }
