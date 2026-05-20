@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-05-19T22:32:36.594660+00:00",
+  "generated_at_utc": "2026-05-20T07:02:49.185353+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "PoleznyiBes",
-      "title": "Форзирую",
-      "url": "https://www.youtube.com/watch?v=PXLqAc_X1bg",
-      "published_at_utc": "2026-05-19T21:23:06+00:00",
-      "age_seconds": 4156
+      "channel": "This is Хорошо",
+      "title": "Горизонтальная полоска СТРОЙНИТ? #shorts #шортс",
+      "url": "https://www.youtube.com/shorts/O2YND-YgCY4",
+      "published_at_utc": "2026-05-20T07:00:26+00:00",
+      "age_seconds": 85
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Самая ненавистная принцесса Японии",
+      "url": "https://www.youtube.com/shorts/E9DZ4B_wxBo",
+      "published_at_utc": "2026-05-20T07:00:06+00:00",
+      "age_seconds": 83
+    },
+    {
+      "channel": "Obsidian Time",
+      "title": "Дальневосточные ЖУКИ - МайнШилд 4",
+      "url": "https://www.youtube.com/watch?v=U0IuTG-_iTo",
+      "published_at_utc": "2026-05-20T06:45:29+00:00",
+      "age_seconds": 1034
+    },
+    {
+      "channel": "ДУШНИЛА",
+      "title": "МИФЫ № 35",
+      "url": "https://www.youtube.com/shorts/iVn09qwZzCc",
+      "published_at_utc": "2026-05-20T06:04:06+00:00",
+      "age_seconds": 3432
     }
   ]
 }
