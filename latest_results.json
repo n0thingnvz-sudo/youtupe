@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-21T07:28:45.004497+00:00",
+  "generated_at_utc": "2026-05-21T07:30:43.621943+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,35 @@
       "title": "Хожу неделю с самым странным смартфоном",
       "url": "https://www.youtube.com/shorts/YLyxZf6fsPo",
       "published_at_utc": "2026-05-21T07:15:54+00:00",
-      "age_seconds": 687
+      "age_seconds": 806
+    },
+    {
+      "channel": "Собиратель новостей",
+      "title": "В США Арестовали СТАТУЮ СВОБОДЫ",
+      "url": "https://www.youtube.com/shorts/0IW9C_pwwQs",
+      "published_at_utc": "2026-05-21T07:15:00+00:00",
+      "age_seconds": 863
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Акция с подвохом",
       "url": "https://www.youtube.com/shorts/LWReQdljULE",
       "published_at_utc": "2026-05-21T07:00:08+00:00",
-      "age_seconds": 1641
+      "age_seconds": 1760
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Warhammer Skulls 2026 - самое масштабное шоу игр по Warhammer 40k",
       "url": "https://www.youtube.com/watch?v=_s7rEIBSjdw",
       "published_at_utc": "2026-05-21T06:27:54+00:00",
-      "age_seconds": 3614
+      "age_seconds": 3732
     },
     {
       "channel": "IXBT Games",
       "title": "120 баксов, так 120 баксов #ixbtgames #ixbt #forzahorizon6 #forza #форза #игры #игра2026",
       "url": "https://www.youtube.com/shorts/OxiTizwpDHc",
       "published_at_utc": "2026-05-21T06:00:10+00:00",
-      "age_seconds": 5278
+      "age_seconds": 5396
     }
   ]
 }
