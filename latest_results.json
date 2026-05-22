@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-05-21T22:38:43.502393+00:00",
+  "generated_at_utc": "2026-05-22T07:02:55.901060+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Сергей Милушкин",
-      "title": "Что происходит в Калининграде это надо видеть. Влог №8",
-      "url": "https://www.youtube.com/watch?v=9MRr949iBzo",
-      "published_at_utc": "2026-05-21T20:38:14+00:00",
-      "age_seconds": 7155
+      "channel": "Собиратель новостей",
+      "title": "Африканцы Переделали Советский ИЛ-76: И Летают в Антарктиду",
+      "url": "https://www.youtube.com/shorts/8Ki5hVd_Z_k",
+      "published_at_utc": "2026-05-22T07:00:04+00:00",
+      "age_seconds": 82
+    },
+    {
+      "channel": "ЛИЛ ТАТАР",
+      "title": "DK СМОТРИТ \"ТИК ТОК ДЕВОЧКИ поносят НИЩУКОВ с андроидом\"",
+      "url": "https://www.youtube.com/watch?v=TZAJCebvFdQ",
+      "published_at_utc": "2026-05-22T05:11:28+00:00",
+      "age_seconds": 6687
     }
   ]
 }
