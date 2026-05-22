@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-05-22T07:04:52.826327+00:00",
+  "generated_at_utc": "2026-05-22T07:06:48.428625+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "Konami ушла из РФ #ixbt #ixbtgames #konami #metalgearsolid #игры",
+      "url": "https://www.youtube.com/shorts/ytos9NtxH-E",
+      "published_at_utc": "2026-05-22T07:00:57+00:00",
+      "age_seconds": 313
+    },
     {
       "channel": "Собиратель новостей",
       "title": "Африканцы Переделали Советский ИЛ-76: И Летают в Антарктиду",
       "url": "https://www.youtube.com/shorts/8Ki5hVd_Z_k",
       "published_at_utc": "2026-05-22T07:00:04+00:00",
-      "age_seconds": 200
+      "age_seconds": 320
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"ТИК ТОК ДЕВОЧКИ поносят НИЩУКОВ с андроидом\"",
       "url": "https://www.youtube.com/watch?v=TZAJCebvFdQ",
       "published_at_utc": "2026-05-22T05:11:28+00:00",
-      "age_seconds": 6804
+      "age_seconds": 6920
     }
   ]
 }
