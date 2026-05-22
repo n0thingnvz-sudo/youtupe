@@ -1,97 +1,104 @@
 {
-  "generated_at_utc": "2026-05-22T15:09:03.047786+00:00",
+  "generated_at_utc": "2026-05-22T15:13:07.326038+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "А эта конструкция на сколько безопасна вообще?",
+      "url": "https://www.youtube.com/shorts/sTMReP7mamU",
+      "published_at_utc": "2026-05-22T15:01:15+00:00",
+      "age_seconds": 622
+    },
     {
       "channel": "i11ushenka",
       "title": "Футбольное братство и солидарность фанатов Арсенала",
       "url": "https://www.youtube.com/shorts/T1KbhCMmsF8",
       "published_at_utc": "2026-05-22T15:01:09+00:00",
-      "age_seconds": 362
+      "age_seconds": 601
     },
     {
       "channel": "Vert Dider",
       "title": "Насколько чёткими получаются стробоскопические фотографии?",
       "url": "https://www.youtube.com/shorts/pytLH5WLVKo",
       "published_at_utc": "2026-05-22T14:56:56+00:00",
-      "age_seconds": 609
+      "age_seconds": 849
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Извините. LEGO Batman: Legacy of the Dark Knight",
       "url": "https://www.youtube.com/watch?v=zUPwSZxwpCM",
       "published_at_utc": "2026-05-22T14:40:42+00:00",
-      "age_seconds": 1660
+      "age_seconds": 1905
     },
     {
       "channel": "Ассистент грумера",
       "title": "ДАЛМАТИНЕЦ ЧАК В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/QVXTNwWamwY",
       "published_at_utc": "2026-05-22T14:28:38+00:00",
-      "age_seconds": 2347
+      "age_seconds": 2596
     },
     {
       "channel": "Алежа Обухов",
       "title": "Алежа Обухов - Пу-пу-пу (official audio)",
       "url": "https://www.youtube.com/watch?v=9Lw0Pz_P2SU",
       "published_at_utc": "2026-05-22T14:15:51+00:00",
-      "age_seconds": 3123
+      "age_seconds": 3372
     },
     {
       "channel": "Майни",
       "title": "Все грехи мультфильма \"GOAT: Мечтай по-крупному\" ► Dalbek ( Далек ) | Реакция",
       "url": "https://www.youtube.com/watch?v=rXwq8Lc_vcQ",
       "published_at_utc": "2026-05-22T14:00:02+00:00",
-      "age_seconds": 4026
+      "age_seconds": 4265
     },
     {
       "channel": "Короче, новости",
       "title": "13 Истребителей Не Смогли Догнать НЛО",
       "url": "https://www.youtube.com/shorts/KMMPOEgZ9Hw",
       "published_at_utc": "2026-05-22T13:57:02+00:00",
-      "age_seconds": 4226
+      "age_seconds": 4464
     },
     {
       "channel": "i11ushenka",
       "title": "Как футболка с бумажкой может поменять жизнь",
       "url": "https://www.youtube.com/shorts/0CJOfy5Y62M",
       "published_at_utc": "2026-05-22T13:49:24+00:00",
-      "age_seconds": 4667
+      "age_seconds": 4906
     },
     {
       "channel": "IGM",
       "title": "ПОВАРЕННАЯ КНИГА ИЗ BALDUR'S GATE 3",
       "url": "https://www.youtube.com/shorts/VfZ-_sKkhsw",
       "published_at_utc": "2026-05-22T13:39:13+00:00",
-      "age_seconds": 5348
+      "age_seconds": 5593
     },
     {
       "channel": "sun_kill",
       "title": "Брови я красила именно в тот вечер чтобы снять стресс ахаххаха #реанимация #скорая",
       "url": "https://www.youtube.com/shorts/MbkXUH1U2AM",
       "published_at_utc": "2026-05-22T13:32:23+00:00",
-      "age_seconds": 5689
+      "age_seconds": 5928
     },
     {
       "channel": "Olezha",
       "title": "ПЕРСОНАЖИ ПАТЧА 4.3 | ПРОГРЕВ ПЕРЕД КОЛЛАБОЙ",
       "url": "https://www.youtube.com/watch?v=b_Y032IH_Zc",
       "published_at_utc": "2026-05-22T13:29:58+00:00",
-      "age_seconds": 5914
+      "age_seconds": 6160
     },
     {
       "channel": "StopGame",
       "title": "Обзор Subnautica 2",
       "url": "https://www.youtube.com/watch?v=IOiPs3Q575o",
       "published_at_utc": "2026-05-22T13:19:24+00:00",
-      "age_seconds": 6546
+      "age_seconds": 6791
     },
     {
       "channel": "ExileShow",
       "title": "Кто Последний Выйдет Из Куба Заберёт 1 000 000 ! ФИНАЛ ! (Сатир, Кореш, Парадеевич, Горилла)",
       "url": "https://www.youtube.com/watch?v=TU1JhO3XT4c",
       "published_at_utc": "2026-05-22T13:15:58+00:00",
-      "age_seconds": 6698
+      "age_seconds": 6949
     }
   ]
 }
