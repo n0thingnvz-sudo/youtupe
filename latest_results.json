@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-05-22T17:33:00.863710+00:00",
+  "generated_at_utc": "2026-05-22T17:37:12.208023+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "SonnyK",
+      "title": "LEGO Batman ЛУЧШЕ Batman Arkham?",
+      "url": "https://www.youtube.com/watch?v=5Oj9Fgg81c8",
+      "published_at_utc": "2026-05-22T17:28:31+00:00",
+      "age_seconds": 472
+    },
     {
       "channel": "perox",
       "title": "Выживание🦸🏻‍♂️ тгк: Пекарня Пирога #theboys #minecraft #пацаны #perox #перокс",
       "url": "https://www.youtube.com/shorts/VTqGEpNs2N4",
       "published_at_utc": "2026-05-22T17:18:25+00:00",
-      "age_seconds": 766
+      "age_seconds": 1010
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Фиштофер счастлив — все счастливы",
       "url": "https://www.youtube.com/shorts/-sC9IrrTid0",
       "published_at_utc": "2026-05-22T17:00:34+00:00",
-      "age_seconds": 1863
+      "age_seconds": 2101
     },
     {
       "channel": "IGM",
       "title": "С ПЫЛУ С ЖАРУ: LEGO BATMAN: LEGACY OF THE DARK KNIGHT",
       "url": "https://www.youtube.com/watch?v=VJrexkISGHo",
       "published_at_utc": "2026-05-22T17:00:16+00:00",
-      "age_seconds": 1925
+      "age_seconds": 2167
     },
     {
       "channel": "Alina Мuradimova",
       "title": "ЧТО СТАЛО С ДЕТСКИМИ МУЛЬТИКАМИ? | Брейнрот, ИИ и экранная зависимость",
       "url": "https://www.youtube.com/watch?v=gUqcuXcYzzE",
       "published_at_utc": "2026-05-22T16:30:33+00:00",
-      "age_seconds": 3671
+      "age_seconds": 3914
     },
     {
       "channel": "Майни",
       "title": "Каннибалы. Что у них в голове? ► Альберт | Реакция",
       "url": "https://www.youtube.com/watch?v=kQiijVspfzY",
       "published_at_utc": "2026-05-22T16:00:29+00:00",
-      "age_seconds": 5439
+      "age_seconds": 5679
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Диплом пирата",
       "url": "https://www.youtube.com/shorts/PKq0rJUzJgU",
       "published_at_utc": "2026-05-22T16:00:12+00:00",
-      "age_seconds": 5485
+      "age_seconds": 5723
     }
   ]
 }
