@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-22T17:22:52.281056+00:00",
+  "generated_at_utc": "2026-05-22T17:24:53.332659+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,49 @@
       "title": "Фиштофер счастлив — все счастливы",
       "url": "https://www.youtube.com/shorts/-sC9IrrTid0",
       "published_at_utc": "2026-05-22T17:00:34+00:00",
-      "age_seconds": 1256
+      "age_seconds": 1377
+    },
+    {
+      "channel": "IGM",
+      "title": "С ПЫЛУ С ЖАРУ: LEGO BATMAN: LEGACY OF THE DARK KNIGHT",
+      "url": "https://www.youtube.com/watch?v=VJrexkISGHo",
+      "published_at_utc": "2026-05-22T17:00:16+00:00",
+      "age_seconds": 1437
     },
     {
       "channel": "Alina Мuradimova",
       "title": "ЧТО СТАЛО С ДЕТСКИМИ МУЛЬТИКАМИ? | Брейнрот, ИИ и экранная зависимость",
       "url": "https://www.youtube.com/watch?v=gUqcuXcYzzE",
       "published_at_utc": "2026-05-22T16:30:33+00:00",
-      "age_seconds": 3063
+      "age_seconds": 3185
     },
     {
       "channel": "Майни",
       "title": "Каннибалы. Что у них в голове? ► Альберт | Реакция",
       "url": "https://www.youtube.com/watch?v=kQiijVspfzY",
       "published_at_utc": "2026-05-22T16:00:29+00:00",
-      "age_seconds": 4838
+      "age_seconds": 4958
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Диплом пирата",
       "url": "https://www.youtube.com/shorts/PKq0rJUzJgU",
       "published_at_utc": "2026-05-22T16:00:12+00:00",
-      "age_seconds": 4878
+      "age_seconds": 4999
     },
     {
       "channel": "Никита Нестеров",
       "title": "Строим кофейню на 130 квадратов! Вторая часть",
       "url": "https://www.youtube.com/watch?v=DGs7PAdfFlY",
       "published_at_utc": "2026-05-22T15:31:08+00:00",
-      "age_seconds": 6649
+      "age_seconds": 6773
     },
     {
       "channel": "Собиратель новостей",
       "title": "ПАКИСТАНЕЦ Возглавил Второй По Величине Город Британии",
       "url": "https://www.youtube.com/shorts/w5-QUH9Yl5w",
       "published_at_utc": "2026-05-22T15:30:22+00:00",
-      "age_seconds": 6663
-    },
-    {
-      "channel": "IXBT Games",
-      "title": "НЕ рекомендуем - Directive 8020 (обзор)",
-      "url": "https://www.youtube.com/watch?v=bMrlqgSqFqY",
-      "published_at_utc": "2026-05-22T15:22:58+00:00",
-      "age_seconds": 7153
+      "age_seconds": 6784
     }
   ]
 }
