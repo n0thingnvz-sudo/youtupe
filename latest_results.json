@@ -1,76 +1,76 @@
 {
-  "generated_at_utc": "2026-05-22T13:13:06.952830+00:00",
+  "generated_at_utc": "2026-05-22T13:17:04.940033+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "QuarkDay lite",
+      "title": "ВСЕ, ЧТО ТЕБЕ НУЖНО ЗНАТЬ ПРО АРГ ФИЛИАН",
+      "url": "https://www.youtube.com/watch?v=4x1FX1Wo_s4",
+      "published_at_utc": "2026-05-22T13:00:36+00:00",
+      "age_seconds": 964
+    },
     {
       "channel": "Короче, новости",
       "title": "Новости Врут? Почему мы Всё Забыли",
       "url": "https://www.youtube.com/shorts/k3WPZdlN6uE",
       "published_at_utc": "2026-05-22T12:48:49+00:00",
-      "age_seconds": 1359
+      "age_seconds": 1598
     },
     {
       "channel": "Sherl0ck",
       "title": "🏆MAJOR ОБНОВА!🏆| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/vLZCWf4qVpE",
       "published_at_utc": "2026-05-22T12:45:14+00:00",
-      "age_seconds": 1636
+      "age_seconds": 1873
     },
     {
       "channel": "МайорКрафт",
       "title": "Когда ты профессиональный каратист #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/sCsAK54g3Wk",
       "published_at_utc": "2026-05-22T12:45:01+00:00",
-      "age_seconds": 1614
+      "age_seconds": 1856
     },
     {
       "channel": "Obsidian Time",
       "title": "Пивное ПРОХОЖДЕНИЕ АВТОБУСА (надеюсь) - RV There Yet вместе с Фиашем, Молвином, ТНВ",
       "url": "https://www.youtube.com/watch?v=0raq6l-BtY8",
       "published_at_utc": "2026-05-22T12:42:21+00:00",
-      "age_seconds": 1839
+      "age_seconds": 2078
     },
     {
       "channel": "Физика от Побединского",
       "title": "Ты точно не знал это о Северном полюсе!",
       "url": "https://www.youtube.com/shorts/IBichkOcxkE",
       "published_at_utc": "2026-05-22T12:31:21+00:00",
-      "age_seconds": 2385
+      "age_seconds": 2625
     },
     {
       "channel": "МЯЧ Production",
       "title": "Саня – главный фанат Барселоны на Мяче ☠️",
       "url": "https://www.youtube.com/shorts/NdnxQ0M0Rvc",
       "published_at_utc": "2026-05-22T12:26:20+00:00",
-      "age_seconds": 2725
+      "age_seconds": 2962
     },
     {
       "channel": "Смешновости",
       "title": "Говорит маме, что беременна 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/JWE2Pofu3VQ",
       "published_at_utc": "2026-05-22T12:00:23+00:00",
-      "age_seconds": 4306
+      "age_seconds": 4540
     },
     {
       "channel": "EVG",
       "title": "Я ПРОНИК В ТИМУ ПО ВИРУСУ MAMONT.apk",
       "url": "https://www.youtube.com/watch?v=YRZBIVOzfbw",
       "published_at_utc": "2026-05-22T11:56:26+00:00",
-      "age_seconds": 4496
+      "age_seconds": 4737
     },
     {
       "channel": "Собиратель новостей",
       "title": "Девушка Подавилась ЯБЛОКОМ на Лекции и Умерла",
       "url": "https://www.youtube.com/shorts/u0ToGAMaFUI",
       "published_at_utc": "2026-05-22T11:30:33+00:00",
-      "age_seconds": 6054
-    },
-    {
-      "channel": "StopGame",
-      "title": "Почему разрешили поиграть ребёнку? 💻",
-      "url": "https://www.youtube.com/shorts/S1PbmxKLsQk",
-      "published_at_utc": "2026-05-22T11:15:35+00:00",
-      "age_seconds": 7019
+      "age_seconds": 6293
     }
   ]
 }
