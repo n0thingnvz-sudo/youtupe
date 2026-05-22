@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-05-22T10:54:48.955746+00:00",
+  "generated_at_utc": "2026-05-22T10:56:47.808286+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Nerkin",
+      "title": "Прошёл Aether II в Майнкрафт на 100%",
+      "url": "https://www.youtube.com/watch?v=iu3_Nq_ApMs",
+      "published_at_utc": "2026-05-22T10:47:26+00:00",
+      "age_seconds": 539
+    },
     {
       "channel": "sereGGa",
       "title": "[БЕЗ ЗАДЕРЖКИ] Tundra vs Xtreme | bo3 | Dreamleague s29",
       "url": "https://www.youtube.com/watch?v=y4M3A8EKrCs",
       "published_at_utc": "2026-05-22T10:40:14+00:00",
-      "age_seconds": 849
+      "age_seconds": 968
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Снуп легенда стримов",
       "url": "https://www.youtube.com/shorts/FmEW7bna0TY",
       "published_at_utc": "2026-05-22T10:00:02+00:00",
-      "age_seconds": 3207
+      "age_seconds": 3327
     },
     {
       "channel": "Смешновости",
       "title": "Моментальное выздоровление 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/LB6tav3uBpk",
       "published_at_utc": "2026-05-22T10:00:01+00:00",
-      "age_seconds": 3233
+      "age_seconds": 3352
     },
     {
       "channel": "ДАНИК",
       "title": "Ралли 2 фит с Бастой!",
       "url": "https://www.youtube.com/shorts/xwqrwMzcV7Q",
       "published_at_utc": "2026-05-22T09:58:15+00:00",
-      "age_seconds": 3348
+      "age_seconds": 3467
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Китовод Бубль 🐳 Aртикул BБ: WW426188 #boardgame #настольнаяигра #настолка",
       "url": "https://www.youtube.com/shorts/MAN5v6MuIMM",
       "published_at_utc": "2026-05-22T09:55:44+00:00",
-      "age_seconds": 3489
+      "age_seconds": 3608
     },
     {
       "channel": "Team Spirit CS",
       "title": "МОТИВАЦИЯ - ЗАЛОГ УСПЕХА 😅 #teamspirit #cs2",
       "url": "https://www.youtube.com/shorts/Hu0cTS9yCts",
       "published_at_utc": "2026-05-22T09:51:53+00:00",
-      "age_seconds": 3751
+      "age_seconds": 3870
     },
     {
       "channel": "ZOMBIERUS",
       "title": "ШУТЕР ИЗ ПРОШЛОГО / THE DARKNESS (2007)",
       "url": "https://www.youtube.com/watch?v=I0w6fhE6WN4",
       "published_at_utc": "2026-05-22T09:23:10+00:00",
-      "age_seconds": 5492
+      "age_seconds": 5611
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Когда Опоздал с Кормёшкой 🐴",
       "url": "https://www.youtube.com/shorts/dHHHtRbY6Jw",
       "published_at_utc": "2026-05-22T09:09:00+00:00",
-      "age_seconds": 6293
+      "age_seconds": 6412
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 30",
       "url": "https://www.youtube.com/shorts/J6Ex-c10H8E",
       "published_at_utc": "2026-05-22T09:01:16+00:00",
-      "age_seconds": 6722
+      "age_seconds": 6842
     },
     {
       "channel": "Новостной Гусь",
       "title": "Физик-художник",
       "url": "https://www.youtube.com/shorts/IH2CqqgQjYA",
       "published_at_utc": "2026-05-22T09:00:31+00:00",
-      "age_seconds": 6777
+      "age_seconds": 6896
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Главный пауэрлифтер ютуба",
       "url": "https://www.youtube.com/shorts/fZbh3MN_YVo",
       "published_at_utc": "2026-05-22T09:00:01+00:00",
-      "age_seconds": 6808
+      "age_seconds": 6928
     }
   ]
 }
