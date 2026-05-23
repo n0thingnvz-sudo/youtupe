@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-05-23T19:36:50.781600+00:00",
+  "generated_at_utc": "2026-05-23T19:38:47.150739+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Реддингтон спас людей в магазине😳",
+      "url": "https://www.youtube.com/shorts/PCwuNMZnOvU",
+      "published_at_utc": "2026-05-23T19:23:54+00:00",
+      "age_seconds": 813
+    },
     {
       "channel": "Объяпонился",
       "title": "НИКОГДА не езжай в Японию, если ты высокий 😯",
       "url": "https://www.youtube.com/shorts/n-42sVnr8TE",
       "published_at_utc": "2026-05-23T19:11:58+00:00",
-      "age_seconds": 1427
+      "age_seconds": 1546
     },
     {
       "channel": "kinoluv",
       "title": "Преступник №1 спас людей в магазине😳",
       "url": "https://www.youtube.com/shorts/WUo0RaGZ4E8",
       "published_at_utc": "2026-05-23T19:02:56+00:00",
-      "age_seconds": 1952
+      "age_seconds": 2071
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде это надо видеть 10 серия",
       "url": "https://www.youtube.com/watch?v=7-LVKydOmRA",
       "published_at_utc": "2026-05-23T18:43:05+00:00",
-      "age_seconds": 3146
+      "age_seconds": 3264
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Это уже 3-е поколение Яндекс ТВ",
       "url": "https://www.youtube.com/watch?v=GcZ-YGjzQe8",
       "published_at_utc": "2026-05-23T18:30:35+00:00",
-      "age_seconds": 3920
+      "age_seconds": 4038
     },
     {
       "channel": "Сергей Милушкин",
       "title": "267 тысяч островов у одной страны",
       "url": "https://www.youtube.com/shorts/BXcZY_Jx07g",
       "published_at_utc": "2026-05-23T18:19:13+00:00",
-      "age_seconds": 4578
+      "age_seconds": 4696
     }
   ]
 }
