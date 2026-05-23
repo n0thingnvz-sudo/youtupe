@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-23T18:48:51.379601+00:00",
+  "generated_at_utc": "2026-05-23T18:50:45.401937+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,56 @@
       "title": "Реддингтон спас людей в магазине😳",
       "url": "https://www.youtube.com/shorts/mGbusVsLuGw",
       "published_at_utc": "2026-05-23T18:43:26+00:00",
-      "age_seconds": 242
+      "age_seconds": 361
+    },
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Что происходит в Калининграде это надо видеть 10 серия",
+      "url": "https://www.youtube.com/watch?v=7-LVKydOmRA",
+      "published_at_utc": "2026-05-23T18:43:05+00:00",
+      "age_seconds": 384
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Это уже 3-е поколение Яндекс ТВ",
       "url": "https://www.youtube.com/watch?v=GcZ-YGjzQe8",
       "published_at_utc": "2026-05-23T18:30:35+00:00",
-      "age_seconds": 1043
+      "age_seconds": 1157
     },
     {
       "channel": "Сергей Милушкин",
       "title": "267 тысяч островов у одной страны",
       "url": "https://www.youtube.com/shorts/BXcZY_Jx07g",
       "published_at_utc": "2026-05-23T18:19:13+00:00",
-      "age_seconds": 1702
+      "age_seconds": 1816
     },
     {
       "channel": "perox",
       "title": "Красотки🤩 тгк: Пекарня Пирога #theboys #пацаны #thedeep #perox #перокс",
       "url": "https://www.youtube.com/shorts/8b1JM0ny8wM",
       "published_at_utc": "2026-05-23T17:33:39+00:00",
-      "age_seconds": 4411
+      "age_seconds": 4532
     },
     {
       "channel": "JOHAN",
       "title": "Откуда столько читеров ( ARC Raiders )",
       "url": "https://www.youtube.com/watch?v=9XE7Us0zuXY",
       "published_at_utc": "2026-05-23T17:15:50+00:00",
-      "age_seconds": 5483
+      "age_seconds": 5603
     },
     {
       "channel": "Vert Dider",
       "title": "Новая озвучка уже на канале!",
       "url": "https://www.youtube.com/shorts/1KWNjNT41bI",
       "published_at_utc": "2026-05-23T16:53:33+00:00",
-      "age_seconds": 6812
+      "age_seconds": 6932
     },
     {
       "channel": "Margaritka",
       "title": "Искал медь — нашёл золото 😄",
       "url": "https://www.youtube.com/shorts/OuDZMo9hzPI",
       "published_at_utc": "2026-05-23T16:50:33+00:00",
-      "age_seconds": 7046
+      "age_seconds": 7160
     }
   ]
 }
