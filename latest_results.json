@@ -1,76 +1,69 @@
 {
-  "generated_at_utc": "2026-05-23T11:00:49.248527+00:00",
+  "generated_at_utc": "2026-05-23T11:02:55.301644+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Вся жизнь шоу",
+      "url": "https://www.youtube.com/shorts/Hah9xwlD38M",
+      "published_at_utc": "2026-05-23T11:00:29+00:00",
+      "age_seconds": 62
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Уснул или не уснул?",
+      "url": "https://www.youtube.com/shorts/F1xG-aMXBtk",
+      "published_at_utc": "2026-05-23T11:00:14+00:00",
+      "age_seconds": 76
+    },
     {
       "channel": "1337LikeR",
       "title": "Всратые Игры 4",
       "url": "https://www.youtube.com/watch?v=9ctyKHY22Tk",
       "published_at_utc": "2026-05-23T10:29:12+00:00",
-      "age_seconds": 1880
+      "age_seconds": 2006
     },
     {
       "channel": "Ассистент грумера",
       "title": "ДРУЖОК В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/IlsdQrQuuxo",
       "published_at_utc": "2026-05-23T10:18:58+00:00",
-      "age_seconds": 2440
+      "age_seconds": 2562
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Гость на стриме",
       "url": "https://www.youtube.com/shorts/XN1b2WTEvsA",
       "published_at_utc": "2026-05-23T10:00:34+00:00",
-      "age_seconds": 3534
+      "age_seconds": 3656
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Так называемые агрессивные продажи",
       "url": "https://www.youtube.com/shorts/Q0cym7niBf8",
       "published_at_utc": "2026-05-23T10:00:26+00:00",
-      "age_seconds": 3543
+      "age_seconds": 3665
     },
     {
       "channel": "soskamakaka",
       "title": "ЧТО БУДЕТ С ПАНТАЛОНЕ?#genshinimpact #genshin #геншинимпакт #геншин #панталоне #дотторе #люмин #итер",
       "url": "https://www.youtube.com/shorts/EnoheML3Qok",
       "published_at_utc": "2026-05-23T10:00:26+00:00",
-      "age_seconds": 3604
+      "age_seconds": 3729
     },
     {
       "channel": "Смешновости",
       "title": "Родили подружек 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/5Jjfs8fgZDE",
       "published_at_utc": "2026-05-23T10:00:20+00:00",
-      "age_seconds": 3572
+      "age_seconds": 3696
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ ГОВОРЯ, НАШЁЛ ЗАБРОШЕННУЮ ДЕРЕВНЮ",
       "url": "https://www.youtube.com/watch?v=BOEho5sre4k",
       "published_at_utc": "2026-05-23T10:00:11+00:00",
-      "age_seconds": 3541
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Подводный турнир по шахматам",
-      "url": "https://www.youtube.com/shorts/SN9i_jcMkWM",
-      "published_at_utc": "2026-05-23T09:00:24+00:00",
-      "age_seconds": 7143
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Машинка барби",
-      "url": "https://www.youtube.com/shorts/JCuEt5TXHVo",
-      "published_at_utc": "2026-05-23T09:00:09+00:00",
-      "age_seconds": 7160
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Благодарный котик",
-      "url": "https://www.youtube.com/shorts/xTrtMHR4RD8",
-      "published_at_utc": "2026-05-23T09:00:07+00:00",
-      "age_seconds": 7161
+      "age_seconds": 3662
     }
   ]
 }
