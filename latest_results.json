@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-05-23T11:08:47.298012+00:00",
+  "generated_at_utc": "2026-05-23T11:10:49.603192+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Уснул или не уснул?",
+      "url": "https://www.youtube.com/shorts/F1xG-aMXBtk",
+      "published_at_utc": "2026-05-23T11:00:14+00:00",
+      "age_seconds": 555
+    },
     {
       "channel": "1337LikeR",
       "title": "Всратые Игры 4",
       "url": "https://www.youtube.com/watch?v=9ctyKHY22Tk",
       "published_at_utc": "2026-05-23T10:29:12+00:00",
-      "age_seconds": 2357
+      "age_seconds": 2481
     },
     {
       "channel": "Ассистент грумера",
       "title": "ДРУЖОК В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/IlsdQrQuuxo",
       "published_at_utc": "2026-05-23T10:18:58+00:00",
-      "age_seconds": 2920
+      "age_seconds": 3041
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Гость на стриме",
       "url": "https://www.youtube.com/shorts/XN1b2WTEvsA",
       "published_at_utc": "2026-05-23T10:00:34+00:00",
-      "age_seconds": 4014
+      "age_seconds": 4135
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Так называемые агрессивные продажи",
       "url": "https://www.youtube.com/shorts/Q0cym7niBf8",
       "published_at_utc": "2026-05-23T10:00:26+00:00",
-      "age_seconds": 4022
+      "age_seconds": 4144
     },
     {
       "channel": "soskamakaka",
       "title": "ЧТО БУДЕТ С ПАНТАЛОНЕ?#genshinimpact #genshin #геншинимпакт #геншин #панталоне #дотторе #люмин #итер",
       "url": "https://www.youtube.com/shorts/EnoheML3Qok",
       "published_at_utc": "2026-05-23T10:00:26+00:00",
-      "age_seconds": 4080
+      "age_seconds": 4205
     },
     {
       "channel": "Смешновости",
       "title": "Родили подружек 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/5Jjfs8fgZDE",
       "published_at_utc": "2026-05-23T10:00:20+00:00",
-      "age_seconds": 4052
+      "age_seconds": 4174
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ ГОВОРЯ, НАШЁЛ ЗАБРОШЕННУЮ ДЕРЕВНЮ",
       "url": "https://www.youtube.com/watch?v=BOEho5sre4k",
       "published_at_utc": "2026-05-23T10:00:11+00:00",
-      "age_seconds": 4021
+      "age_seconds": 4141
     }
   ]
 }
