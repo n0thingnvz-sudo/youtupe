@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-05-23T18:56:58.594513+00:00",
+  "generated_at_utc": "2026-05-23T18:58:52.838288+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Что происходит в Калининграде это надо видеть 10 серия",
-      "url": "https://www.youtube.com/watch?v=7-LVKydOmRA",
-      "published_at_utc": "2026-05-23T18:43:05+00:00",
-      "age_seconds": 745
-    },
     {
       "channel": "Тимур Сидельников",
       "title": "Это уже 3-е поколение Яндекс ТВ",
       "url": "https://www.youtube.com/watch?v=GcZ-YGjzQe8",
       "published_at_utc": "2026-05-23T18:30:35+00:00",
-      "age_seconds": 1524
+      "age_seconds": 1643
     },
     {
       "channel": "Сергей Милушкин",
       "title": "267 тысяч островов у одной страны",
       "url": "https://www.youtube.com/shorts/BXcZY_Jx07g",
       "published_at_utc": "2026-05-23T18:19:13+00:00",
-      "age_seconds": 2177
+      "age_seconds": 2301
     },
     {
       "channel": "perox",
       "title": "Красотки🤩 тгк: Пекарня Пирога #theboys #пацаны #thedeep #perox #перокс",
       "url": "https://www.youtube.com/shorts/8b1JM0ny8wM",
       "published_at_utc": "2026-05-23T17:33:39+00:00",
-      "age_seconds": 4892
+      "age_seconds": 5011
     },
     {
       "channel": "JOHAN",
       "title": "Откуда столько читеров ( ARC Raiders )",
       "url": "https://www.youtube.com/watch?v=9XE7Us0zuXY",
       "published_at_utc": "2026-05-23T17:15:50+00:00",
-      "age_seconds": 5963
+      "age_seconds": 6083
     }
   ]
 }
