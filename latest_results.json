@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-05-23T15:06:54.628013+00:00",
+  "generated_at_utc": "2026-05-23T15:08:50.156706+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Recrent",
+      "title": "ЧЕЛОВЕК ПРОТИВ ИИ В PUBG",
+      "url": "https://www.youtube.com/watch?v=0VnySPNRP14",
+      "published_at_utc": "2026-05-23T14:59:31+00:00",
+      "age_seconds": 547
+    },
     {
       "channel": "kinoluv",
       "title": "Схема вроде понятная😁 Новый фильм Гая Ричи «Грязные деньги» уже в кино! #грязныеденьги",
       "url": "https://www.youtube.com/shorts/VQob4w496ko",
       "published_at_utc": "2026-05-23T14:39:10+00:00",
-      "age_seconds": 1578
+      "age_seconds": 1698
     },
     {
       "channel": "kinoluv",
       "title": "План надёжный, как швейцарские часы😅 Фильм Гая Ричи «Грязные деньги» уже в кино! #грязныеденьги",
       "url": "https://www.youtube.com/shorts/s0tJ1dvT9kc",
       "published_at_utc": "2026-05-23T14:38:56+00:00",
-      "age_seconds": 1592
+      "age_seconds": 1712
     },
     {
       "channel": "leafxup",
       "title": "ПОЛЁТ НОМЕР 67...",
       "url": "https://www.youtube.com/watch?v=lFt6UVj9tek",
       "published_at_utc": "2026-05-23T14:31:08+00:00",
-      "age_seconds": 2106
+      "age_seconds": 2223
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ПРОТЕИН - Ожидание vs Реальность (смешное видео, юмор, приколы, прикол, поржать)",
       "url": "https://www.youtube.com/shorts/hn71porq9nE",
       "published_at_utc": "2026-05-23T14:20:49+00:00",
-      "age_seconds": 2701
+      "age_seconds": 2820
     },
     {
       "channel": "Ремонтяш",
       "title": "ИГРОВОЙ ПК с OZON за 42 тысячи рублей",
       "url": "https://www.youtube.com/watch?v=nxb46D01i_A",
       "published_at_utc": "2026-05-23T14:13:19+00:00",
-      "age_seconds": 3139
+      "age_seconds": 3259
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] 7 дней до НАШЫ ИГРЫ 2026 - кое-что покажем, кое-что расскажем",
       "url": "https://www.youtube.com/watch?v=mH--LNnNkrU",
       "published_at_utc": "2026-05-23T14:11:38+00:00",
-      "age_seconds": 3276
+      "age_seconds": 3393
     },
     {
       "channel": "kinoluv",
       "title": "Она знает своё дело😏 Новый фильм Гая Ричи «Грязные деньги» уже в кино! #грязныеденьги",
       "url": "https://www.youtube.com/shorts/T4haQN73j1A",
       "published_at_utc": "2026-05-23T14:07:41+00:00",
-      "age_seconds": 3467
+      "age_seconds": 3587
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как создавался шедевр",
       "url": "https://www.youtube.com/shorts/Bgn8vOAfBqg",
       "published_at_utc": "2026-05-23T14:00:38+00:00",
-      "age_seconds": 3892
+      "age_seconds": 4012
     },
     {
       "channel": "Sherl0ck",
       "title": "👷ПОЧИНИТЕ CS👷| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/TpN7dsoqH0I",
       "published_at_utc": "2026-05-23T14:00:12+00:00",
-      "age_seconds": 3966
+      "age_seconds": 4083
     },
     {
       "channel": "Марк Аддерли",
       "title": "УЛЬТИМАТИВНОЕ ВЫЖИВАНИЕ НА WINDOWS XP В 2026 ГОДУ",
       "url": "https://www.youtube.com/watch?v=BqljMuG317U",
       "published_at_utc": "2026-05-23T14:00:06+00:00",
-      "age_seconds": 3931
+      "age_seconds": 4051
     },
     {
       "channel": "МайорКрафт",
       "title": "Когда первый раз увидел доллар #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/xSIcSW-2zmU",
       "published_at_utc": "2026-05-23T13:45:14+00:00",
-      "age_seconds": 4835
+      "age_seconds": 4955
     },
     {
       "channel": "Cut The Crap",
       "title": "Посмотри это перед МАНДАЛОРЦЕМ и ГРОГУ",
       "url": "https://www.youtube.com/watch?v=Lc8U5BM7-44",
       "published_at_utc": "2026-05-23T13:39:12+00:00",
-      "age_seconds": 5213
+      "age_seconds": 5333
     },
     {
       "channel": "Новостной Гусь",
       "title": "Дописался гневных смс",
       "url": "https://www.youtube.com/shorts/QQeAKJYCzaw",
       "published_at_utc": "2026-05-23T13:30:13+00:00",
-      "age_seconds": 5715
+      "age_seconds": 5835
     },
     {
       "channel": "Майни",
       "title": "АААААААААААААААААА ► leafxup | Реакция",
       "url": "https://www.youtube.com/watch?v=5cwZfb7gjrI",
       "published_at_utc": "2026-05-23T13:20:19+00:00",
-      "age_seconds": 6288
+      "age_seconds": 6408
     }
   ]
 }
