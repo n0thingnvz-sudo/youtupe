@@ -1,132 +1,139 @@
 {
-  "generated_at_utc": "2026-05-23T08:52:43.443276+00:00",
+  "generated_at_utc": "2026-05-23T08:54:44.757166+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Коннор",
+      "title": "Проверил, как вам?",
+      "url": "https://www.youtube.com/shorts/h2uvQIP0n4w",
+      "published_at_utc": "2026-05-23T08:42:52+00:00",
+      "age_seconds": 659
+    },
     {
       "channel": "ДУШНИЛА",
       "title": "МИФЫ № 36",
       "url": "https://www.youtube.com/shorts/6NFsWRpayz8",
       "published_at_utc": "2026-05-23T08:31:38+00:00",
-      "age_seconds": 1179
+      "age_seconds": 1299
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Уфолог иои уролог",
       "url": "https://www.youtube.com/shorts/EvDXfsWmAlM",
       "published_at_utc": "2026-05-23T08:30:13+00:00",
-      "age_seconds": 1276
+      "age_seconds": 1395
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "КОРГИ: Вся правда о породе за 25 минут",
       "url": "https://www.youtube.com/watch?v=sxCiejsjXHY",
       "published_at_utc": "2026-05-23T08:26:45+00:00",
-      "age_seconds": 1506
+      "age_seconds": 1625
     },
     {
       "channel": "Никитун",
       "title": "Самое РАДИОАКТИВНОЕ Место Fallout",
       "url": "https://www.youtube.com/shorts/yXNtpRKJxG0",
       "published_at_utc": "2026-05-23T08:15:06+00:00",
-      "age_seconds": 2252
+      "age_seconds": 2373
     },
     {
       "channel": "МЯЧ Production",
       "title": "5 ПРИЧИН Финал ЛЧ выиграет ПСЖ / «Арсенал»",
       "url": "https://www.youtube.com/watch?v=_cEpU9s9VzY",
       "published_at_utc": "2026-05-23T08:00:39+00:00",
-      "age_seconds": 3059
+      "age_seconds": 3178
     },
     {
       "channel": "EVG",
       "title": "Это Идеальная Всратая Хата на Новый Год!",
       "url": "https://www.youtube.com/shorts/IrqOX2kTzDk",
       "published_at_utc": "2026-05-23T08:00:36+00:00",
-      "age_seconds": 3045
+      "age_seconds": 3164
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик встречает курьера 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/a1bg30SoRkM",
       "published_at_utc": "2026-05-23T08:00:25+00:00",
-      "age_seconds": 3087
+      "age_seconds": 3206
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱ПЕКИ ПИРОГИ ИЛИ УМРИ В РОБЛОКС!",
       "url": "https://www.youtube.com/watch?v=hL3oWunGTdA",
       "published_at_utc": "2026-05-23T08:00:25+00:00",
-      "age_seconds": 3104
+      "age_seconds": 3223
     },
     {
       "channel": "Погнали!",
       "title": "Самое необычное рукопожатие #погнали",
       "url": "https://www.youtube.com/shorts/l4YLouILj0c",
       "published_at_utc": "2026-05-23T08:00:23+00:00",
-      "age_seconds": 3096
+      "age_seconds": 3216
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😬 Майнкрафт Сказка о Репке Лололошке...",
       "url": "https://www.youtube.com/shorts/dkU6FoYR1eg",
       "published_at_utc": "2026-05-23T08:00:22+00:00",
-      "age_seconds": 3108
+      "age_seconds": 3228
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Парни к успеху шли",
       "url": "https://www.youtube.com/shorts/1AThOMHNPXI",
       "published_at_utc": "2026-05-23T08:00:15+00:00",
-      "age_seconds": 3074
+      "age_seconds": 3193
     },
     {
       "channel": "Wylsacom",
       "title": "Искал кошелек, а нашел золото!",
       "url": "https://www.youtube.com/shorts/GrNRmbaCjV4",
       "published_at_utc": "2026-05-23T08:00:01+00:00",
-      "age_seconds": 3076
+      "age_seconds": 3196
     },
     {
       "channel": "VASYAN1000",
       "title": "Не выходи из машины! #shorts #quest #games #horror",
       "url": "https://www.youtube.com/shorts/FVmAw3p5pQ4",
       "published_at_utc": "2026-05-23T07:25:00+00:00",
-      "age_seconds": 5200
+      "age_seconds": 5319
     },
     {
       "channel": "Vert Dider",
       "title": "Раньше лёд стоил миллионы [Veritasium]",
       "url": "https://www.youtube.com/watch?v=vBXHhsAiSww",
       "published_at_utc": "2026-05-23T07:18:50+00:00",
-      "age_seconds": 5535
+      "age_seconds": 5655
     },
     {
       "channel": "Собиратель новостей",
       "title": "Японцы Пересадят Весть Мир на МОНОКОЛЕСО",
       "url": "https://www.youtube.com/shorts/gaUvj8j78mA",
       "published_at_utc": "2026-05-23T07:15:04+00:00",
-      "age_seconds": 5780
+      "age_seconds": 5899
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Акция ред була",
       "url": "https://www.youtube.com/shorts/BzeqDvvc_uw",
       "published_at_utc": "2026-05-23T07:00:39+00:00",
-      "age_seconds": 6650
+      "age_seconds": 6769
     },
     {
       "channel": "Wylsacom",
       "title": "Бесконечные электронные крестики-нолики",
       "url": "https://www.youtube.com/shorts/OCLJtaapClg",
       "published_at_utc": "2026-05-23T07:00:32+00:00",
-      "age_seconds": 6645
+      "age_seconds": 6765
     },
     {
       "channel": "IXBT Games",
       "title": "Позор за такой подход - Directive 8020 #ixbtgames #ixbt #directive8020 #supermassivegames #игры",
       "url": "https://www.youtube.com/shorts/iV5WqsxbkEM",
       "published_at_utc": "2026-05-23T07:00:18+00:00",
-      "age_seconds": 6710
+      "age_seconds": 6829
     }
   ]
 }
