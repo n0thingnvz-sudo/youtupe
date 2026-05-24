@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-05-24T12:04:47.333787+00:00",
+  "generated_at_utc": "2026-05-24T12:06:54.480457+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Теперь мужик будет счастлив",
+      "url": "https://www.youtube.com/shorts/7xHX4diG4ro",
+      "published_at_utc": "2026-05-24T12:00:34+00:00",
+      "age_seconds": 295
+    },
     {
       "channel": "EVG",
       "title": "ЧТО ВНУТРИ НОУТБУКА УЧИТЕЛЯ, ПРАВДА ИМПОРТОЗАМЕЩЕНИЕ?",
       "url": "https://www.youtube.com/shorts/aHcbrYf0NDk",
       "published_at_utc": "2026-05-24T11:23:19+00:00",
-      "age_seconds": 2403
+      "age_seconds": 2522
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Современный способ.уборки",
       "url": "https://www.youtube.com/shorts/Ts7A8ih-THs",
       "published_at_utc": "2026-05-24T11:00:19+00:00",
-      "age_seconds": 3791
+      "age_seconds": 3910
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Реклама айфонов из Тайланда",
       "url": "https://www.youtube.com/shorts/_dCH89wOYgE",
       "published_at_utc": "2026-05-24T11:00:04+00:00",
-      "age_seconds": 3806
+      "age_seconds": 3925
     },
     {
       "channel": "sereGGa",
       "title": "FINALS | Team Spirit vs Aurora | bo3 | Dreamleague s29 /w @pvp_easy",
       "url": "https://www.youtube.com/watch?v=XHI0DIbDgtE",
       "published_at_utc": "2026-05-24T10:53:14+00:00",
-      "age_seconds": 4268
+      "age_seconds": 4396
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Симпсонов #4",
       "url": "https://www.youtube.com/watch?v=lGaetCJW2Y0",
       "published_at_utc": "2026-05-24T10:52:06+00:00",
-      "age_seconds": 4277
+      "age_seconds": 4396
     },
     {
       "channel": "IGM",
       "title": "ИГРОЖУРЫ ОКАЗАЛИСЬ НЕ ПРАВЫ (СНОВА)",
       "url": "https://www.youtube.com/shorts/F17G8HpH7sw",
       "published_at_utc": "2026-05-24T10:43:43+00:00",
-      "age_seconds": 4827
+      "age_seconds": 4954
     },
     {
       "channel": "Team Spirit CS",
       "title": "ДОНК ПРО КАРТУ CACHE 🤔 #teamspirit #cs2",
       "url": "https://www.youtube.com/shorts/1nNDEMv43vY",
       "published_at_utc": "2026-05-24T10:30:04+00:00",
-      "age_seconds": 5659
+      "age_seconds": 5787
     },
     {
       "channel": "soskamakaka",
       "title": "ОНИ ТАКИЕ РАЗНЫЕ! #genshinimpact #genshin #геншинимпакт #геншин #дотторе",
       "url": "https://www.youtube.com/shorts/zY6xyt1dIZk",
       "published_at_utc": "2026-05-24T10:08:56+00:00",
-      "age_seconds": 6933
+      "age_seconds": 7060
     }
   ]
 }
