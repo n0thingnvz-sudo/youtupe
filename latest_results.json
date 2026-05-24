@@ -1,90 +1,104 @@
 {
-  "generated_at_utc": "2026-05-24T14:10:55.248421+00:00",
+  "generated_at_utc": "2026-05-24T14:12:47.672342+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "IGM",
-      "title": "RDR ВРЁТ ВАМ ДО САМОГО КОНЦА",
-      "url": "https://www.youtube.com/watch?v=mq8V88lYHkU",
-      "published_at_utc": "2026-05-24T14:00:07+00:00",
-      "age_seconds": 606
+      "channel": "Тру Шорты",
+      "title": "Волки отнимают работу у пчёл",
+      "url": "https://www.youtube.com/shorts/1T-V2dEzSCg",
+      "published_at_utc": "2026-05-24T14:08:59+00:00",
+      "age_seconds": 124
+    },
+    {
+      "channel": "Джей",
+      "title": "КАК ЮЛИЯ Высоцкая готовит ПОСЛЕ ИНТЕРВЬЮ - колбаски ИЗ БАРАНИНЫ и СОСИСКИ в тесте \"ПАПА МОЖЕТ\"",
+      "url": "https://www.youtube.com/watch?v=1KFXMY5eL_I",
+      "published_at_utc": "2026-05-24T14:00:13+00:00",
+      "age_seconds": 670
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пиццерия в вулкане",
       "url": "https://www.youtube.com/shorts/nThX_SNbrXw",
       "published_at_utc": "2026-05-24T14:00:03+00:00",
-      "age_seconds": 570
+      "age_seconds": 686
+    },
+    {
+      "channel": "лизкеч",
+      "title": "вк: лизкетч",
+      "url": "https://www.youtube.com/shorts/7EL9q9ePZZs",
+      "published_at_utc": "2026-05-24T13:57:51+00:00",
+      "age_seconds": 829
     },
     {
       "channel": "Собиратель новостей",
       "title": "На Трампа Снова Устроили ОХОТУ",
       "url": "https://www.youtube.com/shorts/snF6dLW3Fyw",
       "published_at_utc": "2026-05-24T13:47:44+00:00",
-      "age_seconds": 1304
+      "age_seconds": 1420
     },
     {
       "channel": "dikiy_vadik",
       "title": "Как его спасти",
       "url": "https://www.youtube.com/shorts/EOhKpwhGz5g",
       "published_at_utc": "2026-05-24T13:47:20+00:00",
-      "age_seconds": 1350
+      "age_seconds": 1466
     },
     {
       "channel": "Сергей Милушкин",
       "title": "70-летняя женщина выкурила захватчиков квартиры в Испании",
       "url": "https://www.youtube.com/shorts/Im6ejg9CNjw",
       "published_at_utc": "2026-05-24T13:34:47+00:00",
-      "age_seconds": 2087
+      "age_seconds": 2203
     },
     {
       "channel": "Новостной Гусь",
       "title": "Сыр из Мистера Биста",
       "url": "https://www.youtube.com/shorts/FWjJQJKPZOU",
       "published_at_utc": "2026-05-24T13:30:10+00:00",
-      "age_seconds": 2362
+      "age_seconds": 2477
     },
     {
       "channel": "Droider",
       "title": "SKA — КВАДРАТНЫЙ КИЛОМЕТР ТЕЛЕСКОПОВ",
       "url": "https://www.youtube.com/watch?v=QTDeDeUH79Y",
       "published_at_utc": "2026-05-24T13:18:20+00:00",
-      "age_seconds": 3055
+      "age_seconds": 3174
     },
     {
       "channel": "CS2TV",
       "title": "ЕДИНСТВЕННЫЙ СПОСОБ ПОБЕДИТЬ VITALITY",
       "url": "https://www.youtube.com/watch?v=kqBaCMnPsFo",
       "published_at_utc": "2026-05-24T13:07:48+00:00",
-      "age_seconds": 3762
+      "age_seconds": 3877
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Любимчик публики",
       "url": "https://www.youtube.com/shorts/j8Y9hMPUEcg",
       "published_at_utc": "2026-05-24T13:00:16+00:00",
-      "age_seconds": 4157
+      "age_seconds": 4273
     },
     {
       "channel": "i11ushenka",
       "title": "ДоминосДорогСтрой 🍕",
       "url": "https://www.youtube.com/shorts/UK3XO6qj94c",
       "published_at_utc": "2026-05-24T12:50:35+00:00",
-      "age_seconds": 4716
+      "age_seconds": 4835
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Изобретательный пацан",
       "url": "https://www.youtube.com/shorts/aEafU0jjn7o",
       "published_at_utc": "2026-05-24T12:30:36+00:00",
-      "age_seconds": 5937
+      "age_seconds": 6053
     },
     {
       "channel": "МЯЧ Production",
       "title": "Оборона Арсенала принесет им Лигу Чемпионов? 🏆",
       "url": "https://www.youtube.com/shorts/9r5EwrU4L0A",
       "published_at_utc": "2026-05-24T12:17:51+00:00",
-      "age_seconds": 6712
+      "age_seconds": 6827
     }
   ]
 }
