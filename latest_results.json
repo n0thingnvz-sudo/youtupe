@@ -1,125 +1,132 @@
 {
-  "generated_at_utc": "2026-05-24T15:54:48.697026+00:00",
+  "generated_at_utc": "2026-05-24T15:56:52.895582+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "SlivkiShow",
+      "title": "Я СДЕЛАЛ ВОДНЫЙ ТЕРРАРИУМ С ЖИВОТНЫМ В ЛАМПОЧКЕ",
+      "url": "https://www.youtube.com/watch?v=WMsiz66BV1o",
+      "published_at_utc": "2026-05-24T15:44:54+00:00",
+      "age_seconds": 631
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Бассейн за 20ТЫЩ!",
       "url": "https://www.youtube.com/shorts/FtGGxoMr3Zo",
       "published_at_utc": "2026-05-24T15:44:12+00:00",
-      "age_seconds": 583
+      "age_seconds": 706
     },
     {
       "channel": "Murzofix",
       "title": "10 LVL FACEIT В ТИЛЬТЕ.. СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА ФЕЙСИТ В КС2",
       "url": "https://www.youtube.com/watch?v=uULWEQqnMpY",
       "published_at_utc": "2026-05-24T15:33:19+00:00",
-      "age_seconds": 1286
+      "age_seconds": 1410
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "ПАРАДЕЕВИЧ ПОКУПАЕТ ЗАРЯЖЕННЫЙ СКУТЕР | Парадеевич и Раговский ИРЛ СТРИМ",
       "url": "https://www.youtube.com/watch?v=111x6A1fx9I",
       "published_at_utc": "2026-05-24T15:31:01+00:00",
-      "age_seconds": 1377
+      "age_seconds": 1500
     },
     {
       "channel": "Jim Gold",
       "title": "МЕНЯ РАЗОБЛАЧИЛ ЕВГЕН БРО",
       "url": "https://www.youtube.com/watch?v=idWzSc5ojbU",
       "published_at_utc": "2026-05-24T15:25:37+00:00",
-      "age_seconds": 1692
+      "age_seconds": 1815
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Настоящие герои не носят маски",
       "url": "https://www.youtube.com/shorts/l1s_NVhiwpY",
       "published_at_utc": "2026-05-24T15:00:01+00:00",
-      "age_seconds": 3209
+      "age_seconds": 3329
     },
     {
       "channel": "Recrent",
       "title": "ХОРОШЕЕ ОРУЖИЕ",
       "url": "https://www.youtube.com/watch?v=y3YuOogx2ek",
       "published_at_utc": "2026-05-24T14:59:41+00:00",
-      "age_seconds": 3296
+      "age_seconds": 3420
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Слово из букв #boardgames #настольныеигры #games #игры #веселыеигры",
       "url": "https://www.youtube.com/shorts/AjKABqcVD5Y",
       "published_at_utc": "2026-05-24T14:48:53+00:00",
-      "age_seconds": 3900
+      "age_seconds": 4023
     },
     {
       "channel": "TheBrianMaps",
       "title": "Закрываю ГЕШТАЛЬТЫ ИЗ ДЕТСТВА.. *купил всё о чем мечтал*",
       "url": "https://www.youtube.com/watch?v=HFnB2valxTY",
       "published_at_utc": "2026-05-24T14:42:48+00:00",
-      "age_seconds": 4291
+      "age_seconds": 4413
     },
     {
       "channel": "Sherl0ck",
       "title": "☣️НОВАЯ ГРАНАТА!☣️| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/sELkxjwXWto",
       "published_at_utc": "2026-05-24T14:30:20+00:00",
-      "age_seconds": 5035
+      "age_seconds": 5157
     },
     {
       "channel": "This is Хорошо",
       "title": "Индийский диджей убил 140 куриц своей музыкой #shorts #шортс",
       "url": "https://www.youtube.com/shorts/aOEOcpjcNns",
       "published_at_utc": "2026-05-24T14:26:14+00:00",
-      "age_seconds": 5258
+      "age_seconds": 5380
     },
     {
       "channel": "Майни",
       "title": "▼ ОО, ХАГИ ВАГИ ДЛЯ УСПЕШНЫХ ✔️ ► Happy Wolf ( Хепи Вульф ) | Реакция",
       "url": "https://www.youtube.com/watch?v=5YL5GR2nJmc",
       "published_at_utc": "2026-05-24T14:12:15+00:00",
-      "age_seconds": 6053
+      "age_seconds": 6172
     },
     {
       "channel": "Тру Шорты",
       "title": "Волки отнимают работу у пчёл",
       "url": "https://www.youtube.com/shorts/1T-V2dEzSCg",
       "published_at_utc": "2026-05-24T14:08:59+00:00",
-      "age_seconds": 6244
+      "age_seconds": 6364
     },
     {
       "channel": "Мармеладыч",
       "title": "Какой Порядковый Номер у вас будет на нашем заводе?",
       "url": "https://www.youtube.com/shorts/0qHfiXsb_KI",
       "published_at_utc": "2026-05-24T14:04:40+00:00",
-      "age_seconds": 6543
+      "age_seconds": 6664
     },
     {
       "channel": "Джей",
       "title": "КАК ЮЛИЯ Высоцкая готовит ПОСЛЕ ИНТЕРВЬЮ - колбаски ИЗ БАРАНИНЫ и СОСИСКИ в тесте \"ПАПА МОЖЕТ\"",
       "url": "https://www.youtube.com/watch?v=1KFXMY5eL_I",
       "published_at_utc": "2026-05-24T14:00:13+00:00",
-      "age_seconds": 6791
+      "age_seconds": 6911
     },
     {
       "channel": "IGM",
       "title": "RDR ВРЁТ ВАМ ДО САМОГО КОНЦА",
       "url": "https://www.youtube.com/watch?v=mq8V88lYHkU",
       "published_at_utc": "2026-05-24T14:00:07+00:00",
-      "age_seconds": 6843
+      "age_seconds": 6966
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пиццерия в вулкане",
       "url": "https://www.youtube.com/shorts/nThX_SNbrXw",
       "published_at_utc": "2026-05-24T14:00:03+00:00",
-      "age_seconds": 6807
+      "age_seconds": 6927
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/7EL9q9ePZZs",
       "published_at_utc": "2026-05-24T13:57:51+00:00",
-      "age_seconds": 6950
+      "age_seconds": 7071
     }
   ]
 }
