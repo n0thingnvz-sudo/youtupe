@@ -1,83 +1,76 @@
 {
-  "generated_at_utc": "2026-05-24T14:02:53.005766+00:00",
+  "generated_at_utc": "2026-05-24T14:04:53.283104+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Джей",
-      "title": "КАК ЮЛИЯ Высоцкая готовит ПОСЛЕ ИНТЕРВЬЮ - колбаски ИЗ БАРАНИНЫ и СОСИСКИ в тесте \"ПАПА МОЖЕТ\"",
-      "url": "https://www.youtube.com/watch?v=1KFXMY5eL_I",
-      "published_at_utc": "2026-05-24T14:00:13+00:00",
-      "age_seconds": 71
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Пиццерия в вулкане",
-      "url": "https://www.youtube.com/shorts/nThX_SNbrXw",
-      "published_at_utc": "2026-05-24T14:00:03+00:00",
-      "age_seconds": 87
-    },
     {
       "channel": "Собиратель новостей",
       "title": "На Трампа Снова Устроили ОХОТУ",
       "url": "https://www.youtube.com/shorts/snF6dLW3Fyw",
       "published_at_utc": "2026-05-24T13:47:44+00:00",
-      "age_seconds": 821
+      "age_seconds": 942
+    },
+    {
+      "channel": "dikiy_vadik",
+      "title": "Как его спасти",
+      "url": "https://www.youtube.com/shorts/EOhKpwhGz5g",
+      "published_at_utc": "2026-05-24T13:47:20+00:00",
+      "age_seconds": 989
     },
     {
       "channel": "Сергей Милушкин",
       "title": "70-летняя женщина выкурила захватчиков квартиры в Испании",
       "url": "https://www.youtube.com/shorts/Im6ejg9CNjw",
       "published_at_utc": "2026-05-24T13:34:47+00:00",
-      "age_seconds": 1604
+      "age_seconds": 1725
     },
     {
       "channel": "Новостной Гусь",
       "title": "Сыр из Мистера Биста",
       "url": "https://www.youtube.com/shorts/FWjJQJKPZOU",
       "published_at_utc": "2026-05-24T13:30:10+00:00",
-      "age_seconds": 1879
+      "age_seconds": 2000
     },
     {
       "channel": "Droider",
       "title": "SKA — КВАДРАТНЫЙ КИЛОМЕТР ТЕЛЕСКОПОВ",
       "url": "https://www.youtube.com/watch?v=QTDeDeUH79Y",
       "published_at_utc": "2026-05-24T13:18:20+00:00",
-      "age_seconds": 2575
+      "age_seconds": 2695
     },
     {
       "channel": "CS2TV",
       "title": "ЕДИНСТВЕННЫЙ СПОСОБ ПОБЕДИТЬ VITALITY",
       "url": "https://www.youtube.com/watch?v=kqBaCMnPsFo",
       "published_at_utc": "2026-05-24T13:07:48+00:00",
-      "age_seconds": 3280
+      "age_seconds": 3399
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Любимчик публики",
       "url": "https://www.youtube.com/shorts/j8Y9hMPUEcg",
       "published_at_utc": "2026-05-24T13:00:16+00:00",
-      "age_seconds": 3674
+      "age_seconds": 3795
     },
     {
       "channel": "i11ushenka",
       "title": "ДоминосДорогСтрой 🍕",
       "url": "https://www.youtube.com/shorts/UK3XO6qj94c",
       "published_at_utc": "2026-05-24T12:50:35+00:00",
-      "age_seconds": 4235
+      "age_seconds": 4356
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Изобретательный пацан",
       "url": "https://www.youtube.com/shorts/aEafU0jjn7o",
       "published_at_utc": "2026-05-24T12:30:36+00:00",
-      "age_seconds": 5454
+      "age_seconds": 5575
     },
     {
       "channel": "МЯЧ Production",
       "title": "Оборона Арсенала принесет им Лигу Чемпионов? 🏆",
       "url": "https://www.youtube.com/shorts/9r5EwrU4L0A",
       "published_at_utc": "2026-05-24T12:17:51+00:00",
-      "age_seconds": 6230
+      "age_seconds": 6350
     }
   ]
 }
