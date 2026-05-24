@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-05-24T07:14:40.694002+00:00",
+  "generated_at_utc": "2026-05-24T07:16:40.168236+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Училка Вышла Замуж за УЧЕНИКА",
+      "url": "https://www.youtube.com/shorts/d14j6eELZyI",
+      "published_at_utc": "2026-05-24T07:15:02+00:00",
+      "age_seconds": 20
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "За просмотр видео штраф",
       "url": "https://www.youtube.com/shorts/pWcz7KhLxUY",
       "published_at_utc": "2026-05-24T07:00:04+00:00",
-      "age_seconds": 804
+      "age_seconds": 923
     },
     {
       "channel": "Моменты Братишкина",
       "title": "Братишкин СМОТРИТ - Арест Джастина Тимберлейка",
       "url": "https://www.youtube.com/watch?v=NzJTOkrAwk4",
       "published_at_utc": "2026-05-24T06:50:28+00:00",
-      "age_seconds": 1451
+      "age_seconds": 1571
     },
     {
       "channel": "Тру Шорты",
       "title": "Застенчивость против которой нет противоядия",
       "url": "https://www.youtube.com/shorts/nw2CJtpe_T4",
       "published_at_utc": "2026-05-24T06:23:16+00:00",
-      "age_seconds": 2987
+      "age_seconds": 3107
     },
     {
       "channel": "IXBT Games",
       "title": "Интернет испортил игры! #ixbtgames #ixbt #игры #стример #games #streaming",
       "url": "https://www.youtube.com/shorts/jmcjkLeuSnU",
       "published_at_utc": "2026-05-24T06:00:15+00:00",
-      "age_seconds": 4431
+      "age_seconds": 4550
     }
   ]
 }
