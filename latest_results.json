@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-05-24T06:06:48.002528+00:00",
+  "generated_at_utc": "2026-05-24T07:02:50.634732+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Послезавтра",
-      "title": "Четыре России. Наталья Зубаревич о том где сила России, а где ее боль",
-      "url": "https://www.youtube.com/watch?v=1EYloewK-LY",
-      "published_at_utc": "2026-05-24T04:49:12+00:00",
-      "age_seconds": 4552
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "За просмотр видео штраф",
+      "url": "https://www.youtube.com/shorts/pWcz7KhLxUY",
+      "published_at_utc": "2026-05-24T07:00:04+00:00",
+      "age_seconds": 87
+    },
+    {
+      "channel": "Моменты Братишкина",
+      "title": "Братишкин СМОТРИТ - Арест Джастина Тимберлейка",
+      "url": "https://www.youtube.com/watch?v=NzJTOkrAwk4",
+      "published_at_utc": "2026-05-24T06:50:28+00:00",
+      "age_seconds": 741
+    },
+    {
+      "channel": "Тру Шорты",
+      "title": "Застенчивость против которой нет противоядия",
+      "url": "https://www.youtube.com/shorts/nw2CJtpe_T4",
+      "published_at_utc": "2026-05-24T06:23:16+00:00",
+      "age_seconds": 2267
+    },
+    {
+      "channel": "IXBT Games",
+      "title": "Интернет испортил игры! #ixbtgames #ixbt #игры #стример #games #streaming",
+      "url": "https://www.youtube.com/shorts/jmcjkLeuSnU",
+      "published_at_utc": "2026-05-24T06:00:15+00:00",
+      "age_seconds": 3717
     }
   ]
 }
