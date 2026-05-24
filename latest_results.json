@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-24T13:14:47.558026+00:00",
+  "generated_at_utc": "2026-05-24T13:16:48.809524+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "ЕДИНСТВЕННЫЙ СПОСОБ ПОБЕДИТЬ VITALITY",
       "url": "https://www.youtube.com/watch?v=kqBaCMnPsFo",
       "published_at_utc": "2026-05-24T13:07:48+00:00",
-      "age_seconds": 396
+      "age_seconds": 517
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Любимчик публики",
+      "url": "https://www.youtube.com/shorts/j8Y9hMPUEcg",
+      "published_at_utc": "2026-05-24T13:00:16+00:00",
+      "age_seconds": 913
     },
     {
       "channel": "i11ushenka",
       "title": "ДоминосДорогСтрой 🍕",
       "url": "https://www.youtube.com/shorts/UK3XO6qj94c",
       "published_at_utc": "2026-05-24T12:50:35+00:00",
-      "age_seconds": 1355
+      "age_seconds": 1475
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Изобретательный пацан",
       "url": "https://www.youtube.com/shorts/aEafU0jjn7o",
       "published_at_utc": "2026-05-24T12:30:36+00:00",
-      "age_seconds": 2573
+      "age_seconds": 2693
     },
     {
       "channel": "МЯЧ Production",
       "title": "Оборона Арсенала принесет им Лигу Чемпионов? 🏆",
       "url": "https://www.youtube.com/shorts/9r5EwrU4L0A",
       "published_at_utc": "2026-05-24T12:17:51+00:00",
-      "age_seconds": 3348
+      "age_seconds": 3468
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ВНЕЗАПНЫЙ ПОВОРОТ ► Directive 8020 #7",
       "url": "https://www.youtube.com/watch?v=eSZ4KhKWE5w",
       "published_at_utc": "2026-05-24T12:00:44+00:00",
-      "age_seconds": 4412
+      "age_seconds": 4534
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Теперь мужик будет счастлив",
       "url": "https://www.youtube.com/shorts/7xHX4diG4ro",
       "published_at_utc": "2026-05-24T12:00:34+00:00",
-      "age_seconds": 4375
+      "age_seconds": 4495
     },
     {
       "channel": "Смешновости",
       "title": "Прикалывается над игроками VR 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/KM32uHJ8qr8",
       "published_at_utc": "2026-05-24T12:00:22+00:00",
-      "age_seconds": 4412
+      "age_seconds": 4533
     },
     {
       "channel": "EVG",
       "title": "ЧТО ВНУТРИ НОУТБУКА УЧИТЕЛЯ, ПРАВДА ИМПОРТОЗАМЕЩЕНИЕ?",
       "url": "https://www.youtube.com/shorts/aHcbrYf0NDk",
       "published_at_utc": "2026-05-24T11:23:19+00:00",
-      "age_seconds": 6603
+      "age_seconds": 6723
     }
   ]
 }
