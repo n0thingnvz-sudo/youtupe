@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-05-24T13:30:46.853309+00:00",
+  "generated_at_utc": "2026-05-24T13:32:50.170638+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Сыр из Мистера Биста",
+      "url": "https://www.youtube.com/shorts/FWjJQJKPZOU",
+      "published_at_utc": "2026-05-24T13:30:10+00:00",
+      "age_seconds": 78
+    },
     {
       "channel": "CS2TV",
       "title": "ЕДИНСТВЕННЫЙ СПОСОБ ПОБЕДИТЬ VITALITY",
       "url": "https://www.youtube.com/watch?v=kqBaCMnPsFo",
       "published_at_utc": "2026-05-24T13:07:48+00:00",
-      "age_seconds": 1354
+      "age_seconds": 1479
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Любимчик публики",
       "url": "https://www.youtube.com/shorts/j8Y9hMPUEcg",
       "published_at_utc": "2026-05-24T13:00:16+00:00",
-      "age_seconds": 1752
+      "age_seconds": 1873
     },
     {
       "channel": "i11ushenka",
       "title": "ДоминосДорогСтрой 🍕",
       "url": "https://www.youtube.com/shorts/UK3XO6qj94c",
       "published_at_utc": "2026-05-24T12:50:35+00:00",
-      "age_seconds": 2315
+      "age_seconds": 2435
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Изобретательный пацан",
       "url": "https://www.youtube.com/shorts/aEafU0jjn7o",
       "published_at_utc": "2026-05-24T12:30:36+00:00",
-      "age_seconds": 3532
+      "age_seconds": 3653
     },
     {
       "channel": "МЯЧ Production",
       "title": "Оборона Арсенала принесет им Лигу Чемпионов? 🏆",
       "url": "https://www.youtube.com/shorts/9r5EwrU4L0A",
       "published_at_utc": "2026-05-24T12:17:51+00:00",
-      "age_seconds": 4307
+      "age_seconds": 4429
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ВНЕЗАПНЫЙ ПОВОРОТ ► Directive 8020 #7",
       "url": "https://www.youtube.com/watch?v=eSZ4KhKWE5w",
       "published_at_utc": "2026-05-24T12:00:44+00:00",
-      "age_seconds": 5370
+      "age_seconds": 5495
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Теперь мужик будет счастлив",
       "url": "https://www.youtube.com/shorts/7xHX4diG4ro",
       "published_at_utc": "2026-05-24T12:00:34+00:00",
-      "age_seconds": 5334
+      "age_seconds": 5455
     },
     {
       "channel": "Смешновости",
       "title": "Прикалывается над игроками VR 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/KM32uHJ8qr8",
       "published_at_utc": "2026-05-24T12:00:22+00:00",
-      "age_seconds": 5370
+      "age_seconds": 5493
     }
   ]
 }
