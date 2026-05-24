@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-05-24T12:32:50.439602+00:00",
+  "generated_at_utc": "2026-05-24T12:34:52.867321+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Изобретательный пацан",
+      "url": "https://www.youtube.com/shorts/aEafU0jjn7o",
+      "published_at_utc": "2026-05-24T12:30:36+00:00",
+      "age_seconds": 173
+    },
     {
       "channel": "МЯЧ Production",
       "title": "Оборона Арсенала принесет им Лигу Чемпионов? 🏆",
       "url": "https://www.youtube.com/shorts/9r5EwrU4L0A",
       "published_at_utc": "2026-05-24T12:17:51+00:00",
-      "age_seconds": 828
+      "age_seconds": 948
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ВНЕЗАПНЫЙ ПОВОРОТ ► Directive 8020 #7",
       "url": "https://www.youtube.com/watch?v=eSZ4KhKWE5w",
       "published_at_utc": "2026-05-24T12:00:44+00:00",
-      "age_seconds": 1895
+      "age_seconds": 2018
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Теперь мужик будет счастлив",
       "url": "https://www.youtube.com/shorts/7xHX4diG4ro",
       "published_at_utc": "2026-05-24T12:00:34+00:00",
-      "age_seconds": 1855
+      "age_seconds": 1975
     },
     {
       "channel": "Смешновости",
       "title": "Прикалывается над игроками VR 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/KM32uHJ8qr8",
       "published_at_utc": "2026-05-24T12:00:22+00:00",
-      "age_seconds": 1892
+      "age_seconds": 2019
     },
     {
       "channel": "EVG",
       "title": "ЧТО ВНУТРИ НОУТБУКА УЧИТЕЛЯ, ПРАВДА ИМПОРТОЗАМЕЩЕНИЕ?",
       "url": "https://www.youtube.com/shorts/aHcbrYf0NDk",
       "published_at_utc": "2026-05-24T11:23:19+00:00",
-      "age_seconds": 4082
+      "age_seconds": 4203
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Современный способ.уборки",
       "url": "https://www.youtube.com/shorts/Ts7A8ih-THs",
       "published_at_utc": "2026-05-24T11:00:19+00:00",
-      "age_seconds": 5470
+      "age_seconds": 5590
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Реклама айфонов из Тайланда",
       "url": "https://www.youtube.com/shorts/_dCH89wOYgE",
       "published_at_utc": "2026-05-24T11:00:04+00:00",
-      "age_seconds": 5485
+      "age_seconds": 5606
     },
     {
       "channel": "sereGGa",
       "title": "FINALS | Team Spirit vs Aurora | bo3 | Dreamleague s29 /w @pvp_easy",
       "url": "https://www.youtube.com/watch?v=XHI0DIbDgtE",
       "published_at_utc": "2026-05-24T10:53:14+00:00",
-      "age_seconds": 5951
+      "age_seconds": 6074
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Симпсонов #4",
       "url": "https://www.youtube.com/watch?v=lGaetCJW2Y0",
       "published_at_utc": "2026-05-24T10:52:06+00:00",
-      "age_seconds": 5956
+      "age_seconds": 6076
     },
     {
       "channel": "IGM",
       "title": "ИГРОЖУРЫ ОКАЗАЛИСЬ НЕ ПРАВЫ (СНОВА)",
       "url": "https://www.youtube.com/shorts/F17G8HpH7sw",
       "published_at_utc": "2026-05-24T10:43:43+00:00",
-      "age_seconds": 6510
+      "age_seconds": 6633
     }
   ]
 }
