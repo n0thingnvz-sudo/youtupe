@@ -1,13 +1,27 @@
 {
-  "generated_at_utc": "2026-05-25T06:26:38.768821+00:00",
+  "generated_at_utc": "2026-05-25T07:02:50.937575+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Как СЕО переманивают топ-специалистов🤯",
+      "url": "https://www.youtube.com/shorts/hw170ns8Sp0",
+      "published_at_utc": "2026-05-25T07:00:28+00:00",
+      "age_seconds": 60
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Такой шанс был…",
+      "url": "https://www.youtube.com/shorts/90P4xcMzy5A",
+      "published_at_utc": "2026-05-25T07:00:28+00:00",
+      "age_seconds": 63
+    },
     {
       "channel": "kinoluv",
       "title": "Попали в засаду😨 Новый фильм Гая Ричи «Грязные деньги» уже в кино! #грязныеденьги",
       "url": "https://www.youtube.com/shorts/2i4FSpsz4bQ",
       "published_at_utc": "2026-05-25T05:15:13+00:00",
-      "age_seconds": 4212
+      "age_seconds": 6375
     }
   ]
 }
