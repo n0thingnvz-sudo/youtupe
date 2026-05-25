@@ -1,62 +1,76 @@
 {
-  "generated_at_utc": "2026-05-25T09:06:47.320356+00:00",
+  "generated_at_utc": "2026-05-25T09:10:45.424041+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Текстуры не прогрузились",
+      "url": "https://www.youtube.com/shorts/0Z2F4vS_uiA",
+      "published_at_utc": "2026-05-25T09:00:33+00:00",
+      "age_seconds": 536
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Пёс Вадик Не Сдаётся 😂",
+      "url": "https://www.youtube.com/shorts/LoT5tfckP2s",
+      "published_at_utc": "2026-05-25T08:56:48+00:00",
+      "age_seconds": 783
+    },
     {
       "channel": "ДУШНИЛА",
       "title": "МИФЫ № 37",
       "url": "https://www.youtube.com/shorts/Qa8DvHwQlYA",
       "published_at_utc": "2026-05-25T08:39:08+00:00",
-      "age_seconds": 1571
+      "age_seconds": 1809
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не дают Трампу спокойно пожить",
       "url": "https://www.youtube.com/shorts/Ib0BLnyuN7I",
       "published_at_utc": "2026-05-25T08:30:08+00:00",
-      "age_seconds": 2121
+      "age_seconds": 2359
     },
     {
       "channel": "Wylsacom",
       "title": "Китайская волына от vivo",
       "url": "https://www.youtube.com/shorts/JnN9u40Tboc",
       "published_at_utc": "2026-05-25T08:00:37+00:00",
-      "age_seconds": 3882
+      "age_seconds": 4120
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пицццерия на балконе",
       "url": "https://www.youtube.com/shorts/Kuclwq_tK5g",
       "published_at_utc": "2026-05-25T08:00:21+00:00",
-      "age_seconds": 3909
+      "age_seconds": 4147
     },
     {
       "channel": "Смешновости",
       "title": "Нашел котика под капотом 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/eAMCnQEgKeY",
       "published_at_utc": "2026-05-25T08:00:18+00:00",
-      "age_seconds": 3937
+      "age_seconds": 4174
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Нелегкая судьба нейронки",
       "url": "https://www.youtube.com/shorts/l43xiMsPVQ8",
       "published_at_utc": "2026-05-25T08:00:16+00:00",
-      "age_seconds": 3914
+      "age_seconds": 4153
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱ПОСЛЕДНИЙ ПОБЕГ ИЗ GROW A GARDEN В РОБЛОКС!",
       "url": "https://www.youtube.com/watch?v=d0ny8A-Sd2c",
       "published_at_utc": "2026-05-25T08:00:12+00:00",
-      "age_seconds": 3959
+      "age_seconds": 4197
     },
     {
       "channel": "Собиратель новостей",
       "title": "Девушка Отправила ТОННУ ЛУКА Бывшему: Чтобы Поплакал",
       "url": "https://www.youtube.com/shorts/HN5RpY4HV20",
       "published_at_utc": "2026-05-25T07:15:38+00:00",
-      "age_seconds": 6587
+      "age_seconds": 6826
     }
   ]
 }
