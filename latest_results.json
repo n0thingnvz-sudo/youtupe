@@ -1,132 +1,125 @@
 {
-  "generated_at_utc": "2026-05-25T15:08:55.724324+00:00",
+  "generated_at_utc": "2026-05-25T15:10:53.624074+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Нерд",
-      "title": "Две Кореи: один народ — разные пути",
-      "url": "https://www.youtube.com/watch?v=pYwd_Kwozug",
-      "published_at_utc": "2026-05-25T15:00:06+00:00",
-      "age_seconds": 433
-    },
     {
       "channel": "Margaritka",
       "title": "Как держаться за ручки летом 😄",
       "url": "https://www.youtube.com/shorts/iOlMMl0PJLQ",
       "published_at_utc": "2026-05-25T14:41:22+00:00",
-      "age_seconds": 1600
+      "age_seconds": 1716
     },
     {
       "channel": "Майни",
       "title": "Меня обижают (Мозоль) ► Marmok ( Мармок ) | Реакция",
       "url": "https://www.youtube.com/watch?v=-K-95MuNWKo",
       "published_at_utc": "2026-05-25T14:30:54+00:00",
-      "age_seconds": 2177
+      "age_seconds": 2294
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "У вас тоже кошка так делает?",
       "url": "https://www.youtube.com/shorts/UF5-QXIA0Ds",
       "published_at_utc": "2026-05-25T14:30:23+00:00",
-      "age_seconds": 2231
+      "age_seconds": 2347
     },
     {
       "channel": "Margaritka",
       "title": "Что парни делают с тушью 😄",
       "url": "https://www.youtube.com/shorts/qR6BgrQ6B3s",
       "published_at_utc": "2026-05-25T14:19:42+00:00",
-      "age_seconds": 2900
+      "age_seconds": 3016
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Удивительный Трубкозуб 🤗",
       "url": "https://www.youtube.com/shorts/WTTmI6x0sHc",
       "published_at_utc": "2026-05-25T14:15:49+00:00",
-      "age_seconds": 3130
+      "age_seconds": 3245
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Зима прошла, а веселья хочется",
       "url": "https://www.youtube.com/shorts/WHgnACRg_Og",
       "published_at_utc": "2026-05-25T14:00:02+00:00",
-      "age_seconds": 4052
+      "age_seconds": 4168
     },
     {
       "channel": "Короче, новости",
       "title": "Спортсменам Разрешили Допинг на Олимпиаде",
       "url": "https://www.youtube.com/shorts/pFCdB_otMpk",
       "published_at_utc": "2026-05-25T13:58:11+00:00",
-      "age_seconds": 4159
+      "age_seconds": 4275
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Uno по порядку #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/hQ-1G9pD6H4",
       "published_at_utc": "2026-05-25T13:58:06+00:00",
-      "age_seconds": 4193
+      "age_seconds": 4309
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ЛОВУШКА на СТРИМЕ! ЛОВЛЮ РЕСЫ и ПЕРЕХВАТЫВАЮ ПОЕЗДА в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=0cMmAKmxPKc",
       "published_at_utc": "2026-05-25T13:56:22+00:00",
-      "age_seconds": 4345
+      "age_seconds": 4463
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/xsRi0k9mK9E",
       "published_at_utc": "2026-05-25T13:54:52+00:00",
-      "age_seconds": 4387
+      "age_seconds": 4503
     },
     {
       "channel": "i11ushenka",
       "title": "Внезапная Цессна ✈️",
       "url": "https://www.youtube.com/shorts/8AcfjdQPQZA",
       "published_at_utc": "2026-05-25T13:52:28+00:00",
-      "age_seconds": 4487
+      "age_seconds": 4603
     },
     {
       "channel": "Короче, новости",
       "title": "Типичное Фото Выпускного Интровертов",
       "url": "https://www.youtube.com/shorts/QfucyPtKnEM",
       "published_at_utc": "2026-05-25T13:46:27+00:00",
-      "age_seconds": 4863
+      "age_seconds": 4979
     },
     {
       "channel": "МайорКрафт",
       "title": "Стэтхэм всегда прав #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/MQrQFFBA-xU",
       "published_at_utc": "2026-05-25T13:45:38+00:00",
-      "age_seconds": 4936
+      "age_seconds": 5052
     },
     {
       "channel": "Короче, новости",
       "title": "Медведь Взломал Отель в Румынии",
       "url": "https://www.youtube.com/shorts/nYbrKCCVHIM",
       "published_at_utc": "2026-05-25T13:37:09+00:00",
-      "age_seconds": 5421
+      "age_seconds": 5537
     },
     {
       "channel": "Margaritka",
       "title": "Неожиданно 🤣",
       "url": "https://www.youtube.com/shorts/7FCY6KiZsRU",
       "published_at_utc": "2026-05-25T13:36:08+00:00",
-      "age_seconds": 5514
+      "age_seconds": 5630
+    },
+    {
+      "channel": "Нерд",
+      "title": "Две Кореи: один народ — разные пути",
+      "url": "https://www.youtube.com/watch?v=pYwd_Kwozug",
+      "published_at_utc": "2026-05-25T13:21:48+00:00",
+      "age_seconds": 6446
     },
     {
       "channel": "Amitesh",
       "title": "Первый в мире экзоскелет #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/dXMn0fbeUww",
       "published_at_utc": "2026-05-25T13:13:51+00:00",
-      "age_seconds": 6845
-    },
-    {
-      "channel": "Ассистент грумера",
-      "title": "ПИТБУЛЬ В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
-      "url": "https://www.youtube.com/shorts/lk071XC6DKk",
-      "published_at_utc": "2026-05-25T13:09:24+00:00",
-      "age_seconds": 7101
+      "age_seconds": 6961
     }
   ]
 }
