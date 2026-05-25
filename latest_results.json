@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-05-25T21:42:39.962095+00:00",
+  "generated_at_utc": "2026-05-25T21:44:40.368660+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Моменты Братишкина",
+      "title": "Братишкин СМОТРИТ - Стримеры Читают Плохие Комментарии Снова ! Бустер, Генсуха, Сатир, Дипинс",
+      "url": "https://www.youtube.com/watch?v=3-6Mw47EWz4",
+      "published_at_utc": "2026-05-25T21:32:03+00:00",
+      "age_seconds": 756
+    },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Astrum купил всех. Throne and Liberty",
       "url": "https://www.youtube.com/watch?v=20P_G_ljesI",
       "published_at_utc": "2026-05-25T21:06:14+00:00",
-      "age_seconds": 2151
+      "age_seconds": 2271
     },
     {
       "channel": "Никита Нестеров",
       "title": "Когда разговор заходит про температуру, жди проблем 🤣",
       "url": "https://www.youtube.com/shorts/Lexfh9fOIFU",
       "published_at_utc": "2026-05-25T21:02:49+00:00",
-      "age_seconds": 2344
+      "age_seconds": 2464
     },
     {
       "channel": "Объяпонился",
       "title": "3 вещи, которые можно увидеть только в Японии 😯",
       "url": "https://www.youtube.com/shorts/N3un65bwOBs",
       "published_at_utc": "2026-05-25T21:02:12+00:00",
-      "age_seconds": 2370
+      "age_seconds": 2490
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ЛОВУШКА на СТРИМЕ! ЛОВЛЮ РЕСЫ и ПЕРЕХВАТЫВАЮ ПОЕЗДА в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=0cMmAKmxPKc",
       "published_at_utc": "2026-05-25T20:40:36+00:00",
-      "age_seconds": 3716
+      "age_seconds": 3837
     },
     {
       "channel": "perox",
       "title": "Пацаны😋 тгк: Пекарня Пирога #theboys #пацаны #друг #perox #перокс",
       "url": "https://www.youtube.com/shorts/QfycuAo9d_Q",
       "published_at_utc": "2026-05-25T20:14:20+00:00",
-      "age_seconds": 5210
+      "age_seconds": 5330
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде это надо видеть. 12 серия",
       "url": "https://www.youtube.com/watch?v=OcCdA5s1Kdg",
       "published_at_utc": "2026-05-25T20:02:37+00:00",
-      "age_seconds": 5931
+      "age_seconds": 6051
     }
   ]
 }
