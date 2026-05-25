@@ -1,55 +1,55 @@
 {
-  "generated_at_utc": "2026-05-25T21:16:44.092443+00:00",
+  "generated_at_utc": "2026-05-25T21:18:41.964795+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "[СТРИМ] Astrum купил всех. Throne and Liberty",
+      "url": "https://www.youtube.com/watch?v=20P_G_ljesI",
+      "published_at_utc": "2026-05-25T21:06:14+00:00",
+      "age_seconds": 713
+    },
     {
       "channel": "Никита Нестеров",
       "title": "Когда разговор заходит про температуру, жди проблем 🤣",
       "url": "https://www.youtube.com/shorts/Lexfh9fOIFU",
       "published_at_utc": "2026-05-25T21:02:49+00:00",
-      "age_seconds": 787
+      "age_seconds": 905
     },
     {
       "channel": "Объяпонился",
       "title": "3 вещи, которые можно увидеть только в Японии 😯",
       "url": "https://www.youtube.com/shorts/N3un65bwOBs",
       "published_at_utc": "2026-05-25T21:02:12+00:00",
-      "age_seconds": 812
+      "age_seconds": 931
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ЛОВУШКА на СТРИМЕ! ЛОВЛЮ РЕСЫ и ПЕРЕХВАТЫВАЮ ПОЕЗДА в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=0cMmAKmxPKc",
       "published_at_utc": "2026-05-25T20:40:36+00:00",
-      "age_seconds": 2160
+      "age_seconds": 2278
     },
     {
       "channel": "perox",
       "title": "Пацаны😋 тгк: Пекарня Пирога #theboys #пацаны #друг #perox #перокс",
       "url": "https://www.youtube.com/shorts/QfycuAo9d_Q",
       "published_at_utc": "2026-05-25T20:14:20+00:00",
-      "age_seconds": 3651
+      "age_seconds": 3770
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде это надо видеть. 12 серия",
       "url": "https://www.youtube.com/watch?v=OcCdA5s1Kdg",
       "published_at_utc": "2026-05-25T20:02:37+00:00",
-      "age_seconds": 4372
+      "age_seconds": 4492
     },
     {
       "channel": "kinoluv",
       "title": "Лайфхак для газировки🥤",
       "url": "https://www.youtube.com/shorts/dpMOZtdSQt8",
       "published_at_utc": "2026-05-25T19:40:17+00:00",
-      "age_seconds": 5709
-    },
-    {
-      "channel": "sun_kill",
-      "title": "было такое?",
-      "url": "https://www.youtube.com/shorts/kZJcK9cyKrM",
-      "published_at_utc": "2026-05-25T19:15:56+00:00",
-      "age_seconds": 7155
+      "age_seconds": 5830
     }
   ]
 }
