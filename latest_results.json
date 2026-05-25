@@ -1,97 +1,111 @@
 {
-  "generated_at_utc": "2026-05-25T16:56:55.343316+00:00",
+  "generated_at_utc": "2026-05-25T16:58:53.911851+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "RusGameTactics",
+      "title": "Прохождение 007 First Light ✪ СТРИМ",
+      "url": "https://www.youtube.com/watch?v=YXZ4QSYVhqA",
+      "published_at_utc": "2026-05-25T16:41:31+00:00",
+      "age_seconds": 1035
+    },
+    {
+      "channel": "Gamer Tech",
+      "title": "RDR 2 - РАЗРУШИТЕЛИ ЛЕГЕНД #92",
+      "url": "https://www.youtube.com/watch?v=b9EkWQnR8fg",
+      "published_at_utc": "2026-05-25T16:33:37+00:00",
+      "age_seconds": 1511
+    },
     {
       "channel": "Майни",
       "title": "Болезни, которые дают суперспособности | Реакция",
       "url": "https://www.youtube.com/watch?v=5DvrpzZyYW8",
       "published_at_utc": "2026-05-25T16:30:32+00:00",
-      "age_seconds": 1476
+      "age_seconds": 1595
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Astrum купил всех. Throne and Liberty",
       "url": "https://www.youtube.com/watch?v=20P_G_ljesI",
       "published_at_utc": "2026-05-25T16:26:40+00:00",
-      "age_seconds": 1774
+      "age_seconds": 1894
     },
     {
       "channel": "Margaritka",
       "title": "Чисто мужской рюкзак 😃",
       "url": "https://www.youtube.com/shorts/Sd16Hmbgbx8",
       "published_at_utc": "2026-05-25T16:23:38+00:00",
-      "age_seconds": 1942
+      "age_seconds": 2061
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Никто не в безопасности перед ним",
       "url": "https://www.youtube.com/shorts/PxlQ2NGYhmw",
       "published_at_utc": "2026-05-25T16:00:03+00:00",
-      "age_seconds": 3328
+      "age_seconds": 3447
     },
     {
       "channel": "Сергей Милушкин",
       "title": "$13000 баксов в месяц ничего не делая",
       "url": "https://www.youtube.com/shorts/NM0a_I3hq84",
       "published_at_utc": "2026-05-25T15:37:12+00:00",
-      "age_seconds": 4700
+      "age_seconds": 4819
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Фанаты Роналдо будут довольны",
       "url": "https://www.youtube.com/shorts/91pRwxmGt0w",
       "published_at_utc": "2026-05-25T15:35:22+00:00",
-      "age_seconds": 4836
+      "age_seconds": 4956
     },
     {
       "channel": "Собиратель новостей",
       "title": "Футболист РАЗБИЛ КУБОК во Время Празднования",
       "url": "https://www.youtube.com/shorts/1jI3UHm45-k",
       "published_at_utc": "2026-05-25T15:31:01+00:00",
-      "age_seconds": 5065
+      "age_seconds": 5184
     },
     {
       "channel": "Margaritka",
       "title": "Не пропадать же добру 😄😄",
       "url": "https://www.youtube.com/shorts/nsSHJTyntbE",
       "published_at_utc": "2026-05-25T15:29:56+00:00",
-      "age_seconds": 5164
+      "age_seconds": 5283
     },
     {
       "channel": "Cut The Crap",
       "title": "ВОУК-ШИЗА в ОДИССЕЕ НОЛАНА // Провал МАНДАЛОРЦА и ГРОГУ //  Экранизация СИЛЬМАРИЛЛИОНА | НОВОСТИ 306",
       "url": "https://www.youtube.com/watch?v=N2h9ZFozTQc",
       "published_at_utc": "2026-05-25T15:19:04+00:00",
-      "age_seconds": 5824
+      "age_seconds": 5943
     },
     {
       "channel": "Новостной Гусь",
       "title": "Возьмите наконец-то интервью",
       "url": "https://www.youtube.com/shorts/0OLCpfsieh0",
       "published_at_utc": "2026-05-25T15:14:01+00:00",
-      "age_seconds": 6089
+      "age_seconds": 6207
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Не мусорить тут!",
       "url": "https://www.youtube.com/shorts/usTKelhj2xg",
       "published_at_utc": "2026-05-25T15:00:18+00:00",
-      "age_seconds": 6913
+      "age_seconds": 7032
     },
     {
       "channel": "Нерд",
       "title": "Две Кореи: один народ — разные пути",
       "url": "https://www.youtube.com/watch?v=pYwd_Kwozug",
       "published_at_utc": "2026-05-25T15:00:06+00:00",
-      "age_seconds": 6908
+      "age_seconds": 7028
     },
     {
       "channel": "Recrent",
       "title": "ЭТО БЫЛО ХОРОШО",
       "url": "https://www.youtube.com/watch?v=2B7XrDveqBQ",
       "published_at_utc": "2026-05-25T14:59:28+00:00",
-      "age_seconds": 7034
+      "age_seconds": 7153
     }
   ]
 }
