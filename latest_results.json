@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-25T08:14:43.506261+00:00",
+  "generated_at_utc": "2026-05-25T08:16:45.521125+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Китайская волына от vivo",
       "url": "https://www.youtube.com/shorts/JnN9u40Tboc",
       "published_at_utc": "2026-05-25T08:00:37+00:00",
-      "age_seconds": 760
+      "age_seconds": 880
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пицццерия на балконе",
       "url": "https://www.youtube.com/shorts/Kuclwq_tK5g",
       "published_at_utc": "2026-05-25T08:00:21+00:00",
-      "age_seconds": 787
+      "age_seconds": 907
     },
     {
       "channel": "Смешновости",
       "title": "Нашел котика под капотом 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/eAMCnQEgKeY",
       "published_at_utc": "2026-05-25T08:00:18+00:00",
-      "age_seconds": 813
+      "age_seconds": 935
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Нелегкая судьба нейронки",
+      "url": "https://www.youtube.com/shorts/l43xiMsPVQ8",
+      "published_at_utc": "2026-05-25T08:00:16+00:00",
+      "age_seconds": 913
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱ПОСЛЕДНИЙ ПОБЕГ ИЗ GROW A GARDEN В РОБЛОКС!",
       "url": "https://www.youtube.com/watch?v=d0ny8A-Sd2c",
       "published_at_utc": "2026-05-25T08:00:12+00:00",
-      "age_seconds": 836
+      "age_seconds": 958
     },
     {
       "channel": "Собиратель новостей",
       "title": "Девушка Отправила ТОННУ ЛУКА Бывшему: Чтобы Поплакал",
       "url": "https://www.youtube.com/shorts/HN5RpY4HV20",
       "published_at_utc": "2026-05-25T07:15:38+00:00",
-      "age_seconds": 3465
+      "age_seconds": 3586
     },
     {
       "channel": "IXBT Games",
       "title": "Хороша даже спустя 10 лет #uncharted4 #uncharted4 #ixbt #ixbtgames #анчартед #игры",
       "url": "https://www.youtube.com/shorts/UM9SsDEnGH0",
       "published_at_utc": "2026-05-25T07:00:31+00:00",
-      "age_seconds": 4416
+      "age_seconds": 4538
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Такой шанс был…",
       "url": "https://www.youtube.com/shorts/90P4xcMzy5A",
       "published_at_utc": "2026-05-25T07:00:28+00:00",
-      "age_seconds": 4380
+      "age_seconds": 4501
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ДНК тест ПалмБич Пита",
       "url": "https://www.youtube.com/shorts/frdl5pkOV-g",
       "published_at_utc": "2026-05-25T07:00:26+00:00",
-      "age_seconds": 4382
+      "age_seconds": 4502
     }
   ]
 }
