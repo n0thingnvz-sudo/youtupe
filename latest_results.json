@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-05-25T19:46:51.959995+00:00",
+  "generated_at_utc": "2026-05-25T19:48:46.876003+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Лайфхак для газировки🥤",
+      "url": "https://www.youtube.com/shorts/dpMOZtdSQt8",
+      "published_at_utc": "2026-05-25T19:40:17+00:00",
+      "age_seconds": 431
+    },
     {
       "channel": "sun_kill",
       "title": "было такое?",
       "url": "https://www.youtube.com/shorts/kZJcK9cyKrM",
       "published_at_utc": "2026-05-25T19:15:56+00:00",
-      "age_seconds": 1755
+      "age_seconds": 1875
     },
     {
       "channel": "ДАРКАР",
       "title": "ПОПЫТКА УРОВНЯТЬ ШАНСЫ В КС 2",
       "url": "https://www.youtube.com/shorts/h-oY5RkRsbU",
       "published_at_utc": "2026-05-25T18:49:54+00:00",
-      "age_seconds": 3385
+      "age_seconds": 3501
     },
     {
       "channel": "Послезавтра",
       "title": "Будет ли заморозка вкладов в России? #россия #вклады #экономика",
       "url": "https://www.youtube.com/shorts/CUDhO1SkKqQ",
       "published_at_utc": "2026-05-25T18:37:17+00:00",
-      "age_seconds": 4067
+      "age_seconds": 4187
     },
     {
       "channel": "perox",
       "title": "Нет!😢 тгк: Пекарня Пирога #theboys #пацаны #thedeep #perox #перокс",
       "url": "https://www.youtube.com/shorts/x9aLJ-DIlgc",
       "published_at_utc": "2026-05-25T18:23:12+00:00",
-      "age_seconds": 4919
+      "age_seconds": 5038
     },
     {
       "channel": "ЕГОР ШКРЕД",
       "title": "РАЗБИВАЮ КОМНАТЫ СТРИМЕРАМ В ПРЯМОМ ЭФИРЕ!**Бустер, Братишкин, Аслан**",
       "url": "https://www.youtube.com/watch?v=4FBMTDAun_E",
       "published_at_utc": "2026-05-25T18:20:52+00:00",
-      "age_seconds": 5083
+      "age_seconds": 5201
     }
   ]
 }
