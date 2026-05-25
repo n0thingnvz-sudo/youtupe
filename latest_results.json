@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-05-25T07:18:40.869059+00:00",
+  "generated_at_utc": "2026-05-25T07:20:40.666570+00:00",
   "hours_window": 2,
   "items": [
     {
+      "channel": "IXBT Games",
+      "title": "Хороша даже спустя 10 лет #uncharted4 #uncharted4 #ixbt #ixbtgames #анчартед #игры",
+      "url": "https://www.youtube.com/shorts/UM9SsDEnGH0",
+      "published_at_utc": "2026-05-25T07:00:31+00:00",
+      "age_seconds": 1174
+    },
+    {
       "channel": "kinoluv",
       "title": "Как СЕО переманивают топ-специалистов🤯",
-      "url": "https://www.youtube.com/shorts/arug0HdAgmg",
-      "published_at_utc": "2026-05-25T07:15:22+00:00",
-      "age_seconds": 124
+      "url": "https://www.youtube.com/shorts/hw170ns8Sp0",
+      "published_at_utc": "2026-05-25T07:00:28+00:00",
+      "age_seconds": 1138
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Такой шанс был…",
       "url": "https://www.youtube.com/shorts/90P4xcMzy5A",
       "published_at_utc": "2026-05-25T07:00:28+00:00",
-      "age_seconds": 1020
+      "age_seconds": 1140
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ДНК тест ПалмБич Пита",
       "url": "https://www.youtube.com/shorts/frdl5pkOV-g",
       "published_at_utc": "2026-05-25T07:00:26+00:00",
-      "age_seconds": 1021
+      "age_seconds": 1141
     }
   ]
 }
