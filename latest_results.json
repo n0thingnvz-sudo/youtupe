@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-05-26T11:12:50.285132+00:00",
+  "generated_at_utc": "2026-05-26T11:14:47.484772+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Почему Мопсы Орут 😱",
+      "url": "https://www.youtube.com/shorts/WPNTzbR6F6o",
+      "published_at_utc": "2026-05-26T11:01:35+00:00",
+      "age_seconds": 736
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Гэри навсегда останется в наших сердцах",
       "url": "https://www.youtube.com/shorts/Cbb1wq_P5KY",
       "published_at_utc": "2026-05-26T11:00:28+00:00",
-      "age_seconds": 662
+      "age_seconds": 781
     },
     {
       "channel": "МайорКрафт",
       "title": "Теперь он самый крутой школе #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/JCPNg9w7DCk",
       "published_at_utc": "2026-05-26T11:00:21+00:00",
-      "age_seconds": 688
+      "age_seconds": 806
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Директор Твича о накрутке",
+      "url": "https://www.youtube.com/shorts/15YxSyOccdw",
+      "published_at_utc": "2026-05-26T11:00:15+00:00",
+      "age_seconds": 795
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 31",
       "url": "https://www.youtube.com/shorts/HX8duFy4Nok",
       "published_at_utc": "2026-05-26T10:51:30+00:00",
-      "age_seconds": 1189
+      "age_seconds": 1308
     },
     {
       "channel": "Короче, новости",
       "title": "4 Миллиарда в Пломбир: Мега-Фабрика Мороженого",
       "url": "https://www.youtube.com/shorts/G5BjeMPUx9w",
       "published_at_utc": "2026-05-26T10:16:24+00:00",
-      "age_seconds": 3302
+      "age_seconds": 3421
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Всем бы так жить",
       "url": "https://www.youtube.com/shorts/jybizv_LQyQ",
       "published_at_utc": "2026-05-26T10:00:34+00:00",
-      "age_seconds": 4256
+      "age_seconds": 4375
     },
     {
       "channel": "Смешновости",
       "title": "Куча букашек 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/KBgo2U0lQw8",
       "published_at_utc": "2026-05-26T10:00:14+00:00",
-      "age_seconds": 4300
+      "age_seconds": 4419
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "F девушке",
       "url": "https://www.youtube.com/shorts/YAO40Gy5eZ4",
       "published_at_utc": "2026-05-26T10:00:07+00:00",
-      "age_seconds": 4283
+      "age_seconds": 4403
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Собачки друзья, а не еда",
       "url": "https://www.youtube.com/shorts/NEfe23e7Org",
       "published_at_utc": "2026-05-26T09:30:01+00:00",
-      "age_seconds": 6089
+      "age_seconds": 6208
     },
     {
       "channel": "Погнали!",
       "title": "Что означают ошейники в племени? #погнали #эфиопия",
       "url": "https://www.youtube.com/shorts/AZRMuV3pWRY",
       "published_at_utc": "2026-05-26T09:15:01+00:00",
-      "age_seconds": 7021
+      "age_seconds": 7140
     }
   ]
 }
