@@ -1,62 +1,62 @@
 {
-  "generated_at_utc": "2026-05-26T11:00:49.217196+00:00",
+  "generated_at_utc": "2026-05-26T11:02:50.193101+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "МайорКрафт",
+      "title": "Теперь он самый крутой школе #фильм #сериал #моменты",
+      "url": "https://www.youtube.com/shorts/JCPNg9w7DCk",
+      "published_at_utc": "2026-05-26T11:00:21+00:00",
+      "age_seconds": 88
+    },
     {
       "channel": "Короче, новости",
       "title": "4 Миллиарда в Пломбир: Мега-Фабрика Мороженого",
       "url": "https://www.youtube.com/shorts/G5BjeMPUx9w",
       "published_at_utc": "2026-05-26T10:16:24+00:00",
-      "age_seconds": 2580
+      "age_seconds": 2702
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Всем бы так жить",
       "url": "https://www.youtube.com/shorts/jybizv_LQyQ",
       "published_at_utc": "2026-05-26T10:00:34+00:00",
-      "age_seconds": 3534
+      "age_seconds": 3656
     },
     {
       "channel": "Смешновости",
       "title": "Куча букашек 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/KBgo2U0lQw8",
       "published_at_utc": "2026-05-26T10:00:14+00:00",
-      "age_seconds": 3577
+      "age_seconds": 3700
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "F девушке",
       "url": "https://www.youtube.com/shorts/YAO40Gy5eZ4",
       "published_at_utc": "2026-05-26T10:00:07+00:00",
-      "age_seconds": 3561
+      "age_seconds": 3683
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Собачки друзья, а не еда",
       "url": "https://www.youtube.com/shorts/NEfe23e7Org",
       "published_at_utc": "2026-05-26T09:30:01+00:00",
-      "age_seconds": 5367
+      "age_seconds": 5489
     },
     {
       "channel": "Погнали!",
       "title": "Что означают ошейники в племени? #погнали #эфиопия",
       "url": "https://www.youtube.com/shorts/AZRMuV3pWRY",
       "published_at_utc": "2026-05-26T09:15:01+00:00",
-      "age_seconds": 6300
+      "age_seconds": 6422
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Вот как делают мороженое в стаканчике",
       "url": "https://www.youtube.com/shorts/SNZFzglDpRQ",
       "published_at_utc": "2026-05-26T09:09:32+00:00",
-      "age_seconds": 6620
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Над этим можно смеяться ?",
-      "url": "https://www.youtube.com/shorts/F2tbyrzrN0w",
-      "published_at_utc": "2026-05-26T09:00:36+00:00",
-      "age_seconds": 7132
+      "age_seconds": 6743
     }
   ]
 }
