@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-05-26T20:22:47.185946+00:00",
+  "generated_at_utc": "2026-05-26T20:24:51.687902+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "JOHAN",
-      "title": "Снова этот ДР",
-      "url": "https://www.youtube.com/watch?v=Dtq15Z5YZus",
-      "published_at_utc": "2026-05-26T20:18:53+00:00",
-      "age_seconds": 139
-    },
     {
       "channel": "Никита Нестеров",
       "title": "Новая «Варочная» в Москве! 30 мая официальное открытие и акция «Плати за кофе сколько хочешь!»",
       "url": "https://www.youtube.com/shorts/0x94WRDGVX8",
       "published_at_utc": "2026-05-26T20:09:08+00:00",
-      "age_seconds": 768
+      "age_seconds": 889
     },
     {
       "channel": "perox",
       "title": "ЯБЛОКО?🍎 тгк: Пекарня Пирога #сок #любимый #яблочныйсок #perox #перокс",
       "url": "https://www.youtube.com/shorts/VlEcbgu-mHk",
       "published_at_utc": "2026-05-26T19:54:43+00:00",
-      "age_seconds": 1587
+      "age_seconds": 1707
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=pmgqpu1_tH8",
       "published_at_utc": "2026-05-26T19:42:30+00:00",
-      "age_seconds": 2403
+      "age_seconds": 2528
     },
     {
       "channel": "Wylsacom",
       "title": "Zeekr 8X - новый хит или провал? Первый честный тест в России",
       "url": "https://www.youtube.com/watch?v=MH5OC_T7fWo",
       "published_at_utc": "2026-05-26T18:55:19+00:00",
-      "age_seconds": 5158
+      "age_seconds": 5279
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Украл лотерею на €4,5 млн евро но карма его догнала",
       "url": "https://www.youtube.com/shorts/7Ntvl2rOCUA",
       "published_at_utc": "2026-05-26T18:45:58+00:00",
-      "age_seconds": 5731
+      "age_seconds": 5852
     }
   ]
 }
