@@ -1,41 +1,55 @@
 {
-  "generated_at_utc": "2026-05-26T20:28:44.717367+00:00",
+  "generated_at_utc": "2026-05-26T20:30:45.711494+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Ты ел банан?",
+      "url": "https://www.youtube.com/shorts/yUiKIGHVkw4",
+      "published_at_utc": "2026-05-26T20:26:43+00:00",
+      "age_seconds": 140
+    },
+    {
+      "channel": "JOHAN",
+      "title": "Снова этот ДР",
+      "url": "https://www.youtube.com/watch?v=Dtq15Z5YZus",
+      "published_at_utc": "2026-05-26T20:18:53+00:00",
+      "age_seconds": 619
+    },
     {
       "channel": "Никита Нестеров",
       "title": "Новая «Варочная» в Москве! 30 мая официальное открытие и акция «Плати за кофе сколько хочешь!»",
       "url": "https://www.youtube.com/shorts/0x94WRDGVX8",
       "published_at_utc": "2026-05-26T20:09:08+00:00",
-      "age_seconds": 1128
+      "age_seconds": 1246
     },
     {
       "channel": "perox",
       "title": "ЯБЛОКО?🍎 тгк: Пекарня Пирога #сок #любимый #яблочныйсок #perox #перокс",
       "url": "https://www.youtube.com/shorts/VlEcbgu-mHk",
       "published_at_utc": "2026-05-26T19:54:43+00:00",
-      "age_seconds": 1948
+      "age_seconds": 2067
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=pmgqpu1_tH8",
       "published_at_utc": "2026-05-26T19:42:30+00:00",
-      "age_seconds": 2760
+      "age_seconds": 2881
     },
     {
       "channel": "Wylsacom",
       "title": "Zeekr 8X - новый хит или провал? Первый честный тест в России",
       "url": "https://www.youtube.com/watch?v=MH5OC_T7fWo",
       "published_at_utc": "2026-05-26T18:55:19+00:00",
-      "age_seconds": 5519
+      "age_seconds": 5639
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Украл лотерею на €4,5 млн евро но карма его догнала",
       "url": "https://www.youtube.com/shorts/7Ntvl2rOCUA",
       "published_at_utc": "2026-05-26T18:45:58+00:00",
-      "age_seconds": 6092
+      "age_seconds": 6211
     }
   ]
 }
