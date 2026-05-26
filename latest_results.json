@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-26T19:44:48.772455+00:00",
+  "generated_at_utc": "2026-05-26T19:46:49.086265+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=pmgqpu1_tH8",
       "published_at_utc": "2026-05-26T19:42:30+00:00",
-      "age_seconds": 122
+      "age_seconds": 245
     },
     {
       "channel": "Wylsacom",
       "title": "Zeekr 8X - новый хит или провал? Первый честный тест в России",
       "url": "https://www.youtube.com/watch?v=MH5OC_T7fWo",
       "published_at_utc": "2026-05-26T18:55:19+00:00",
-      "age_seconds": 2878
+      "age_seconds": 2999
     },
     {
       "channel": "Сергей Милушкин",
-      "title": "Продавец украл билет на €4,5 млн евро но карма его догнала",
+      "title": "Украл лотерею на €4,5 млн евро но карма его догнала",
       "url": "https://www.youtube.com/shorts/7Ntvl2rOCUA",
       "published_at_utc": "2026-05-26T18:45:58+00:00",
-      "age_seconds": 3452
+      "age_seconds": 3574
     },
     {
       "channel": "perox",
       "title": "Чибики🥰 тгк: Пекарня Пирога #theboys #jojo #пацаны #perox #перокс",
       "url": "https://www.youtube.com/shorts/g1xNNTZqTV4",
       "published_at_utc": "2026-05-26T18:07:42+00:00",
-      "age_seconds": 5728
+      "age_seconds": 5848
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 368",
       "url": "https://www.youtube.com/shorts/6PZz-XDiIBc",
       "published_at_utc": "2026-05-26T17:57:33+00:00",
-      "age_seconds": 6345
+      "age_seconds": 6465
     },
     {
       "channel": "ДАРКАР",
       "title": "ОТДЫХ НЕ УДАЛСЯ В КС 2",
       "url": "https://www.youtube.com/shorts/DGXx99_OFrM",
       "published_at_utc": "2026-05-26T17:47:16+00:00",
-      "age_seconds": 7019
+      "age_seconds": 7141
     }
   ]
 }
