@@ -1,104 +1,97 @@
 {
-  "generated_at_utc": "2026-05-26T16:00:59.619753+00:00",
+  "generated_at_utc": "2026-05-26T16:02:58.622072+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Di ray",
+      "title": "DOTA 2 - МЕСТЬ!",
+      "url": "https://www.youtube.com/watch?v=yme-F9XkomE",
+      "published_at_utc": "2026-05-26T15:59:07+00:00",
+      "age_seconds": 203
+    },
     {
       "channel": "Amitesh",
       "title": "Операторская работа #амитеш #спорт",
       "url": "https://www.youtube.com/shorts/lbSzbMateVc",
       "published_at_utc": "2026-05-26T15:46:27+00:00",
-      "age_seconds": 804
+      "age_seconds": 926
     },
     {
       "channel": "StopGame",
       "title": "Vampire Crawlers, Dead as Disco, Ground Zero — свежее инди [Рефанд?!]",
       "url": "https://www.youtube.com/watch?v=Xaa-cZrl6Kg",
       "published_at_utc": "2026-05-26T15:24:57+00:00",
-      "age_seconds": 2127
+      "age_seconds": 2248
     },
     {
       "channel": "i11ushenka",
       "title": "Операция \"Выкупить все пончики\" 🍩🍩🍩",
       "url": "https://www.youtube.com/shorts/Mt3-mFJOQYM",
       "published_at_utc": "2026-05-26T15:23:09+00:00",
-      "age_seconds": 2161
+      "age_seconds": 2282
     },
     {
       "channel": "windy31",
       "title": "ПРИВЕТ СОСЕД: но это аналоговый хоррор",
       "url": "https://www.youtube.com/watch?v=8JFOejH0L2c",
       "published_at_utc": "2026-05-26T15:06:04+00:00",
-      "age_seconds": 3253
+      "age_seconds": 3377
     },
     {
       "channel": "Новостной Гусь",
       "title": "Илон Маск vs Пацаны 2.0 🥀",
       "url": "https://www.youtube.com/shorts/_xaxaSEMKpE",
       "published_at_utc": "2026-05-26T15:00:35+00:00",
-      "age_seconds": 3533
+      "age_seconds": 3656
     },
     {
       "channel": "МЯЧ Production",
       "title": "Команда сезона топ-5 лиг 25/26 | Битва составов",
       "url": "https://www.youtube.com/watch?v=_bmGb-7x1P0",
       "published_at_utc": "2026-05-26T15:00:27+00:00",
-      "age_seconds": 3552
+      "age_seconds": 3675
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Минибро сладенько уснул",
       "url": "https://www.youtube.com/shorts/YVT7q4i6iZ4",
       "published_at_utc": "2026-05-26T15:00:07+00:00",
-      "age_seconds": 3562
+      "age_seconds": 3685
     },
     {
       "channel": "Recrent",
       "title": "Я НЕ СУМАСШЕДШИЙ",
       "url": "https://www.youtube.com/watch?v=QnxehacFmk0",
       "published_at_utc": "2026-05-26T14:59:26+00:00",
-      "age_seconds": 3680
+      "age_seconds": 3799
     },
     {
       "channel": "Amitesh",
       "title": "Новая уродливая Феррари #амитеш #авто",
       "url": "https://www.youtube.com/shorts/5QfoyLsy_OQ",
       "published_at_utc": "2026-05-26T14:28:15+00:00",
-      "age_seconds": 5496
+      "age_seconds": 5618
     },
     {
       "channel": "sun_kill",
       "title": "покупочки для отпуска 🐬🌊🏖️",
       "url": "https://www.youtube.com/shorts/5hzcWKuQR_U",
       "published_at_utc": "2026-05-26T14:23:22+00:00",
-      "age_seconds": 5749
+      "age_seconds": 5870
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Кто победил? 😅 #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/zD1OG-zK_HE",
       "published_at_utc": "2026-05-26T14:18:22+00:00",
-      "age_seconds": 6093
+      "age_seconds": 6215
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 видео с котами и пылесосом 😹",
       "url": "https://www.youtube.com/shorts/58BDs6PuhT0",
       "published_at_utc": "2026-05-26T14:16:57+00:00",
-      "age_seconds": 6177
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Вредные советы от людей в тиктоке",
-      "url": "https://www.youtube.com/shorts/cSwMOiFsp9Q",
-      "published_at_utc": "2026-05-26T14:00:22+00:00",
-      "age_seconds": 7147
-    },
-    {
-      "channel": "Майни",
-      "title": "ТИК ТОК ДЕВОЧКИ поносят НИЩУКОВ с андроидом ► БВС ( BVS ) | Реакция",
-      "url": "https://www.youtube.com/watch?v=M_it1G30JMI",
-      "published_at_utc": "2026-05-26T14:00:16+00:00",
-      "age_seconds": 7132
+      "age_seconds": 6299
     }
   ]
 }
