@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-05-26T17:54:56.692056+00:00",
+  "generated_at_utc": "2026-05-26T17:56:50.116883+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ДАРКАР",
+      "title": "ОТДЫХ НЕ УДАЛСЯ В КС 2",
+      "url": "https://www.youtube.com/shorts/DGXx99_OFrM",
+      "published_at_utc": "2026-05-26T17:47:16+00:00",
+      "age_seconds": 541
+    },
     {
       "channel": "nowkie",
       "title": "Я создал Новое ЕГЭ (реально)",
       "url": "https://www.youtube.com/watch?v=xTs1xHfvzR4",
       "published_at_utc": "2026-05-26T17:26:10+00:00",
-      "age_seconds": 1636
+      "age_seconds": 1758
     },
     {
       "channel": "IGM",
       "title": "ШКОЛЬНИК УКРАЛ ВИДЕОКАРТЫ НА МИЛЛИОН РУБЛЕЙ",
       "url": "https://www.youtube.com/shorts/q_S1QLqO8Sc",
       "published_at_utc": "2026-05-26T17:13:48+00:00",
-      "age_seconds": 2423
+      "age_seconds": 2543
     },
     {
       "channel": "SonnyK",
       "title": "Новые ДЕТАЛИ AC Black Flag Resynced меня убедили...",
       "url": "https://www.youtube.com/watch?v=xOnWzNYAXAY",
       "published_at_utc": "2026-05-26T17:12:10+00:00",
-      "age_seconds": 2521
+      "age_seconds": 2641
     },
     {
       "channel": "JOHAN",
       "title": "Снова этот ДР",
       "url": "https://www.youtube.com/watch?v=Dtq15Z5YZus",
       "published_at_utc": "2026-05-26T16:56:44+00:00",
-      "age_seconds": 3388
+      "age_seconds": 3509
     },
     {
       "channel": "Recrent",
       "title": "Я ТАК И ПЛАНИРОВАЛ",
       "url": "https://www.youtube.com/shorts/RCky-6wZbh8",
       "published_at_utc": "2026-05-26T16:21:57+00:00",
-      "age_seconds": 5562
+      "age_seconds": 5681
     },
     {
       "channel": "Собиратель новостей",
       "title": "Кадыров Рекламирует ЭНЕРГЕТИК Своего Сына",
       "url": "https://www.youtube.com/shorts/PGRzc05okNo",
       "published_at_utc": "2026-05-26T16:19:04+00:00",
-      "age_seconds": 5660
+      "age_seconds": 5782
     },
     {
       "channel": "EVG",
       "title": "МЕССЕНДЖЕР МАКС В АЙФОНЕ - ЧТО ТЫ ТВОРИШЬ?!",
       "url": "https://www.youtube.com/shorts/DMsyUgxfVWU",
       "published_at_utc": "2026-05-26T16:15:04+00:00",
-      "age_seconds": 5897
+      "age_seconds": 6019
     },
     {
       "channel": "МЯЧ Production",
       "title": "Винисиус – главная проблема Реала? 👎",
       "url": "https://www.youtube.com/shorts/hn_g8tN3Uoc",
       "published_at_utc": "2026-05-26T16:04:38+00:00",
-      "age_seconds": 6541
+      "age_seconds": 6662
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Фрукты 1:0 Джони",
       "url": "https://www.youtube.com/shorts/XgVA3elBUHE",
       "published_at_utc": "2026-05-26T16:00:19+00:00",
-      "age_seconds": 6790
+      "age_seconds": 6912
     },
     {
       "channel": "Майни",
       "title": "Закрываю ГЕШТАЛЬТЫ ИЗ ДЕТСТВА.. *купил всё о чем мечтал* ► TheBrianMaps | Реакция",
       "url": "https://www.youtube.com/watch?v=n9LMnIEo6u8",
       "published_at_utc": "2026-05-26T16:00:15+00:00",
-      "age_seconds": 6772
+      "age_seconds": 6892
     },
     {
       "channel": "IGM",
       "title": "ЛУЧШАЯ ПОРТАТИВКА ДЛЯ ПИРАТСТВА: PS VITA vs NINTENDO SWITCH vs STEAM DECK",
       "url": "https://www.youtube.com/watch?v=CO8C3WEkt5c",
       "published_at_utc": "2026-05-26T16:00:05+00:00",
-      "age_seconds": 6846
+      "age_seconds": 6966
     },
     {
       "channel": "Di ray",
       "title": "DOTA 2 - МЕСТЬ!",
       "url": "https://www.youtube.com/watch?v=yme-F9XkomE",
       "published_at_utc": "2026-05-26T15:59:07+00:00",
-      "age_seconds": 6918
+      "age_seconds": 7037
     },
     {
       "channel": "Margaritka",
       "title": "Имидж — ничто, жажда — всё 😄😄",
       "url": "https://www.youtube.com/shorts/aEz9183MRbo",
       "published_at_utc": "2026-05-26T15:57:31+00:00",
-      "age_seconds": 6986
+      "age_seconds": 7107
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=pmgqpu1_tH8",
       "published_at_utc": "2026-05-26T15:57:24+00:00",
-      "age_seconds": 7032
+      "age_seconds": 7151
     }
   ]
 }
