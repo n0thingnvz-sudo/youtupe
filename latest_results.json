@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-05-26T08:10:43.719219+00:00",
+  "generated_at_utc": "2026-05-26T08:12:42.547757+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Его желание сбылось",
+      "url": "https://www.youtube.com/shorts/urL2FVxvQh4",
+      "published_at_utc": "2026-05-26T08:00:03+00:00",
+      "age_seconds": 685
+    },
     {
       "channel": "VASYAN1000",
       "title": "Когда батя запряг на даче #shorts #quest #games #прикол #юмор",
       "url": "https://www.youtube.com/shorts/6Mb-zkZ-Wf8",
       "published_at_utc": "2026-05-26T07:19:49+00:00",
-      "age_seconds": 2991
+      "age_seconds": 3111
     },
     {
       "channel": "Собиратель новостей",
       "title": "Российские Школьники ЛУЧШИЕ в Европе",
       "url": "https://www.youtube.com/shorts/-R8YPLPVEIA",
       "published_at_utc": "2026-05-26T07:15:05+00:00",
-      "age_seconds": 3259
+      "age_seconds": 3379
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Все европейцы одинаковые",
       "url": "https://www.youtube.com/shorts/IV2gyGRKJtY",
       "published_at_utc": "2026-05-26T07:00:39+00:00",
-      "age_seconds": 4129
+      "age_seconds": 4249
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "В целом я сам виноват что плачу за интернет",
       "url": "https://www.youtube.com/shorts/lKy3pbnLspQ",
       "published_at_utc": "2026-05-26T07:00:31+00:00",
-      "age_seconds": 4137
+      "age_seconds": 4258
     },
     {
       "channel": "IXBT Games",
       "title": "Ремейк HOMM 5 на UE5 / Throne and Liberty это позор / Nvidia больше не GeForce / Пацаны 5 сезон",
       "url": "https://www.youtube.com/watch?v=oo4stI-g1i4",
       "published_at_utc": "2026-05-26T07:00:22+00:00",
-      "age_seconds": 4185
+      "age_seconds": 4304
     },
     {
       "channel": "Короче, новости",
       "title": "Угнали 27 Люкс-Тачек с Парковки",
       "url": "https://www.youtube.com/shorts/6yXE1V0lx8U",
       "published_at_utc": "2026-05-26T06:50:05+00:00",
-      "age_seconds": 4759
+      "age_seconds": 4880
     },
     {
       "channel": "Короче, новости",
       "title": "Сербы Больше НЕ Братушки?",
       "url": "https://www.youtube.com/shorts/tusn3_KWJ7M",
       "published_at_utc": "2026-05-26T06:30:15+00:00",
-      "age_seconds": 5949
+      "age_seconds": 6070
     },
     {
       "channel": "kinoluv",
       "title": "Командная работа🔥 Новый фильм Гая Ричи «Грязные деньги» уже в кино! #грязныеденьги",
       "url": "https://www.youtube.com/shorts/hBszFSGWcRA",
       "published_at_utc": "2026-05-26T06:29:12+00:00",
-      "age_seconds": 6014
+      "age_seconds": 6135
     }
   ]
 }
