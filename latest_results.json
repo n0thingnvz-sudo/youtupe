@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-05-26T23:10:33.497988+00:00",
+  "generated_at_utc": "2026-05-26T23:34:47.487041+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Не дал отжать бизнес у доброй бабушки👊",
+      "url": "https://www.youtube.com/shorts/Z-gi_9_Gj7Y",
+      "published_at_utc": "2026-05-26T23:13:37+00:00",
+      "age_seconds": 1192
+    },
     {
       "channel": "kinoluv",
       "title": "В этом городе живут вампиры🩸",
       "url": "https://www.youtube.com/shorts/N92AbwQlLb4",
       "published_at_utc": "2026-05-26T22:41:57+00:00",
-      "age_seconds": 1647
+      "age_seconds": 3092
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "УГАР С ПАРАДЕЕВИЧЕМ И РОСТИКОМ НА ТРЕНИРОВКЕ ПО ФУТБОЛУ | Раговский, Парадеевич, Ростик, Айдар и др.",
       "url": "https://www.youtube.com/watch?v=5Vzp4VNoh0g",
       "published_at_utc": "2026-05-26T21:35:39+00:00",
-      "age_seconds": 5651
+      "age_seconds": 7100
     }
   ]
 }
