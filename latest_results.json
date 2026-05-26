@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-05-26T07:20:45.244667+00:00",
+  "generated_at_utc": "2026-05-26T07:22:44.266704+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Российские Школьники ЛУЧШИЕ в Европе",
+      "url": "https://www.youtube.com/shorts/-R8YPLPVEIA",
+      "published_at_utc": "2026-05-26T07:15:05+00:00",
+      "age_seconds": 378
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Все европейцы одинаковые",
       "url": "https://www.youtube.com/shorts/IV2gyGRKJtY",
       "published_at_utc": "2026-05-26T07:00:39+00:00",
-      "age_seconds": 1130
+      "age_seconds": 1249
     },
     {
       "channel": "IXBT Games",
       "title": "Bungie прекращает поддержку Destiny 2 #ixbt #ixbtgames  #destiny2 #bungie #игры",
       "url": "https://www.youtube.com/shorts/voTIs77yq_0",
       "published_at_utc": "2026-05-26T07:00:34+00:00",
-      "age_seconds": 1175
+      "age_seconds": 1294
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "В целом я сам виноват что плачу за интернет",
       "url": "https://www.youtube.com/shorts/lKy3pbnLspQ",
       "published_at_utc": "2026-05-26T07:00:31+00:00",
-      "age_seconds": 1138
+      "age_seconds": 1257
     },
     {
       "channel": "IXBT Games",
       "title": "Ремейк HOMM 5 на UE5 / Throne and Liberty это позор / Nvidia больше не GeForce / Пацаны 5 сезон",
       "url": "https://www.youtube.com/watch?v=oo4stI-g1i4",
       "published_at_utc": "2026-05-26T07:00:22+00:00",
-      "age_seconds": 1187
+      "age_seconds": 1306
     },
     {
       "channel": "Короче, новости",
       "title": "Угнали 27 Люкс-Тачек с Парковки",
       "url": "https://www.youtube.com/shorts/6yXE1V0lx8U",
       "published_at_utc": "2026-05-26T06:50:05+00:00",
-      "age_seconds": 1760
+      "age_seconds": 1879
     },
     {
       "channel": "Короче, новости",
       "title": "Сербы Больше НЕ Братушки?",
       "url": "https://www.youtube.com/shorts/tusn3_KWJ7M",
       "published_at_utc": "2026-05-26T06:30:15+00:00",
-      "age_seconds": 2950
+      "age_seconds": 3069
     },
     {
       "channel": "kinoluv",
       "title": "Командная работа🔥 Новый фильм Гая Ричи «Грязные деньги» уже в кино! #грязныеденьги",
       "url": "https://www.youtube.com/shorts/hBszFSGWcRA",
       "published_at_utc": "2026-05-26T06:29:12+00:00",
-      "age_seconds": 3015
+      "age_seconds": 3134
     },
     {
       "channel": "Recrent",
       "title": "ТАКОЙ ВОТ МЕМ",
       "url": "https://www.youtube.com/shorts/0DxZErqv724",
       "published_at_utc": "2026-05-26T06:00:44+00:00",
-      "age_seconds": 4790
+      "age_seconds": 4909
     }
   ]
 }
