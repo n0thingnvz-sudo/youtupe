@@ -1,118 +1,132 @@
 {
-  "generated_at_utc": "2026-05-26T16:31:09.027717+00:00",
+  "generated_at_utc": "2026-05-26T16:34:56.600865+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Recrent",
+      "title": "Я ТАК И ПЛАНИРОВАЛ",
+      "url": "https://www.youtube.com/shorts/RCky-6wZbh8",
+      "published_at_utc": "2026-05-26T16:21:57+00:00",
+      "age_seconds": 763
+    },
+    {
+      "channel": "Собиратель новостей",
+      "title": "Кадыров Рекламирует ЭНЕРГЕТИК Своего Сына",
+      "url": "https://www.youtube.com/shorts/PGRzc05okNo",
+      "published_at_utc": "2026-05-26T16:19:04+00:00",
+      "age_seconds": 861
+    },
     {
       "channel": "EVG",
       "title": "МЕССЕНДЖЕР МАКС В АЙФОНЕ - ЧТО ТЫ ТВОРИШЬ?!",
       "url": "https://www.youtube.com/shorts/DMsyUgxfVWU",
       "published_at_utc": "2026-05-26T16:15:04+00:00",
-      "age_seconds": 858
+      "age_seconds": 1098
     },
     {
       "channel": "МЯЧ Production",
       "title": "Винисиус – главная проблема Реала? 👎",
       "url": "https://www.youtube.com/shorts/hn_g8tN3Uoc",
       "published_at_utc": "2026-05-26T16:04:38+00:00",
-      "age_seconds": 1502
+      "age_seconds": 1742
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Фрукты 1:0 Джони",
       "url": "https://www.youtube.com/shorts/XgVA3elBUHE",
       "published_at_utc": "2026-05-26T16:00:19+00:00",
-      "age_seconds": 1751
+      "age_seconds": 1991
     },
     {
       "channel": "Майни",
       "title": "Закрываю ГЕШТАЛЬТЫ ИЗ ДЕТСТВА.. *купил всё о чем мечтал* ► TheBrianMaps | Реакция",
       "url": "https://www.youtube.com/watch?v=n9LMnIEo6u8",
       "published_at_utc": "2026-05-26T16:00:15+00:00",
-      "age_seconds": 1733
+      "age_seconds": 1972
     },
     {
       "channel": "IGM",
       "title": "ЛУЧШАЯ ПОРТАТИВКА ДЛЯ ПИРАТСТВА: PS VITA vs NINTENDO SWITCH vs STEAM DECK",
       "url": "https://www.youtube.com/watch?v=CO8C3WEkt5c",
       "published_at_utc": "2026-05-26T16:00:05+00:00",
-      "age_seconds": 1817
+      "age_seconds": 2047
     },
     {
       "channel": "Di ray",
       "title": "DOTA 2 - МЕСТЬ!",
       "url": "https://www.youtube.com/watch?v=yme-F9XkomE",
       "published_at_utc": "2026-05-26T15:59:07+00:00",
-      "age_seconds": 1889
+      "age_seconds": 2119
     },
     {
       "channel": "Margaritka",
       "title": "Имидж — ничто, жажда — всё 😄😄",
       "url": "https://www.youtube.com/shorts/aEz9183MRbo",
       "published_at_utc": "2026-05-26T15:57:31+00:00",
-      "age_seconds": 1956
+      "age_seconds": 2187
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=pmgqpu1_tH8",
       "published_at_utc": "2026-05-26T15:57:24+00:00",
-      "age_seconds": 2009
+      "age_seconds": 2233
     },
     {
       "channel": "Amitesh",
       "title": "Операторская работа #амитеш #спорт",
       "url": "https://www.youtube.com/shorts/lbSzbMateVc",
       "published_at_utc": "2026-05-26T15:46:27+00:00",
-      "age_seconds": 2605
+      "age_seconds": 2845
     },
     {
       "channel": "StopGame",
       "title": "Vampire Crawlers, Dead as Disco, Ground Zero — свежее инди [Рефанд?!]",
       "url": "https://www.youtube.com/watch?v=Xaa-cZrl6Kg",
       "published_at_utc": "2026-05-26T15:24:57+00:00",
-      "age_seconds": 3933
+      "age_seconds": 4163
     },
     {
       "channel": "i11ushenka",
       "title": "Операция \"Выкупить все пончики\" 🍩🍩🍩",
       "url": "https://www.youtube.com/shorts/Mt3-mFJOQYM",
       "published_at_utc": "2026-05-26T15:23:09+00:00",
-      "age_seconds": 3961
+      "age_seconds": 4201
     },
     {
       "channel": "windy31",
       "title": "ПРИВЕТ СОСЕД но проклятая пиратская версия",
       "url": "https://www.youtube.com/watch?v=8JFOejH0L2c",
       "published_at_utc": "2026-05-26T15:06:04+00:00",
-      "age_seconds": 5062
+      "age_seconds": 5293
     },
     {
       "channel": "Новостной Гусь",
       "title": "Илон Маск vs Пацаны 2.0 🥀",
       "url": "https://www.youtube.com/shorts/_xaxaSEMKpE",
       "published_at_utc": "2026-05-26T15:00:35+00:00",
-      "age_seconds": 5334
+      "age_seconds": 5573
     },
     {
       "channel": "МЯЧ Production",
       "title": "Команда сезона топ-5 лиг 25/26 | Битва составов",
       "url": "https://www.youtube.com/watch?v=_bmGb-7x1P0",
       "published_at_utc": "2026-05-26T15:00:27+00:00",
-      "age_seconds": 5353
+      "age_seconds": 5593
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Минибро сладенько уснул",
       "url": "https://www.youtube.com/shorts/YVT7q4i6iZ4",
       "published_at_utc": "2026-05-26T15:00:07+00:00",
-      "age_seconds": 5363
+      "age_seconds": 5603
     },
     {
       "channel": "Recrent",
       "title": "Я НЕ СУМАСШЕДШИЙ",
       "url": "https://www.youtube.com/watch?v=QnxehacFmk0",
       "published_at_utc": "2026-05-26T14:59:26+00:00",
-      "age_seconds": 5490
+      "age_seconds": 5714
     }
   ]
 }
