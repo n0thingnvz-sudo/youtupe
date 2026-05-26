@@ -1,62 +1,62 @@
 {
-  "generated_at_utc": "2026-05-26T18:05:04.807086+00:00",
+  "generated_at_utc": "2026-05-26T18:08:57.352694+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ДАРКАР",
+      "title": "ОТДЫХ НЕ УДАЛСЯ В КС 2",
+      "url": "https://www.youtube.com/shorts/DGXx99_OFrM",
+      "published_at_utc": "2026-05-26T17:47:16+00:00",
+      "age_seconds": 1267
+    },
     {
       "channel": "nowkie",
       "title": "Я создал Новое ЕГЭ (реально)",
       "url": "https://www.youtube.com/watch?v=xTs1xHfvzR4",
       "published_at_utc": "2026-05-26T17:26:10+00:00",
-      "age_seconds": 2239
+      "age_seconds": 2478
     },
     {
       "channel": "IGM",
       "title": "ШКОЛЬНИК УКРАЛ ВИДЕОКАРТЫ НА МИЛЛИОН РУБЛЕЙ",
       "url": "https://www.youtube.com/shorts/q_S1QLqO8Sc",
       "published_at_utc": "2026-05-26T17:13:48+00:00",
-      "age_seconds": 3031
+      "age_seconds": 3268
     },
     {
       "channel": "SonnyK",
       "title": "Новые ДЕТАЛИ AC Black Flag Resynced меня убедили...",
       "url": "https://www.youtube.com/watch?v=xOnWzNYAXAY",
       "published_at_utc": "2026-05-26T17:12:10+00:00",
-      "age_seconds": 3129
+      "age_seconds": 3366
     },
     {
       "channel": "JOHAN",
       "title": "Снова этот ДР",
       "url": "https://www.youtube.com/watch?v=Dtq15Z5YZus",
       "published_at_utc": "2026-05-26T16:56:44+00:00",
-      "age_seconds": 3989
+      "age_seconds": 4229
     },
     {
       "channel": "Recrent",
       "title": "Я ТАК И ПЛАНИРОВАЛ",
       "url": "https://www.youtube.com/shorts/RCky-6wZbh8",
       "published_at_utc": "2026-05-26T16:21:57+00:00",
-      "age_seconds": 6176
+      "age_seconds": 6407
     },
     {
       "channel": "Собиратель новостей",
       "title": "Кадыров Рекламирует ЭНЕРГЕТИК Своего Сына",
       "url": "https://www.youtube.com/shorts/PGRzc05okNo",
       "published_at_utc": "2026-05-26T16:19:04+00:00",
-      "age_seconds": 6261
+      "age_seconds": 6502
     },
     {
       "channel": "EVG",
       "title": "МЕССЕНДЖЕР МАКС В АЙФОНЕ - ЧТО ТЫ ТВОРИШЬ?!",
       "url": "https://www.youtube.com/shorts/DMsyUgxfVWU",
       "published_at_utc": "2026-05-26T16:15:04+00:00",
-      "age_seconds": 6498
-    },
-    {
-      "channel": "МЯЧ Production",
-      "title": "Винисиус – главная проблема Реала? 👎",
-      "url": "https://www.youtube.com/shorts/hn_g8tN3Uoc",
-      "published_at_utc": "2026-05-26T16:04:38+00:00",
-      "age_seconds": 7144
+      "age_seconds": 6739
     }
   ]
 }
