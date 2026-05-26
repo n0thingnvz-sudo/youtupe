@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-05-26T14:08:58.190521+00:00",
+  "generated_at_utc": "2026-05-26T14:11:00.785237+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Вредные советы от людей в тиктоке",
+      "url": "https://www.youtube.com/shorts/cSwMOiFsp9Q",
+      "published_at_utc": "2026-05-26T14:00:22+00:00",
+      "age_seconds": 551
+    },
     {
       "channel": "leafxup",
       "title": "Я КУРИЦА БЕЗ ГОЛОВЫ...",
       "url": "https://www.youtube.com/watch?v=Uz9XHKCh5FY",
       "published_at_utc": "2026-05-26T13:45:17+00:00",
-      "age_seconds": 1376
+      "age_seconds": 1505
     },
     {
       "channel": "ROUNDZZ",
       "title": "ПАТЧ 12.10 ВАЛОРАНТ  #valorant #валорант",
       "url": "https://www.youtube.com/shorts/tpuMcrhtXk4",
       "published_at_utc": "2026-05-26T13:07:40+00:00",
-      "age_seconds": 3638
+      "age_seconds": 3766
     },
     {
       "channel": "Amitesh",
       "title": "Как чистый спортсмен химиков ушатал #амитеш #спорт",
       "url": "https://www.youtube.com/shorts/tnLlCmrY6To",
       "published_at_utc": "2026-05-26T13:05:54+00:00",
-      "age_seconds": 3717
+      "age_seconds": 3845
     },
     {
       "channel": "ROUNDZZ",
       "title": "РАЗВЕДКА 2.0 В VALORANT  #valorant #валорант",
       "url": "https://www.youtube.com/shorts/Llt6qkiLeAg",
       "published_at_utc": "2026-05-26T13:04:51+00:00",
-      "age_seconds": 3807
+      "age_seconds": 3935
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Хорошая концовка фильма ужасов:",
       "url": "https://www.youtube.com/shorts/jZBCh2sCw10",
       "published_at_utc": "2026-05-26T13:00:36+00:00",
-      "age_seconds": 4014
+      "age_seconds": 4137
     },
     {
       "channel": "Kuro",
       "title": "ВСЕ ФИШКИ ДОНКА С PGL ASTANA ЗА 15 МИНУТ!",
       "url": "https://www.youtube.com/watch?v=_845Sqwi21k",
       "published_at_utc": "2026-05-26T13:00:36+00:00",
-      "age_seconds": 4066
+      "age_seconds": 4194
     },
     {
       "channel": "Sherl0ck",
       "title": "⚔️БЕЗ КОММЕНТАРИЕВ⚔️| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/TddNmnFqauA",
       "published_at_utc": "2026-05-26T12:45:33+00:00",
-      "age_seconds": 4964
+      "age_seconds": 5092
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Испанец 20 лет записывал преступления босса в блокнот",
       "url": "https://www.youtube.com/shorts/xZkAS0PLcNA",
       "published_at_utc": "2026-05-26T12:44:08+00:00",
-      "age_seconds": 5003
+      "age_seconds": 5131
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не только спортсмены готовятся к забегу",
       "url": "https://www.youtube.com/shorts/0TkIHriZCss",
       "published_at_utc": "2026-05-26T12:30:01+00:00",
-      "age_seconds": 5848
+      "age_seconds": 5970
     }
   ]
 }
