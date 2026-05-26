@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-05-26T12:02:57.416670+00:00",
+  "generated_at_utc": "2026-05-26T12:04:50.488607+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Смешновости",
+      "title": "Новая игрушка 😂 #истории #история #новости #новость #shorts",
+      "url": "https://www.youtube.com/shorts/FdsgHl1CNLs",
+      "published_at_utc": "2026-05-26T12:00:01+00:00",
+      "age_seconds": 234
+    },
     {
       "channel": "Vert Dider",
       "title": "Этот овощ стал популярным благодаря рефрижераторам",
       "url": "https://www.youtube.com/shorts/XFbft-6Q16I",
       "published_at_utc": "2026-05-26T11:40:08+00:00",
-      "age_seconds": 1257
+      "age_seconds": 1377
     },
     {
       "channel": "i11ushenka",
       "title": "Мяч я не отдам... 😐",
       "url": "https://www.youtube.com/shorts/mhGtrTypZv8",
       "published_at_utc": "2026-05-26T11:38:22+00:00",
-      "age_seconds": 1368
+      "age_seconds": 1488
     },
     {
       "channel": "Собиратель новостей",
       "title": "Львица с РЕСНИЦАМИ, как После Салона",
       "url": "https://www.youtube.com/shorts/X7rXwGBVdQo",
       "published_at_utc": "2026-05-26T11:30:00+00:00",
-      "age_seconds": 1885
+      "age_seconds": 2004
     },
     {
       "channel": "This is Хорошо",
       "title": "Пустая страница, вошедшая в историю науки #shorts #шортс",
       "url": "https://www.youtube.com/shorts/nyt2WW8LLqk",
       "published_at_utc": "2026-05-26T11:27:53+00:00",
-      "age_seconds": 2040
+      "age_seconds": 2159
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему Мопсы Орут 😱",
       "url": "https://www.youtube.com/shorts/WPNTzbR6F6o",
       "published_at_utc": "2026-05-26T11:01:35+00:00",
-      "age_seconds": 3619
+      "age_seconds": 3738
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Гэри навсегда останется в наших сердцах",
       "url": "https://www.youtube.com/shorts/Cbb1wq_P5KY",
       "published_at_utc": "2026-05-26T11:00:28+00:00",
-      "age_seconds": 3662
+      "age_seconds": 3782
     },
     {
       "channel": "МайорКрафт",
       "title": "Теперь он самый крутой на улице #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/JCPNg9w7DCk",
       "published_at_utc": "2026-05-26T11:00:21+00:00",
-      "age_seconds": 3689
+      "age_seconds": 3808
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Директор Твича о накрутке",
       "url": "https://www.youtube.com/shorts/15YxSyOccdw",
       "published_at_utc": "2026-05-26T11:00:15+00:00",
-      "age_seconds": 3675
+      "age_seconds": 3795
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 31",
       "url": "https://www.youtube.com/shorts/HX8duFy4Nok",
       "published_at_utc": "2026-05-26T10:51:30+00:00",
-      "age_seconds": 4189
+      "age_seconds": 4308
     },
     {
       "channel": "Короче, новости",
       "title": "4 Миллиарда в Пломбир: Мега-Фабрика Мороженого",
       "url": "https://www.youtube.com/shorts/G5BjeMPUx9w",
       "published_at_utc": "2026-05-26T10:16:24+00:00",
-      "age_seconds": 6302
+      "age_seconds": 6421
     }
   ]
 }
