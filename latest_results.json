@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-05-26T12:34:46.952033+00:00",
+  "generated_at_utc": "2026-05-26T12:36:47.211734+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Не только спортсмены готовятся к забегу",
+      "url": "https://www.youtube.com/shorts/0TkIHriZCss",
+      "published_at_utc": "2026-05-26T12:30:01+00:00",
+      "age_seconds": 327
+    },
     {
       "channel": "Antochi",
       "title": "САМЫЙ ОПАСНЫЙ МЕМ 67",
       "url": "https://www.youtube.com/shorts/-QL0PYBm-a8",
       "published_at_utc": "2026-05-26T12:07:00+00:00",
-      "age_seconds": 1610
+      "age_seconds": 1730
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "Lp. Мастерская [47] • #64 ДРУГАЯ ПЛАНЕТА [Сумеречный Лес] • Майнкрафт",
       "url": "https://www.youtube.com/watch?v=GioiAgQ7OJ4",
       "published_at_utc": "2026-05-26T12:00:34+00:00",
-      "age_seconds": 2018
+      "age_seconds": 2139
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "На этот раз пронесло",
       "url": "https://www.youtube.com/shorts/8YK1RIVlcWU",
       "published_at_utc": "2026-05-26T12:00:31+00:00",
-      "age_seconds": 1978
+      "age_seconds": 2098
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ФИНАЛ ► Directive 8020 #9",
       "url": "https://www.youtube.com/watch?v=82Z124bL7ME",
       "published_at_utc": "2026-05-26T12:00:10+00:00",
-      "age_seconds": 2045
+      "age_seconds": 2166
     },
     {
       "channel": "Смешновости",
       "title": "Новая игрушка 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/FdsgHl1CNLs",
       "published_at_utc": "2026-05-26T12:00:01+00:00",
-      "age_seconds": 2032
+      "age_seconds": 2152
     },
     {
       "channel": "Vert Dider",
       "title": "Этот овощ стал популярным благодаря рефрижераторам",
       "url": "https://www.youtube.com/shorts/XFbft-6Q16I",
       "published_at_utc": "2026-05-26T11:40:08+00:00",
-      "age_seconds": 3177
+      "age_seconds": 3297
     },
     {
       "channel": "i11ushenka",
       "title": "Мяч я не отдам... 😐",
       "url": "https://www.youtube.com/shorts/mhGtrTypZv8",
       "published_at_utc": "2026-05-26T11:38:22+00:00",
-      "age_seconds": 3288
+      "age_seconds": 3408
     },
     {
       "channel": "Собиратель новостей",
       "title": "Львица с РЕСНИЦАМИ, как После Салона",
       "url": "https://www.youtube.com/shorts/X7rXwGBVdQo",
       "published_at_utc": "2026-05-26T11:30:00+00:00",
-      "age_seconds": 3804
+      "age_seconds": 3924
     },
     {
       "channel": "This is Хорошо",
       "title": "Пустая страница, вошедшая в историю науки #shorts #шортс",
       "url": "https://www.youtube.com/shorts/nyt2WW8LLqk",
       "published_at_utc": "2026-05-26T11:27:53+00:00",
-      "age_seconds": 3957
+      "age_seconds": 4078
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему Мопсы Орут 😱",
       "url": "https://www.youtube.com/shorts/WPNTzbR6F6o",
       "published_at_utc": "2026-05-26T11:01:35+00:00",
-      "age_seconds": 5537
+      "age_seconds": 5657
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Гэри навсегда останется в наших сердцах",
       "url": "https://www.youtube.com/shorts/Cbb1wq_P5KY",
       "published_at_utc": "2026-05-26T11:00:28+00:00",
-      "age_seconds": 5581
+      "age_seconds": 5701
     },
     {
       "channel": "МайорКрафт",
       "title": "Теперь он самый крутой на улице #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/JCPNg9w7DCk",
       "published_at_utc": "2026-05-26T11:00:21+00:00",
-      "age_seconds": 5607
+      "age_seconds": 5727
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Директор Твича о накрутке",
       "url": "https://www.youtube.com/shorts/15YxSyOccdw",
       "published_at_utc": "2026-05-26T11:00:15+00:00",
-      "age_seconds": 5595
+      "age_seconds": 5714
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 31",
       "url": "https://www.youtube.com/shorts/HX8duFy4Nok",
       "published_at_utc": "2026-05-26T10:51:30+00:00",
-      "age_seconds": 6108
+      "age_seconds": 6228
     }
   ]
 }
