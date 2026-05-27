@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-27T21:08:44.799838+00:00",
+  "generated_at_utc": "2026-05-27T21:10:44.941233+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=EaQ_t25NPXY",
       "published_at_utc": "2026-05-27T20:40:23+00:00",
-      "age_seconds": 1687
+      "age_seconds": 1808
     },
     {
       "channel": "perox",
       "title": "Умоляю🛐 тгк: Пекарня Пирога #theboys #пацаны #экзамены #perox #перокс",
       "url": "https://www.youtube.com/shorts/0AZOwDOF62s",
       "published_at_utc": "2026-05-27T20:19:42+00:00",
-      "age_seconds": 2849
+      "age_seconds": 2969
     },
     {
       "channel": "kinoluv",
       "title": "Крылья ангела🪽",
       "url": "https://www.youtube.com/shorts/Sn9Wy-2_5iE",
       "published_at_utc": "2026-05-27T19:30:48+00:00",
-      "age_seconds": 5799
-    },
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Купил за $35 б/у диван с КЛАДОМ",
-      "url": "https://www.youtube.com/shorts/GT6epsXEGmU",
-      "published_at_utc": "2026-05-27T19:08:44+00:00",
-      "age_seconds": 7126
+      "age_seconds": 5919
     }
   ]
 }
