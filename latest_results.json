@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-27T07:12:39.938027+00:00",
+  "generated_at_utc": "2026-05-27T07:14:37.805297+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "МОЙ НОВЫЙ ТЕЛЕФОН",
       "url": "https://www.youtube.com/watch?v=aNkIpc6fGzk",
       "published_at_utc": "2026-05-27T06:09:51+00:00",
-      "age_seconds": 3675
+      "age_seconds": 3796
     },
     {
       "channel": "Имя Фамилия",
       "title": "В этом видео 212 видео",
       "url": "https://www.youtube.com/watch?v=wQc1eIktU5Q",
       "published_at_utc": "2026-05-27T05:13:44+00:00",
-      "age_seconds": 7071
+      "age_seconds": 7191
     }
   ]
 }
