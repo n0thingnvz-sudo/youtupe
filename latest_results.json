@@ -1,41 +1,55 @@
 {
-  "generated_at_utc": "2026-05-27T08:04:45.857003+00:00",
+  "generated_at_utc": "2026-05-27T08:06:45.318216+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Это так выглядит восстание машин?",
+      "url": "https://www.youtube.com/shorts/eg2ZfkstIV4",
+      "published_at_utc": "2026-05-27T08:00:27+00:00",
+      "age_seconds": 302
+    },
+    {
+      "channel": "Послезавтра",
+      "title": "Каким был мир в 2012-м? #2012 #дорн #ургант",
+      "url": "https://www.youtube.com/shorts/hE0rbojer6w",
+      "published_at_utc": "2026-05-27T07:43:41+00:00",
+      "age_seconds": 1283
+    },
     {
       "channel": "Собиратель новостей",
       "title": "Полицейские Надели ПЛАТЬЯ, Чтобы Задержать Преступника",
       "url": "https://www.youtube.com/shorts/B0LMaJVNiYI",
       "published_at_utc": "2026-05-27T07:30:09+00:00",
-      "age_seconds": 1995
+      "age_seconds": 2115
     },
     {
       "channel": "CS2TV",
       "title": "5 ИГРОКОВ В CS, КОТОРЫЕ СТАНУТ ГЕНИАЛЬНЫМИ ТРЕНЕРАМИ",
       "url": "https://www.youtube.com/watch?v=nFFhoNQX58A",
       "published_at_utc": "2026-05-27T07:15:03+00:00",
-      "age_seconds": 2960
+      "age_seconds": 3079
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Фильтры на трансляции",
       "url": "https://www.youtube.com/shorts/-mb6wBCIYMA",
       "published_at_utc": "2026-05-27T07:00:39+00:00",
-      "age_seconds": 3770
+      "age_seconds": 3890
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "В каком-то смысле это правда инопланетянин",
       "url": "https://www.youtube.com/shorts/OwvYxtygwDw",
       "published_at_utc": "2026-05-27T07:00:14+00:00",
-      "age_seconds": 3795
+      "age_seconds": 3915
     },
     {
       "channel": "Rozetked",
       "title": "МОЙ НОВЫЙ ТЕЛЕФОН",
       "url": "https://www.youtube.com/watch?v=aNkIpc6fGzk",
       "published_at_utc": "2026-05-27T06:09:51+00:00",
-      "age_seconds": 6796
+      "age_seconds": 6916
     }
   ]
 }
