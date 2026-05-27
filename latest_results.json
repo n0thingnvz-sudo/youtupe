@@ -1,97 +1,111 @@
 {
-  "generated_at_utc": "2026-05-27T15:15:06.217232+00:00",
+  "generated_at_utc": "2026-05-27T15:18:58.380101+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "PoleznyiBes",
+      "title": "Агент 007",
+      "url": "https://www.youtube.com/watch?v=EaQ_t25NPXY",
+      "published_at_utc": "2026-05-27T15:07:26+00:00",
+      "age_seconds": 675
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Хорошие советы от ИИ",
+      "url": "https://www.youtube.com/shorts/upUVWk9Prek",
+      "published_at_utc": "2026-05-27T15:00:29+00:00",
+      "age_seconds": 1021
+    },
     {
       "channel": "Recrent",
       "title": "Я ИХ УДАЛИЛ",
       "url": "https://www.youtube.com/watch?v=ztmo26oj2cU",
       "published_at_utc": "2026-05-27T15:00:23+00:00",
-      "age_seconds": 871
+      "age_seconds": 1101
     },
     {
       "channel": "Тимур Сидельников",
       "title": "67",
       "url": "https://www.youtube.com/shorts/R-AgK8hrV4s",
       "published_at_utc": "2026-05-27T14:40:53+00:00",
-      "age_seconds": 1996
+      "age_seconds": 2226
     },
     {
       "channel": "Sherl0ck",
       "title": "🎧LUNACY LOUDER - 👎| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/WgUABL4l-oc",
       "published_at_utc": "2026-05-27T14:30:01+00:00",
-      "age_seconds": 2668
+      "age_seconds": 2899
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 собак для домоседов 😴",
       "url": "https://www.youtube.com/shorts/12hMvzsvLGg",
       "published_at_utc": "2026-05-27T14:29:18+00:00",
-      "age_seconds": 2689
+      "age_seconds": 2919
     },
     {
       "channel": "Завод KURS",
       "title": "ПОЧЕМУ НЕМЕЦКАЯ ГРАНАТА ТАК СТРАННО ВЫГЛЯДЕЛА? 💥",
       "url": "https://www.youtube.com/shorts/S28UjdYN_YI",
       "published_at_utc": "2026-05-27T14:16:37+00:00",
-      "age_seconds": 3433
+      "age_seconds": 3670
     },
     {
       "channel": "ZOMBIERUS",
       "title": "Новые испытания в Battlefield 6",
       "url": "https://www.youtube.com/watch?v=ECQoOoBEPfE",
       "published_at_utc": "2026-05-27T14:09:15+00:00",
-      "age_seconds": 3944
+      "age_seconds": 4175
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Случайное знакомство",
       "url": "https://www.youtube.com/shorts/acmGwRq7TYc",
       "published_at_utc": "2026-05-27T14:00:08+00:00",
-      "age_seconds": 4405
+      "age_seconds": 4642
     },
     {
       "channel": "Никита Айсер",
       "title": "Общаемся с вами в тг «бункер никитоса»",
       "url": "https://www.youtube.com/shorts/WOXSJmbx7Vs",
       "published_at_utc": "2026-05-27T13:59:42+00:00",
-      "age_seconds": 4430
+      "age_seconds": 4667
     },
     {
       "channel": "Amitesh",
       "title": "Он был на орбите когда Советский Союз распался #амитеш #история",
       "url": "https://www.youtube.com/shorts/k34UKy_7w4I",
       "published_at_utc": "2026-05-27T13:52:48+00:00",
-      "age_seconds": 4876
+      "age_seconds": 5107
     },
     {
       "channel": "i11ushenka",
       "title": "Нейросети vs Преподаватели 🤖",
       "url": "https://www.youtube.com/shorts/8nH98RaJ8ss",
       "published_at_utc": "2026-05-27T13:42:18+00:00",
-      "age_seconds": 5452
+      "age_seconds": 5692
     },
     {
       "channel": "Майни",
       "title": "Все ГРЕХИ и ПЛЮСЫ веб-сериала \"GAMEOVERSE\" ► Dalbek ( Далбеков ) | Реакция",
       "url": "https://www.youtube.com/watch?v=j2kQ6caWANk",
       "published_at_utc": "2026-05-27T13:40:21+00:00",
-      "age_seconds": 5566
+      "age_seconds": 5806
     },
     {
       "channel": "Сергей Милушкин",
-      "title": "Засудила соседей за выигрыш €14.000.000",
+      "title": "Соседи выиграли €14.000.000 а ей не досталось",
       "url": "https://www.youtube.com/shorts/3lmB6zHc-RA",
       "published_at_utc": "2026-05-27T13:31:44+00:00",
-      "age_seconds": 6110
+      "age_seconds": 6347
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Самолётики #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/lKR6WkDjHIU",
       "published_at_utc": "2026-05-27T13:26:45+00:00",
-      "age_seconds": 6442
+      "age_seconds": 6673
     }
   ]
 }
