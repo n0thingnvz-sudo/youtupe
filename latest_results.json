@@ -1,97 +1,111 @@
 {
-  "generated_at_utc": "2026-05-27T13:07:02.740457+00:00",
+  "generated_at_utc": "2026-05-27T13:10:59.361067+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Фото на память",
+      "url": "https://www.youtube.com/shorts/Dx39nmxMmZQ",
+      "published_at_utc": "2026-05-27T13:00:17+00:00",
+      "age_seconds": 554
+    },
     {
       "channel": "Никита Айсер",
       "title": "Больше нас в тг «бункер никитоса»",
       "url": "https://www.youtube.com/shorts/YtoDdivwvSc",
       "published_at_utc": "2026-05-27T12:56:36+00:00",
-      "age_seconds": 536
+      "age_seconds": 774
+    },
+    {
+      "channel": "RusGameTactics",
+      "title": "Прохождение 007 First Light — Часть 2 ✪ СТРИМ",
+      "url": "https://www.youtube.com/watch?v=qnUfO9kmdDM",
+      "published_at_utc": "2026-05-27T12:55:43+00:00",
+      "age_seconds": 909
     },
     {
       "channel": "Погнали!",
       "title": "Как торгуют люди, не умеющие считать #погнали #эфиопия",
       "url": "https://www.youtube.com/shorts/9s66H0MhU-A",
       "published_at_utc": "2026-05-27T12:45:04+00:00",
-      "age_seconds": 1270
+      "age_seconds": 1501
     },
     {
       "channel": "Натурал Альбертович",
       "title": "Прямая трансляция пользователя Натурал Альбертович",
       "url": "https://www.youtube.com/watch?v=AcQLgSDkpFM",
       "published_at_utc": "2026-05-27T12:39:07+00:00",
-      "age_seconds": 1614
+      "age_seconds": 1844
     },
     {
       "channel": "Новостной Гусь",
       "title": "Благоустройство двора 🪦",
       "url": "https://www.youtube.com/shorts/JfA3kPFrYbY",
       "published_at_utc": "2026-05-27T12:30:14+00:00",
-      "age_seconds": 2117
+      "age_seconds": 2355
     },
     {
       "channel": "Nerkin",
       "title": "Майнкрафт 26.2 обновление! Pre-Release 1 | Мультиплеер УДАЛЁН и Новый Туман | Майнкрафт Обзор",
       "url": "https://www.youtube.com/watch?v=YFttEc8CI3w",
       "published_at_utc": "2026-05-27T12:26:07+00:00",
-      "age_seconds": 2432
+      "age_seconds": 2668
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ночной кошмар геймеров",
       "url": "https://www.youtube.com/shorts/JtR7J3oZyDs",
       "published_at_utc": "2026-05-27T12:00:35+00:00",
-      "age_seconds": 3897
+      "age_seconds": 4136
     },
     {
       "channel": "Смешновости",
       "title": "Тренировка по футболу 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/cHKlwqtg_0o",
       "published_at_utc": "2026-05-27T12:00:05+00:00",
-      "age_seconds": 3961
+      "age_seconds": 4192
     },
     {
       "channel": "Натурал Альбертович",
       "title": "Прощай ШКОЛА (смешное видео, юмор, прикол, приколы, поржать, вайны)",
       "url": "https://www.youtube.com/shorts/JlTJ0845ts0",
       "published_at_utc": "2026-05-27T12:00:01+00:00",
-      "age_seconds": 3960
+      "age_seconds": 4190
     },
     {
       "channel": "Dobryak",
       "title": "Berserk Dobryak",
       "url": "https://www.youtube.com/shorts/hMpJYUUwymA",
       "published_at_utc": "2026-05-27T11:58:43+00:00",
-      "age_seconds": 4056
+      "age_seconds": 4288
     },
     {
       "channel": "Amitesh",
       "title": "Как делаются квадратные отверстия #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/ITgEak2nRKY",
       "published_at_utc": "2026-05-27T11:43:42+00:00",
-      "age_seconds": 4940
+      "age_seconds": 5171
     },
     {
       "channel": "Настя, это где?",
       "title": "😳 КТО СБЕЖИТ БЫСТРЕЕ: Я или ДЕТЕКТИВ?",
       "url": "https://www.youtube.com/shorts/QBJpYXSHG68",
       "published_at_utc": "2026-05-27T11:18:34+00:00",
-      "age_seconds": 6453
+      "age_seconds": 6684
     },
     {
       "channel": "StopGame",
       "title": "Какой чит-код вспоминаешь первым? 👀",
       "url": "https://www.youtube.com/shorts/rL9a4pV8qgs",
       "published_at_utc": "2026-05-27T11:15:33+00:00",
-      "age_seconds": 6657
+      "age_seconds": 6894
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Драма с Мистером Бистом",
       "url": "https://www.youtube.com/shorts/HZyQtsMAnU8",
       "published_at_utc": "2026-05-27T11:15:21+00:00",
-      "age_seconds": 6612
+      "age_seconds": 6850
     }
   ]
 }
