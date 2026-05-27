@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-05-27T07:18:41.716350+00:00",
+  "generated_at_utc": "2026-05-27T07:20:44.588448+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "CS2TV",
-      "title": "5 ИГРОКОВ В CS, КОТОРЫЕ СТАНУТ ГЕНИАЛЬНЫМИ ТРЕНЕРАМИ",
-      "url": "https://www.youtube.com/watch?v=nFFhoNQX58A",
-      "published_at_utc": "2026-05-27T07:15:03+00:00",
-      "age_seconds": 196
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "В каком-то смысле это правда инопланетянин",
-      "url": "https://www.youtube.com/shorts/OwvYxtygwDw",
-      "published_at_utc": "2026-05-27T07:00:14+00:00",
-      "age_seconds": 1034
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Фильтры на трансляции",
+      "url": "https://www.youtube.com/shorts/-mb6wBCIYMA",
+      "published_at_utc": "2026-05-27T07:00:39+00:00",
+      "age_seconds": 1129
     },
     {
       "channel": "Rozetked",
       "title": "МОЙ НОВЫЙ ТЕЛЕФОН",
       "url": "https://www.youtube.com/watch?v=aNkIpc6fGzk",
       "published_at_utc": "2026-05-27T06:09:51+00:00",
-      "age_seconds": 4036
+      "age_seconds": 4155
     }
   ]
 }
