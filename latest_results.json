@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-05-27T10:28:47.314946+00:00",
+  "generated_at_utc": "2026-05-27T10:30:46.497436+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Учитель года",
+      "url": "https://www.youtube.com/shorts/BWwyA8ZlpOQ",
+      "published_at_utc": "2026-05-27T10:14:24+00:00",
+      "age_seconds": 905
+    },
     {
       "channel": "sun_kill",
       "title": "спф кажется забыла :(",
       "url": "https://www.youtube.com/shorts/G_zZlzcd-Lw",
       "published_at_utc": "2026-05-27T10:11:19+00:00",
-      "age_seconds": 953
+      "age_seconds": 1072
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "3 причины пакостей котов 😼",
       "url": "https://www.youtube.com/shorts/B6R-nuhX46Y",
       "published_at_utc": "2026-05-27T10:09:32+00:00",
-      "age_seconds": 1100
+      "age_seconds": 1219
     },
     {
       "channel": "Смешновости",
       "title": "Очень острый десерт 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/-Qzv7pp2iqw",
       "published_at_utc": "2026-05-27T10:00:24+00:00",
-      "age_seconds": 1650
+      "age_seconds": 1768
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Легендарная отсылка",
       "url": "https://www.youtube.com/shorts/CkQ7pSt6QEo",
       "published_at_utc": "2026-05-27T10:00:11+00:00",
-      "age_seconds": 1639
+      "age_seconds": 1758
     },
     {
       "channel": "IXBT Games",
       "title": "Геральд вернётся! Анонс дополнения для Ведьмака 3 #ixbtgames #ixbt #ведьмак3 #thewitcher3 #игры",
       "url": "https://www.youtube.com/shorts/6WG6up4knN0",
       "published_at_utc": "2026-05-27T09:50:57+00:00",
-      "age_seconds": 2233
+      "age_seconds": 2351
     },
     {
       "channel": "МайорКрафт",
       "title": "Когда проснулся после мальчишника #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/nZpnz9Wnhi0",
       "published_at_utc": "2026-05-27T09:45:04+00:00",
-      "age_seconds": 2565
+      "age_seconds": 2683
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самый известный NPC Британии",
       "url": "https://www.youtube.com/shorts/MKT28J5yMtQ",
       "published_at_utc": "2026-05-27T09:00:16+00:00",
-      "age_seconds": 5234
+      "age_seconds": 5353
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Американцы как обычно",
       "url": "https://www.youtube.com/shorts/__cvXU4p8Ps",
       "published_at_utc": "2026-05-27T09:00:10+00:00",
-      "age_seconds": 5240
+      "age_seconds": 5359
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Провальная акция Swatch x AP",
       "url": "https://www.youtube.com/shorts/a0pPplNtLK8",
       "published_at_utc": "2026-05-27T08:41:58+00:00",
-      "age_seconds": 6356
+      "age_seconds": 6475
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кому достанутся все деньги?",
       "url": "https://www.youtube.com/shorts/DQddoLuu5EA",
       "published_at_utc": "2026-05-27T08:30:24+00:00",
-      "age_seconds": 7025
+      "age_seconds": 7144
     }
   ]
 }
