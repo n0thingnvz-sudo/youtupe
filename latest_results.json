@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-05-27T18:54:47.216490+00:00",
+  "generated_at_utc": "2026-05-27T18:56:46.252605+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Это очень смешно😂",
+      "url": "https://www.youtube.com/shorts/yoeatt03JQY",
+      "published_at_utc": "2026-05-27T18:45:38+00:00",
+      "age_seconds": 590
+    },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 369",
       "url": "https://www.youtube.com/shorts/kkEdPwS2c2A",
       "published_at_utc": "2026-05-27T18:22:46+00:00",
-      "age_seconds": 1832
+      "age_seconds": 1952
     },
     {
       "channel": "kinoluv",
       "title": "Она просто 20-летняя, которой за 30😂",
       "url": "https://www.youtube.com/shorts/ylvN9igcFs0",
       "published_at_utc": "2026-05-27T17:54:24+00:00",
-      "age_seconds": 3544
+      "age_seconds": 3664
     },
     {
       "channel": "perox",
       "title": "Подходим?🕴 тгк: Пекарня Пирога #выпускной2026 #jojo #fate #perox #перокс",
       "url": "https://www.youtube.com/shorts/rG8fm4QcWzw",
       "published_at_utc": "2026-05-27T17:48:27+00:00",
-      "age_seconds": 3883
+      "age_seconds": 4003
     },
     {
       "channel": "Новостной Гусь",
       "title": "Супергеройская маскировка",
       "url": "https://www.youtube.com/shorts/NVP_-U3BsEk",
       "published_at_utc": "2026-05-27T17:45:04+00:00",
-      "age_seconds": 4104
+      "age_seconds": 4225
     },
     {
       "channel": "ДАРКАР",
       "title": "ИГРА ПРИ ПРОВЕРКЕ ПАТРУЛЕМ В КС 2",
       "url": "https://www.youtube.com/shorts/sTNX6wI3RL8",
       "published_at_utc": "2026-05-27T17:37:50+00:00",
-      "age_seconds": 4586
+      "age_seconds": 4704
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Миша играет? 007 First Light",
       "url": "https://www.youtube.com/watch?v=59zedKSlLx4",
       "published_at_utc": "2026-05-27T17:33:04+00:00",
-      "age_seconds": 4866
+      "age_seconds": 4985
     }
   ]
 }
