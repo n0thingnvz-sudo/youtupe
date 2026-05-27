@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-05-27T12:35:06.147406+00:00",
+  "generated_at_utc": "2026-05-27T12:38:52.369817+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Благоустройство двора 🪦",
+      "url": "https://www.youtube.com/shorts/JfA3kPFrYbY",
+      "published_at_utc": "2026-05-27T12:30:14+00:00",
+      "age_seconds": 435
+    },
+    {
+      "channel": "Nerkin",
+      "title": "Майнкрафт 26.2 обновление! Pre-Release 1 | Мультиплеер УДАЛЁН и Новый Туман | Майнкрафт Обзор",
+      "url": "https://www.youtube.com/watch?v=YFttEc8CI3w",
+      "published_at_utc": "2026-05-27T12:26:07+00:00",
+      "age_seconds": 742
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ночной кошмар геймеров",
       "url": "https://www.youtube.com/shorts/JtR7J3oZyDs",
       "published_at_utc": "2026-05-27T12:00:35+00:00",
-      "age_seconds": 1975
+      "age_seconds": 2216
     },
     {
       "channel": "Смешновости",
       "title": "Тренировка по футболу 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/cHKlwqtg_0o",
       "published_at_utc": "2026-05-27T12:00:05+00:00",
-      "age_seconds": 2034
+      "age_seconds": 2271
     },
     {
       "channel": "Натурал Альбертович",
       "title": "Прощай ШКОЛА (смешное видео, юмор, прикол, приколы, поржать, вайны)",
       "url": "https://www.youtube.com/shorts/JlTJ0845ts0",
       "published_at_utc": "2026-05-27T12:00:01+00:00",
-      "age_seconds": 2033
+      "age_seconds": 2270
     },
     {
       "channel": "Dobryak",
       "title": "Berserk Dobryak",
       "url": "https://www.youtube.com/shorts/hMpJYUUwymA",
       "published_at_utc": "2026-05-27T11:58:43+00:00",
-      "age_seconds": 2137
+      "age_seconds": 2366
     },
     {
       "channel": "Amitesh",
       "title": "Как делаются квадратные отверстия #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/ITgEak2nRKY",
       "published_at_utc": "2026-05-27T11:43:42+00:00",
-      "age_seconds": 3013
+      "age_seconds": 3250
     },
     {
       "channel": "Настя, это где?",
       "title": "😳 КТО СБЕЖИТ БЫСТРЕЕ: Я или ДЕТЕКТИВ?",
       "url": "https://www.youtube.com/shorts/QBJpYXSHG68",
       "published_at_utc": "2026-05-27T11:18:34+00:00",
-      "age_seconds": 4534
+      "age_seconds": 4763
     },
     {
       "channel": "StopGame",
       "title": "Какой чит-код вспоминаешь первым? 👀",
       "url": "https://www.youtube.com/shorts/rL9a4pV8qgs",
       "published_at_utc": "2026-05-27T11:15:33+00:00",
-      "age_seconds": 4738
+      "age_seconds": 4967
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Драма с Мистером Бистом",
       "url": "https://www.youtube.com/shorts/HZyQtsMAnU8",
       "published_at_utc": "2026-05-27T11:15:21+00:00",
-      "age_seconds": 4689
+      "age_seconds": 4930
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Всё для людей",
       "url": "https://www.youtube.com/shorts/yPVoPn5riUM",
       "published_at_utc": "2026-05-27T11:00:15+00:00",
-      "age_seconds": 5595
+      "age_seconds": 5836
     },
     {
       "channel": "EVG",
       "title": "СКАЗАЛ И ЗАПУСТИЛ ВИРУС, СКОЛЬКО ДЕНЕГ УКРАЛИ?",
       "url": "https://www.youtube.com/shorts/ApZ-ZwdsD-c",
       "published_at_utc": "2026-05-27T11:00:11+00:00",
-      "age_seconds": 5591
-    },
-    {
-      "channel": "Recrent",
-      "title": "7 ДНЕЙ НЕ ЗАХОДИЛ В PUBG",
-      "url": "https://www.youtube.com/shorts/txeIIl3L0cw",
-      "published_at_utc": "2026-05-27T10:35:07+00:00",
-      "age_seconds": 7183
+      "age_seconds": 5831
     }
   ]
 }
