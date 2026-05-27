@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-05-27T22:22:40.763355+00:00",
+  "generated_at_utc": "2026-05-27T22:24:38.029009+00:00",
   "hours_window": 2,
   "items": [
     {
       "channel": "RusGameTactics",
-      "title": "Прохождение 007 First Light — Часть 2 ✪ СТРИМ",
+      "title": "Прохождение 007 First Light — Часть 2: Волна будущего [ФИНАЛ]",
       "url": "https://www.youtube.com/watch?v=qnUfO9kmdDM",
       "published_at_utc": "2026-05-27T21:59:15+00:00",
-      "age_seconds": 1399
+      "age_seconds": 1516
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Миша играет? 007 First Light",
       "url": "https://www.youtube.com/watch?v=59zedKSlLx4",
       "published_at_utc": "2026-05-27T21:53:03+00:00",
-      "age_seconds": 1743
+      "age_seconds": 1861
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007",
       "url": "https://www.youtube.com/watch?v=EaQ_t25NPXY",
       "published_at_utc": "2026-05-27T20:40:23+00:00",
-      "age_seconds": 6124
+      "age_seconds": 6242
     }
   ]
 }
