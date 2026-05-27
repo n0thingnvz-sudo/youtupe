@@ -1,55 +1,41 @@
 {
-  "generated_at_utc": "2026-05-27T08:02:47.732382+00:00",
+  "generated_at_utc": "2026-05-27T08:04:45.857003+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "FixEye - Роблокс",
-      "title": "😱ЛЕТАЙ РАДИ БРЕЙНРОТОВ В РОБЛОКС!",
-      "url": "https://www.youtube.com/watch?v=fp6fY7ojAvk",
-      "published_at_utc": "2026-05-27T08:00:11+00:00",
-      "age_seconds": 119
-    },
-    {
-      "channel": "Послезавтра",
-      "title": "Каким был мир в 2012-м? #2012 #дорн #ургант",
-      "url": "https://www.youtube.com/shorts/hE0rbojer6w",
-      "published_at_utc": "2026-05-27T07:43:41+00:00",
-      "age_seconds": 1043
-    },
     {
       "channel": "Собиратель новостей",
       "title": "Полицейские Надели ПЛАТЬЯ, Чтобы Задержать Преступника",
       "url": "https://www.youtube.com/shorts/B0LMaJVNiYI",
       "published_at_utc": "2026-05-27T07:30:09+00:00",
-      "age_seconds": 1875
+      "age_seconds": 1995
     },
     {
       "channel": "CS2TV",
       "title": "5 ИГРОКОВ В CS, КОТОРЫЕ СТАНУТ ГЕНИАЛЬНЫМИ ТРЕНЕРАМИ",
       "url": "https://www.youtube.com/watch?v=nFFhoNQX58A",
       "published_at_utc": "2026-05-27T07:15:03+00:00",
-      "age_seconds": 2841
+      "age_seconds": 2960
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Фильтры на трансляции",
       "url": "https://www.youtube.com/shorts/-mb6wBCIYMA",
       "published_at_utc": "2026-05-27T07:00:39+00:00",
-      "age_seconds": 3650
+      "age_seconds": 3770
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "В каком-то смысле это правда инопланетянин",
       "url": "https://www.youtube.com/shorts/OwvYxtygwDw",
       "published_at_utc": "2026-05-27T07:00:14+00:00",
-      "age_seconds": 3675
+      "age_seconds": 3795
     },
     {
       "channel": "Rozetked",
       "title": "МОЙ НОВЫЙ ТЕЛЕФОН",
       "url": "https://www.youtube.com/watch?v=aNkIpc6fGzk",
       "published_at_utc": "2026-05-27T06:09:51+00:00",
-      "age_seconds": 6675
+      "age_seconds": 6796
     }
   ]
 }
