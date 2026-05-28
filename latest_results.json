@@ -1,90 +1,97 @@
 {
-  "generated_at_utc": "2026-05-28T10:46:55.988730+00:00",
+  "generated_at_utc": "2026-05-28T10:48:52.978823+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ДУШНИЛА",
+      "title": "МИФЫ № 38",
+      "url": "https://www.youtube.com/shorts/CDa1iLJ0fzA",
+      "published_at_utc": "2026-05-28T10:31:56+00:00",
+      "age_seconds": 924
+    },
     {
       "channel": "IGM",
       "title": "НОВОЕ DLC ДЛЯ ВЕДЬМАКА 3 АНОНСИРОВАЛИ",
       "url": "https://www.youtube.com/shorts/9AkhtGpIdzc",
       "published_at_utc": "2026-05-28T10:27:05+00:00",
-      "age_seconds": 1150
+      "age_seconds": 1268
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Запрещённая серия Телепузиков",
       "url": "https://www.youtube.com/shorts/xi5VuI8My8g",
       "published_at_utc": "2026-05-28T10:25:45+00:00",
-      "age_seconds": 1188
+      "age_seconds": 1307
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Попробовал все футбольные чипсы",
       "url": "https://www.youtube.com/shorts/9curXr53_QA",
       "published_at_utc": "2026-05-28T10:20:56+00:00",
-      "age_seconds": 1503
+      "age_seconds": 1622
     },
     {
       "channel": "Собиратель новостей",
       "title": "За Кальян на Куличе Девушку Посадили на ТРИ ГОДА",
       "url": "https://www.youtube.com/shorts/PiaHoI7lEjU",
       "published_at_utc": "2026-05-28T10:15:02+00:00",
-      "age_seconds": 1824
+      "age_seconds": 1945
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Переживаю за их отношения больше чем за свои",
       "url": "https://www.youtube.com/shorts/zO8gTCpVtos",
       "published_at_utc": "2026-05-28T10:00:27+00:00",
-      "age_seconds": 2705
+      "age_seconds": 2825
     },
     {
       "channel": "EugeneSagaz",
       "title": "#@$%! У МЕНЯ НЕТ СДАЧИ! МЕНЯ АРЕСТУЮТ!",
       "url": "https://www.youtube.com/watch?v=V4sPhnypsKo",
       "published_at_utc": "2026-05-28T10:00:27+00:00",
-      "age_seconds": 2768
+      "age_seconds": 2885
     },
     {
       "channel": "Смешновости",
       "title": "Котик впервые встретил малыша 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/wgYuyGO4UGY",
       "published_at_utc": "2026-05-28T10:00:04+00:00",
-      "age_seconds": 2755
+      "age_seconds": 2874
     },
     {
       "channel": "Послезавтра",
       "title": "Откуда берутся яйца и молоко? #молоко #яйца #биология",
       "url": "https://www.youtube.com/shorts/G6KXkRgMS_I",
       "published_at_utc": "2026-05-28T09:56:03+00:00",
-      "age_seconds": 2942
+      "age_seconds": 3061
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Встреча Потерявшегося Ягнёнка с Мамой 🥹",
       "url": "https://www.youtube.com/shorts/RblAAL5ppyQ",
       "published_at_utc": "2026-05-28T09:54:31+00:00",
-      "age_seconds": 3086
+      "age_seconds": 3205
     },
     {
       "channel": "windy31",
       "title": "ДЕДА ( гренни вернулась )",
       "url": "https://www.youtube.com/watch?v=D3K5SCqdawE",
       "published_at_utc": "2026-05-28T09:54:27+00:00",
-      "age_seconds": 3112
+      "age_seconds": 3230
     },
     {
       "channel": "IXBT Games",
       "title": "Габен похоронил Steam Deck! #ixbtgames #ixbt #steamdeck #steam #valve #пкгейминг #консоль #игры",
       "url": "https://www.youtube.com/shorts/epemNJtvEPU",
       "published_at_utc": "2026-05-28T09:00:13+00:00",
-      "age_seconds": 6362
+      "age_seconds": 6481
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это было ожидаемо",
       "url": "https://www.youtube.com/shorts/VWvzBaXQYf4",
       "published_at_utc": "2026-05-28T09:00:09+00:00",
-      "age_seconds": 6323
+      "age_seconds": 6443
     }
   ]
 }
