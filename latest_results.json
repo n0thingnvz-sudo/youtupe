@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-28T20:16:49.328613+00:00",
+  "generated_at_utc": "2026-05-28T20:18:51.854816+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,14 @@
       "title": "С ПЫЛУ С ЖАРУ: 007 FIRST LIGHT",
       "url": "https://www.youtube.com/watch?v=kUNQxXiisB8",
       "published_at_utc": "2026-05-28T18:57:21+00:00",
-      "age_seconds": 4730
+      "age_seconds": 4851
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 370",
       "url": "https://www.youtube.com/shorts/xesNCxUggUs",
       "published_at_utc": "2026-05-28T18:52:02+00:00",
-      "age_seconds": 4997
-    },
-    {
-      "channel": "CS2TV",
-      "title": "5 КОМАНД, КОТОРЫЕ УДИВЯТ НА МАЖОРЕ И 5 КОМАНД, КОТОРЫЕ ПРОВАЛЯТСЯ",
-      "url": "https://www.youtube.com/watch?v=spiWn7U2sb0",
-      "published_at_utc": "2026-05-28T18:17:00+00:00",
-      "age_seconds": 7166
-    },
-    {
-      "channel": "Wylsacom",
-      "title": "Распаковка Hongqi Guoya — китайский Роллс-Ройс за 30 миллионов рублей",
-      "url": "https://www.youtube.com/watch?v=4EQ1ePrWLj4",
-      "published_at_utc": "2026-05-28T18:15:45+00:00",
-      "age_seconds": 7174
+      "age_seconds": 5118
     }
   ]
 }
