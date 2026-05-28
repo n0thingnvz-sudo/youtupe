@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-05-28T22:00:38.990413+00:00",
+  "generated_at_utc": "2026-05-28T22:02:39.759925+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Новый Чикатило?😳 Сериал «След Чикатило»",
+      "url": "https://www.youtube.com/shorts/n01e-zfATfk",
+      "published_at_utc": "2026-05-28T21:49:20+00:00",
+      "age_seconds": 725
+    },
     {
       "channel": "Никита Нестеров",
       "title": "Вообще никаких проблем",
       "url": "https://www.youtube.com/shorts/IlhJqIHWu0k",
       "published_at_utc": "2026-05-28T21:00:09+00:00",
-      "age_seconds": 3583
+      "age_seconds": 3704
     },
     {
       "channel": "perox",
       "title": "Ларпим🥇 тгк: Пекарня Пирога #theboys #rezero #jojo #perox #перокс",
       "url": "https://www.youtube.com/shorts/BoysBMYu7B0",
       "published_at_utc": "2026-05-28T20:37:53+00:00",
-      "age_seconds": 4877
+      "age_seconds": 4997
     }
   ]
 }
