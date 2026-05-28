@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-05-28T19:04:56.315425+00:00",
+  "generated_at_utc": "2026-05-28T19:06:53.465830+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ДУШНИЛА",
+      "title": "ДУШНИЛА № 370",
+      "url": "https://www.youtube.com/shorts/xesNCxUggUs",
+      "published_at_utc": "2026-05-28T18:52:02+00:00",
+      "age_seconds": 797
+    },
     {
       "channel": "CS2TV",
       "title": "5 КОМАНД, КОТОРЫЕ УДИВЯТ НА МАЖОРЕ И 5 КОМАНД, КОТОРЫЕ ПРОВАЛЯТСЯ",
       "url": "https://www.youtube.com/watch?v=spiWn7U2sb0",
       "published_at_utc": "2026-05-28T18:17:00+00:00",
-      "age_seconds": 2848
+      "age_seconds": 2969
     },
     {
       "channel": "Wylsacom",
       "title": "Распаковка Hongqi Guoya — китайский Роллс-Ройс за 30 миллионов рублей",
       "url": "https://www.youtube.com/watch?v=4EQ1ePrWLj4",
       "published_at_utc": "2026-05-28T18:15:45+00:00",
-      "age_seconds": 2853
+      "age_seconds": 2973
     },
     {
       "channel": "kinoluv",
       "title": "Это было не по сценарию😂",
       "url": "https://www.youtube.com/shorts/c9mRKmx5dqs",
       "published_at_utc": "2026-05-28T18:09:48+00:00",
-      "age_seconds": 3220
+      "age_seconds": 3340
     },
     {
       "channel": "perox",
       "title": "Класс👍 тгк: Пекарня Пирога #teamfortress2 #tf2 #jojosbizarreadventure #perox #перокс",
       "url": "https://www.youtube.com/shorts/SXfNeg66BK8",
       "published_at_utc": "2026-05-28T17:50:36+00:00",
-      "age_seconds": 4355
+      "age_seconds": 4475
     },
     {
       "channel": "МЯЧ Production",
       "title": "ХВИЧА – Лучший Игрок ЛЧ 25/26! 🔥",
       "url": "https://www.youtube.com/shorts/oXx7M8otMjU",
       "published_at_utc": "2026-05-28T17:21:09+00:00",
-      "age_seconds": 6151
+      "age_seconds": 6273
     }
   ]
 }
