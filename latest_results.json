@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-28T10:10:59.192273+00:00",
+  "generated_at_utc": "2026-05-28T10:12:54.987353+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "#@$%! У МЕНЯ НЕТ СДАЧИ! МЕНЯ АРЕСТУЮТ!",
       "url": "https://www.youtube.com/watch?v=V4sPhnypsKo",
       "published_at_utc": "2026-05-28T10:00:27+00:00",
-      "age_seconds": 611
+      "age_seconds": 727
     },
     {
       "channel": "Послезавтра",
       "title": "Откуда берутся яйца и молоко? #молоко #яйца #биология",
       "url": "https://www.youtube.com/shorts/G6KXkRgMS_I",
       "published_at_utc": "2026-05-28T09:56:03+00:00",
-      "age_seconds": 781
+      "age_seconds": 902
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Встреча Потерявшегося Ягнёнка с Мамой 🥹",
       "url": "https://www.youtube.com/shorts/RblAAL5ppyQ",
       "published_at_utc": "2026-05-28T09:54:31+00:00",
-      "age_seconds": 922
+      "age_seconds": 1045
+    },
+    {
+      "channel": "windy31",
+      "title": "ДЕДА ( гренни вернулась )",
+      "url": "https://www.youtube.com/watch?v=D3K5SCqdawE",
+      "published_at_utc": "2026-05-28T09:54:27+00:00",
+      "age_seconds": 1071
     },
     {
       "channel": "IXBT Games",
       "title": "Габен похоронил Steam Deck! #ixbtgames #ixbt #steamdeck #steam #valve #пкгейминг #консоль #игры",
       "url": "https://www.youtube.com/shorts/epemNJtvEPU",
       "published_at_utc": "2026-05-28T09:00:13+00:00",
-      "age_seconds": 4206
+      "age_seconds": 4321
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это было ожидаемо",
       "url": "https://www.youtube.com/shorts/VWvzBaXQYf4",
       "published_at_utc": "2026-05-28T09:00:09+00:00",
-      "age_seconds": 4160
+      "age_seconds": 4281
     },
     {
       "channel": "Никита Нестеров",
       "title": "Ходят слухи, она там до сих пор сидит и ест своё мороженое с рисовыми шариками",
       "url": "https://www.youtube.com/shorts/Pkz41hhmZy4",
       "published_at_utc": "2026-05-28T08:38:20+00:00",
-      "age_seconds": 5506
+      "age_seconds": 5620
     },
     {
       "channel": "Новостной Гусь",
       "title": "Футбольный матч на айфон",
       "url": "https://www.youtube.com/shorts/DOVjlCd2tm4",
       "published_at_utc": "2026-05-28T08:30:27+00:00",
-      "age_seconds": 5941
+      "age_seconds": 6062
     },
     {
       "channel": "Olezha",
       "title": "ПЛАТНЫЕ БАФЫ ПЕРСОНАЖЕЙ",
       "url": "https://www.youtube.com/watch?v=WoG8zzy4OpM",
       "published_at_utc": "2026-05-28T08:22:29+00:00",
-      "age_seconds": 6480
+      "age_seconds": 6595
     }
   ]
 }
