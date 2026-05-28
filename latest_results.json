@@ -1,20 +1,48 @@
 {
-  "generated_at_utc": "2026-05-27T23:32:36.979048+00:00",
+  "generated_at_utc": "2026-05-28T07:02:56.762766+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "RusGameTactics",
-      "title": "Прохождение 007 First Light — Часть 2: Волна будущего [ФИНАЛ]",
-      "url": "https://www.youtube.com/watch?v=qnUfO9kmdDM",
-      "published_at_utc": "2026-05-27T21:59:15+00:00",
-      "age_seconds": 5595
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Олимпиада на допинге",
+      "url": "https://www.youtube.com/shorts/QGOvE8YiE8A",
+      "published_at_utc": "2026-05-28T07:00:32+00:00",
+      "age_seconds": 61
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Яблочный заговор",
+      "url": "https://www.youtube.com/shorts/CigUITvzOwA",
+      "published_at_utc": "2026-05-28T07:00:03+00:00",
+      "age_seconds": 89
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Школьники Трут Лысину Директора на Удачу",
+      "url": "https://www.youtube.com/shorts/sQuaAbmnUxc",
+      "published_at_utc": "2026-05-28T06:38:06+00:00",
+      "age_seconds": 1402
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Ограбление Пятёрочек: Картонный Ваня Дмитриенко",
+      "url": "https://www.youtube.com/shorts/GixRro1e5Ag",
+      "published_at_utc": "2026-05-28T06:27:10+00:00",
+      "age_seconds": 2058
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Чёрт с Ноутбуком на Стене Храма в Кишинёве",
+      "url": "https://www.youtube.com/shorts/wcSofoCr8mI",
+      "published_at_utc": "2026-05-28T06:19:08+00:00",
+      "age_seconds": 2540
     },
     {
       "channel": "IXBT Games",
-      "title": "[СТРИМ] Миша играет? 007 First Light",
-      "url": "https://www.youtube.com/watch?v=59zedKSlLx4",
-      "published_at_utc": "2026-05-27T21:53:03+00:00",
-      "age_seconds": 5940
+      "title": "Корейская донатка - Throne and Liberty #ixbtgames #ixbt #throneandliberty #mmorpg #игры",
+      "url": "https://www.youtube.com/shorts/gYljIFadYA8",
+      "published_at_utc": "2026-05-28T06:00:11+00:00",
+      "age_seconds": 3726
     }
   ]
 }
