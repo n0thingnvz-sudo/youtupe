@@ -1,76 +1,97 @@
 {
-  "generated_at_utc": "2026-05-29T09:12:48.526721+00:00",
+  "generated_at_utc": "2026-05-29T09:14:57.328607+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Это уже не Феррари",
+      "url": "https://www.youtube.com/shorts/l0CjZ_qeOI4",
+      "published_at_utc": "2026-05-29T09:00:28+00:00",
+      "age_seconds": 781
+    },
+    {
+      "channel": "Новостной Гусь",
+      "title": "58 черепах под юбкой",
+      "url": "https://www.youtube.com/shorts/QKb7UMsudjY",
+      "published_at_utc": "2026-05-29T09:00:21+00:00",
+      "age_seconds": 787
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Поднять щиты за героя!",
+      "url": "https://www.youtube.com/shorts/QeRcqv20pNU",
+      "published_at_utc": "2026-05-29T09:00:08+00:00",
+      "age_seconds": 803
+    },
     {
       "channel": "Recrent",
       "title": "МОРАЛЬНО ГОТОВ",
       "url": "https://www.youtube.com/shorts/cddfwP8_wXw",
       "published_at_utc": "2026-05-29T08:59:34+00:00",
-      "age_seconds": 782
+      "age_seconds": 904
     },
     {
       "channel": "Короче, новости",
       "title": "3 года Тюрьмы за Кальян на Куличе",
       "url": "https://www.youtube.com/shorts/JXpviFUzuWQ",
       "published_at_utc": "2026-05-29T08:44:03+00:00",
-      "age_seconds": 1642
+      "age_seconds": 1762
     },
     {
       "channel": "Antochi",
       "title": "СТУДЕНТОВ ЗАСТАВЯТ СДАВАТЬ УСТНЫЕ ЭКЗАМЕНЫ",
       "url": "https://www.youtube.com/shorts/kILxpa3m9LQ",
       "published_at_utc": "2026-05-29T08:07:36+00:00",
-      "age_seconds": 3854
+      "age_seconds": 3976
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно мне другого пранкера?",
       "url": "https://www.youtube.com/shorts/7guh-ijhvWc",
       "published_at_utc": "2026-05-29T08:00:33+00:00",
-      "age_seconds": 4256
+      "age_seconds": 4378
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱СТАНЬ ДРОВОСЕКОМ РАДИ БРЕЙНРОТОВ В РОБЛОКС!",
       "url": "https://www.youtube.com/watch?v=Cfkta91vJbA",
       "published_at_utc": "2026-05-29T08:00:33+00:00",
-      "age_seconds": 4297
+      "age_seconds": 4420
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик любит лед 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/EYHXy55tOwU",
       "published_at_utc": "2026-05-29T08:00:16+00:00",
-      "age_seconds": 4297
+      "age_seconds": 4419
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Их борьба",
       "url": "https://www.youtube.com/shorts/CjvKnM_mkGM",
       "published_at_utc": "2026-05-29T08:00:02+00:00",
-      "age_seconds": 4287
+      "age_seconds": 4407
     },
     {
       "channel": "kinoluv",
       "title": "Все мы разные и это прекрасно😇",
       "url": "https://www.youtube.com/shorts/ueKm-XCwAiU",
       "published_at_utc": "2026-05-29T07:57:23+00:00",
-      "age_seconds": 4444
+      "age_seconds": 4565
     },
     {
       "channel": "Короче, новости",
       "title": "Китай Стырил в России Грибы-Лампочки",
       "url": "https://www.youtube.com/shorts/g6nz9Ln-vUY",
       "published_at_utc": "2026-05-29T07:30:15+00:00",
-      "age_seconds": 6070
+      "age_seconds": 6190
     },
     {
       "channel": "Собиратель новостей",
       "title": "Ребёнок Стащил Бутылку ВИНИШКА из Магазина",
       "url": "https://www.youtube.com/shorts/oljwjONK5ho",
       "published_at_utc": "2026-05-29T07:15:32+00:00",
-      "age_seconds": 6952
+      "age_seconds": 7072
     }
   ]
 }
