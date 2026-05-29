@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-05-29T08:06:44.638436+00:00",
+  "generated_at_utc": "2026-05-29T08:08:43.734270+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "FixEye - Роблокс",
+      "title": "😱СТАНЬ ДРОВОСЕКОМ РАДИ БРЕЙНРОТОВ В РОБЛОКС!",
+      "url": "https://www.youtube.com/watch?v=Cfkta91vJbA",
+      "published_at_utc": "2026-05-29T08:00:33+00:00",
+      "age_seconds": 455
+    },
     {
       "channel": "Смешновости",
       "title": "Пёсик любит лед 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/EYHXy55tOwU",
       "published_at_utc": "2026-05-29T08:00:16+00:00",
-      "age_seconds": 337
+      "age_seconds": 456
     },
     {
       "channel": "kinoluv",
       "title": "Все мы разные и это прекрасно😇",
       "url": "https://www.youtube.com/shorts/ueKm-XCwAiU",
       "published_at_utc": "2026-05-29T07:57:23+00:00",
-      "age_seconds": 484
+      "age_seconds": 603
     },
     {
       "channel": "Короче, новости",
       "title": "Китай Стырил в России Грибы-Лампочки",
       "url": "https://www.youtube.com/shorts/g6nz9Ln-vUY",
       "published_at_utc": "2026-05-29T07:30:15+00:00",
-      "age_seconds": 2110
+      "age_seconds": 2230
     },
     {
       "channel": "Собиратель новостей",
       "title": "Ребёнок Стащил Бутылку ВИНИШКА из Магазина",
       "url": "https://www.youtube.com/shorts/oljwjONK5ho",
       "published_at_utc": "2026-05-29T07:15:32+00:00",
-      "age_seconds": 2992
+      "age_seconds": 3112
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Угадай цвет кожи по навыкам",
       "url": "https://www.youtube.com/shorts/rY_uy6nvCoE",
       "published_at_utc": "2026-05-29T07:00:20+00:00",
-      "age_seconds": 3909
+      "age_seconds": 4028
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Особый соус",
       "url": "https://www.youtube.com/shorts/xiryV2lGbYA",
       "published_at_utc": "2026-05-29T07:00:13+00:00",
-      "age_seconds": 3916
+      "age_seconds": 4036
     }
   ]
 }
