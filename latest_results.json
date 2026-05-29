@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-05-29T07:42:43.912208+00:00",
+  "generated_at_utc": "2026-05-29T07:44:40.519405+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Китай Стырил в России Грибы-Лампочки",
+      "url": "https://www.youtube.com/shorts/g6nz9Ln-vUY",
+      "published_at_utc": "2026-05-29T07:30:15+00:00",
+      "age_seconds": 789
+    },
     {
       "channel": "Собиратель новостей",
       "title": "Ребёнок Стащил Бутылку ВИНИШКА из Магазина",
       "url": "https://www.youtube.com/shorts/oljwjONK5ho",
       "published_at_utc": "2026-05-29T07:15:32+00:00",
-      "age_seconds": 1551
+      "age_seconds": 1671
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Угадай цвет кожи по навыкам",
       "url": "https://www.youtube.com/shorts/rY_uy6nvCoE",
       "published_at_utc": "2026-05-29T07:00:20+00:00",
-      "age_seconds": 2467
+      "age_seconds": 2587
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Особый соус",
       "url": "https://www.youtube.com/shorts/xiryV2lGbYA",
       "published_at_utc": "2026-05-29T07:00:13+00:00",
-      "age_seconds": 2475
+      "age_seconds": 2595
     },
     {
       "channel": "IXBT Games",
       "title": "Круче Arkham - LEGO Batman #ixbtgames #ixbt #legobatman #batmanarkham #batman #игры",
       "url": "https://www.youtube.com/shorts/Z-GG3ajWBw8",
       "published_at_utc": "2026-05-29T06:00:27+00:00",
-      "age_seconds": 6101
+      "age_seconds": 6218
     }
   ]
 }
