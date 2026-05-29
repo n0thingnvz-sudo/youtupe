@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-05-29T09:08:46.290121+00:00",
+  "generated_at_utc": "2026-05-29T09:10:46.411738+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "58 черепах под юбкой",
+      "url": "https://www.youtube.com/shorts/QKb7UMsudjY",
+      "published_at_utc": "2026-05-29T09:00:21+00:00",
+      "age_seconds": 547
+    },
     {
       "channel": "Короче, новости",
       "title": "3 года Тюрьмы за Кальян на Куличе",
       "url": "https://www.youtube.com/shorts/JXpviFUzuWQ",
       "published_at_utc": "2026-05-29T08:44:03+00:00",
-      "age_seconds": 1402
+      "age_seconds": 1522
     },
     {
       "channel": "Antochi",
       "title": "СТУДЕНТОВ ЗАСТАВЯТ СДАВАТЬ УСТНЫЕ ЭКЗАМЕНЫ",
       "url": "https://www.youtube.com/shorts/kILxpa3m9LQ",
       "published_at_utc": "2026-05-29T08:07:36+00:00",
-      "age_seconds": 3613
+      "age_seconds": 3733
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно мне другого пранкера?",
       "url": "https://www.youtube.com/shorts/7guh-ijhvWc",
       "published_at_utc": "2026-05-29T08:00:33+00:00",
-      "age_seconds": 4016
+      "age_seconds": 4136
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱СТАНЬ ДРОВОСЕКОМ РАДИ БРЕЙНРОТОВ В РОБЛОКС!",
       "url": "https://www.youtube.com/watch?v=Cfkta91vJbA",
       "published_at_utc": "2026-05-29T08:00:33+00:00",
-      "age_seconds": 4056
+      "age_seconds": 4176
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик любит лед 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/EYHXy55tOwU",
       "published_at_utc": "2026-05-29T08:00:16+00:00",
-      "age_seconds": 4056
+      "age_seconds": 4176
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Их борьба",
       "url": "https://www.youtube.com/shorts/CjvKnM_mkGM",
       "published_at_utc": "2026-05-29T08:00:02+00:00",
-      "age_seconds": 4047
+      "age_seconds": 4167
     },
     {
       "channel": "kinoluv",
       "title": "Все мы разные и это прекрасно😇",
       "url": "https://www.youtube.com/shorts/ueKm-XCwAiU",
       "published_at_utc": "2026-05-29T07:57:23+00:00",
-      "age_seconds": 4204
+      "age_seconds": 4324
     },
     {
       "channel": "Короче, новости",
       "title": "Китай Стырил в России Грибы-Лампочки",
       "url": "https://www.youtube.com/shorts/g6nz9Ln-vUY",
       "published_at_utc": "2026-05-29T07:30:15+00:00",
-      "age_seconds": 5830
+      "age_seconds": 5950
     },
     {
       "channel": "Собиратель новостей",
       "title": "Ребёнок Стащил Бутылку ВИНИШКА из Магазина",
       "url": "https://www.youtube.com/shorts/oljwjONK5ho",
       "published_at_utc": "2026-05-29T07:15:32+00:00",
-      "age_seconds": 6712
+      "age_seconds": 6832
     }
   ]
 }
