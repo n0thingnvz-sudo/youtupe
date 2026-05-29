@@ -1,90 +1,83 @@
 {
-  "generated_at_utc": "2026-05-29T16:01:00.663461+00:00",
+  "generated_at_utc": "2026-05-29T16:05:04.327539+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "У Соловьева Предлагают Завести Уголовку на ДЕПУТАТА",
+      "url": "https://www.youtube.com/shorts/-n75et0Re74",
+      "published_at_utc": "2026-05-29T15:45:37+00:00",
+      "age_seconds": 1070
+    },
     {
       "channel": "Amitesh",
       "title": "Как проходят замеры вязкости #ами #амитеш #физика",
       "url": "https://www.youtube.com/shorts/umyamBWx4K4",
       "published_at_utc": "2026-05-29T15:34:26+00:00",
-      "age_seconds": 1529
+      "age_seconds": 1769
     },
     {
       "channel": "Новостной Гусь",
       "title": "Допинговая Олимпиада провалилась",
       "url": "https://www.youtube.com/shorts/xixSW2nRYA8",
       "published_at_utc": "2026-05-29T15:30:32+00:00",
-      "age_seconds": 1739
+      "age_seconds": 1979
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007 #3",
       "url": "https://www.youtube.com/watch?v=gH-qOjyjufg",
       "published_at_utc": "2026-05-29T15:11:17+00:00",
-      "age_seconds": 2966
+      "age_seconds": 3212
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 371",
       "url": "https://www.youtube.com/shorts/MED_QE92n3Q",
       "published_at_utc": "2026-05-29T15:02:28+00:00",
-      "age_seconds": 3411
+      "age_seconds": 3652
     },
     {
       "channel": "Унылый",
       "title": "(НЕ)Идеальный сиквел | Call of Duty 2",
       "url": "https://www.youtube.com/watch?v=dD7OGW13Li8",
       "published_at_utc": "2026-05-29T15:02:07+00:00",
-      "age_seconds": 3513
+      "age_seconds": 3759
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Луковая месть",
       "url": "https://www.youtube.com/shorts/eeFXaYJchKQ",
       "published_at_utc": "2026-05-29T15:00:38+00:00",
-      "age_seconds": 3534
+      "age_seconds": 3774
     },
     {
       "channel": "Recrent",
       "title": "ЦИРК ПРИЕХАЛ В PUBG",
       "url": "https://www.youtube.com/watch?v=yyaXIFnRZm4",
       "published_at_utc": "2026-05-29T14:59:30+00:00",
-      "age_seconds": 3676
+      "age_seconds": 3922
     },
     {
       "channel": "МайорКрафт",
       "title": "Самая умная охрана тюрьмы #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/gjCzYBX2fyY",
       "published_at_utc": "2026-05-29T14:45:26+00:00",
-      "age_seconds": 4467
+      "age_seconds": 4707
     },
     {
       "channel": "Amitesh",
       "title": "Как Apple борется с карманниками #амитеш #смартфон",
       "url": "https://www.youtube.com/shorts/TGSyzZXz9mY",
       "published_at_utc": "2026-05-29T14:22:01+00:00",
-      "age_seconds": 5874
+      "age_seconds": 6114
     },
     {
       "channel": "Wylsacom",
       "title": "IPhone уничтожен братом близнецом — Honor 600 Pro?",
       "url": "https://www.youtube.com/watch?v=PQd_OzbtZ1M",
       "published_at_utc": "2026-05-29T14:05:18+00:00",
-      "age_seconds": 6840
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Человеки пауки, общий сбор",
-      "url": "https://www.youtube.com/shorts/LLSe1ozyMHw",
-      "published_at_utc": "2026-05-29T14:00:37+00:00",
-      "age_seconds": 7135
-    },
-    {
-      "channel": "Майни",
-      "title": "ШОУ ГАВРЮШИ И ДЯДИ БОРИ - Пилотная Серия ► Chuck Review ( Чак Ревью ) | Реакция",
-      "url": "https://www.youtube.com/watch?v=iUf5VI6xlmw",
-      "published_at_utc": "2026-05-29T14:00:34+00:00",
-      "age_seconds": 7113
+      "age_seconds": 7081
     }
   ]
 }
