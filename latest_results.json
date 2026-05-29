@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-05-29T21:28:41.578790+00:00",
+  "generated_at_utc": "2026-05-29T21:30:43.338836+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "TheDRZJ",
+      "title": "ЦЕНЫ НА ИГРЫ ПЕРЕШЛИ ЧЕРТУ",
+      "url": "https://www.youtube.com/watch?v=228RYSCCD1g",
+      "published_at_utc": "2026-05-29T21:21:57+00:00",
+      "age_seconds": 492
+    },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007 #3",
       "url": "https://www.youtube.com/watch?v=gH-qOjyjufg",
       "published_at_utc": "2026-05-29T21:10:19+00:00",
-      "age_seconds": 1089
+      "age_seconds": 1210
     },
     {
       "channel": "perox",
       "title": "Ангельский😇 тгк: Пекарня Пирога #голос #друг #парень #perox #перокс",
       "url": "https://www.youtube.com/shorts/WIJdLuXQsUE",
       "published_at_utc": "2026-05-29T20:27:35+00:00",
-      "age_seconds": 3575
+      "age_seconds": 3695
     },
     {
       "channel": "Никита Нестеров",
       "title": "Как же быстро летит время… 🥹",
       "url": "https://www.youtube.com/shorts/Ueqh0q8qyo0",
       "published_at_utc": "2026-05-29T20:14:35+00:00",
-      "age_seconds": 4399
+      "age_seconds": 4519
     },
     {
       "channel": "StopGame",
       "title": "Ктулху доступен для всех 🐙",
       "url": "https://www.youtube.com/shorts/ROx-l8J5Sfo",
       "published_at_utc": "2026-05-29T20:07:35+00:00",
-      "age_seconds": 4838
+      "age_seconds": 4959
     },
     {
       "channel": "kinoluv",
       "title": "Он всю жизнь неправильно ел бутерброды🥪",
       "url": "https://www.youtube.com/shorts/cuhcncN3QfI",
       "published_at_utc": "2026-05-29T19:54:33+00:00",
-      "age_seconds": 5573
+      "age_seconds": 5694
     }
   ]
 }
