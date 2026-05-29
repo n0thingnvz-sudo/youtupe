@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-05-29T10:04:50.185982+00:00",
+  "generated_at_utc": "2026-05-29T10:06:52.706667+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Cut The Crap",
+      "title": "Что скрывает FALLOUT 2 (Второй сезон)",
+      "url": "https://www.youtube.com/watch?v=X8Z20RRFCNI",
+      "published_at_utc": "2026-05-29T09:56:08+00:00",
+      "age_seconds": 599
+    },
     {
       "channel": "Короче, новости",
       "title": "Хрущёв Показал Американцам НЛО - они Поверили в Силу СССР",
       "url": "https://www.youtube.com/shorts/tzXUouz-yWk",
       "published_at_utc": "2026-05-29T09:44:18+00:00",
-      "age_seconds": 1147
+      "age_seconds": 1268
     },
     {
       "channel": "Короче, новости",
       "title": "Допинг-Олимпиада Провалилась: Рекордов Нет",
       "url": "https://www.youtube.com/shorts/8pkHB1gOGtw",
       "published_at_utc": "2026-05-29T09:30:30+00:00",
-      "age_seconds": 1975
+      "age_seconds": 2096
     },
     {
       "channel": "ROUNDZZ",
       "title": "СКИНЫ С КРУТЫМИ ЗВУКАМИ - Обзор коллекции \"Отступник\" в Valorant",
       "url": "https://www.youtube.com/watch?v=oJ8fWrCaQeM",
       "published_at_utc": "2026-05-29T09:25:26+00:00",
-      "age_seconds": 2328
+      "age_seconds": 2453
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это уже не Феррари",
       "url": "https://www.youtube.com/shorts/l0CjZ_qeOI4",
       "published_at_utc": "2026-05-29T09:00:28+00:00",
-      "age_seconds": 3781
+      "age_seconds": 3903
     },
     {
       "channel": "Новостной Гусь",
       "title": "58 черепах под юбкой",
       "url": "https://www.youtube.com/shorts/QKb7UMsudjY",
       "published_at_utc": "2026-05-29T09:00:21+00:00",
-      "age_seconds": 3787
+      "age_seconds": 3908
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Поднять щиты за героя!",
       "url": "https://www.youtube.com/shorts/QeRcqv20pNU",
       "published_at_utc": "2026-05-29T09:00:08+00:00",
-      "age_seconds": 3802
+      "age_seconds": 3923
     },
     {
       "channel": "Recrent",
       "title": "МОРАЛЬНО ГОТОВ",
       "url": "https://www.youtube.com/shorts/cddfwP8_wXw",
       "published_at_utc": "2026-05-29T08:59:34+00:00",
-      "age_seconds": 3901
+      "age_seconds": 4027
     },
     {
       "channel": "Короче, новости",
       "title": "3 года Тюрьмы за Кальян на Куличе",
       "url": "https://www.youtube.com/shorts/JXpviFUzuWQ",
       "published_at_utc": "2026-05-29T08:44:03+00:00",
-      "age_seconds": 4762
+      "age_seconds": 4883
     },
     {
       "channel": "Antochi",
       "title": "СТУДЕНТОВ ЗАСТАВЯТ СДАВАТЬ УСТНЫЕ ЭКЗАМЕНЫ",
       "url": "https://www.youtube.com/shorts/kILxpa3m9LQ",
       "published_at_utc": "2026-05-29T08:07:36+00:00",
-      "age_seconds": 6974
+      "age_seconds": 7097
     }
   ]
 }
