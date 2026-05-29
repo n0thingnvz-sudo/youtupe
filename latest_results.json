@@ -1,90 +1,83 @@
 {
-  "generated_at_utc": "2026-05-29T16:34:56.729069+00:00",
+  "generated_at_utc": "2026-05-29T16:36:59.271201+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Тимур Сидельников",
-      "title": "Этот телевизор в Х3 раза круче чем MiniLED!",
-      "url": "https://www.youtube.com/watch?v=MRRtOxRWmiE",
-      "published_at_utc": "2026-05-29T16:30:08+00:00",
-      "age_seconds": 230
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Современные проблемы требует современных решений",
       "url": "https://www.youtube.com/shorts/AriF64knQ6Q",
       "published_at_utc": "2026-05-29T16:00:08+00:00",
-      "age_seconds": 2003
+      "age_seconds": 2125
     },
     {
       "channel": "Дима Масленников",
       "title": "Кто Больше ХАЙПАНЕТ - Баста, Exile, Роналду в Москве , Nowkie, Frame Tamer, Масленников, Даник",
       "url": "https://www.youtube.com/watch?v=Y-kUbobAHns",
       "published_at_utc": "2026-05-29T16:00:03+00:00",
-      "age_seconds": 2012
+      "age_seconds": 2134
     },
     {
       "channel": "Собиратель новостей",
       "title": "У Соловьева Предлагают Завести Уголовку на ДЕПУТАТА",
       "url": "https://www.youtube.com/shorts/-n75et0Re74",
       "published_at_utc": "2026-05-29T15:45:37+00:00",
-      "age_seconds": 2869
+      "age_seconds": 2991
     },
     {
       "channel": "Amitesh",
       "title": "Как проходят замеры вязкости #ами #амитеш #физика",
       "url": "https://www.youtube.com/shorts/umyamBWx4K4",
       "published_at_utc": "2026-05-29T15:34:26+00:00",
-      "age_seconds": 3567
+      "age_seconds": 3690
     },
     {
       "channel": "Новостной Гусь",
       "title": "Допинговая Олимпиада провалилась",
       "url": "https://www.youtube.com/shorts/xixSW2nRYA8",
       "published_at_utc": "2026-05-29T15:30:32+00:00",
-      "age_seconds": 3778
+      "age_seconds": 3899
     },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007 #3",
       "url": "https://www.youtube.com/watch?v=gH-qOjyjufg",
       "published_at_utc": "2026-05-29T15:11:17+00:00",
-      "age_seconds": 5003
+      "age_seconds": 5124
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 371",
       "url": "https://www.youtube.com/shorts/MED_QE92n3Q",
       "published_at_utc": "2026-05-29T15:02:28+00:00",
-      "age_seconds": 5452
+      "age_seconds": 5573
     },
     {
       "channel": "Унылый",
       "title": "(НЕ)Идеальный сиквел | Call of Duty 2",
       "url": "https://www.youtube.com/watch?v=dD7OGW13Li8",
       "published_at_utc": "2026-05-29T15:02:07+00:00",
-      "age_seconds": 5550
+      "age_seconds": 5671
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Луковая месть",
       "url": "https://www.youtube.com/shorts/eeFXaYJchKQ",
       "published_at_utc": "2026-05-29T15:00:38+00:00",
-      "age_seconds": 5573
+      "age_seconds": 5695
     },
     {
       "channel": "Recrent",
       "title": "ЦИРК ПРИЕХАЛ В PUBG",
       "url": "https://www.youtube.com/watch?v=yyaXIFnRZm4",
       "published_at_utc": "2026-05-29T14:59:30+00:00",
-      "age_seconds": 5714
+      "age_seconds": 5834
     },
     {
       "channel": "МайорКрафт",
       "title": "Самая умная охрана тюрьмы #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/gjCzYBX2fyY",
       "published_at_utc": "2026-05-29T14:45:26+00:00",
-      "age_seconds": 6506
+      "age_seconds": 6628
     }
   ]
 }
