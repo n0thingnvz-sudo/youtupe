@@ -1,90 +1,97 @@
 {
-  "generated_at_utc": "2026-05-29T09:38:46.042353+00:00",
+  "generated_at_utc": "2026-05-29T09:40:51.143348+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Допинг-Олимпиада Провалилась: Рекордов Нет",
+      "url": "https://www.youtube.com/shorts/8pkHB1gOGtw",
+      "published_at_utc": "2026-05-29T09:30:30+00:00",
+      "age_seconds": 535
+    },
     {
       "channel": "ROUNDZZ",
       "title": "СКИНЫ С КРУТЫМИ ЗВУКАМИ - Обзор коллекции \"Отступник\" в Valorant",
       "url": "https://www.youtube.com/watch?v=oJ8fWrCaQeM",
       "published_at_utc": "2026-05-29T09:25:26+00:00",
-      "age_seconds": 767
+      "age_seconds": 889
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это уже не Феррари",
       "url": "https://www.youtube.com/shorts/l0CjZ_qeOI4",
       "published_at_utc": "2026-05-29T09:00:28+00:00",
-      "age_seconds": 2221
+      "age_seconds": 2341
     },
     {
       "channel": "Новостной Гусь",
       "title": "58 черепах под юбкой",
       "url": "https://www.youtube.com/shorts/QKb7UMsudjY",
       "published_at_utc": "2026-05-29T09:00:21+00:00",
-      "age_seconds": 2226
+      "age_seconds": 2347
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Поднять щиты за героя!",
       "url": "https://www.youtube.com/shorts/QeRcqv20pNU",
       "published_at_utc": "2026-05-29T09:00:08+00:00",
-      "age_seconds": 2241
+      "age_seconds": 2362
     },
     {
       "channel": "Recrent",
       "title": "МОРАЛЬНО ГОТОВ",
       "url": "https://www.youtube.com/shorts/cddfwP8_wXw",
       "published_at_utc": "2026-05-29T08:59:34+00:00",
-      "age_seconds": 2340
+      "age_seconds": 2465
     },
     {
       "channel": "Короче, новости",
       "title": "3 года Тюрьмы за Кальян на Куличе",
       "url": "https://www.youtube.com/shorts/JXpviFUzuWQ",
       "published_at_utc": "2026-05-29T08:44:03+00:00",
-      "age_seconds": 3202
+      "age_seconds": 3322
     },
     {
       "channel": "Antochi",
       "title": "СТУДЕНТОВ ЗАСТАВЯТ СДАВАТЬ УСТНЫЕ ЭКЗАМЕНЫ",
       "url": "https://www.youtube.com/shorts/kILxpa3m9LQ",
       "published_at_utc": "2026-05-29T08:07:36+00:00",
-      "age_seconds": 5413
+      "age_seconds": 5535
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно мне другого пранкера?",
       "url": "https://www.youtube.com/shorts/7guh-ijhvWc",
       "published_at_utc": "2026-05-29T08:00:33+00:00",
-      "age_seconds": 5816
+      "age_seconds": 5937
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱СТАНЬ ДРОВОСЕКОМ РАДИ БРЕЙНРОТОВ В РОБЛОКС!",
       "url": "https://www.youtube.com/watch?v=Cfkta91vJbA",
       "published_at_utc": "2026-05-29T08:00:33+00:00",
-      "age_seconds": 5856
+      "age_seconds": 5978
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик любит лед 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/EYHXy55tOwU",
       "published_at_utc": "2026-05-29T08:00:16+00:00",
-      "age_seconds": 5856
+      "age_seconds": 5978
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Их борьба",
       "url": "https://www.youtube.com/shorts/CjvKnM_mkGM",
       "published_at_utc": "2026-05-29T08:00:02+00:00",
-      "age_seconds": 5847
+      "age_seconds": 5967
     },
     {
       "channel": "kinoluv",
       "title": "Все мы разные и это прекрасно😇",
       "url": "https://www.youtube.com/shorts/ueKm-XCwAiU",
       "published_at_utc": "2026-05-29T07:57:23+00:00",
-      "age_seconds": 6004
+      "age_seconds": 6125
     }
   ]
 }
