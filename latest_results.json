@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-05-30T17:30:49.019086+00:00",
+  "generated_at_utc": "2026-05-30T17:32:50.347067+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Каким был мир в 2004-м? #2004 #грузия #украина",
+      "url": "https://www.youtube.com/shorts/7jgxPx5uWMg",
+      "published_at_utc": "2026-05-30T17:15:34+00:00",
+      "age_seconds": 930
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Морская дружба",
       "url": "https://www.youtube.com/shorts/_iio1igCaVg",
       "published_at_utc": "2026-05-30T17:00:26+00:00",
-      "age_seconds": 1743
+      "age_seconds": 1864
     },
     {
       "channel": "МайорКрафт",
       "title": "В этом моменте все легендарное  #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/oOJsD7cInwA",
       "published_at_utc": "2026-05-30T16:45:25+00:00",
-      "age_seconds": 2662
+      "age_seconds": 2784
     },
     {
       "channel": "JOHAN",
       "title": "Проходим аномалии на скорость ( Стрим вместо ролика )",
       "url": "https://www.youtube.com/watch?v=_g56_8T6M-Y",
       "published_at_utc": "2026-05-30T16:11:52+00:00",
-      "age_seconds": 4641
+      "age_seconds": 4761
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Повезло повезло",
       "url": "https://www.youtube.com/shorts/us9uKYh1fMw",
       "published_at_utc": "2026-05-30T16:00:35+00:00",
-      "age_seconds": 5334
+      "age_seconds": 5455
     },
     {
       "channel": "Майни",
       "title": "Кринжовые увлечения ► Мордекай ( Mordekai ) | Реакция",
       "url": "https://www.youtube.com/watch?v=GjDpWK9xnCs",
       "published_at_utc": "2026-05-30T15:36:43+00:00",
-      "age_seconds": 6744
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Не оставлять машину под деревом ✍️",
-      "url": "https://www.youtube.com/shorts/qcl6jZ8uipk",
-      "published_at_utc": "2026-05-30T15:30:35+00:00",
-      "age_seconds": 7133
+      "age_seconds": 6864
     }
   ]
 }
