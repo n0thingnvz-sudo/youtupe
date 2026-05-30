@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-05-30T17:18:49.464634+00:00",
+  "generated_at_utc": "2026-05-30T17:20:49.601953+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Морская дружба",
-      "url": "https://www.youtube.com/shorts/_iio1igCaVg",
-      "published_at_utc": "2026-05-30T17:00:26+00:00",
-      "age_seconds": 1023
-    },
     {
       "channel": "МайорКрафт",
       "title": "В этом моменте все легендарное  #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/oOJsD7cInwA",
       "published_at_utc": "2026-05-30T16:45:25+00:00",
-      "age_seconds": 1944
+      "age_seconds": 2063
     },
     {
       "channel": "JOHAN",
       "title": "Проходим аномалии на скорость ( Стрим вместо ролика )",
       "url": "https://www.youtube.com/watch?v=_g56_8T6M-Y",
       "published_at_utc": "2026-05-30T16:11:52+00:00",
-      "age_seconds": 3921
+      "age_seconds": 4041
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Повезло повезло",
       "url": "https://www.youtube.com/shorts/us9uKYh1fMw",
       "published_at_utc": "2026-05-30T16:00:35+00:00",
-      "age_seconds": 4614
+      "age_seconds": 4734
     },
     {
       "channel": "Майни",
       "title": "Кринжовые увлечения ► Мордекай ( Mordekai ) | Реакция",
       "url": "https://www.youtube.com/watch?v=GjDpWK9xnCs",
       "published_at_utc": "2026-05-30T15:36:43+00:00",
-      "age_seconds": 6024
+      "age_seconds": 6144
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не оставлять машину под деревом ✍️",
       "url": "https://www.youtube.com/shorts/qcl6jZ8uipk",
       "published_at_utc": "2026-05-30T15:30:35+00:00",
-      "age_seconds": 6413
+      "age_seconds": 6532
     }
   ]
 }
