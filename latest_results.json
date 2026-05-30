@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-05-30T07:04:46.454854+00:00",
+  "generated_at_utc": "2026-05-30T07:06:47.272596+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Питерцы, что делать будем?",
+      "url": "https://www.youtube.com/shorts/AsTTDadNwLQ",
+      "published_at_utc": "2026-05-30T07:00:19+00:00",
+      "age_seconds": 310
+    },
     {
       "channel": "IXBT Games",
       "title": "Steam для народа - Sony для элиты #ixbt #ixbtgames #steam #габен #sony #playstation #игры",
       "url": "https://www.youtube.com/shorts/gQi82O1kKy0",
       "published_at_utc": "2026-05-30T06:00:23+00:00",
-      "age_seconds": 3826
+      "age_seconds": 3946
     }
   ]
 }
