@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-05-30T18:48:50.089517+00:00",
+  "generated_at_utc": "2026-05-30T18:50:51.536106+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Naritsa",
+      "title": "Самое быстрое прохождение Resident Evil 9 Requiem | Разбор спидрана",
+      "url": "https://www.youtube.com/watch?v=uTsIlwDCC5o",
+      "published_at_utc": "2026-05-30T18:44:56+00:00",
+      "age_seconds": 345
+    },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Рестрим без комментариев ❤️❤️ НАШЫ ИГРЫ 2026",
       "url": "https://www.youtube.com/watch?v=rMhII8ER6n4",
       "published_at_utc": "2026-05-30T18:43:45+00:00",
-      "age_seconds": 266
+      "age_seconds": 388
     },
     {
       "channel": "Послезавтра",
       "title": "Самая лучшая машина #тойота #фольксваген #авто",
       "url": "https://www.youtube.com/shorts/vb-ShZCB0qE",
       "published_at_utc": "2026-05-30T18:40:11+00:00",
-      "age_seconds": 413
+      "age_seconds": 534
+    },
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Исследую загадочный форт под Калининградом на мотоцикле Honda CRF300 Rally",
+      "url": "https://www.youtube.com/watch?v=Rtig56asmaM",
+      "published_at_utc": "2026-05-30T18:38:20+00:00",
+      "age_seconds": 672
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как оживить мертвый телефон",
       "url": "https://www.youtube.com/shorts/mJZZ5bPy2QY",
       "published_at_utc": "2026-05-30T17:45:45+00:00",
-      "age_seconds": 3706
+      "age_seconds": 3827
     },
     {
       "channel": "МайорКрафт",
       "title": "Супер силы вегана #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/m3fjpjOwhCQ",
       "published_at_utc": "2026-05-30T17:45:32+00:00",
-      "age_seconds": 3737
+      "age_seconds": 3858
     },
     {
       "channel": "Тру Шорты",
       "title": "Никто не знает, зачем крепость в Сахаре. Ксар Драа",
       "url": "https://www.youtube.com/shorts/ddAN_utaCTk",
       "published_at_utc": "2026-05-30T17:43:13+00:00",
-      "age_seconds": 3830
+      "age_seconds": 3950
     },
     {
       "channel": "ДАРКАР",
       "title": "ТАК ЗАХОДЯТ ПРО ИГРОКИ НА Б В КС 2",
       "url": "https://www.youtube.com/shorts/0MezyWGMr54",
       "published_at_utc": "2026-05-30T17:38:06+00:00",
-      "age_seconds": 4211
+      "age_seconds": 4333
     },
     {
       "channel": "Майни",
       "title": "Почему я не гуляю в лесу... ► ZAKATOON ( Закатун ) | Реакция",
       "url": "https://www.youtube.com/watch?v=n6qSfgrTlRw",
       "published_at_utc": "2026-05-30T17:30:34+00:00",
-      "age_seconds": 4593
+      "age_seconds": 4713
     },
     {
       "channel": "Послезавтра",
       "title": "Каким был мир в 2004-м? #2004 #грузия #украина",
       "url": "https://www.youtube.com/shorts/7jgxPx5uWMg",
       "published_at_utc": "2026-05-30T17:15:34+00:00",
-      "age_seconds": 5490
+      "age_seconds": 5611
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Морская дружба",
       "url": "https://www.youtube.com/shorts/_iio1igCaVg",
       "published_at_utc": "2026-05-30T17:00:26+00:00",
-      "age_seconds": 6423
+      "age_seconds": 6545
     }
   ]
 }
