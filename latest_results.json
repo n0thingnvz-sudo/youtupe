@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-05-31T18:32:51.636502+00:00",
+  "generated_at_utc": "2026-05-31T18:34:50.178902+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Лазерная пушка от сорняков",
+      "url": "https://www.youtube.com/shorts/tPP2XNM2y5c",
+      "published_at_utc": "2026-05-31T18:30:33+00:00",
+      "age_seconds": 175
+    },
     {
       "channel": "Cut The Crap",
       "title": "Трейлер CALL OF DUTY: MODERN WARFARE 4 // Новый КРЕСТНЫЙ ОТЕЦ // Отзывы о ЗАКУЛИСЬЕ | НОВОСТИ 307",
       "url": "https://www.youtube.com/watch?v=YLmjQIC12AQ",
       "published_at_utc": "2026-05-31T18:16:12+00:00",
-      "age_seconds": 953
+      "age_seconds": 1073
     },
     {
       "channel": "nowkie",
       "title": "я Спрятался в ТРЕКАХ Популярных Артистов и меня НЕ ЗАМЕТИЛИ",
       "url": "https://www.youtube.com/watch?v=xRWmGyZ1tzI",
       "published_at_utc": "2026-05-31T17:37:07+00:00",
-      "age_seconds": 3260
+      "age_seconds": 3380
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Уличный телевизор это ИМБА",
       "url": "https://www.youtube.com/shorts/YVPGHBLW2Fc",
       "published_at_utc": "2026-05-31T17:32:11+00:00",
-      "age_seconds": 3584
+      "age_seconds": 3705
     },
     {
       "channel": "perox",
       "title": "Сильнейший🗿 тгк: Пекарня Пирога #tekken8 #yujirohanma #baki #perox #перокс",
       "url": "https://www.youtube.com/shorts/8e_MggHEmi4",
       "published_at_utc": "2026-05-31T17:28:29+00:00",
-      "age_seconds": 3762
+      "age_seconds": 3882
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 373",
       "url": "https://www.youtube.com/shorts/Xd64xni_xCA",
       "published_at_utc": "2026-05-31T17:05:39+00:00",
-      "age_seconds": 5139
+      "age_seconds": 5260
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Не вышло по-хорошему, будет по-плохому",
       "url": "https://www.youtube.com/shorts/gQCwzQ91a4Y",
       "published_at_utc": "2026-05-31T17:00:10+00:00",
-      "age_seconds": 5479
+      "age_seconds": 5600
     },
     {
       "channel": "IGM",
       "title": "МНЕ КАЖЕТСЯ, Я БОЮСЬ",
       "url": "https://www.youtube.com/shorts/o0mOv_DRmqk",
       "published_at_utc": "2026-05-31T17:00:08+00:00",
-      "age_seconds": 5523
+      "age_seconds": 5643
     }
   ]
 }
