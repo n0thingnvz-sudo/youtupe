@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-05-31T15:48:48.727023+00:00",
+  "generated_at_utc": "2026-05-31T15:50:50.412230+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Саша Фасоваша",
+      "title": "МОЯ КОНКУРЕНТКА",
+      "url": "https://www.youtube.com/shorts/YoqBh3NsGks",
+      "published_at_utc": "2026-05-31T15:45:44+00:00",
+      "age_seconds": 239
+    },
     {
       "channel": "Послезавтра",
       "title": "Самая растущая экономика #россия #китай #сша",
       "url": "https://www.youtube.com/shorts/WrssOt1JVxg",
       "published_at_utc": "2026-05-31T15:34:52+00:00",
-      "age_seconds": 732
+      "age_seconds": 852
     },
     {
       "channel": "Собиратель новостей",
       "title": "Путин Пашиняну: Из-за Евросоюза вы Потеряете 14 % Своей Экономики",
       "url": "https://www.youtube.com/shorts/ZTjp5wGQo-A",
       "published_at_utc": "2026-05-31T15:30:40+00:00",
-      "age_seconds": 1005
+      "age_seconds": 1124
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Поддерживаем или нет?",
       "url": "https://www.youtube.com/shorts/szqEsoOqQZ4",
       "published_at_utc": "2026-05-31T15:00:23+00:00",
-      "age_seconds": 2826
+      "age_seconds": 2947
     },
     {
       "channel": "Recrent",
       "title": "СЛУЧАЙНАЯ РАДОСТЬ В PUBG",
       "url": "https://www.youtube.com/watch?v=NgFFnzYEwXI",
       "published_at_utc": "2026-05-31T14:59:23+00:00",
-      "age_seconds": 2954
+      "age_seconds": 3076
     },
     {
       "channel": "StopGame",
       "title": "Самые интересные релизы июня ☀️",
       "url": "https://www.youtube.com/shorts/KS2o_T7qmg4",
       "published_at_utc": "2026-05-31T14:49:56+00:00",
-      "age_seconds": 3502
+      "age_seconds": 3624
     },
     {
       "channel": "Майни",
       "title": "Машина - Аниматор против Анимации ► The Machine - Animator vs. Animation 13 | Реакция",
       "url": "https://www.youtube.com/watch?v=koOL48SRYEM",
       "published_at_utc": "2026-05-31T14:36:21+00:00",
-      "age_seconds": 4246
+      "age_seconds": 4366
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Непризнанный талант",
       "url": "https://www.youtube.com/shorts/0XMETa6WIyI",
       "published_at_utc": "2026-05-31T14:30:10+00:00",
-      "age_seconds": 4639
+      "age_seconds": 4760
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Выбери цифру #boardgames #настольныеигры #games #игры #challenge",
       "url": "https://www.youtube.com/shorts/idSKi-M4weU",
       "published_at_utc": "2026-05-31T14:03:15+00:00",
-      "age_seconds": 6280
+      "age_seconds": 6399
     },
     {
       "channel": "Джей",
       "title": "ТАКОГО шеф-повара и ТАКИХ рецептов я ещё НЕ ВИДЕЛ. Вася, спасибо за СОВЕТ, больше НИЧЕГО НЕ СОВЕТУЙ",
       "url": "https://www.youtube.com/watch?v=u7c50lr_3SY",
       "published_at_utc": "2026-05-31T14:00:28+00:00",
-      "age_seconds": 6416
+      "age_seconds": 6535
     },
     {
       "channel": "Sherl0ck",
       "title": "🤖КАК КИКАТЬ БОТОВ!?🤖| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/n0WnlwDGGNU",
       "published_at_utc": "2026-05-31T14:00:24+00:00",
-      "age_seconds": 6471
+      "age_seconds": 6592
     },
     {
       "channel": "IGM",
       "title": "ЛУЧШИЙ HITMAN, КОТОРЫЙ МЫ ПОТЕРЯЛИ",
       "url": "https://www.youtube.com/watch?v=IiXeoPdDxyE",
       "published_at_utc": "2026-05-31T14:00:17+00:00",
-      "age_seconds": 6473
+      "age_seconds": 6595
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Коп на приколе",
       "url": "https://www.youtube.com/shorts/GKLi7HmJsow",
       "published_at_utc": "2026-05-31T14:00:07+00:00",
-      "age_seconds": 6442
+      "age_seconds": 6563
     },
     {
       "channel": "PoleznyiBes",
       "title": "Saros - Главное не знать сюжет [Обзор]",
       "url": "https://www.youtube.com/watch?v=TnGj9IB_fHY",
       "published_at_utc": "2026-05-31T13:56:00+00:00",
-      "age_seconds": 6754
+      "age_seconds": 6876
     },
     {
       "channel": "sun_kill",
       "title": "почему я и элевэйты начали матюкаться в видосах",
       "url": "https://www.youtube.com/shorts/GOonwdkXCY0",
       "published_at_utc": "2026-05-31T13:49:57+00:00",
-      "age_seconds": 7034
+      "age_seconds": 7154
     }
   ]
 }
