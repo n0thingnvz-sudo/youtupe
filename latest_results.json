@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-05-31T09:26:52.028166+00:00",
+  "generated_at_utc": "2026-05-31T09:28:49.870116+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "OneTwo",
+      "title": "КОРОЧЕ, КОГДА ОПАЗДЫВАЕШЬ НА УЧЕБУ",
+      "url": "https://www.youtube.com/shorts/13UT2qakQPg",
+      "published_at_utc": "2026-05-31T09:21:11+00:00",
+      "age_seconds": 361
+    },
     {
       "channel": "курОлеся",
       "title": "Каждый понимает то, что у него на уме 😁",
       "url": "https://www.youtube.com/shorts/zdtjQd-B3ho",
       "published_at_utc": "2026-05-31T09:08:29+00:00",
-      "age_seconds": 1019
+      "age_seconds": 1139
     },
     {
       "channel": "курОлеся",
       "title": "И куда мы таким составом?",
       "url": "https://www.youtube.com/shorts/nL44aG5YaJU",
       "published_at_utc": "2026-05-31T09:04:19+00:00",
-      "age_seconds": 1269
+      "age_seconds": 1389
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самый дорогой уход за хлебом",
       "url": "https://www.youtube.com/shorts/Lpdprdk7ccE",
       "published_at_utc": "2026-05-31T09:00:33+00:00",
-      "age_seconds": 1498
+      "age_seconds": 1618
     },
     {
       "channel": "Новостной Гусь",
       "title": "На чем еще сыграют в Doom?",
       "url": "https://www.youtube.com/shorts/t1aTnjVC7lE",
       "published_at_utc": "2026-05-31T09:00:15+00:00",
-      "age_seconds": 1514
+      "age_seconds": 1634
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 33",
       "url": "https://www.youtube.com/shorts/MFXXUzV0gsc",
       "published_at_utc": "2026-05-31T08:15:24+00:00",
-      "age_seconds": 4195
+      "age_seconds": 4314
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Разоблачение года",
       "url": "https://www.youtube.com/shorts/Czc00XlqaAs",
       "published_at_utc": "2026-05-31T08:00:34+00:00",
-      "age_seconds": 5097
+      "age_seconds": 5217
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик ждёт малыша 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/1LRldlQ_RMQ",
       "published_at_utc": "2026-05-31T08:00:12+00:00",
-      "age_seconds": 5144
+      "age_seconds": 5263
     },
     {
       "channel": "Послезавтра",
       "title": "Третья Мировая: контуры глобального конфликта @posle_zavtra",
       "url": "https://www.youtube.com/watch?v=fGGMBKRCcNo",
       "published_at_utc": "2026-05-31T08:00:06+00:00",
-      "age_seconds": 5098
+      "age_seconds": 5218
     },
     {
       "channel": "Amitesh",
       "title": "Школьники бушуют #амитеш #школа",
       "url": "https://www.youtube.com/shorts/Y9WpW5QBkPo",
       "published_at_utc": "2026-05-31T07:59:01+00:00",
-      "age_seconds": 5211
+      "age_seconds": 5330
     }
   ]
 }
