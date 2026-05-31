@@ -1,83 +1,104 @@
 {
-  "generated_at_utc": "2026-05-31T16:10:58.162740+00:00",
+  "generated_at_utc": "2026-05-31T16:12:51.455041+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "лизкеч",
+      "title": "вк: лизкетч",
+      "url": "https://www.youtube.com/shorts/92TKVutFTPc",
+      "published_at_utc": "2026-05-31T16:07:29+00:00",
+      "age_seconds": 252
+    },
     {
       "channel": "i11ushenka",
       "title": "Выборы в Австралии (с подвохом)",
       "url": "https://www.youtube.com/shorts/65IQkAVi3zc",
       "published_at_utc": "2026-05-31T16:02:36+00:00",
-      "age_seconds": 395
+      "age_seconds": 514
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Лудоприключение длиною в жизнь",
+      "url": "https://www.youtube.com/shorts/GdPGSk5LmcY",
+      "published_at_utc": "2026-05-31T16:00:17+00:00",
+      "age_seconds": 673
+    },
+    {
+      "channel": "This is Хорошо",
+      "title": "Роботы отнимают работу ПАРИКМАХЕРОВ #shorts #шортс",
+      "url": "https://www.youtube.com/shorts/KqmDEK8ivFE",
+      "published_at_utc": "2026-05-31T15:54:53+00:00",
+      "age_seconds": 1018
     },
     {
       "channel": "Завод KURS",
       "title": "СЕКРЕТ КОКТЕЙЛЯ МОЛОТОВА 🔥",
       "url": "https://www.youtube.com/shorts/JQQSCVnwG-8",
       "published_at_utc": "2026-05-31T15:49:43+00:00",
-      "age_seconds": 1201
+      "age_seconds": 1320
     },
     {
       "channel": "Саша Фасоваша",
       "title": "МОЯ КОНКУРЕНТКА",
       "url": "https://www.youtube.com/shorts/YoqBh3NsGks",
       "published_at_utc": "2026-05-31T15:45:44+00:00",
-      "age_seconds": 1439
+      "age_seconds": 1558
     },
     {
       "channel": "МайорКрафт",
       "title": "Джеки Чан сломал статута царя #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/xlx5xZG42nM",
       "published_at_utc": "2026-05-31T15:45:33+00:00",
-      "age_seconds": 1457
+      "age_seconds": 1575
     },
     {
       "channel": "Послезавтра",
       "title": "Самая растущая экономика #россия #китай #сша",
       "url": "https://www.youtube.com/shorts/WrssOt1JVxg",
       "published_at_utc": "2026-05-31T15:34:52+00:00",
-      "age_seconds": 2053
+      "age_seconds": 2172
     },
     {
       "channel": "Собиратель новостей",
       "title": "Путин Пашиняну: Из-за Евросоюза вы Потеряете 14 % Своей Экономики",
       "url": "https://www.youtube.com/shorts/ZTjp5wGQo-A",
       "published_at_utc": "2026-05-31T15:30:40+00:00",
-      "age_seconds": 2325
+      "age_seconds": 2445
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Поддерживаем или нет?",
       "url": "https://www.youtube.com/shorts/szqEsoOqQZ4",
       "published_at_utc": "2026-05-31T15:00:23+00:00",
-      "age_seconds": 4147
+      "age_seconds": 4267
     },
     {
       "channel": "Recrent",
       "title": "СЛУЧАЙНАЯ РАДОСТЬ В PUBG",
       "url": "https://www.youtube.com/watch?v=NgFFnzYEwXI",
       "published_at_utc": "2026-05-31T14:59:23+00:00",
-      "age_seconds": 4283
+      "age_seconds": 4396
     },
     {
       "channel": "StopGame",
       "title": "Самые интересные релизы июня ☀️",
       "url": "https://www.youtube.com/shorts/KS2o_T7qmg4",
       "published_at_utc": "2026-05-31T14:49:56+00:00",
-      "age_seconds": 4823
+      "age_seconds": 4943
     },
     {
       "channel": "Майни",
       "title": "Машина - Аниматор против Анимации ► The Machine - Animator vs. Animation 13 | Реакция",
       "url": "https://www.youtube.com/watch?v=koOL48SRYEM",
       "published_at_utc": "2026-05-31T14:36:21+00:00",
-      "age_seconds": 5566
+      "age_seconds": 5686
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Непризнанный талант",
       "url": "https://www.youtube.com/shorts/0XMETa6WIyI",
       "published_at_utc": "2026-05-31T14:30:10+00:00",
-      "age_seconds": 5960
+      "age_seconds": 6080
     }
   ]
 }
