@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-05-31T08:06:47.450922+00:00",
+  "generated_at_utc": "2026-05-31T08:08:45.054677+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Послезавтра",
-      "title": "Третья Мировая: контуры глобального конфликта @posle_zavtra",
-      "url": "https://www.youtube.com/watch?v=fGGMBKRCcNo",
-      "published_at_utc": "2026-05-31T08:00:06+00:00",
-      "age_seconds": 299
-    },
     {
       "channel": "Короче, новости",
       "title": "Путин Хочет ИИ: Шаман Понял Буквально",
       "url": "https://www.youtube.com/shorts/zFssfOCndo4",
       "published_at_utc": "2026-05-31T07:24:57+00:00",
-      "age_seconds": 2428
+      "age_seconds": 2548
     },
     {
       "channel": "Собиратель новостей",
       "title": "Мужик Переехал в Многоэтажку с 12 СОБАКАМИ",
       "url": "https://www.youtube.com/shorts/_vT6hGAmDc8",
       "published_at_utc": "2026-05-31T07:15:02+00:00",
-      "age_seconds": 3022
+      "age_seconds": 3142
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Новая ступень эволюции наглядно",
       "url": "https://www.youtube.com/shorts/erfZGS41N0Y",
       "published_at_utc": "2026-05-31T07:00:15+00:00",
-      "age_seconds": 3914
+      "age_seconds": 4034
     },
     {
       "channel": "IXBT Games",
       "title": "Nvidia без GeForce #ixbt #ixbtgames #nvidia #geforce #rtx #игры",
       "url": "https://www.youtube.com/shorts/JgVqDMAO0TA",
       "published_at_utc": "2026-05-31T07:00:05+00:00",
-      "age_seconds": 3963
+      "age_seconds": 4083
     },
     {
       "channel": "Короче, новости",
       "title": "Политик-Карлик Оказался 15-летним Подростком",
       "url": "https://www.youtube.com/shorts/YPaNOqkCg68",
       "published_at_utc": "2026-05-31T06:43:03+00:00",
-      "age_seconds": 4942
+      "age_seconds": 5062
     },
     {
       "channel": "Короче, новости",
       "title": "Безумие в Стамбуле: Слишком много людей",
       "url": "https://www.youtube.com/shorts/t4ug5lPc10o",
       "published_at_utc": "2026-05-31T06:35:31+00:00",
-      "age_seconds": 5394
+      "age_seconds": 5514
     }
   ]
 }
