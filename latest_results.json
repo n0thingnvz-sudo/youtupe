@@ -1,83 +1,83 @@
 {
-  "generated_at_utc": "2026-05-31T12:18:49.933494+00:00",
+  "generated_at_utc": "2026-05-31T12:20:52.487831+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Дайте ему колбаску",
+      "url": "https://www.youtube.com/shorts/ihYHmJmT3CQ",
+      "published_at_utc": "2026-05-31T12:00:35+00:00",
+      "age_seconds": 1134
+    },
     {
       "channel": "Смешновости",
       "title": "Свадебное видео 🤔 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/SKoAlQQHsEU",
       "published_at_utc": "2026-05-31T12:00:21+00:00",
-      "age_seconds": 1053
+      "age_seconds": 1173
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ФИНАЛ ► Strange Horticulture #7",
       "url": "https://www.youtube.com/watch?v=FE-CNSb-8UM",
       "published_at_utc": "2026-05-31T12:00:07+00:00",
-      "age_seconds": 1091
+      "age_seconds": 1212
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКИДАЛИ ПОДАРКАМИ 😱 Альбертович в CS2",
       "url": "https://www.youtube.com/watch?v=AcQLgSDkpFM",
       "published_at_utc": "2026-05-31T11:47:22+00:00",
-      "age_seconds": 1827
+      "age_seconds": 1947
     },
     {
       "channel": "Натурал Альбертович",
       "title": "Прямая трансляция пользователя Натурал Альбертович",
       "url": "https://www.youtube.com/watch?v=DgLiSdBbY3w",
       "published_at_utc": "2026-05-31T11:38:45+00:00",
-      "age_seconds": 2344
+      "age_seconds": 2464
     },
     {
       "channel": "Собиратель новостей",
       "title": "Глава NVIDIA Платит, Чтобы Его Пропустили в ОЧЕРЕДИ",
       "url": "https://www.youtube.com/shorts/14Xa9GSvEQo",
       "published_at_utc": "2026-05-31T11:30:35+00:00",
-      "age_seconds": 2810
+      "age_seconds": 2930
     },
     {
       "channel": "leafxup",
       "title": "Я УМЕР С РЫБАМИ...",
       "url": "https://www.youtube.com/watch?v=E4Gn9S7N7lQ",
       "published_at_utc": "2026-05-31T11:02:59+00:00",
-      "age_seconds": 4512
+      "age_seconds": 4634
     },
     {
       "channel": "Droider",
       "title": "Как APPLE продаёт нам БРАК",
       "url": "https://www.youtube.com/watch?v=w4W653oiqZY",
       "published_at_utc": "2026-05-31T11:01:05+00:00",
-      "age_seconds": 4569
+      "age_seconds": 4690
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Форчан, для вас есть работа",
       "url": "https://www.youtube.com/shorts/p7Z7UZ6ZGeE",
       "published_at_utc": "2026-05-31T11:00:08+00:00",
-      "age_seconds": 4642
+      "age_seconds": 4762
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Да прибудет с тобой v8",
       "url": "https://www.youtube.com/shorts/CfKEO8JIb6k",
       "published_at_utc": "2026-05-31T11:00:03+00:00",
-      "age_seconds": 4647
+      "age_seconds": 4766
     },
     {
       "channel": "Gamer Tech",
       "title": "⭐️ Игры Rockstar для телефона #shorts",
       "url": "https://www.youtube.com/shorts/0iFzHo3BSN8",
       "published_at_utc": "2026-05-31T10:49:04+00:00",
-      "age_seconds": 5381
-    },
-    {
-      "channel": "Amitesh",
-      "title": "Гайковерт #амитеш #технологии",
-      "url": "https://www.youtube.com/shorts/TxDNZq0ETVM",
-      "published_at_utc": "2026-05-31T10:18:25+00:00",
-      "age_seconds": 7165
+      "age_seconds": 5503
     }
   ]
 }
