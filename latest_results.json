@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-05-31T11:36:54.439034+00:00",
+  "generated_at_utc": "2026-05-31T11:38:56.047452+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Глава NVIDIA Платит, Чтобы Его Пропустили в ОЧЕРЕДИ",
+      "url": "https://www.youtube.com/shorts/14Xa9GSvEQo",
+      "published_at_utc": "2026-05-31T11:30:35+00:00",
+      "age_seconds": 411
+    },
     {
       "channel": "leafxup",
       "title": "Я УМЕР С РЫБАМИ...",
       "url": "https://www.youtube.com/watch?v=E4Gn9S7N7lQ",
       "published_at_utc": "2026-05-31T11:02:59+00:00",
-      "age_seconds": 1996
+      "age_seconds": 2117
     },
     {
       "channel": "Droider",
       "title": "Как APPLE продаёт нам БРАК",
       "url": "https://www.youtube.com/watch?v=w4W653oiqZY",
       "published_at_utc": "2026-05-31T11:01:05+00:00",
-      "age_seconds": 2050
+      "age_seconds": 2170
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Форчан, для вас есть работа",
       "url": "https://www.youtube.com/shorts/p7Z7UZ6ZGeE",
       "published_at_utc": "2026-05-31T11:00:08+00:00",
-      "age_seconds": 2123
+      "age_seconds": 2243
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Да прибудет с тобой v8",
       "url": "https://www.youtube.com/shorts/CfKEO8JIb6k",
       "published_at_utc": "2026-05-31T11:00:03+00:00",
-      "age_seconds": 2128
+      "age_seconds": 2247
     },
     {
       "channel": "Gamer Tech",
       "title": "⭐️ Игры Rockstar для телефона #shorts",
       "url": "https://www.youtube.com/shorts/0iFzHo3BSN8",
       "published_at_utc": "2026-05-31T10:49:04+00:00",
-      "age_seconds": 2865
+      "age_seconds": 2987
     },
     {
       "channel": "Amitesh",
       "title": "Гайковерт #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/TxDNZq0ETVM",
       "published_at_utc": "2026-05-31T10:18:25+00:00",
-      "age_seconds": 4647
+      "age_seconds": 4768
     },
     {
       "channel": "sereGGa",
       "title": "2к ММР ХУЖЕ РЕКРУТОВ? | НАЙС ИГРАЕШЬ #127",
       "url": "https://www.youtube.com/watch?v=YIhvazNTgCA",
       "published_at_utc": "2026-05-31T10:00:25+00:00",
-      "age_seconds": 5762
+      "age_seconds": 5883
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пасхалка от Илона",
       "url": "https://www.youtube.com/shorts/dNTiROhwFNs",
       "published_at_utc": "2026-05-31T10:00:22+00:00",
-      "age_seconds": 5709
+      "age_seconds": 5828
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ноутбук с сюрпризом",
       "url": "https://www.youtube.com/shorts/lKMo7ayfHR8",
       "published_at_utc": "2026-05-31T10:00:16+00:00",
-      "age_seconds": 5715
+      "age_seconds": 5835
     },
     {
       "channel": "Смешновости",
       "title": "Необычный торт 😲 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/q-ULEf4nitE",
       "published_at_utc": "2026-05-31T10:00:15+00:00",
-      "age_seconds": 5742
+      "age_seconds": 5862
     },
     {
       "channel": "АНТИБЛОГЕР",
       "title": "ВРАНЬЁ БОЛДЫРЕВА - Как создать фейки с помощью PDF и обмануть своего зрителя / Антиобзор",
       "url": "https://www.youtube.com/watch?v=lQAQg0TQoh0",
       "published_at_utc": "2026-05-31T09:45:37+00:00",
-      "age_seconds": 6609
+      "age_seconds": 6729
     }
   ]
 }
