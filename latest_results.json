@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-05-31T06:12:39.304596+00:00",
+  "generated_at_utc": "2026-05-31T06:14:42.009798+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Фанаты Громят Париж После Победы ПСЖ",
+      "url": "https://www.youtube.com/shorts/MGehX6MPd3Q",
+      "published_at_utc": "2026-05-31T06:05:15+00:00",
+      "age_seconds": 490
+    },
     {
       "channel": "Короче, новости",
       "title": "Трампа Напечают на 250 Долларах",
       "url": "https://www.youtube.com/shorts/70iAPiGp5d4",
       "published_at_utc": "2026-05-31T05:58:07+00:00",
-      "age_seconds": 796
+      "age_seconds": 918
     }
   ]
 }
