@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-05-31T16:24:48.158431+00:00",
+  "generated_at_utc": "2026-05-31T16:26:52.573670+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "10 ЛЕТ КАНАЛУ на Ютубе",
+      "url": "https://www.youtube.com/watch?v=l7c5c5J1Pao",
+      "published_at_utc": "2026-05-31T16:13:05+00:00",
+      "age_seconds": 723
+    },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/92TKVutFTPc",
       "published_at_utc": "2026-05-31T16:07:29+00:00",
-      "age_seconds": 971
+      "age_seconds": 1094
     },
     {
       "channel": "i11ushenka",
       "title": "Выборы в Австралии (с подвохом)",
       "url": "https://www.youtube.com/shorts/65IQkAVi3zc",
       "published_at_utc": "2026-05-31T16:02:36+00:00",
-      "age_seconds": 1234
+      "age_seconds": 1355
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лудоприключение длиною в жизнь",
       "url": "https://www.youtube.com/shorts/GdPGSk5LmcY",
       "published_at_utc": "2026-05-31T16:00:17+00:00",
-      "age_seconds": 1393
+      "age_seconds": 1513
     },
     {
       "channel": "This is Хорошо",
       "title": "Роботы отнимают работу ПАРИКМАХЕРОВ #shorts #шортс",
       "url": "https://www.youtube.com/shorts/KqmDEK8ivFE",
       "published_at_utc": "2026-05-31T15:54:53+00:00",
-      "age_seconds": 1739
+      "age_seconds": 1861
     },
     {
       "channel": "Завод KURS",
       "title": "СЕКРЕТ КОКТЕЙЛЯ МОЛОТОВА 🔥",
       "url": "https://www.youtube.com/shorts/JQQSCVnwG-8",
       "published_at_utc": "2026-05-31T15:49:43+00:00",
-      "age_seconds": 2040
+      "age_seconds": 2163
     },
     {
       "channel": "Саша Фасоваша",
       "title": "МОЯ КОНКУРЕНТКА",
       "url": "https://www.youtube.com/shorts/YoqBh3NsGks",
       "published_at_utc": "2026-05-31T15:45:44+00:00",
-      "age_seconds": 2278
+      "age_seconds": 2401
     },
     {
       "channel": "МайорКрафт",
       "title": "Джеки Чан сломал статута царя #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/xlx5xZG42nM",
       "published_at_utc": "2026-05-31T15:45:33+00:00",
-      "age_seconds": 2296
+      "age_seconds": 2418
     },
     {
       "channel": "Послезавтра",
       "title": "Самая растущая экономика #россия #китай #сша",
       "url": "https://www.youtube.com/shorts/WrssOt1JVxg",
       "published_at_utc": "2026-05-31T15:34:52+00:00",
-      "age_seconds": 2892
+      "age_seconds": 3013
     },
     {
       "channel": "Собиратель новостей",
       "title": "Путин Пашиняну: Из-за Евросоюза вы Потеряете 14 % Своей Экономики",
       "url": "https://www.youtube.com/shorts/ZTjp5wGQo-A",
       "published_at_utc": "2026-05-31T15:30:40+00:00",
-      "age_seconds": 3165
+      "age_seconds": 3285
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Поддерживаем или нет?",
       "url": "https://www.youtube.com/shorts/szqEsoOqQZ4",
       "published_at_utc": "2026-05-31T15:00:23+00:00",
-      "age_seconds": 4987
+      "age_seconds": 5107
     },
     {
       "channel": "Recrent",
       "title": "СЛУЧАЙНАЯ РАДОСТЬ В PUBG",
       "url": "https://www.youtube.com/watch?v=NgFFnzYEwXI",
       "published_at_utc": "2026-05-31T14:59:23+00:00",
-      "age_seconds": 5113
+      "age_seconds": 5238
     },
     {
       "channel": "StopGame",
       "title": "Самые интересные релизы июня ☀️",
       "url": "https://www.youtube.com/shorts/KS2o_T7qmg4",
       "published_at_utc": "2026-05-31T14:49:56+00:00",
-      "age_seconds": 5661
+      "age_seconds": 5786
     },
     {
       "channel": "Майни",
       "title": "Машина - Аниматор против Анимации ► The Machine - Animator vs. Animation 13 | Реакция",
       "url": "https://www.youtube.com/watch?v=koOL48SRYEM",
       "published_at_utc": "2026-05-31T14:36:21+00:00",
-      "age_seconds": 6406
+      "age_seconds": 6527
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Непризнанный талант",
       "url": "https://www.youtube.com/shorts/0XMETa6WIyI",
       "published_at_utc": "2026-05-31T14:30:10+00:00",
-      "age_seconds": 6800
+      "age_seconds": 6920
     }
   ]
 }
