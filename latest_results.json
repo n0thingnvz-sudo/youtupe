@@ -1,48 +1,62 @@
 {
-  "generated_at_utc": "2026-06-01T10:04:52.171730+00:00",
+  "generated_at_utc": "2026-06-01T10:06:55.159245+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Гений маркетинга",
+      "url": "https://www.youtube.com/shorts/Lp7oZ4BNRMM",
+      "published_at_utc": "2026-06-01T10:00:25+00:00",
+      "age_seconds": 306
+    },
+    {
+      "channel": "Смешновости",
+      "title": "Пушистый помощник 🥰 #истории #история #новости #новость #shorts",
+      "url": "https://www.youtube.com/shorts/rH1xXuqtZdQ",
+      "published_at_utc": "2026-06-01T10:00:09+00:00",
+      "age_seconds": 349
+    },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Артемий Лебедев | Nowkie | Сатир",
       "url": "https://www.youtube.com/watch?v=kiusnXwLDtU",
       "published_at_utc": "2026-06-01T09:32:39+00:00",
-      "age_seconds": 1842
+      "age_seconds": 1963
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самая безопасная машина",
       "url": "https://www.youtube.com/shorts/T_ziJrYUF7I",
       "published_at_utc": "2026-06-01T09:10:07+00:00",
-      "age_seconds": 3203
+      "age_seconds": 3324
     },
     {
       "channel": "windy31",
       "title": "тебя СВЯЗАЛИ в БАГАЖНИКЕ и у тебя ОДНА РУКА чтобы выжить",
       "url": "https://www.youtube.com/watch?v=dqvbe4enRhg",
       "published_at_utc": "2026-06-01T09:00:03+00:00",
-      "age_seconds": 3853
+      "age_seconds": 3975
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Магний принимает его",
       "url": "https://www.youtube.com/shorts/1vbP3YZuFEI",
       "published_at_utc": "2026-06-01T09:00:00+00:00",
-      "age_seconds": 3810
+      "age_seconds": 3931
     },
     {
       "channel": "Алежа Обухов",
       "title": "Как родители одобряют невесту",
       "url": "https://www.youtube.com/shorts/5qkewmU5Gb0",
       "published_at_utc": "2026-06-01T08:50:55+00:00",
-      "age_seconds": 4374
+      "age_seconds": 4496
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто ты вообще",
       "url": "https://www.youtube.com/shorts/O_DLs7DcRFI",
       "published_at_utc": "2026-06-01T08:30:09+00:00",
-      "age_seconds": 5599
+      "age_seconds": 5721
     }
   ]
 }
