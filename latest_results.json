@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-06-01T09:38:47.009027+00:00",
+  "generated_at_utc": "2026-06-01T09:40:49.088009+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Канал Коваля",
+      "title": "СВОЯК | Коваль | Артемий Лебедев | Nowkie | Сатир",
+      "url": "https://www.youtube.com/watch?v=kiusnXwLDtU",
+      "published_at_utc": "2026-06-01T09:32:39+00:00",
+      "age_seconds": 401
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самая безопасная машина",
       "url": "https://www.youtube.com/shorts/T_ziJrYUF7I",
       "published_at_utc": "2026-06-01T09:10:07+00:00",
-      "age_seconds": 1642
+      "age_seconds": 1762
     },
     {
       "channel": "windy31",
       "title": "тебя СВЯЗАЛИ в БАГАЖНИКЕ и у тебя ОДНА РУКА чтобы выжить",
       "url": "https://www.youtube.com/watch?v=dqvbe4enRhg",
       "published_at_utc": "2026-06-01T09:00:03+00:00",
-      "age_seconds": 2289
+      "age_seconds": 2410
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Магний принимает его",
       "url": "https://www.youtube.com/shorts/1vbP3YZuFEI",
       "published_at_utc": "2026-06-01T09:00:00+00:00",
-      "age_seconds": 2250
+      "age_seconds": 2370
     },
     {
       "channel": "Алежа Обухов",
       "title": "Как родители одобряют невесту",
       "url": "https://www.youtube.com/shorts/5qkewmU5Gb0",
       "published_at_utc": "2026-06-01T08:50:55+00:00",
-      "age_seconds": 2812
+      "age_seconds": 2932
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто ты вообще",
       "url": "https://www.youtube.com/shorts/O_DLs7DcRFI",
       "published_at_utc": "2026-06-01T08:30:09+00:00",
-      "age_seconds": 4039
+      "age_seconds": 4159
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 176 - самого лучшего лета! ☀️ #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/chIwoJo1l5g",
       "published_at_utc": "2026-06-01T08:00:34+00:00",
-      "age_seconds": 5839
+      "age_seconds": 5960
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Барбиленд эконом класса",
       "url": "https://www.youtube.com/shorts/bnPQjLK58lU",
       "published_at_utc": "2026-06-01T08:00:33+00:00",
-      "age_seconds": 5817
+      "age_seconds": 5937
     }
   ]
 }
