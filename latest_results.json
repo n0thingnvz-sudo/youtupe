@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T10:06:55.159245+00:00",
+  "generated_at_utc": "2026-06-01T10:08:52.295801+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Гений маркетинга",
       "url": "https://www.youtube.com/shorts/Lp7oZ4BNRMM",
       "published_at_utc": "2026-06-01T10:00:25+00:00",
-      "age_seconds": 306
+      "age_seconds": 426
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Нашел друга",
+      "url": "https://www.youtube.com/shorts/sI6dlBY0Rvo",
+      "published_at_utc": "2026-06-01T10:00:10+00:00",
+      "age_seconds": 440
     },
     {
       "channel": "Смешновости",
       "title": "Пушистый помощник 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/rH1xXuqtZdQ",
       "published_at_utc": "2026-06-01T10:00:09+00:00",
-      "age_seconds": 349
+      "age_seconds": 468
     },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Артемий Лебедев | Nowkie | Сатир",
       "url": "https://www.youtube.com/watch?v=kiusnXwLDtU",
       "published_at_utc": "2026-06-01T09:32:39+00:00",
-      "age_seconds": 1963
+      "age_seconds": 2083
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самая безопасная машина",
       "url": "https://www.youtube.com/shorts/T_ziJrYUF7I",
       "published_at_utc": "2026-06-01T09:10:07+00:00",
-      "age_seconds": 3324
+      "age_seconds": 3443
     },
     {
       "channel": "windy31",
       "title": "тебя СВЯЗАЛИ в БАГАЖНИКЕ и у тебя ОДНА РУКА чтобы выжить",
       "url": "https://www.youtube.com/watch?v=dqvbe4enRhg",
       "published_at_utc": "2026-06-01T09:00:03+00:00",
-      "age_seconds": 3975
+      "age_seconds": 4093
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Магний принимает его",
       "url": "https://www.youtube.com/shorts/1vbP3YZuFEI",
       "published_at_utc": "2026-06-01T09:00:00+00:00",
-      "age_seconds": 3931
+      "age_seconds": 4051
     },
     {
       "channel": "Алежа Обухов",
       "title": "Как родители одобряют невесту",
       "url": "https://www.youtube.com/shorts/5qkewmU5Gb0",
       "published_at_utc": "2026-06-01T08:50:55+00:00",
-      "age_seconds": 4496
+      "age_seconds": 4615
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто ты вообще",
       "url": "https://www.youtube.com/shorts/O_DLs7DcRFI",
       "published_at_utc": "2026-06-01T08:30:09+00:00",
-      "age_seconds": 5721
+      "age_seconds": 5840
     }
   ]
 }
