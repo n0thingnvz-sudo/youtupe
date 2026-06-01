@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-06-01T07:16:40.847041+00:00",
+  "generated_at_utc": "2026-06-01T07:18:43.069675+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Olezha",
-      "title": "МОРТЕНАКС БЛЕЙД ПОДРОБНЫЙ ГАЙД | ЛУЧШИЙ ГЕРОЙ",
-      "url": "https://www.youtube.com/watch?v=znXiEUqzZFs",
-      "published_at_utc": "2026-06-01T07:00:22+00:00",
-      "age_seconds": 953
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Идеальное мясо",
       "url": "https://www.youtube.com/shorts/tULZiJtqT-M",
       "published_at_utc": "2026-06-01T07:00:19+00:00",
-      "age_seconds": 910
+      "age_seconds": 1029
     },
     {
       "channel": "IXBT Games",
       "title": "Виталя таки попробовал окрошку Островской #ixbtgames #ixbt #такостро #островская #нашыигры",
       "url": "https://www.youtube.com/shorts/dCJDe17VPag",
       "published_at_utc": "2026-06-01T07:00:11+00:00",
-      "age_seconds": 954
+      "age_seconds": 1076
     },
     {
       "channel": "kinoluv",
       "title": "Первый Чемпионат Мира по футболу🏆 Смотрите ЧМ на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/_dxym7FuG5c",
       "published_at_utc": "2026-06-01T06:15:54+00:00",
-      "age_seconds": 3573
+      "age_seconds": 3692
     }
   ]
 }
