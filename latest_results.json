@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-06-01T09:18:47.092437+00:00",
+  "generated_at_utc": "2026-06-01T09:20:48.139721+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Самая безопасная машина",
+      "url": "https://www.youtube.com/shorts/T_ziJrYUF7I",
+      "published_at_utc": "2026-06-01T09:10:07+00:00",
+      "age_seconds": 562
+    },
     {
       "channel": "windy31",
       "title": "тебя СВЯЗАЛИ в БАГАЖНИКЕ и у тебя ОДНА РУКА чтобы выжить",
       "url": "https://www.youtube.com/watch?v=dqvbe4enRhg",
       "published_at_utc": "2026-06-01T09:00:03+00:00",
-      "age_seconds": 1090
+      "age_seconds": 1211
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Магний принимает его",
       "url": "https://www.youtube.com/shorts/1vbP3YZuFEI",
       "published_at_utc": "2026-06-01T09:00:00+00:00",
-      "age_seconds": 1050
+      "age_seconds": 1169
     },
     {
       "channel": "Алежа Обухов",
       "title": "Как родители одобряют невесту",
       "url": "https://www.youtube.com/shorts/5qkewmU5Gb0",
       "published_at_utc": "2026-06-01T08:50:55+00:00",
-      "age_seconds": 1612
+      "age_seconds": 1732
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто ты вообще",
       "url": "https://www.youtube.com/shorts/O_DLs7DcRFI",
       "published_at_utc": "2026-06-01T08:30:09+00:00",
-      "age_seconds": 2839
+      "age_seconds": 2959
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 176 - самого лучшего лета! ☀️ #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/chIwoJo1l5g",
       "published_at_utc": "2026-06-01T08:00:34+00:00",
-      "age_seconds": 4640
+      "age_seconds": 4760
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Барбиленд эконом класса",
       "url": "https://www.youtube.com/shorts/bnPQjLK58lU",
       "published_at_utc": "2026-06-01T08:00:33+00:00",
-      "age_seconds": 4617
+      "age_seconds": 4736
     }
   ]
 }
