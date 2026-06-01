@@ -1,34 +1,48 @@
 {
-  "generated_at_utc": "2026-06-01T09:12:47.798188+00:00",
+  "generated_at_utc": "2026-06-01T09:14:45.768735+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Магний принимает его",
+      "url": "https://www.youtube.com/shorts/1vbP3YZuFEI",
+      "published_at_utc": "2026-06-01T09:00:00+00:00",
+      "age_seconds": 809
+    },
+    {
+      "channel": "Алежа Обухов",
+      "title": "Как родители одобряют невесту",
+      "url": "https://www.youtube.com/shorts/5qkewmU5Gb0",
+      "published_at_utc": "2026-06-01T08:50:55+00:00",
+      "age_seconds": 1371
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Кто ты вообще",
       "url": "https://www.youtube.com/shorts/O_DLs7DcRFI",
       "published_at_utc": "2026-06-01T08:30:09+00:00",
-      "age_seconds": 2479
+      "age_seconds": 2598
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 176 - самого лучшего лета! ☀️ #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/chIwoJo1l5g",
       "published_at_utc": "2026-06-01T08:00:34+00:00",
-      "age_seconds": 4280
+      "age_seconds": 4398
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Барбиленд эконом класса",
       "url": "https://www.youtube.com/shorts/bnPQjLK58lU",
       "published_at_utc": "2026-06-01T08:00:33+00:00",
-      "age_seconds": 4257
+      "age_seconds": 4376
     },
     {
       "channel": "Собиратель новостей",
       "title": "Массаж ДЕНЬГАМИ: Что Только Не Придумают, Чтобы РАЗБОГАТЕТЬ",
       "url": "https://www.youtube.com/shorts/Z3MztMsqTEI",
       "published_at_utc": "2026-06-01T07:15:30+00:00",
-      "age_seconds": 6954
+      "age_seconds": 7074
     }
   ]
 }
