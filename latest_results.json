@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-06-01T15:01:00.422465+00:00",
+  "generated_at_utc": "2026-06-01T15:04:58.260629+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Лучшие подружки",
+      "url": "https://www.youtube.com/shorts/Z1e1OwwEfZc",
+      "published_at_utc": "2026-06-01T15:00:13+00:00",
+      "age_seconds": 198
+    },
+    {
+      "channel": "Поззи",
+      "title": "Я Вернулся..",
+      "url": "https://www.youtube.com/watch?v=4sgpCZVFPdo",
+      "published_at_utc": "2026-06-01T15:00:05+00:00",
+      "age_seconds": 288
+    },
     {
       "channel": "Recrent",
       "title": "ЭТО КИБЕРСПОРТ",
       "url": "https://www.youtube.com/watch?v=yJcuVOcETN0",
       "published_at_utc": "2026-06-01T14:59:26+00:00",
-      "age_seconds": 82
+      "age_seconds": 319
     },
     {
       "channel": "Amitesh",
       "title": "Зигзаговые трубы на заводе патронов #амитеш #производство",
       "url": "https://www.youtube.com/shorts/yGl-D6bTrvg",
       "published_at_utc": "2026-06-01T14:35:10+00:00",
-      "age_seconds": 1484
+      "age_seconds": 1725
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Голубоногая Олуша Шикарна 💙",
       "url": "https://www.youtube.com/shorts/zqGpNvpyeF0",
       "published_at_utc": "2026-06-01T14:32:25+00:00",
-      "age_seconds": 1651
+      "age_seconds": 1893
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Муж вернулся с работы",
       "url": "https://www.youtube.com/shorts/DPQbUX6F088",
       "published_at_utc": "2026-06-01T14:00:26+00:00",
-      "age_seconds": 3544
+      "age_seconds": 3785
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/NQ7lQWYeQnc",
       "published_at_utc": "2026-06-01T13:59:41+00:00",
-      "age_seconds": 3617
+      "age_seconds": 3858
     },
     {
       "channel": "МайорКрафт",
       "title": "Почему ты выбрал именно меня #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/fiP-lsXjVgw",
       "published_at_utc": "2026-06-01T13:45:36+00:00",
-      "age_seconds": 4456
+      "age_seconds": 4697
     },
     {
       "channel": "Майни",
       "title": "ВКОНТАКТЕ уже НЕ СПАСТИ ► BVS ( БВС ) | Реакция",
       "url": "https://www.youtube.com/watch?v=zyklBXW0las",
       "published_at_utc": "2026-06-01T13:39:14+00:00",
-      "age_seconds": 4793
+      "age_seconds": 5033
     },
     {
       "channel": "Никита Айсер",
       "title": "Общаемся с вами в тг «бункер никитоса»",
       "url": "https://www.youtube.com/shorts/ht1uiiIPWoU",
       "published_at_utc": "2026-06-01T13:20:32+00:00",
-      "age_seconds": 5938
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Главное сделать уверенное лицо",
-      "url": "https://www.youtube.com/shorts/-GNcoVAxLnY",
-      "published_at_utc": "2026-06-01T13:00:01+00:00",
-      "age_seconds": 7169
+      "age_seconds": 6179
     }
   ]
 }
