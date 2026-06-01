@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-06-01T14:38:54.298932+00:00",
+  "generated_at_utc": "2026-06-01T14:40:56.219795+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Amitesh",
+      "title": "Зигзаговые трубы на заводе патронов #амитеш #производство",
+      "url": "https://www.youtube.com/shorts/yGl-D6bTrvg",
+      "published_at_utc": "2026-06-01T14:35:10+00:00",
+      "age_seconds": 282
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Голубоногая Олуша Шикарна 💙",
+      "url": "https://www.youtube.com/shorts/zqGpNvpyeF0",
+      "published_at_utc": "2026-06-01T14:32:25+00:00",
+      "age_seconds": 450
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Муж вернулся с работы",
       "url": "https://www.youtube.com/shorts/DPQbUX6F088",
       "published_at_utc": "2026-06-01T14:00:26+00:00",
-      "age_seconds": 2226
+      "age_seconds": 2345
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/NQ7lQWYeQnc",
       "published_at_utc": "2026-06-01T13:59:41+00:00",
-      "age_seconds": 2296
+      "age_seconds": 2415
     },
     {
       "channel": "МайорКрафт",
       "title": "Почему ты выбрал именно меня #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/fiP-lsXjVgw",
       "published_at_utc": "2026-06-01T13:45:36+00:00",
-      "age_seconds": 3136
+      "age_seconds": 3254
     },
     {
       "channel": "Майни",
       "title": "ВКОНТАКТЕ уже НЕ СПАСТИ ► BVS ( БВС ) | Реакция",
       "url": "https://www.youtube.com/watch?v=zyklBXW0las",
       "published_at_utc": "2026-06-01T13:39:14+00:00",
-      "age_seconds": 3473
+      "age_seconds": 3594
     },
     {
       "channel": "Никита Айсер",
       "title": "Общаемся с вами в тг «бункер никитоса»",
       "url": "https://www.youtube.com/shorts/ht1uiiIPWoU",
       "published_at_utc": "2026-06-01T13:20:32+00:00",
-      "age_seconds": 4620
+      "age_seconds": 4739
     },
     {
       "channel": "Kuro",
       "title": "КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?",
       "url": "https://www.youtube.com/watch?v=1mEAYubsNAA",
       "published_at_utc": "2026-06-01T13:00:16+00:00",
-      "age_seconds": 5888
+      "age_seconds": 6008
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Главное сделать уверенное лицо",
       "url": "https://www.youtube.com/shorts/-GNcoVAxLnY",
       "published_at_utc": "2026-06-01T13:00:01+00:00",
-      "age_seconds": 5851
+      "age_seconds": 5970
     },
     {
       "channel": "Amitesh",
       "title": "Как стоят дорогу на горе #амитеш #инженерия",
       "url": "https://www.youtube.com/shorts/xa1vtNV6pmY",
       "published_at_utc": "2026-06-01T12:59:21+00:00",
-      "age_seconds": 5912
+      "age_seconds": 6031
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Пробую все вкусы Маутин Дью (и говорю где их купить)",
       "url": "https://www.youtube.com/shorts/DYU1-mAnL3M",
       "published_at_utc": "2026-06-01T12:53:03+00:00",
-      "age_seconds": 6295
+      "age_seconds": 6414
     }
   ]
 }
