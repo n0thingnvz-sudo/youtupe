@@ -1,104 +1,118 @@
 {
-  "generated_at_utc": "2026-06-02T11:12:48.524388+00:00",
+  "generated_at_utc": "2026-06-02T11:14:45.931554+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Antochi",
+      "title": "НАТО в УЖАСЕ от русского терпения",
+      "url": "https://www.youtube.com/watch?v=cpQpw41uaPY",
+      "published_at_utc": "2026-06-02T11:07:05+00:00",
+      "age_seconds": 405
+    },
     {
       "channel": "Amitesh",
       "title": "Поведение холодного кислорода #амитеш #химия",
       "url": "https://www.youtube.com/shorts/k9koFhHCw_k",
       "published_at_utc": "2026-06-02T11:06:20+00:00",
-      "age_seconds": 331
+      "age_seconds": 449
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чемпион по литрболу",
       "url": "https://www.youtube.com/shorts/usmDM1HToM8",
       "published_at_utc": "2026-06-02T11:00:32+00:00",
-      "age_seconds": 658
+      "age_seconds": 776
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сигма на стримере",
       "url": "https://www.youtube.com/shorts/-l2vB00zwOk",
       "published_at_utc": "2026-06-02T11:00:14+00:00",
-      "age_seconds": 677
+      "age_seconds": 795
+    },
+    {
+      "channel": "Obsidian Time",
+      "title": "Самая вайбовая ПОМОЙКА - Voices of the Void 0.9 (БЕЗ ПОДСКАЗОК БЕЗ СПОЙЛЕРОВ)",
+      "url": "https://www.youtube.com/watch?v=UnvKW_RGA8E",
+      "published_at_utc": "2026-06-02T10:58:39+00:00",
+      "age_seconds": 961
     },
     {
       "channel": "МайорКрафт",
       "title": "Джеки Чан съел рыжика #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/MLKLVsfmb8E",
       "published_at_utc": "2026-06-02T10:45:22+00:00",
-      "age_seconds": 1587
+      "age_seconds": 1705
     },
     {
       "channel": "Завод KURS",
       "title": "У КАКОЙ СТРАНЫ БОЛЬШЕ ВСЕХ ВОЕННЫХ БАЗ? 🤔",
       "url": "https://www.youtube.com/shorts/FMEaFZnojOk",
       "published_at_utc": "2026-06-02T10:04:56+00:00",
-      "age_seconds": 4008
+      "age_seconds": 4126
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Моя жизнь мечты",
       "url": "https://www.youtube.com/shorts/1JFdw3R3ppY",
       "published_at_utc": "2026-06-02T10:00:20+00:00",
-      "age_seconds": 4270
+      "age_seconds": 4388
     },
     {
       "channel": "Собиратель новостей",
       "title": "Депутаты Требуют ЗАКРЫТЬ Соловьев LIVE",
       "url": "https://www.youtube.com/shorts/nfxUjPiP-uM",
       "published_at_utc": "2026-06-02T10:00:13+00:00",
-      "age_seconds": 4271
+      "age_seconds": 4391
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Угнать за 60 минут",
       "url": "https://www.youtube.com/shorts/wTvuoNaw9CA",
       "published_at_utc": "2026-06-02T10:00:10+00:00",
-      "age_seconds": 4281
+      "age_seconds": 4399
     },
     {
       "channel": "Смешновости",
       "title": "Обманул пёсика 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/EZSTkjOzcUU",
       "published_at_utc": "2026-06-02T10:00:06+00:00",
-      "age_seconds": 4309
+      "age_seconds": 4427
     },
     {
       "channel": "Послезавтра",
       "title": "Каким был мир в 1996-м? #prodigy #макарена #покемон",
       "url": "https://www.youtube.com/shorts/In-MxGDq0C4",
       "published_at_utc": "2026-06-02T09:56:47+00:00",
-      "age_seconds": 4457
+      "age_seconds": 4577
     },
     {
       "channel": "Amitesh",
       "title": "Неньютоновский бетон #амитеш #технологии #химия",
       "url": "https://www.youtube.com/shorts/4KzkXwo5klA",
       "published_at_utc": "2026-06-02T09:51:28+00:00",
-      "age_seconds": 4823
+      "age_seconds": 4941
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 способов дать кошке лекарство 💊",
       "url": "https://www.youtube.com/shorts/jlNHk6WkZCM",
       "published_at_utc": "2026-06-02T09:50:38+00:00",
-      "age_seconds": 4875
+      "age_seconds": 4993
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Музыкальные леденцы за 150р.",
       "url": "https://www.youtube.com/shorts/3Ng99chP-2M",
       "published_at_utc": "2026-06-02T09:36:34+00:00",
-      "age_seconds": 5722
+      "age_seconds": 5840
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лего шлемы",
       "url": "https://www.youtube.com/shorts/hEhQZy1Zua8",
       "published_at_utc": "2026-06-02T09:30:31+00:00",
-      "age_seconds": 6059
+      "age_seconds": 6177
     }
   ]
 }
