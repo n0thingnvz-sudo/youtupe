@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-06-02T22:34:33.740101+00:00",
+  "generated_at_utc": "2026-06-02T22:38:34.305042+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "PoleznyiBes",
+      "title": "State of Play 2026 Июнь",
+      "url": "https://www.youtube.com/watch?v=cmb_b3unTx4",
+      "published_at_utc": "2026-06-02T22:31:19+00:00",
+      "age_seconds": 423
+    },
     {
       "channel": "RusGameTactics",
       "title": "Marvel's Wolverine (Росомаха) | Трейлер (на русском)",
       "url": "https://www.youtube.com/watch?v=KHur2j1u9K0",
       "published_at_utc": "2026-06-02T22:11:53+00:00",
-      "age_seconds": 1354
-    },
-    {
-      "channel": "perox",
-      "title": "Кайф🗿 тгк: Пекарня Пирога #edit #abcdefghijklmnopqrstuvwxyz #отжимания #perox #перокс",
-      "url": "https://www.youtube.com/shorts/v2f2iX-wWWQ",
-      "published_at_utc": "2026-06-02T20:34:21+00:00",
-      "age_seconds": 7128
+      "age_seconds": 1595
     }
   ]
 }
