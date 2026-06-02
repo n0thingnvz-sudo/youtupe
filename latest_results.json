@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-02T12:08:57.565416+00:00",
+  "generated_at_utc": "2026-06-02T12:10:51.677790+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Воровка перчаток",
       "url": "https://www.youtube.com/shorts/9QYueR70dvM",
       "published_at_utc": "2026-06-02T12:00:38+00:00",
-      "age_seconds": 412
+      "age_seconds": 532
+    },
+    {
+      "channel": "Смешновости",
+      "title": "Что если бы, я была фурри? 😂 #истории #история #новости #новость #shorts",
+      "url": "https://www.youtube.com/shorts/lUd4Kj300dM",
+      "published_at_utc": "2026-06-02T12:00:00+00:00",
+      "age_seconds": 596
     },
     {
       "channel": "Antochi",
       "title": "НАТО в УЖАСЕ от русского терпения",
       "url": "https://www.youtube.com/watch?v=cpQpw41uaPY",
       "published_at_utc": "2026-06-02T11:07:05+00:00",
-      "age_seconds": 3646
+      "age_seconds": 3768
     },
     {
       "channel": "Amitesh",
       "title": "Поведение холодного кислорода #амитеш #химия",
       "url": "https://www.youtube.com/shorts/k9koFhHCw_k",
       "published_at_utc": "2026-06-02T11:06:20+00:00",
-      "age_seconds": 3690
+      "age_seconds": 3812
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чемпион по литрболу",
       "url": "https://www.youtube.com/shorts/usmDM1HToM8",
       "published_at_utc": "2026-06-02T11:00:32+00:00",
-      "age_seconds": 4018
+      "age_seconds": 4138
     },
     {
       "channel": "This is Хорошо",
       "title": "Жильё для стрижей в ШОТЛАНДИИ #shorts #шортс",
       "url": "https://www.youtube.com/shorts/_6R2VIdbKCs",
       "published_at_utc": "2026-06-02T11:00:15+00:00",
-      "age_seconds": 4056
+      "age_seconds": 4178
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сигма на стримере",
       "url": "https://www.youtube.com/shorts/-l2vB00zwOk",
       "published_at_utc": "2026-06-02T11:00:14+00:00",
-      "age_seconds": 4037
+      "age_seconds": 4157
     },
     {
       "channel": "Obsidian Time",
       "title": "Самая вайбовая ПОМОЙКА - Voices of the Void 0.9 (БЕЗ ПОДСКАЗОК БЕЗ СПОЙЛЕРОВ)",
       "url": "https://www.youtube.com/watch?v=UnvKW_RGA8E",
       "published_at_utc": "2026-06-02T10:58:39+00:00",
-      "age_seconds": 4212
+      "age_seconds": 4326
     },
     {
       "channel": "МайорКрафт",
       "title": "Джеки Чан съел рыжика #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/MLKLVsfmb8E",
       "published_at_utc": "2026-06-02T10:45:22+00:00",
-      "age_seconds": 4947
+      "age_seconds": 5068
     }
   ]
 }
