@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-02T19:55:02.573010+00:00",
+  "generated_at_utc": "2026-06-02T19:59:00.250798+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Никита Нестеров",
+      "title": "Отвечаю на слухи о Славе",
+      "url": "https://www.youtube.com/shorts/xyX47JdcYEY",
+      "published_at_utc": "2026-06-02T19:51:08+00:00",
+      "age_seconds": 415
+    },
     {
       "channel": "PoleznyiBes",
       "title": "State of Play 2026 Июнь",
       "url": "https://www.youtube.com/watch?v=cmb_b3unTx4",
       "published_at_utc": "2026-06-02T19:09:13+00:00",
-      "age_seconds": 2732
+      "age_seconds": 2968
     },
     {
       "channel": "Сергей Милушкин",
-      "title": "Они так общаются это Конституция США",
+      "title": "Попрошайки в Штатах защищены Конституцией",
       "url": "https://www.youtube.com/shorts/Yh31Zg2sR6g",
       "published_at_utc": "2026-06-02T19:04:49+00:00",
-      "age_seconds": 2929
+      "age_seconds": 3163
     },
     {
       "channel": "Wylsacom",
       "title": "Играем в Forza Horizon 6 на 500“ экране в кокпите Simseat за 500 000р.",
       "url": "https://www.youtube.com/watch?v=lrDaL_3iml0",
       "published_at_utc": "2026-06-02T18:29:34+00:00",
-      "age_seconds": 5031
+      "age_seconds": 5265
     }
   ]
 }
