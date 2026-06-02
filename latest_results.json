@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-06-02T09:24:44.484900+00:00",
+  "generated_at_utc": "2026-06-02T09:26:44.600476+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Унылый",
+      "title": "Пустоши | World of Warcraft: Burning Crusade Classic ч.2",
+      "url": "https://www.youtube.com/watch?v=9geRc9u8eFw",
+      "published_at_utc": "2026-06-02T09:09:04+00:00",
+      "age_seconds": 1043
+    },
     {
       "channel": "Короче, новости",
       "title": "Айфон-Раскладушка: Утечка с Китайского Завод",
       "url": "https://www.youtube.com/shorts/4KWxnPjnbjI",
       "published_at_utc": "2026-06-02T09:09:02+00:00",
-      "age_seconds": 862
+      "age_seconds": 982
     },
     {
       "channel": "Короче, новости",
       "title": "Вор-Неудачник Потерял Штаны и Пистолет",
       "url": "https://www.youtube.com/shorts/nOd-ItMUs2s",
       "published_at_utc": "2026-06-02T09:01:58+00:00",
-      "age_seconds": 1286
+      "age_seconds": 1406
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Врач в бесплатной поликлинике",
       "url": "https://www.youtube.com/shorts/QQ9gVbaPEKQ",
       "published_at_utc": "2026-06-02T09:00:22+00:00",
-      "age_seconds": 1387
+      "age_seconds": 1507
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Снуп недоволен",
       "url": "https://www.youtube.com/shorts/rGH1PZOj-BI",
       "published_at_utc": "2026-06-02T09:00:16+00:00",
-      "age_seconds": 1392
+      "age_seconds": 1512
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ворон Подкармливает Пса 🤗",
       "url": "https://www.youtube.com/shorts/J2_jecoS-jw",
       "published_at_utc": "2026-06-02T08:59:57+00:00",
-      "age_seconds": 1433
+      "age_seconds": 1554
     },
     {
       "channel": "Короче, новости",
       "title": "Золотую БМВ Завалили Навозом",
       "url": "https://www.youtube.com/shorts/f_X5_YtHCcY",
       "published_at_utc": "2026-06-02T08:52:19+00:00",
-      "age_seconds": 1865
+      "age_seconds": 1985
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не шутите в самолете",
       "url": "https://www.youtube.com/shorts/5nm_KGVcyhc",
       "published_at_utc": "2026-06-02T08:30:08+00:00",
-      "age_seconds": 3199
+      "age_seconds": 3319
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 177 - для летнего настроения! 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/UDm5v4zPlp0",
       "published_at_utc": "2026-06-02T08:00:34+00:00",
-      "age_seconds": 4998
+      "age_seconds": 5118
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Юки единственный реалист",
       "url": "https://www.youtube.com/shorts/NGLZORk2fUA",
       "published_at_utc": "2026-06-02T08:00:31+00:00",
-      "age_seconds": 4977
+      "age_seconds": 5097
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱ПРОКАЧАЛ ПОДПИСЧИКА И ПОДАРИЛ КЕТУПАТА в ПИНАЙ ЛАКИ БЛОК ИЛИ УМРИ ОТ ЦУНАМИ в Роблокс!",
       "url": "https://www.youtube.com/watch?v=L9okdL3UClU",
       "published_at_utc": "2026-06-02T08:00:25+00:00",
-      "age_seconds": 5024
+      "age_seconds": 5144
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кота отменяют",
       "url": "https://www.youtube.com/shorts/iQ0YHf07bLs",
       "published_at_utc": "2026-06-02T08:00:17+00:00",
-      "age_seconds": 4992
+      "age_seconds": 5112
     }
   ]
 }
