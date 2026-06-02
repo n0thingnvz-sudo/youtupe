@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-06-02T13:19:02.864036+00:00",
+  "generated_at_utc": "2026-06-02T13:23:02.133595+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "А что им не понравилось?",
+      "url": "https://www.youtube.com/shorts/jVvzs37k3iE",
+      "published_at_utc": "2026-06-02T13:00:38+00:00",
+      "age_seconds": 1253
+    },
+    {
+      "channel": "Самый сахар",
+      "title": "3 дня ел Только Острую ЕДУ (72 часа ада)",
+      "url": "https://www.youtube.com/watch?v=Akul6A9AIvY",
+      "published_at_utc": "2026-06-02T13:00:13+00:00",
+      "age_seconds": 1261
+    },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "От 1 до 8 #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/fM-uPNve1Cs",
       "published_at_utc": "2026-06-02T12:56:37+00:00",
-      "age_seconds": 1277
+      "age_seconds": 1524
     },
     {
       "channel": "i11ushenka",
       "title": "Летающие машины не вышли, но у нас есть это:",
       "url": "https://www.youtube.com/shorts/vKamF7eDbF0",
       "published_at_utc": "2026-06-02T12:53:22+00:00",
-      "age_seconds": 1428
+      "age_seconds": 1668
     },
     {
       "channel": "leafxup",
       "title": "КОРОЛИ ДОХНУТ КАК МУХИ...",
       "url": "https://www.youtube.com/watch?v=OM5EzNTk8O0",
       "published_at_utc": "2026-06-02T12:41:00+00:00",
-      "age_seconds": 2236
+      "age_seconds": 2482
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как познакомиться с пожарным (не делайте так)",
       "url": "https://www.youtube.com/shorts/3pBxAiKeL-Y",
       "published_at_utc": "2026-06-02T12:30:24+00:00",
-      "age_seconds": 2824
+      "age_seconds": 3066
     },
     {
       "channel": "Amitesh",
       "title": "Спонтанное световое шоу из Шариков #амитеш #химия",
       "url": "https://www.youtube.com/shorts/VkLyjxyW0CY",
       "published_at_utc": "2026-06-02T12:25:36+00:00",
-      "age_seconds": 3135
+      "age_seconds": 3382
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "ЖЁСТКАЯ ПОДГОТОВКА ► 007 First Light #2",
       "url": "https://www.youtube.com/watch?v=gws8IHmEXLc",
       "published_at_utc": "2026-06-02T12:00:39+00:00",
-      "age_seconds": 4663
+      "age_seconds": 4909
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Воровка перчаток",
       "url": "https://www.youtube.com/shorts/9QYueR70dvM",
       "published_at_utc": "2026-06-02T12:00:38+00:00",
-      "age_seconds": 4612
+      "age_seconds": 4853
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "Lp. Мастерская [47] • #66 ЛЕСНОЙ ЖИТЕЛЬ [Главная Прокачка] • Майнкрафт",
       "url": "https://www.youtube.com/watch?v=zZouUd6FJ_M",
       "published_at_utc": "2026-06-02T12:00:30+00:00",
-      "age_seconds": 4668
+      "age_seconds": 4914
     },
     {
       "channel": "Смешновости",
       "title": "Что если бы, я была фурри? 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/lUd4Kj300dM",
       "published_at_utc": "2026-06-02T12:00:00+00:00",
-      "age_seconds": 4675
+      "age_seconds": 4922
     }
   ]
 }
