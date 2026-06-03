@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-06-03T09:04:50.354423+00:00",
+  "generated_at_utc": "2026-06-03T09:06:48.645867+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "С ним не спорим",
+      "url": "https://www.youtube.com/shorts/s9SwFK_aYYA",
+      "published_at_utc": "2026-06-03T09:00:21+00:00",
+      "age_seconds": 309
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Пёс Мирон Залезает на Кровать 😂",
       "url": "https://www.youtube.com/shorts/vSSQ01HEyks",
       "published_at_utc": "2026-06-03T08:34:54+00:00",
-      "age_seconds": 1740
+      "age_seconds": 1859
     },
     {
       "channel": "Новостной Гусь",
       "title": "3 июня 2026 г.",
       "url": "https://www.youtube.com/shorts/64eDADnQ8uc",
       "published_at_utc": "2026-06-03T08:30:29+00:00",
-      "age_seconds": 1979
+      "age_seconds": 2100
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик на соревнованиях 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/rlcNcmbcBR0",
       "published_at_utc": "2026-06-03T08:00:37+00:00",
-      "age_seconds": 3798
+      "age_seconds": 3918
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Он очень рад своему забегу",
       "url": "https://www.youtube.com/shorts/nkKYJO9xeE0",
       "published_at_utc": "2026-06-03T08:00:08+00:00",
-      "age_seconds": 3801
+      "age_seconds": 3922
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱Это Самая Приятная Игра в Роблокс!",
       "url": "https://www.youtube.com/watch?v=nxyvToYCCRQ",
       "published_at_utc": "2026-06-03T08:00:07+00:00",
-      "age_seconds": 3847
+      "age_seconds": 3965
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Вайбовый мэр",
       "url": "https://www.youtube.com/shorts/xia9M7G7bkM",
       "published_at_utc": "2026-06-03T08:00:06+00:00",
-      "age_seconds": 3804
+      "age_seconds": 3924
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы ОТКРЫЛИ Салон Ремонта [Симулятор Починки] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=yRysBcrfffE",
       "published_at_utc": "2026-06-03T08:00:05+00:00",
-      "age_seconds": 3850
+      "age_seconds": 3968
     },
     {
       "channel": "Погнали!",
       "title": "Какая ЗП у школьника в США #погнали",
       "url": "https://www.youtube.com/shorts/EBRSWLBfUQU",
       "published_at_utc": "2026-06-03T08:00:03+00:00",
-      "age_seconds": 3840
+      "age_seconds": 3959
     },
     {
       "channel": "CS2TV",
       "title": "БУМЫЧ - ЛУЧШИЙ ИГРОК МАЖОРА! ПОЧЕМУ SDY НЕ ПОШЕЛ В ТИР-1 КОМАНДУ? НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=aWecM7p4b-k",
       "published_at_utc": "2026-06-03T07:59:29+00:00",
-      "age_seconds": 3898
+      "age_seconds": 4015
     },
     {
       "channel": "Собиратель новостей",
       "title": "Китаец ВОШЕЛ в Бассейн, Думая, что это ЗЕМЛЯ",
       "url": "https://www.youtube.com/shorts/z5hdJS6_cTU",
       "published_at_utc": "2026-06-03T07:15:07+00:00",
-      "age_seconds": 6497
+      "age_seconds": 6618
     }
   ]
 }
