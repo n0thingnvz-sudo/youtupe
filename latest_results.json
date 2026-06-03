@@ -1,69 +1,90 @@
 {
-  "generated_at_utc": "2026-06-03T16:11:10.870772+00:00",
+  "generated_at_utc": "2026-06-03T16:15:08.052584+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "dikiy_vadik",
+      "title": "Тот самый Холостяк",
+      "url": "https://www.youtube.com/shorts/NrD-YZcv0xI",
+      "published_at_utc": "2026-06-03T16:10:35+00:00",
+      "age_seconds": 199
+    },
+    {
+      "channel": "Team Spirit CS",
+      "title": "04.06 ⏳ #teamspirit #cs2",
+      "url": "https://www.youtube.com/shorts/jbS7p-8fg-c",
+      "published_at_utc": "2026-06-03T16:05:19+00:00",
+      "age_seconds": 561
+    },
+    {
+      "channel": "i11ushenka",
+      "title": "Как полиция разозлила тысячи британцев 🇬🇧",
+      "url": "https://www.youtube.com/shorts/CCGHP6PlVPM",
+      "published_at_utc": "2026-06-03T15:59:25+00:00",
+      "age_seconds": 826
+    },
     {
       "channel": "PoleznyiBes",
       "title": "Агент 007 #4",
       "url": "https://www.youtube.com/watch?v=EfYffc50G2U",
       "published_at_utc": "2026-06-03T15:55:58+00:00",
-      "age_seconds": 894
+      "age_seconds": 1133
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 376",
       "url": "https://www.youtube.com/shorts/QJF-1LP8zDE",
       "published_at_utc": "2026-06-03T15:49:14+00:00",
-      "age_seconds": 1206
+      "age_seconds": 1447
     },
     {
       "channel": "МайорКрафт",
       "title": "Когда ты человек паук #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/axLH7uzH-Ew",
       "published_at_utc": "2026-06-03T15:45:15+00:00",
-      "age_seconds": 1487
+      "age_seconds": 1720
     },
     {
       "channel": "StopGame",
       "title": "Обзор LEGO Batman: Legacy of the Dark Knight",
       "url": "https://www.youtube.com/watch?v=ZrOt4igWZFI",
       "published_at_utc": "2026-06-03T15:41:38+00:00",
-      "age_seconds": 1737
+      "age_seconds": 1973
     },
     {
       "channel": "Собиратель новостей",
       "title": "ПАШИНЯН не Смог Запустить Голубей Мира",
       "url": "https://www.youtube.com/shorts/hvAbwlOds4g",
       "published_at_utc": "2026-06-03T15:30:30+00:00",
-      "age_seconds": 2338
+      "age_seconds": 2578
     },
     {
       "channel": "Ассистент грумера",
       "title": "ЦУНАМИ В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/NB-i7O9Cox8",
       "published_at_utc": "2026-06-03T15:18:41+00:00",
-      "age_seconds": 3070
+      "age_seconds": 3304
     },
     {
       "channel": "Майни",
       "title": "Я 7 ДНЕЙ ПИЛ ТОЛЬКО АЛКОГОЛЬ ► Шайнов | Реакция",
       "url": "https://www.youtube.com/watch?v=dNcvnE9jCIg",
       "published_at_utc": "2026-06-03T15:02:56+00:00",
-      "age_seconds": 3972
+      "age_seconds": 4212
     },
     {
       "channel": "gamewadafaq",
       "title": "NPC УНИЖАЮТ игроков в GTA 5 | WDF 285",
       "url": "https://www.youtube.com/watch?v=h-MAIjvQNyM",
       "published_at_utc": "2026-06-03T14:59:52+00:00",
-      "age_seconds": 4265
+      "age_seconds": 4503
     },
     {
       "channel": "Recrent",
       "title": "Я ПОВЁЛСЯ НА РЕКЛАМУ ТАРКОВА",
       "url": "https://www.youtube.com/watch?v=J9pBfp6aKuY",
       "published_at_utc": "2026-06-03T14:59:34+00:00",
-      "age_seconds": 4283
+      "age_seconds": 4520
     }
   ]
 }
