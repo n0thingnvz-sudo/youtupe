@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-03T00:02:34.681235+00:00",
+  "generated_at_utc": "2026-06-03T00:04:34.541777+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "[СТРИМ] SONY State of Play [00:00 по МСК] + Fatekeeper",
       "url": "https://www.youtube.com/watch?v=LldK5ZurFq8",
       "published_at_utc": "2026-06-02T23:12:35+00:00",
-      "age_seconds": 2966
+      "age_seconds": 3086
     },
     {
       "channel": "PoleznyiBes",
       "title": "State of Play 2026 Июнь",
       "url": "https://www.youtube.com/watch?v=cmb_b3unTx4",
       "published_at_utc": "2026-06-02T22:31:19+00:00",
-      "age_seconds": 5463
+      "age_seconds": 5582
     },
     {
       "channel": "RusGameTactics",
       "title": "Marvel's Wolverine (Росомаха) | ТРЕЙЛЕР (на русском)",
       "url": "https://www.youtube.com/watch?v=KHur2j1u9K0",
       "published_at_utc": "2026-06-02T22:11:53+00:00",
-      "age_seconds": 6635
+      "age_seconds": 6755
     }
   ]
 }
