@@ -1,34 +1,55 @@
 {
-  "generated_at_utc": "2026-06-03T15:43:08.702022+00:00",
+  "generated_at_utc": "2026-06-03T15:47:16.541421+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "МайорКрафт",
+      "title": "Когда ты человек паук #фильм #сериал #моменты",
+      "url": "https://www.youtube.com/shorts/axLH7uzH-Ew",
+      "published_at_utc": "2026-06-03T15:45:15+00:00",
+      "age_seconds": 43
+    },
+    {
+      "channel": "StopGame",
+      "title": "Обзор LEGO Batman: Legacy of the Dark Knight",
+      "url": "https://www.youtube.com/watch?v=ZrOt4igWZFI",
+      "published_at_utc": "2026-06-03T15:41:38+00:00",
+      "age_seconds": 293
+    },
+    {
+      "channel": "Собиратель новостей",
+      "title": "ПАШИНЯН не Смог Запустить Голубей Мира",
+      "url": "https://www.youtube.com/shorts/hvAbwlOds4g",
+      "published_at_utc": "2026-06-03T15:30:30+00:00",
+      "age_seconds": 900
+    },
     {
       "channel": "Ассистент грумера",
       "title": "ЦУНАМИ В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/NB-i7O9Cox8",
       "published_at_utc": "2026-06-03T15:18:41+00:00",
-      "age_seconds": 1384
+      "age_seconds": 1627
     },
     {
       "channel": "Майни",
       "title": "Я 7 ДНЕЙ ПИЛ ТОЛЬКО АЛКОГОЛЬ ► Шайнов | Реакция",
       "url": "https://www.youtube.com/watch?v=dNcvnE9jCIg",
       "published_at_utc": "2026-06-03T15:02:56+00:00",
-      "age_seconds": 2292
+      "age_seconds": 2532
     },
     {
       "channel": "gamewadafaq",
       "title": "NPC УНИЖАЮТ игроков в GTA 5 | WDF 285",
       "url": "https://www.youtube.com/watch?v=h-MAIjvQNyM",
       "published_at_utc": "2026-06-03T14:59:52+00:00",
-      "age_seconds": 2584
+      "age_seconds": 2832
     },
     {
       "channel": "Recrent",
       "title": "Я ПОВЁЛСЯ НА РЕКЛАМУ ТАРКОВА",
       "url": "https://www.youtube.com/watch?v=J9pBfp6aKuY",
       "published_at_utc": "2026-06-03T14:59:34+00:00",
-      "age_seconds": 2602
+      "age_seconds": 2849
     }
   ]
 }
