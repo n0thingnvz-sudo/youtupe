@@ -1,90 +1,90 @@
 {
-  "generated_at_utc": "2026-06-03T09:18:46.719755+00:00",
+  "generated_at_utc": "2026-06-03T09:20:51.798323+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Тимур Сидельников",
-      "title": "Что не так со Skittles?",
-      "url": "https://www.youtube.com/watch?v=gxkeftVeioE",
-      "published_at_utc": "2026-06-03T09:17:40+00:00",
-      "age_seconds": 15
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "С ним не спорим",
       "url": "https://www.youtube.com/shorts/s9SwFK_aYYA",
       "published_at_utc": "2026-06-03T09:00:21+00:00",
-      "age_seconds": 1030
+      "age_seconds": 1149
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Где же Волли?",
+      "url": "https://www.youtube.com/shorts/KPvxSjtU4VQ",
+      "published_at_utc": "2026-06-03T09:00:13+00:00",
+      "age_seconds": 1156
     },
     {
       "channel": "Amitesh",
       "title": "Зачем металлический полумесяц в шестернях? # #амитеш #инженерия",
       "url": "https://www.youtube.com/shorts/KXu4Qx-IWIQ",
       "published_at_utc": "2026-06-03T08:56:47+00:00",
-      "age_seconds": 1264
+      "age_seconds": 1384
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Пёс Мирон Залезает на Кровать 😂",
       "url": "https://www.youtube.com/shorts/vSSQ01HEyks",
       "published_at_utc": "2026-06-03T08:34:54+00:00",
-      "age_seconds": 2579
+      "age_seconds": 2700
     },
     {
       "channel": "Новостной Гусь",
       "title": "3 июня 2026 г.",
       "url": "https://www.youtube.com/shorts/64eDADnQ8uc",
       "published_at_utc": "2026-06-03T08:30:29+00:00",
-      "age_seconds": 2819
+      "age_seconds": 2939
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик на соревнованиях 🥰 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/rlcNcmbcBR0",
       "published_at_utc": "2026-06-03T08:00:37+00:00",
-      "age_seconds": 4638
+      "age_seconds": 4758
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Он очень рад своему забегу",
       "url": "https://www.youtube.com/shorts/nkKYJO9xeE0",
       "published_at_utc": "2026-06-03T08:00:08+00:00",
-      "age_seconds": 4642
+      "age_seconds": 4761
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱Это Самая Приятная Игра в Роблокс!",
       "url": "https://www.youtube.com/watch?v=nxyvToYCCRQ",
       "published_at_utc": "2026-06-03T08:00:07+00:00",
-      "age_seconds": 4684
+      "age_seconds": 4807
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Вайбовый мэр",
       "url": "https://www.youtube.com/shorts/xia9M7G7bkM",
       "published_at_utc": "2026-06-03T08:00:06+00:00",
-      "age_seconds": 4645
+      "age_seconds": 4764
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы ОТКРЫЛИ Салон Ремонта [Симулятор Починки] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=yRysBcrfffE",
       "published_at_utc": "2026-06-03T08:00:05+00:00",
-      "age_seconds": 4688
+      "age_seconds": 4811
     },
     {
       "channel": "Погнали!",
       "title": "Какая ЗП у школьника в США #погнали",
       "url": "https://www.youtube.com/shorts/EBRSWLBfUQU",
       "published_at_utc": "2026-06-03T08:00:03+00:00",
-      "age_seconds": 4679
+      "age_seconds": 4800
     },
     {
       "channel": "CS2TV",
       "title": "БУМЫЧ - ЛУЧШИЙ ИГРОК МАЖОРА! ПОЧЕМУ SDY НЕ ПОШЕЛ В ТИР-1 КОМАНДУ? НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=aWecM7p4b-k",
       "published_at_utc": "2026-06-03T07:59:29+00:00",
-      "age_seconds": 4735
+      "age_seconds": 4858
     }
   ]
 }
