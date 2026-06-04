@@ -1,76 +1,90 @@
 {
-  "generated_at_utc": "2026-06-04T08:14:51.993775+00:00",
+  "generated_at_utc": "2026-06-04T08:16:57.550351+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Космос Просто",
+      "title": "Как ЭТО показало, где мы в галактике? / Планеты внутри Другие? / Астрообзор #208",
+      "url": "https://www.youtube.com/watch?v=IaCb0c7nfd8",
+      "published_at_utc": "2026-06-04T08:00:37+00:00",
+      "age_seconds": 872
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Естественный отбор",
       "url": "https://www.youtube.com/shorts/yco_q2zjJWQ",
       "published_at_utc": "2026-06-04T08:00:31+00:00",
-      "age_seconds": 778
+      "age_seconds": 899
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱От 0$ до 1T$, Но НА ПРОДАЖЕ ЛИМОНОВ в Роблокс! Фиксай",
       "url": "https://www.youtube.com/watch?v=Gt0nGlgOdWo",
       "published_at_utc": "2026-06-04T08:00:19+00:00",
-      "age_seconds": 831
+      "age_seconds": 954
+    },
+    {
+      "channel": "Смешновости",
+      "title": "Котики-акробаты 😂 #истории #история #новости #новость #shorts",
+      "url": "https://www.youtube.com/shorts/JJo6c4zLC2U",
+      "published_at_utc": "2026-06-04T08:00:03+00:00",
+      "age_seconds": 952
     },
     {
       "channel": "CS2TV",
       "title": "БУМЫЧ ГОРИТ НА СНАКСА! РОССИЙСКИЙ СНАЙПЕР УНИЧТОЖИЛ LIQUID! НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=5xKsyZHblWw",
       "published_at_utc": "2026-06-04T07:51:24+00:00",
-      "age_seconds": 1380
+      "age_seconds": 1502
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 смешных видео с черепахами 🐢",
       "url": "https://www.youtube.com/shorts/qlbSuIW5YvY",
       "published_at_utc": "2026-06-04T07:37:42+00:00",
-      "age_seconds": 2170
+      "age_seconds": 2291
     },
     {
       "channel": "Короче, новости",
       "title": "Собчак Проехалась По Шаману и Мизулиной",
       "url": "https://www.youtube.com/shorts/SSO2YwHAdZc",
       "published_at_utc": "2026-06-04T07:27:22+00:00",
-      "age_seconds": 2762
+      "age_seconds": 2884
     },
     {
       "channel": "Собиратель новостей",
       "title": "Скоро: ПЛАВУЧИЙ Город Без Налогов и на Атомном Ректоре",
       "url": "https://www.youtube.com/shorts/HaSaOAuk9rc",
       "published_at_utc": "2026-06-04T07:15:11+00:00",
-      "age_seconds": 3492
+      "age_seconds": 3614
     },
     {
       "channel": "Короче, новости",
       "title": "Реакция Футболисток КНДР на Ким Чен Ына",
       "url": "https://www.youtube.com/shorts/XXZiLQm9-9Q",
       "published_at_utc": "2026-06-04T07:09:01+00:00",
-      "age_seconds": 3863
+      "age_seconds": 3985
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Доказал что не терпила",
       "url": "https://www.youtube.com/shorts/E32519ap6s4",
       "published_at_utc": "2026-06-04T07:00:05+00:00",
-      "age_seconds": 4404
+      "age_seconds": 4525
     },
     {
       "channel": "IXBT Games",
       "title": "Osiris Reborn исправят после критики #ixbt #ixbtgames #игры #theexpanse #пространство",
       "url": "https://www.youtube.com/shorts/QEFAqhHNzyQ",
       "published_at_utc": "2026-06-04T07:00:02+00:00",
-      "age_seconds": 4447
+      "age_seconds": 4569
     },
     {
       "channel": "Короче, новости",
       "title": "MAX ВСЁ: Apple Удалил Мессенджер с Iphone",
       "url": "https://www.youtube.com/shorts/e4RzoXnVmQk",
       "published_at_utc": "2026-06-04T06:54:21+00:00",
-      "age_seconds": 4743
+      "age_seconds": 4865
     }
   ]
 }
