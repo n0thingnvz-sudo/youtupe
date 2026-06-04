@@ -1,62 +1,76 @@
 {
-  "generated_at_utc": "2026-06-04T08:06:54.593555+00:00",
+  "generated_at_utc": "2026-06-04T08:08:46.997483+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Космос Просто",
+      "title": "Как ЭТО показало, где мы в галактике? / Планеты внутри Другие? / Астрообзор #208",
+      "url": "https://www.youtube.com/watch?v=IaCb0c7nfd8",
+      "published_at_utc": "2026-06-04T08:00:37+00:00",
+      "age_seconds": 392
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Естественный отбор",
+      "url": "https://www.youtube.com/shorts/yco_q2zjJWQ",
+      "published_at_utc": "2026-06-04T08:00:31+00:00",
+      "age_seconds": 419
+    },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱От 0$ до 1T$, Но НА ПРОДАЖЕ ЛИМОНОВ в Роблокс! Фиксай",
       "url": "https://www.youtube.com/watch?v=Gt0nGlgOdWo",
       "published_at_utc": "2026-06-04T08:00:19+00:00",
-      "age_seconds": 359
+      "age_seconds": 472
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 смешных видео с черепахами 🐢",
       "url": "https://www.youtube.com/shorts/qlbSuIW5YvY",
       "published_at_utc": "2026-06-04T07:37:42+00:00",
-      "age_seconds": 1694
+      "age_seconds": 1810
     },
     {
       "channel": "Короче, новости",
       "title": "Собчак Проехалась По Шаману и Мизулиной",
       "url": "https://www.youtube.com/shorts/SSO2YwHAdZc",
       "published_at_utc": "2026-06-04T07:27:22+00:00",
-      "age_seconds": 2286
+      "age_seconds": 2403
     },
     {
       "channel": "Собиратель новостей",
       "title": "Скоро: ПЛАВУЧИЙ Город Без Налогов и на Атомном Ректоре",
       "url": "https://www.youtube.com/shorts/HaSaOAuk9rc",
       "published_at_utc": "2026-06-04T07:15:11+00:00",
-      "age_seconds": 3016
+      "age_seconds": 3134
     },
     {
       "channel": "Короче, новости",
       "title": "Реакция Футболисток КНДР на Ким Чен Ына",
       "url": "https://www.youtube.com/shorts/XXZiLQm9-9Q",
       "published_at_utc": "2026-06-04T07:09:01+00:00",
-      "age_seconds": 3387
+      "age_seconds": 3504
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Доказал что не терпила",
       "url": "https://www.youtube.com/shorts/E32519ap6s4",
       "published_at_utc": "2026-06-04T07:00:05+00:00",
-      "age_seconds": 3927
+      "age_seconds": 4045
     },
     {
       "channel": "IXBT Games",
       "title": "Osiris Reborn исправят после критики #ixbt #ixbtgames #игры #theexpanse #пространство",
       "url": "https://www.youtube.com/shorts/QEFAqhHNzyQ",
       "published_at_utc": "2026-06-04T07:00:02+00:00",
-      "age_seconds": 3974
+      "age_seconds": 4088
     },
     {
       "channel": "Короче, новости",
       "title": "MAX ВСЁ: Apple Удалил Мессенджер с Iphone",
       "url": "https://www.youtube.com/shorts/e4RzoXnVmQk",
       "published_at_utc": "2026-06-04T06:54:21+00:00",
-      "age_seconds": 4267
+      "age_seconds": 4384
     }
   ]
 }
