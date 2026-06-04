@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-04T07:18:46.465068+00:00",
+  "generated_at_utc": "2026-06-04T07:20:48.320954+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,35 @@
       "title": "Скоро: ПЛАВУЧИЙ Город Без Налогов и на Атомном Ректоре",
       "url": "https://www.youtube.com/shorts/HaSaOAuk9rc",
       "published_at_utc": "2026-06-04T07:15:11+00:00",
-      "age_seconds": 133
+      "age_seconds": 254
     },
     {
       "channel": "Короче, новости",
       "title": "Реакция Футболисток КНДР на Ким Чен Ына",
       "url": "https://www.youtube.com/shorts/XXZiLQm9-9Q",
       "published_at_utc": "2026-06-04T07:09:01+00:00",
-      "age_seconds": 504
+      "age_seconds": 625
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Доказал что не терпила",
       "url": "https://www.youtube.com/shorts/E32519ap6s4",
       "published_at_utc": "2026-06-04T07:00:05+00:00",
-      "age_seconds": 1045
+      "age_seconds": 1165
+    },
+    {
+      "channel": "IXBT Games",
+      "title": "Osiris Reborn исправят после критики #ixbt #ixbtgames #игры #theexpanse #пространство",
+      "url": "https://www.youtube.com/shorts/QEFAqhHNzyQ",
+      "published_at_utc": "2026-06-04T07:00:02+00:00",
+      "age_seconds": 1208
     },
     {
       "channel": "Короче, новости",
       "title": "MAX ВСЁ: Apple Удалил Мессенджер с Iphone",
       "url": "https://www.youtube.com/shorts/e4RzoXnVmQk",
       "published_at_utc": "2026-06-04T06:54:21+00:00",
-      "age_seconds": 1384
+      "age_seconds": 1505
     }
   ]
 }
