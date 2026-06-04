@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-04T07:06:51.335955+00:00",
+  "generated_at_utc": "2026-06-04T07:08:48.668687+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,28 @@
       "title": "Доказал что не терпила",
       "url": "https://www.youtube.com/shorts/E32519ap6s4",
       "published_at_utc": "2026-06-04T07:00:05+00:00",
-      "age_seconds": 325
+      "age_seconds": 445
+    },
+    {
+      "channel": "IXBT Games",
+      "title": "Osiris Reborn исправят после критики #ixbt #ixbtgames #игры #theexpanse #пространство",
+      "url": "https://www.youtube.com/shorts/QEFAqhHNzyQ",
+      "published_at_utc": "2026-06-04T07:00:02+00:00",
+      "age_seconds": 489
     },
     {
       "channel": "Короче, новости",
       "title": "MAX ВСЁ: Apple Удалил Мессенджер с Iphone",
       "url": "https://www.youtube.com/shorts/e4RzoXnVmQk",
       "published_at_utc": "2026-06-04T06:54:21+00:00",
-      "age_seconds": 665
+      "age_seconds": 784
     },
     {
       "channel": "kinoluv",
       "title": "Дебют в решающей игре😳 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/Ryyhrp44Ks4",
       "published_at_utc": "2026-06-04T05:15:47+00:00",
-      "age_seconds": 6581
+      "age_seconds": 6701
     }
   ]
 }
