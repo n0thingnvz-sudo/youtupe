@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-06-04T17:53:13.059669+00:00",
+  "generated_at_utc": "2026-06-04T17:56:58.138818+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "МайорКрафт",
+      "title": "Джеки обучает кунг-фу #фильм #сериал #моменты",
+      "url": "https://www.youtube.com/shorts/RaF4b2hxARs",
+      "published_at_utc": "2026-06-04T17:45:28+00:00",
+      "age_seconds": 625
+    },
     {
       "channel": "Поззи",
       "title": "Это КОНЕЦ Brawl Stars? #brawlstars",
       "url": "https://www.youtube.com/shorts/281sVkRFJhk",
       "published_at_utc": "2026-06-04T17:31:33+00:00",
-      "age_seconds": 1295
+      "age_seconds": 1520
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ИСТОРИЧЕСКИЙ \"ГЛОБАЛЬНЫЙ\" ВАЙП в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=5TmujtmNd44",
       "published_at_utc": "2026-06-04T17:30:20+00:00",
-      "age_seconds": 1363
+      "age_seconds": 1590
     },
     {
       "channel": "kinoluv",
       "title": "Он заслуживает Оскара😂 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/xnc6-xJMbh0",
       "published_at_utc": "2026-06-04T17:15:12+00:00",
-      "age_seconds": 2183
+      "age_seconds": 2418
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 377",
       "url": "https://www.youtube.com/shorts/V9twOLs8n10",
       "published_at_utc": "2026-06-04T16:49:18+00:00",
-      "age_seconds": 3727
+      "age_seconds": 3962
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Еду за чистой водой на источник Александра Невского",
       "url": "https://www.youtube.com/watch?v=8cf3vtolPtU",
       "published_at_utc": "2026-06-04T16:47:36+00:00",
-      "age_seconds": 3847
+      "age_seconds": 4077
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "T2x2 ОТВЕТИЛ МЭДДИСОНУ НА ОБВИНЕНИЯ В НАКРУТКЕ",
       "url": "https://www.youtube.com/watch?v=4C7nmG6pIrA",
       "published_at_utc": "2026-06-04T16:18:17+00:00",
-      "age_seconds": 5695
+      "age_seconds": 5920
     },
     {
       "channel": "Майни",
       "title": "Стал ГЛАВНЫМ ПОСМЕШИЩЕМ интернета за обиду ► MILKA MAKER ( Милка Мейкер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=ypRjpQmG6pQ",
       "published_at_utc": "2026-06-04T16:14:54+00:00",
-      "age_seconds": 5774
+      "age_seconds": 6014
     },
     {
       "channel": "Поззи",
       "title": "Это Конец BRAWL STARS ?",
       "url": "https://www.youtube.com/watch?v=3kV7Ne2cmgo",
       "published_at_utc": "2026-06-04T16:08:50+00:00",
-      "age_seconds": 6258
+      "age_seconds": 6483
     },
     {
       "channel": "Khavr",
       "title": "ГОНКИ ВЕРНУЛИСЬ! БЕШЕНЫЙ ТЮНИНГ ASCO AMG GT63s",
       "url": "https://www.youtube.com/watch?v=gQCUrAaANjw",
       "published_at_utc": "2026-06-04T16:07:16+00:00",
-      "age_seconds": 6299
+      "age_seconds": 6527
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Бонус за безумный трюк",
       "url": "https://www.youtube.com/shorts/_VqiqpV1-a8",
       "published_at_utc": "2026-06-04T16:00:28+00:00",
-      "age_seconds": 6674
+      "age_seconds": 6904
     }
   ]
 }
