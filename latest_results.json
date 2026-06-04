@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-06-04T09:58:50.198016+00:00",
+  "generated_at_utc": "2026-06-04T10:00:53.091611+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Самая тяжёлая битва для льва",
+      "url": "https://www.youtube.com/shorts/KT63yf_HPbs",
+      "published_at_utc": "2026-06-04T09:47:43+00:00",
+      "age_seconds": 680
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Собака Не Заметила Оленёнка 😮",
       "url": "https://www.youtube.com/shorts/7QHkRzYbnoI",
       "published_at_utc": "2026-06-04T09:40:36+00:00",
-      "age_seconds": 1037
+      "age_seconds": 1156
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не светите лазерами в самолёты",
       "url": "https://www.youtube.com/shorts/lHfuXO6ex-E",
       "published_at_utc": "2026-06-04T09:30:32+00:00",
-      "age_seconds": 1616
+      "age_seconds": 1737
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "ИНТЕРНЕТ ПОМНИТ ВСЕ / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=-wX6KXL8Ga8",
       "published_at_utc": "2026-06-04T09:12:52+00:00",
-      "age_seconds": 2757
+      "age_seconds": 2880
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Для чего там меню?",
       "url": "https://www.youtube.com/shorts/GzExuK9RFaY",
       "published_at_utc": "2026-06-04T09:00:25+00:00",
-      "age_seconds": 3425
+      "age_seconds": 3545
     },
     {
       "channel": "DeadP47",
       "title": "ТРЯСКА ВОКРУГ GOD OF WAR LAUFEY",
       "url": "https://www.youtube.com/watch?v=kqzK4hu9jac",
       "published_at_utc": "2026-06-04T08:15:26+00:00",
-      "age_seconds": 6182
+      "age_seconds": 6302
     },
     {
       "channel": "Космос Просто",
       "title": "Как ЭТО показало, где мы в галактике? / Планеты внутри Другие? / Астрообзор #208",
       "url": "https://www.youtube.com/watch?v=IaCb0c7nfd8",
       "published_at_utc": "2026-06-04T08:00:37+00:00",
-      "age_seconds": 6991
+      "age_seconds": 7112
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Естественный отбор",
       "url": "https://www.youtube.com/shorts/yco_q2zjJWQ",
       "published_at_utc": "2026-06-04T08:00:31+00:00",
-      "age_seconds": 7019
+      "age_seconds": 7139
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱От 0$ до 1T$, Но НА ПРОДАЖЕ ЛИМОНОВ в Роблокс! Фиксай",
       "url": "https://www.youtube.com/watch?v=Gt0nGlgOdWo",
       "published_at_utc": "2026-06-04T08:00:19+00:00",
-      "age_seconds": 7074
+      "age_seconds": 7192
     },
     {
       "channel": "Смешновости",
       "title": "Котики-акробаты 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/JJo6c4zLC2U",
       "published_at_utc": "2026-06-04T08:00:03+00:00",
-      "age_seconds": 7071
+      "age_seconds": 7191
     }
   ]
 }
