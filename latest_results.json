@@ -1,13 +1,27 @@
 {
-  "generated_at_utc": "2026-06-04T00:00:34.860112+00:00",
+  "generated_at_utc": "2026-06-04T07:02:58.895011+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "PoleznyiBes",
-      "title": "Агент 007 #4",
-      "url": "https://www.youtube.com/watch?v=EfYffc50G2U",
-      "published_at_utc": "2026-06-03T22:01:35+00:00",
-      "age_seconds": 7127
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Доказал что не терпила",
+      "url": "https://www.youtube.com/shorts/E32519ap6s4",
+      "published_at_utc": "2026-06-04T07:00:05+00:00",
+      "age_seconds": 88
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "MAX ВСЁ: Apple Удалил Мессенджер с Iphone",
+      "url": "https://www.youtube.com/shorts/e4RzoXnVmQk",
+      "published_at_utc": "2026-06-04T06:54:21+00:00",
+      "age_seconds": 427
+    },
+    {
+      "channel": "kinoluv",
+      "title": "Дебют в решающей игре😳 Смотрите Чемпионат Мира на Кинопоиске⚽️",
+      "url": "https://www.youtube.com/shorts/Ryyhrp44Ks4",
+      "published_at_utc": "2026-06-04T05:15:47+00:00",
+      "age_seconds": 6344
     }
   ]
 }
