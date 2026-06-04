@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-06-04T09:34:46.282252+00:00",
+  "generated_at_utc": "2026-06-04T09:36:47.848767+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Не светите лазерами в самолёты",
+      "url": "https://www.youtube.com/shorts/lHfuXO6ex-E",
+      "published_at_utc": "2026-06-04T09:30:32+00:00",
+      "age_seconds": 296
+    },
     {
       "channel": "Лучшее с T2x2",
       "title": "ИНТЕРНЕТ ПОМНИТ ВСЕ / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=-wX6KXL8Ga8",
       "published_at_utc": "2026-06-04T09:12:52+00:00",
-      "age_seconds": 1313
+      "age_seconds": 1435
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Для чего там меню?",
       "url": "https://www.youtube.com/shorts/GzExuK9RFaY",
       "published_at_utc": "2026-06-04T09:00:25+00:00",
-      "age_seconds": 1984
+      "age_seconds": 2105
     },
     {
       "channel": "DeadP47",
       "title": "ТРЯСКА ВОКРУГ GOD OF WAR LAUFEY",
       "url": "https://www.youtube.com/watch?v=kqzK4hu9jac",
       "published_at_utc": "2026-06-04T08:15:26+00:00",
-      "age_seconds": 4739
+      "age_seconds": 4860
     },
     {
       "channel": "Космос Просто",
       "title": "Как ЭТО показало, где мы в галактике? / Планеты внутри Другие? / Астрообзор #208",
       "url": "https://www.youtube.com/watch?v=IaCb0c7nfd8",
       "published_at_utc": "2026-06-04T08:00:37+00:00",
-      "age_seconds": 5551
+      "age_seconds": 5671
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Естественный отбор",
       "url": "https://www.youtube.com/shorts/yco_q2zjJWQ",
       "published_at_utc": "2026-06-04T08:00:31+00:00",
-      "age_seconds": 5578
+      "age_seconds": 5699
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱От 0$ до 1T$, Но НА ПРОДАЖЕ ЛИМОНОВ в Роблокс! Фиксай",
       "url": "https://www.youtube.com/watch?v=Gt0nGlgOdWo",
       "published_at_utc": "2026-06-04T08:00:19+00:00",
-      "age_seconds": 5631
+      "age_seconds": 5752
     },
     {
       "channel": "Смешновости",
       "title": "Котики-акробаты 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/JJo6c4zLC2U",
       "published_at_utc": "2026-06-04T08:00:03+00:00",
-      "age_seconds": 5630
+      "age_seconds": 5751
     },
     {
       "channel": "CS2TV",
       "title": "БУМЫЧ ГОРИТ НА СНАКСА! РОССИЙСКИЙ СНАЙПЕР УНИЧТОЖИЛ LIQUID! НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=5xKsyZHblWw",
       "published_at_utc": "2026-06-04T07:51:24+00:00",
-      "age_seconds": 6179
+      "age_seconds": 6300
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 смешных видео с черепахами 🐢",
       "url": "https://www.youtube.com/shorts/qlbSuIW5YvY",
       "published_at_utc": "2026-06-04T07:37:42+00:00",
-      "age_seconds": 6969
+      "age_seconds": 7090
     }
   ]
 }
