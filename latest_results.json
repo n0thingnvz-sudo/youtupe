@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-06-05T05:10:37.275675+00:00",
+  "generated_at_utc": "2026-06-05T05:12:38.886282+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Wylsacom",
+      "title": "Лучший гаджет для мотоцикла",
+      "url": "https://www.youtube.com/shorts/fM2NhozBGDI",
+      "published_at_utc": "2026-06-05T05:00:29+00:00",
+      "age_seconds": 647
+    },
     {
       "channel": "курОлеся",
       "title": "Откуда деньги???",
       "url": "https://www.youtube.com/shorts/02qJlsZVIOU",
       "published_at_utc": "2026-06-05T04:49:06+00:00",
-      "age_seconds": 1218
+      "age_seconds": 1339
     }
   ]
 }
