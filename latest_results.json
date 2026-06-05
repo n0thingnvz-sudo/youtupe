@@ -1,90 +1,104 @@
 {
-  "generated_at_utc": "2026-06-05T12:08:57.745495+00:00",
+  "generated_at_utc": "2026-06-05T12:11:02.127277+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Kuplinov ► Play",
+      "title": "ПЕРВОЕ ЗАДАНИЕ ► 007 First Light #5",
+      "url": "https://www.youtube.com/watch?v=Z2SK2781ZvM",
+      "published_at_utc": "2026-06-05T12:00:09+00:00",
+      "age_seconds": 618
+    },
     {
       "channel": "Смешновости",
       "title": "Развлечение в дороге 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/TuvTb7s7ayM",
       "published_at_utc": "2026-06-05T12:00:06+00:00",
-      "age_seconds": 472
+      "age_seconds": 594
+    },
+    {
+      "channel": "Recrent",
+      "title": "ГРУСТНАЯ ПРАВДА",
+      "url": "https://www.youtube.com/shorts/RD9yE2QYMDo",
+      "published_at_utc": "2026-06-05T11:59:31+00:00",
+      "age_seconds": 678
     },
     {
       "channel": "Sherl0ck",
       "title": "📖ЧИТАЕМ ФАКТЫ КС📖| #Sherl0ck #Shorts #кс #cs #csgolive #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/Hsx9YgxQCuo",
       "published_at_utc": "2026-06-05T11:45:12+00:00",
-      "age_seconds": 1389
+      "age_seconds": 1512
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱ЛАКИ БЛОК ГОНКА в Роблокс! Фиксай",
       "url": "https://www.youtube.com/watch?v=o18HiXvVX3A",
       "published_at_utc": "2026-06-05T11:22:39+00:00",
-      "age_seconds": 2739
+      "age_seconds": 2863
     },
     {
       "channel": "ROUNDZZ",
       "title": "ВАЛОРАНТ СЛОМАЛСЯ (КАК ИГРАТЬ ТО?)  #valorant #валорант",
       "url": "https://www.youtube.com/shorts/f5oDKsVNiW4",
       "published_at_utc": "2026-06-05T11:15:25+00:00",
-      "age_seconds": 3177
+      "age_seconds": 3301
     },
     {
       "channel": "Amitesh",
       "title": "Домашний асфальт #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/X6ovjw3SEzg",
       "published_at_utc": "2026-06-05T11:11:41+00:00",
-      "age_seconds": 3374
+      "age_seconds": 3494
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ну реально похож",
       "url": "https://www.youtube.com/shorts/Ff-sTE60ET4",
       "published_at_utc": "2026-06-05T11:00:32+00:00",
-      "age_seconds": 4021
+      "age_seconds": 4141
     },
     {
       "channel": "Канал Романа",
       "title": "GTA 5 устарела :(",
       "url": "https://www.youtube.com/watch?v=-oHLEvP676c",
       "published_at_utc": "2026-06-05T11:00:12+00:00",
-      "age_seconds": 4042
+      "age_seconds": 4162
     },
     {
       "channel": "Погнали!",
       "title": "Как потерять $500 за одну минуту #погнали #натанзон #сша",
       "url": "https://www.youtube.com/shorts/P-XSORDQ4mQ",
       "published_at_utc": "2026-06-05T11:00:06+00:00",
-      "age_seconds": 4081
+      "age_seconds": 4203
     },
     {
       "channel": "Послезавтра",
       "title": "Странная карта Европы #европа #страны #карта",
       "url": "https://www.youtube.com/shorts/4cDtFaX1aWA",
       "published_at_utc": "2026-06-05T10:24:53+00:00",
-      "age_seconds": 6132
+      "age_seconds": 6252
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Краб Катается на Пузырьках 🦀",
       "url": "https://www.youtube.com/shorts/vBC4T57PyOk",
       "published_at_utc": "2026-06-05T10:19:28+00:00",
-      "age_seconds": 6509
+      "age_seconds": 6630
     },
     {
       "channel": "Новостной Гусь",
       "title": "Что в кармане?",
       "url": "https://www.youtube.com/shorts/gF8OFdWDrTA",
       "published_at_utc": "2026-06-05T10:15:16+00:00",
-      "age_seconds": 6736
+      "age_seconds": 6855
     },
     {
       "channel": "Amitesh",
       "title": "Бесконечный и бессмысленный свайп в Китае #амитеш #китай",
       "url": "https://www.youtube.com/shorts/0z9c7EYplPo",
       "published_at_utc": "2026-06-05T10:12:06+00:00",
-      "age_seconds": 6949
+      "age_seconds": 7069
     }
   ]
 }
