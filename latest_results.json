@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-06-05T23:06:37.925402+00:00",
+  "generated_at_utc": "2026-06-05T23:08:36.134229+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "лав соса",
+      "title": "6 июня 2026 г.",
+      "url": "https://www.youtube.com/shorts/EWlyfK1oW40",
+      "published_at_utc": "2026-06-05T22:56:14+00:00",
+      "age_seconds": 703
+    },
     {
       "channel": "RusGameTactics",
       "title": "Resident Evil: Code Veronica Remake (2027) | ТРЕЙЛЕР (на русском)",
       "url": "https://www.youtube.com/watch?v=E8icNQ9we20",
       "published_at_utc": "2026-06-05T21:56:02+00:00",
-      "age_seconds": 4229
+      "age_seconds": 4348
     }
   ]
 }
