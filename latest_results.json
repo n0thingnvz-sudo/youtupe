@@ -1,62 +1,55 @@
 {
-  "generated_at_utc": "2026-06-05T07:16:46.854564+00:00",
+  "generated_at_utc": "2026-06-05T07:18:42.380091+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "В Питере Запустили Орешник",
-      "url": "https://www.youtube.com/shorts/teCDuAv7p20",
-      "published_at_utc": "2026-06-05T07:07:29+00:00",
-      "age_seconds": 476
-    },
-    {
-      "channel": "IXBT Games",
-      "title": "Сиквел Stellar Blade без Sony #ixbtgames #ixbt #stellarblade #sony #игры",
-      "url": "https://www.youtube.com/shorts/zZfJekK_r-4",
-      "published_at_utc": "2026-06-05T07:00:34+00:00",
-      "age_seconds": 935
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "С двух рук",
       "url": "https://www.youtube.com/shorts/iRD-KuyT3C8",
       "published_at_utc": "2026-06-05T07:00:23+00:00",
-      "age_seconds": 906
+      "age_seconds": 1025
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Жулик не воруй",
+      "url": "https://www.youtube.com/shorts/VOAa-kkKQAE",
+      "published_at_utc": "2026-06-05T07:00:23+00:00",
+      "age_seconds": 1026
     },
     {
       "channel": "CS2TV",
       "title": "КОМАНДЫ ПОРУГАЛИСЬ НА МЕЙДЖОРЕ #cs2 #кс2 #counterstrike2",
       "url": "https://www.youtube.com/shorts/eLA6gtaJ00c",
       "published_at_utc": "2026-06-05T06:59:14+00:00",
-      "age_seconds": 1029
+      "age_seconds": 1146
     },
     {
       "channel": "Короче, новости",
       "title": "У Самолёта Сломалась Стойка Шасси",
       "url": "https://www.youtube.com/shorts/2egj_WzwJMk",
       "published_at_utc": "2026-06-05T06:57:33+00:00",
-      "age_seconds": 1072
+      "age_seconds": 1192
     },
     {
       "channel": "Собиратель новостей",
       "title": "Россиянка Обыграла УКРАИНКУ в Париже: Снова не Пожали Руки",
       "url": "https://www.youtube.com/shorts/abum5y0UyUs",
       "published_at_utc": "2026-06-05T06:45:20+00:00",
-      "age_seconds": 1804
+      "age_seconds": 1924
     },
     {
       "channel": "kinoluv",
       "title": "Зря он взял его яйца😅 Смотрите ЧМ на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/2qZ0cfeRmPw",
       "published_at_utc": "2026-06-05T06:15:13+00:00",
-      "age_seconds": 3614
+      "age_seconds": 3734
     },
     {
       "channel": "kinoluv",
       "title": "Показали, на что способны😎 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/dVtvNumhjTA",
       "published_at_utc": "2026-06-05T05:27:56+00:00",
-      "age_seconds": 6451
+      "age_seconds": 6571
     }
   ]
 }
