@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-06-05T08:32:47.419274+00:00",
+  "generated_at_utc": "2026-06-05T08:34:45.257224+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Экономный муж 2026. Часть 7",
+      "url": "https://www.youtube.com/shorts/h-4ruLz5Sms",
+      "published_at_utc": "2026-06-05T08:22:44+00:00",
+      "age_seconds": 661
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Хороший улов",
       "url": "https://www.youtube.com/shorts/25I-tDf2OVs",
       "published_at_utc": "2026-06-05T08:00:35+00:00",
-      "age_seconds": 1853
+      "age_seconds": 1972
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик чихает в слоу мо 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/TlUFIiYaYxQ",
       "published_at_utc": "2026-06-05T08:00:24+00:00",
-      "age_seconds": 1889
+      "age_seconds": 2008
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "W геймерам",
       "url": "https://www.youtube.com/shorts/GMWDhAh7t7k",
       "published_at_utc": "2026-06-05T08:00:19+00:00",
-      "age_seconds": 1870
+      "age_seconds": 1989
     },
     {
       "channel": "CS2TV",
       "title": "SPIRIT ОСТАЛИСЬ БЕЗ ТРЕНЕРОВ НА МАЖОРЕ! БРАТИШКИН ХЕЙТИТ КЭРРИГАНА! НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=AkGXwm8ly44",
       "published_at_utc": "2026-06-05T07:26:58+00:00",
-      "age_seconds": 3925
+      "age_seconds": 4043
     },
     {
       "channel": "Короче, новости",
       "title": "В Питере Запустили Орешник",
       "url": "https://www.youtube.com/shorts/teCDuAv7p20",
       "published_at_utc": "2026-06-05T07:07:29+00:00",
-      "age_seconds": 5035
+      "age_seconds": 5155
     },
     {
       "channel": "IXBT Games",
       "title": "Сиквел Stellar Blade без Sony #ixbtgames #ixbt #stellarblade #sony #игры",
       "url": "https://www.youtube.com/shorts/zZfJekK_r-4",
       "published_at_utc": "2026-06-05T07:00:34+00:00",
-      "age_seconds": 5495
+      "age_seconds": 5614
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "С двух рук",
       "url": "https://www.youtube.com/shorts/iRD-KuyT3C8",
       "published_at_utc": "2026-06-05T07:00:23+00:00",
-      "age_seconds": 5465
+      "age_seconds": 5584
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Жулик не воруй",
       "url": "https://www.youtube.com/shorts/VOAa-kkKQAE",
       "published_at_utc": "2026-06-05T07:00:23+00:00",
-      "age_seconds": 5466
+      "age_seconds": 5585
     },
     {
       "channel": "CS2TV",
       "title": "КОМАНДЫ ПОРУГАЛИСЬ НА МЕЙДЖОРЕ #cs2 #кс2 #counterstrike2",
       "url": "https://www.youtube.com/shorts/eLA6gtaJ00c",
       "published_at_utc": "2026-06-05T06:59:14+00:00",
-      "age_seconds": 5589
+      "age_seconds": 5707
     },
     {
       "channel": "Короче, новости",
       "title": "У Самолёта Сломалась Стойка Шасси",
       "url": "https://www.youtube.com/shorts/2egj_WzwJMk",
       "published_at_utc": "2026-06-05T06:57:33+00:00",
-      "age_seconds": 5631
+      "age_seconds": 5751
     },
     {
       "channel": "Собиратель новостей",
       "title": "Россиянка Обыграла УКРАИНКУ в Париже: Снова не Пожали Руки",
       "url": "https://www.youtube.com/shorts/abum5y0UyUs",
       "published_at_utc": "2026-06-05T06:45:20+00:00",
-      "age_seconds": 6364
+      "age_seconds": 6483
     }
   ]
 }
