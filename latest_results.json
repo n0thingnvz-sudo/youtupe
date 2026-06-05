@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-05T10:08:53.913640+00:00",
+  "generated_at_utc": "2026-06-05T10:10:56.383697+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,63 +7,70 @@
       "title": "Они достали ее спустя 17 лет...",
       "url": "https://www.youtube.com/shorts/ywNmSXjG770",
       "published_at_utc": "2026-06-05T10:00:30+00:00",
-      "age_seconds": 420
+      "age_seconds": 540
     },
     {
       "channel": "windy31",
       "title": "С МОЕЙ СОБАКОЙ ЧТО-ТО НЕ ТАК",
       "url": "https://www.youtube.com/watch?v=uapo1tY3eIs",
       "published_at_utc": "2026-06-05T10:00:15+00:00",
-      "age_seconds": 484
+      "age_seconds": 599
+    },
+    {
+      "channel": "sereGGa",
+      "title": "10 ХУДШИХ ИГРОКОВ ПОПАЛИСЬ В ОДНОЙ ИГРЕ (лучший реплей в истории) | НАЙС ИГРАЕШЬ #128",
+      "url": "https://www.youtube.com/watch?v=Tr7IKw0UH0E",
+      "published_at_utc": "2026-06-05T10:00:14+00:00",
+      "age_seconds": 609
     },
     {
       "channel": "Team Spirit CS",
       "title": "ДИМОООН 😳 #teamspirit #cs2",
       "url": "https://www.youtube.com/shorts/ko4cjoFWuv0",
       "published_at_utc": "2026-06-05T09:42:38+00:00",
-      "age_seconds": 1551
+      "age_seconds": 1666
     },
     {
       "channel": "Короче, новости",
       "title": "Так Туннель на Аляску Все-Таки Построят?",
       "url": "https://www.youtube.com/shorts/CfpziPriQEY",
       "published_at_utc": "2026-06-05T09:28:01+00:00",
-      "age_seconds": 2365
+      "age_seconds": 2484
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 35",
       "url": "https://www.youtube.com/shorts/r7OMnsk0UAs",
       "published_at_utc": "2026-06-05T09:18:36+00:00",
-      "age_seconds": 2922
+      "age_seconds": 3042
     },
     {
       "channel": "Короче, новости",
       "title": "Русского Финала НЕ БУДЕТ: Кто Заберет Ролан Гаррос",
       "url": "https://www.youtube.com/shorts/PJYNw4u-siY",
       "published_at_utc": "2026-06-05T09:08:25+00:00",
-      "age_seconds": 3541
+      "age_seconds": 3660
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Жалко собачку…",
       "url": "https://www.youtube.com/shorts/XFTCuJzsPSY",
       "published_at_utc": "2026-06-05T09:00:10+00:00",
-      "age_seconds": 4040
+      "age_seconds": 4160
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Секретный рецепт Кока Колы",
       "url": "https://www.youtube.com/shorts/TLOHZcfo7ak",
       "published_at_utc": "2026-06-05T08:51:13+00:00",
-      "age_seconds": 4606
+      "age_seconds": 4722
     },
     {
       "channel": "Алежа Обухов",
       "title": "Экономный муж 2026. Часть 7",
       "url": "https://www.youtube.com/shorts/h-4ruLz5Sms",
       "published_at_utc": "2026-06-05T08:22:44+00:00",
-      "age_seconds": 6307
+      "age_seconds": 6424
     }
   ]
 }
