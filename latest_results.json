@@ -1,34 +1,34 @@
 {
-  "generated_at_utc": "2026-06-05T07:00:49.316786+00:00",
+  "generated_at_utc": "2026-06-05T07:02:51.822051+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "CS2TV",
+      "title": "КОМАНДЫ ПОРУГАЛИСЬ НА МЕЙДЖОРЕ #cs2 #кс2 #counterstrike2",
+      "url": "https://www.youtube.com/shorts/eLA6gtaJ00c",
+      "published_at_utc": "2026-06-05T06:59:14+00:00",
+      "age_seconds": 194
+    },
     {
       "channel": "Собиратель новостей",
       "title": "Россиянка Обыграла УКРАИНКУ в Париже: Снова не Пожали Руки",
       "url": "https://www.youtube.com/shorts/abum5y0UyUs",
       "published_at_utc": "2026-06-05T06:45:20+00:00",
-      "age_seconds": 844
+      "age_seconds": 964
     },
     {
       "channel": "kinoluv",
       "title": "Зря он взял его яйца😅 Смотрите ЧМ на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/2qZ0cfeRmPw",
       "published_at_utc": "2026-06-05T06:15:13+00:00",
-      "age_seconds": 2653
+      "age_seconds": 2774
     },
     {
       "channel": "kinoluv",
       "title": "Показали, на что способны😎 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/dVtvNumhjTA",
       "published_at_utc": "2026-06-05T05:27:56+00:00",
-      "age_seconds": 5490
-    },
-    {
-      "channel": "Wylsacom",
-      "title": "Лучший гаджет для мотоцикла",
-      "url": "https://www.youtube.com/shorts/fM2NhozBGDI",
-      "published_at_utc": "2026-06-05T05:00:29+00:00",
-      "age_seconds": 7128
+      "age_seconds": 5611
     }
   ]
 }
