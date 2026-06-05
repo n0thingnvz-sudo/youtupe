@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-05T23:36:36.955658+00:00",
+  "generated_at_utc": "2026-06-05T23:38:36.252494+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "[СТРИМ] Смотрим SUMMER GAME FEST 2026 [23:30] + Day of the Devs 2026 [02:00] + Gothic 1 Remake",
+      "url": "https://www.youtube.com/watch?v=V6JuYtdfTGY",
+      "published_at_utc": "2026-06-05T23:33:36+00:00",
+      "age_seconds": 266
+    },
     {
       "channel": "PoleznyiBes",
       "title": "Summer Game Fest 2026",
       "url": "https://www.youtube.com/watch?v=l-ctr2Puwpo",
       "published_at_utc": "2026-06-05T23:10:45+00:00",
-      "age_seconds": 1538
+      "age_seconds": 1658
     },
     {
       "channel": "лав соса",
       "title": "6 июня 2026 г.",
       "url": "https://www.youtube.com/shorts/EWlyfK1oW40",
       "published_at_utc": "2026-06-05T22:56:14+00:00",
-      "age_seconds": 2383
+      "age_seconds": 2503
     },
     {
       "channel": "RusGameTactics",
       "title": "Resident Evil: Code Veronica Remake (2027) | ТРЕЙЛЕР (на русском)",
       "url": "https://www.youtube.com/watch?v=E8icNQ9we20",
       "published_at_utc": "2026-06-05T21:56:02+00:00",
-      "age_seconds": 6027
+      "age_seconds": 6147
     }
   ]
 }
