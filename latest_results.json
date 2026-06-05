@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-06-05T10:04:48.825630+00:00",
+  "generated_at_utc": "2026-06-05T10:06:53.997224+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Они достали ее спустя 17 лет...",
+      "url": "https://www.youtube.com/shorts/ywNmSXjG770",
+      "published_at_utc": "2026-06-05T10:00:30+00:00",
+      "age_seconds": 303
+    },
     {
       "channel": "Team Spirit CS",
       "title": "ДИМОООН 😳 #teamspirit #cs2",
       "url": "https://www.youtube.com/shorts/ko4cjoFWuv0",
       "published_at_utc": "2026-06-05T09:42:38+00:00",
-      "age_seconds": 1306
+      "age_seconds": 1430
     },
     {
       "channel": "Короче, новости",
       "title": "Так Туннель на Аляску Все-Таки Построят?",
       "url": "https://www.youtube.com/shorts/CfpziPriQEY",
       "published_at_utc": "2026-06-05T09:28:01+00:00",
-      "age_seconds": 2124
+      "age_seconds": 2247
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 35",
       "url": "https://www.youtube.com/shorts/r7OMnsk0UAs",
       "published_at_utc": "2026-06-05T09:18:36+00:00",
-      "age_seconds": 2682
+      "age_seconds": 2803
     },
     {
       "channel": "Короче, новости",
       "title": "Русского Финала НЕ БУДЕТ: Кто Заберет Ролан Гаррос",
       "url": "https://www.youtube.com/shorts/PJYNw4u-siY",
       "published_at_utc": "2026-06-05T09:08:25+00:00",
-      "age_seconds": 3300
+      "age_seconds": 3423
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Жалко собачку…",
       "url": "https://www.youtube.com/shorts/XFTCuJzsPSY",
       "published_at_utc": "2026-06-05T09:00:10+00:00",
-      "age_seconds": 3799
+      "age_seconds": 3923
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Секретный рецепт Кока Колы",
       "url": "https://www.youtube.com/shorts/TLOHZcfo7ak",
       "published_at_utc": "2026-06-05T08:51:13+00:00",
-      "age_seconds": 4361
+      "age_seconds": 4485
     },
     {
       "channel": "Алежа Обухов",
       "title": "Экономный муж 2026. Часть 7",
       "url": "https://www.youtube.com/shorts/h-4ruLz5Sms",
       "published_at_utc": "2026-06-05T08:22:44+00:00",
-      "age_seconds": 6063
+      "age_seconds": 6187
     }
   ]
 }
