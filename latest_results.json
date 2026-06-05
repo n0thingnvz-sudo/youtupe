@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-05T06:16:46.472837+00:00",
+  "generated_at_utc": "2026-06-05T06:18:43.940605+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kinoluv",
+      "title": "Зря он взял его яйца😅 Смотрите ЧМ на Кинопоиске⚽️",
+      "url": "https://www.youtube.com/shorts/2qZ0cfeRmPw",
+      "published_at_utc": "2026-06-05T06:15:13+00:00",
+      "age_seconds": 134
+    },
     {
       "channel": "kinoluv",
       "title": "Показали, на что способны😎 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/dVtvNumhjTA",
       "published_at_utc": "2026-06-05T05:27:56+00:00",
-      "age_seconds": 2851
+      "age_seconds": 2971
     },
     {
       "channel": "Wylsacom",
       "title": "Лучший гаджет для мотоцикла",
       "url": "https://www.youtube.com/shorts/fM2NhozBGDI",
       "published_at_utc": "2026-06-05T05:00:29+00:00",
-      "age_seconds": 4488
+      "age_seconds": 4608
     },
     {
       "channel": "курОлеся",
       "title": "Откуда деньги???",
       "url": "https://www.youtube.com/shorts/02qJlsZVIOU",
       "published_at_utc": "2026-06-05T04:49:06+00:00",
-      "age_seconds": 5180
+      "age_seconds": 5301
     }
   ]
 }
