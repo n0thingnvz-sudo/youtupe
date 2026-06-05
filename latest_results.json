@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-06-05T14:02:55.759744+00:00",
+  "generated_at_utc": "2026-06-05T14:04:53.632072+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Путин Ответил на Письмо Зеленского",
+      "url": "https://www.youtube.com/shorts/DdgpbGN20tU",
+      "published_at_utc": "2026-06-05T13:49:32+00:00",
+      "age_seconds": 833
+    },
     {
       "channel": "This is Хорошо",
       "title": "Переводчик с кошачьего за $119 #shorts #шортс",
       "url": "https://www.youtube.com/shorts/rmdpiDJ42X4",
       "published_at_utc": "2026-06-05T13:45:33+00:00",
-      "age_seconds": 981
+      "age_seconds": 1100
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самая жуткая история про собаку из тик тока",
       "url": "https://www.youtube.com/shorts/ETgPxmb-G1A",
       "published_at_utc": "2026-06-05T13:30:03+00:00",
-      "age_seconds": 1886
+      "age_seconds": 2006
     },
     {
       "channel": "Amitesh",
       "title": "Лазерный меч ирл #амитеш #технологии #физика",
       "url": "https://www.youtube.com/shorts/D3ipg-dSyM4",
       "published_at_utc": "2026-06-05T13:12:15+00:00",
-      "age_seconds": 2978
+      "age_seconds": 3097
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему Лошади Сидят 🐴",
       "url": "https://www.youtube.com/shorts/I5-Gt0ff9Uo",
       "published_at_utc": "2026-06-05T13:05:15+00:00",
-      "age_seconds": 3400
+      "age_seconds": 3520
     },
     {
       "channel": "БУЛДЖАТь",
       "title": "КАПУСТА VS КАРТОШКА -- кто оказался сильнее?",
       "url": "https://www.youtube.com/watch?v=48EBbE6RqSo",
       "published_at_utc": "2026-06-05T13:00:36+00:00",
-      "age_seconds": 3701
+      "age_seconds": 3819
     },
     {
       "channel": "Самый сахар",
       "title": "Попробовал всю АЗИАТСКУЮ ДЕШЕВУЮ Еду из Пятерочки (шлак)",
       "url": "https://www.youtube.com/watch?v=3vq-m0juK38",
       "published_at_utc": "2026-06-05T13:00:21+00:00",
-      "age_seconds": 3653
+      "age_seconds": 3772
     },
     {
       "channel": "МайорКрафт",
       "title": "Таксист не хочет вести Джеки Чана #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/xsMR-pRUH_4",
       "published_at_utc": "2026-06-05T12:46:34+00:00",
-      "age_seconds": 4517
+      "age_seconds": 4636
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Обычная школа в Канаде дорога ярости",
       "url": "https://www.youtube.com/shorts/JxV4xJ3iJI0",
       "published_at_utc": "2026-06-05T12:46:02+00:00",
-      "age_seconds": 4530
+      "age_seconds": 4649
     },
     {
       "channel": "МЯЧ Production",
       "title": "Бруну побил вечный рекорд АПЛ 😱",
       "url": "https://www.youtube.com/shorts/mcKj690ExPc",
       "published_at_utc": "2026-06-05T12:28:01+00:00",
-      "age_seconds": 5620
+      "age_seconds": 5739
     },
     {
       "channel": "Amitesh",
       "title": "Самый тугоплавкий металл #амитеш #химия",
       "url": "https://www.youtube.com/shorts/HwMB4NTDH6Y",
       "published_at_utc": "2026-06-05T12:07:44+00:00",
-      "age_seconds": 6849
+      "age_seconds": 6968
     }
   ]
 }
