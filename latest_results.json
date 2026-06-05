@@ -1,62 +1,76 @@
 {
-  "generated_at_utc": "2026-06-05T09:44:49.391583+00:00",
+  "generated_at_utc": "2026-06-05T09:46:53.183674+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Team Spirit CS",
+      "title": "ДИМОООН 😳 #teamspirit #cs2",
+      "url": "https://www.youtube.com/shorts/ko4cjoFWuv0",
+      "published_at_utc": "2026-06-05T09:42:38+00:00",
+      "age_seconds": 230
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Так Туннель на Аляску Все-Таки Построят?",
+      "url": "https://www.youtube.com/shorts/CfpziPriQEY",
+      "published_at_utc": "2026-06-05T09:28:01+00:00",
+      "age_seconds": 1046
+    },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 35",
       "url": "https://www.youtube.com/shorts/r7OMnsk0UAs",
       "published_at_utc": "2026-06-05T09:18:36+00:00",
-      "age_seconds": 1482
+      "age_seconds": 1603
     },
     {
       "channel": "Короче, новости",
       "title": "Русского Финала НЕ БУДЕТ: Кто Заберет Ролан Гаррос",
       "url": "https://www.youtube.com/shorts/PJYNw4u-siY",
       "published_at_utc": "2026-06-05T09:08:25+00:00",
-      "age_seconds": 2100
+      "age_seconds": 2222
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Жалко собачку…",
       "url": "https://www.youtube.com/shorts/XFTCuJzsPSY",
       "published_at_utc": "2026-06-05T09:00:10+00:00",
-      "age_seconds": 2600
+      "age_seconds": 2721
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Секретный рецепт Кока Колы",
       "url": "https://www.youtube.com/shorts/TLOHZcfo7ak",
       "published_at_utc": "2026-06-05T08:51:13+00:00",
-      "age_seconds": 3162
+      "age_seconds": 3284
     },
     {
       "channel": "Алежа Обухов",
       "title": "Экономный муж 2026. Часть 7",
       "url": "https://www.youtube.com/shorts/h-4ruLz5Sms",
       "published_at_utc": "2026-06-05T08:22:44+00:00",
-      "age_seconds": 4864
+      "age_seconds": 4985
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Хороший улов",
       "url": "https://www.youtube.com/shorts/25I-tDf2OVs",
       "published_at_utc": "2026-06-05T08:00:35+00:00",
-      "age_seconds": 6174
+      "age_seconds": 6296
     },
     {
       "channel": "Смешновости",
       "title": "Пёсик чихает в слоу мо 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/TlUFIiYaYxQ",
       "published_at_utc": "2026-06-05T08:00:24+00:00",
-      "age_seconds": 6210
+      "age_seconds": 6332
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "W геймерам",
       "url": "https://www.youtube.com/shorts/GMWDhAh7t7k",
       "published_at_utc": "2026-06-05T08:00:19+00:00",
-      "age_seconds": 6191
+      "age_seconds": 6312
     }
   ]
 }
