@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-06-06T21:14:40.912902+00:00",
+  "generated_at_utc": "2026-06-06T21:16:47.485296+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "[СТРИМ] Future Games Show 2026 [22:00] + Story Rich Showcase [20:00]+ Wholesome Direct [19:00]",
+      "url": "https://www.youtube.com/watch?v=VzgKWChJXvA",
+      "published_at_utc": "2026-06-06T21:08:35+00:00",
+      "age_seconds": 455
+    },
     {
       "channel": "Тру Шорты",
       "title": "Для чего змее усы",
       "url": "https://www.youtube.com/shorts/aEuXrE_xC0A",
       "published_at_utc": "2026-06-06T20:44:59+00:00",
-      "age_seconds": 1684
+      "age_seconds": 1804
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "Блогеры VS Стримеры | ГЛАВНЫЙ ФУТБОЛЬНЫЙ МАТЧ ГОДА | КТО ЖЕ ПОБЕДИТ?",
       "url": "https://www.youtube.com/watch?v=ZA5TDtMJjCY",
       "published_at_utc": "2026-06-06T19:53:30+00:00",
-      "age_seconds": 4824
+      "age_seconds": 4946
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"ТикТокерши идут на ОНЛИК из-за блокировок 🤡\"",
       "url": "https://www.youtube.com/watch?v=5LnUSKN-yBg",
       "published_at_utc": "2026-06-06T19:50:36+00:00",
-      "age_seconds": 5044
+      "age_seconds": 5171
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"КАЗАХИ против ВАЛИ КАРНАВАЛ | Как ФЕЙК победил ПРАВДУ...\"",
       "url": "https://www.youtube.com/watch?v=Bwihympu7is",
       "published_at_utc": "2026-06-06T19:20:46+00:00",
-      "age_seconds": 6834
+      "age_seconds": 6961
     },
     {
       "channel": "Никита Нестеров",
       "title": "Тот самый сотрудник, который вечно опаздывает",
       "url": "https://www.youtube.com/shorts/h-G_MPnQ1mY",
       "published_at_utc": "2026-06-06T19:16:52+00:00",
-      "age_seconds": 7021
-    },
-    {
-      "channel": "StopGame",
-      "title": "Вся LEGO Batman — сплошная отсылка 🦇",
-      "url": "https://www.youtube.com/shorts/0qc2zZPxaW0",
-      "published_at_utc": "2026-06-06T19:15:43+00:00",
-      "age_seconds": 7109
+      "age_seconds": 7143
     }
   ]
 }
