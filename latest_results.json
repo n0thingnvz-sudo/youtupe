@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-06-06T17:46:57.510569+00:00",
+  "generated_at_utc": "2026-06-06T17:49:06.437081+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sereGGa",
+      "title": "ИГРАЮ САМЫЙ ВАЖНЫЙ ТУРНИР В ЖИЗНИ (батл кап)",
+      "url": "https://www.youtube.com/watch?v=RPktuS3ive4",
+      "published_at_utc": "2026-06-06T17:39:03+00:00",
+      "age_seconds": 576
+    },
     {
       "channel": "Margaritka",
       "title": "Наглый маркетинг 😃",
       "url": "https://www.youtube.com/shorts/2tW5jTeelPM",
       "published_at_utc": "2026-06-06T17:16:56+00:00",
-      "age_seconds": 1744
+      "age_seconds": 1875
     },
     {
       "channel": "Майни",
       "title": "Ты - Манул (И ЭТО ВСЯ ТВОЯ ЖИЗНЬ) ► Setonix | Реакция",
       "url": "https://www.youtube.com/watch?v=_vMngKGFLoQ",
       "published_at_utc": "2026-06-06T17:00:15+00:00",
-      "age_seconds": 2692
+      "age_seconds": 2813
     },
     {
       "channel": "МайорКрафт",
       "title": "Джеки в шоке от напарника #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/pqBzC2rx0gU",
       "published_at_utc": "2026-06-06T16:45:05+00:00",
-      "age_seconds": 3646
+      "age_seconds": 3777
     },
     {
       "channel": "Margaritka",
       "title": "Прятки с носком 😄",
       "url": "https://www.youtube.com/shorts/0GVW0nNDjP4",
       "published_at_utc": "2026-06-06T16:31:57+00:00",
-      "age_seconds": 4443
+      "age_seconds": 4574
     },
     {
       "channel": "Объяпонился",
       "title": "День, когда вся Южная Корея замирает 😱",
       "url": "https://www.youtube.com/shorts/wRIaAU6LLVw",
       "published_at_utc": "2026-06-06T16:23:41+00:00",
-      "age_seconds": 4926
+      "age_seconds": 5058
     },
     {
       "channel": "Собиратель новостей",
       "title": "Россиянка Выиграла Главный Теннисный Турнир: БЕЗ ФЛАГА",
       "url": "https://www.youtube.com/shorts/tOZpk1SECcw",
       "published_at_utc": "2026-06-06T16:04:50+00:00",
-      "age_seconds": 6036
+      "age_seconds": 6166
     },
     {
       "channel": "sun_kill",
       "title": "мы ночные создания прост 💅",
       "url": "https://www.youtube.com/shorts/j2ZCs1c8oDg",
       "published_at_utc": "2026-06-06T15:54:40+00:00",
-      "age_seconds": 6631
+      "age_seconds": 6752
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Составь слово #boardgame #настольнаяигра #game #игра #настолка",
       "url": "https://www.youtube.com/shorts/aNBABd2GeVU",
       "published_at_utc": "2026-06-06T15:52:58+00:00",
-      "age_seconds": 6778
+      "age_seconds": 6909
     },
     {
       "channel": "Студийная Банда",
       "title": "Пацанчик, на чём двигаешься? В чём \"природа\" гопника в дубляже?",
       "url": "https://www.youtube.com/shorts/jQfaGnD6OqQ",
       "published_at_utc": "2026-06-06T15:48:19+00:00",
-      "age_seconds": 7013
+      "age_seconds": 7134
     }
   ]
 }
