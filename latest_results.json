@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-06-06T15:09:00.046003+00:00",
+  "generated_at_utc": "2026-06-06T15:11:03.265400+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Recrent",
-      "title": "TARKOV ЛУЧШЕ ЧЕМ PUBG?",
-      "url": "https://www.youtube.com/watch?v=rBpmzZgaaec",
-      "published_at_utc": "2026-06-06T14:59:22+00:00",
-      "age_seconds": 565
-    },
     {
       "channel": "Унылый",
       "title": "Не корсары, но... | Windrose",
       "url": "https://www.youtube.com/watch?v=mcVGKqF2drE",
       "published_at_utc": "2026-06-06T14:42:41+00:00",
-      "age_seconds": 1560
+      "age_seconds": 1682
     },
     {
       "channel": "IG project",
       "title": "😱 ОРИЕНТАЦИИ АНГЕЛОВ В ОТЕЛЕ ХАЗБИН! СЭРА ЛЮБИТ НОЖНИЧКИ? 😁 #адскийбосс #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/oSmNfDvmQb4",
       "published_at_utc": "2026-06-06T14:36:49+00:00",
-      "age_seconds": 1856
+      "age_seconds": 1975
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Военная база за €60.000 ДАЙТЕ ДВЕ",
       "url": "https://www.youtube.com/shorts/PBEGBlzt1UA",
       "published_at_utc": "2026-06-06T14:29:20+00:00",
-      "age_seconds": 2293
+      "age_seconds": 2414
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "СТРИМЕРЫ УГАРАЮТ В РАЗДЕВАЛКЕ ПЕРЕД ФУТБОЛОМ | Хазяева, Литвин, Ликс, Ростик, Анар, Генсуха и др.",
       "url": "https://www.youtube.com/watch?v=h3Cy3kpeND0",
       "published_at_utc": "2026-06-06T14:26:15+00:00",
-      "age_seconds": 2509
+      "age_seconds": 2628
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зайцы тоже против электросамокатов",
       "url": "https://www.youtube.com/shorts/HbqJubmYLl8",
       "published_at_utc": "2026-06-06T13:30:12+00:00",
-      "age_seconds": 5838
+      "age_seconds": 5959
     }
   ]
 }
