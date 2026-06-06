@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-06-06T05:04:40.107625+00:00",
+  "generated_at_utc": "2026-06-06T05:06:38.904557+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "CS2TV",
-      "title": "ЭТО КАМБЭК С 12:0 НА МЕЙДЖОРАХ #cs2 #csgo #кс2",
-      "url": "https://www.youtube.com/shorts/u7Pd3OV2sMc",
-      "published_at_utc": "2026-06-06T04:57:25+00:00",
-      "age_seconds": 413
-    },
     {
       "channel": "Послезавтра",
       "title": "Это не кризис, это… #россия #экономика #кризис",
       "url": "https://www.youtube.com/shorts/ZluZSRF9LbE",
       "published_at_utc": "2026-06-06T04:30:57+00:00",
-      "age_seconds": 1927
+      "age_seconds": 2047
     }
   ]
 }
