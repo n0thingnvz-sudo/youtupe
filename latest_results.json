@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-06-06T10:02:59.294249+00:00",
+  "generated_at_utc": "2026-06-06T10:04:50.543729+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "windy31",
+      "title": "СТАРАЯ СЕКРЕТНАЯ ВЕРСИЯ ПРИВЕТ СОСЕД ПРОЙДЕНА, ЧТО В ПОДВАЛЕ?!",
+      "url": "https://www.youtube.com/watch?v=MHmR2f2eMqI",
+      "published_at_utc": "2026-06-06T10:00:11+00:00",
+      "age_seconds": 244
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Лучший охранник для кур",
       "url": "https://www.youtube.com/shorts/7wypxcWecw0",
       "published_at_utc": "2026-06-06T09:30:28+00:00",
-      "age_seconds": 1862
+      "age_seconds": 1981
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Я по солнцу время определяю",
       "url": "https://www.youtube.com/shorts/DADjAPMKQGA",
       "published_at_utc": "2026-06-06T09:00:30+00:00",
-      "age_seconds": 3661
+      "age_seconds": 3781
     },
     {
       "channel": "Gamer Tech",
       "title": "GTA 5 - РАЗРУШИТЕЛИ ЛЕГЕНД #72",
       "url": "https://www.youtube.com/watch?v=fcQ23xc_IZs",
       "published_at_utc": "2026-06-06T09:00:27+00:00",
-      "age_seconds": 3747
+      "age_seconds": 3858
     },
     {
       "channel": "ДУШНИЛА",
       "title": "Спидран по тиктоку № 28",
       "url": "https://www.youtube.com/shorts/_RzwcZOMsqw",
       "published_at_utc": "2026-06-06T08:52:31+00:00",
-      "age_seconds": 4128
+      "age_seconds": 4248
     },
     {
       "channel": "Amitesh",
       "title": "Дельный лайфхак для двойного монитора #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/CmWT-eKsjgg",
       "published_at_utc": "2026-06-06T08:33:28+00:00",
-      "age_seconds": 5307
+      "age_seconds": 5423
     },
     {
       "channel": "kinoluv",
       "title": "Зря он повёлся на провокацию😱 Скоро премьера нового сериала «Малахит»!",
       "url": "https://www.youtube.com/shorts/hcS73RwZEKE",
       "published_at_utc": "2026-06-06T08:22:26+00:00",
-      "age_seconds": 5943
+      "age_seconds": 6063
     }
   ]
 }
