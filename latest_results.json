@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-06-06T20:54:50.617339+00:00",
+  "generated_at_utc": "2026-06-06T20:56:57.220560+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Для чего змее усы",
+      "url": "https://www.youtube.com/shorts/aEuXrE_xC0A",
+      "published_at_utc": "2026-06-06T20:44:59+00:00",
+      "age_seconds": 604
+    },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "Блогеры VS Стримеры | ГЛАВНЫЙ ФУТБОЛЬНЫЙ МАТЧ ГОДА | КТО ЖЕ ПОБЕДИТ?",
       "url": "https://www.youtube.com/watch?v=ZA5TDtMJjCY",
       "published_at_utc": "2026-06-06T19:53:30+00:00",
-      "age_seconds": 3630
+      "age_seconds": 3749
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"ТикТокерши идут на ОНЛИК из-за блокировок 🤡\"",
       "url": "https://www.youtube.com/watch?v=5LnUSKN-yBg",
       "published_at_utc": "2026-06-06T19:50:36+00:00",
-      "age_seconds": 3854
+      "age_seconds": 3981
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"КАЗАХИ против ВАЛИ КАРНАВАЛ | Как ФЕЙК победил ПРАВДУ...\"",
       "url": "https://www.youtube.com/watch?v=Bwihympu7is",
       "published_at_utc": "2026-06-06T19:20:46+00:00",
-      "age_seconds": 5644
+      "age_seconds": 5771
     },
     {
       "channel": "Никита Нестеров",
       "title": "Тот самый сотрудник, который вечно опаздывает",
       "url": "https://www.youtube.com/shorts/h-G_MPnQ1mY",
       "published_at_utc": "2026-06-06T19:16:52+00:00",
-      "age_seconds": 5828
+      "age_seconds": 5946
     },
     {
       "channel": "StopGame",
       "title": "Вся LEGO Batman — сплошная отсылка 🦇",
       "url": "https://www.youtube.com/shorts/0qc2zZPxaW0",
       "published_at_utc": "2026-06-06T19:15:43+00:00",
-      "age_seconds": 5917
+      "age_seconds": 6037
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ ЭТАЛОННУЮ ШИЗУ МОРГЕНШТЕРНА\"",
       "url": "https://www.youtube.com/watch?v=fx1WiHHXMFM",
       "published_at_utc": "2026-06-06T19:06:36+00:00",
-      "age_seconds": 6494
+      "age_seconds": 6621
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"НОВАЯ ШИЗМА У ЗУМЕРОВ — ЛУКСМАКСИНГ\"МАРАХМ",
       "url": "https://www.youtube.com/watch?v=-vipNcwMTv0",
       "published_at_utc": "2026-06-06T19:03:48+00:00",
-      "age_seconds": 6662
+      "age_seconds": 6789
     }
   ]
 }
