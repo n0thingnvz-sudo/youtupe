@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-06-06T12:02:52.930672+00:00",
+  "generated_at_utc": "2026-06-06T12:05:02.770243+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Kuplinov ► Play",
+      "title": "КУПЛИНОВ ТОРГУЕТ АРТЕФАКТАМИ ► Strange Antiquities #1",
+      "url": "https://www.youtube.com/watch?v=Mdr_xyaCMiw",
+      "published_at_utc": "2026-06-06T12:00:31+00:00",
+      "age_seconds": 239
+    },
+    {
+      "channel": "Obsidian Time",
+      "title": "Начало ЗАХВАТА ПЛАНЕТЫ - Mindustry V8",
+      "url": "https://www.youtube.com/watch?v=fQjCKrAt8P0",
+      "published_at_utc": "2026-06-06T12:00:24+00:00",
+      "age_seconds": 272
+    },
     {
       "channel": "МайорКрафт",
       "title": "Кто тут свидетель? #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/18z_VvPSCX0",
       "published_at_utc": "2026-06-06T11:45:29+00:00",
-      "age_seconds": 983
+      "age_seconds": 1110
     },
     {
       "channel": "Amitesh",
       "title": "Кадры создания гидравлического пресса #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/NYua_sQA-0I",
       "published_at_utc": "2026-06-06T11:31:45+00:00",
-      "age_seconds": 1808
+      "age_seconds": 1936
     },
     {
       "channel": "Собиратель новостей",
       "title": "Ученые Испекли Хлеб из Дрожжей, ВЗЯТЫХ С МУМИИ",
       "url": "https://www.youtube.com/shorts/KM7UX265v4c",
       "published_at_utc": "2026-06-06T11:30:24+00:00",
-      "age_seconds": 1861
+      "age_seconds": 1982
     },
     {
       "channel": "IXBT Games",
       "title": "Подлость CDPR и Remedy - запрет озвучки GamesVoice, бан игры по IP, запрет на продажу в РФ",
       "url": "https://www.youtube.com/watch?v=aC1q5kSU_PQ",
       "published_at_utc": "2026-06-06T11:02:38+00:00",
-      "age_seconds": 3575
+      "age_seconds": 3706
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пройти PvZ на планшете для заказов",
       "url": "https://www.youtube.com/shorts/nE6JIfvcbwM",
       "published_at_utc": "2026-06-06T11:00:18+00:00",
-      "age_seconds": 3673
+      "age_seconds": 3802
     },
     {
       "channel": "Amitesh",
       "title": "Как не надо вправлять вывихнутое плечо #амитеш #медицина",
       "url": "https://www.youtube.com/shorts/UOyyIHXhMzc",
       "published_at_utc": "2026-06-06T10:33:15+00:00",
-      "age_seconds": 5318
+      "age_seconds": 5446
     },
     {
       "channel": "IGM",
       "title": "РЕМЕЙК RESIDENT EVIL: CODE VERONIKA УЖЕ СКОРО",
       "url": "https://www.youtube.com/shorts/wdC5wa8J3lw",
       "published_at_utc": "2026-06-06T10:27:13+00:00",
-      "age_seconds": 5700
-    },
-    {
-      "channel": "Тимур Сидельников",
-      "title": "Летнее меню в макдональдс",
-      "url": "https://www.youtube.com/shorts/eB6uh9MOCsc",
-      "published_at_utc": "2026-06-06T10:03:55+00:00",
-      "age_seconds": 7083
+      "age_seconds": 5830
     }
   ]
 }
