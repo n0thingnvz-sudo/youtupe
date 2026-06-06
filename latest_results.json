@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-06T07:18:45.446128+00:00",
+  "generated_at_utc": "2026-06-06T07:20:45.768797+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Как Бургер Кинг обошёл запрет на рекламу мяса 🍔",
+      "url": "https://www.youtube.com/shorts/QW0IaYXkk-A",
+      "published_at_utc": "2026-06-06T07:16:32+00:00",
+      "age_seconds": 158
+    },
     {
       "channel": "Собиратель новостей",
       "title": "Женщине Продали ХАСКИ, но Это Был НЕ ХАСКИ",
       "url": "https://www.youtube.com/shorts/Ckfddlscyvk",
       "published_at_utc": "2026-06-06T07:15:19+00:00",
-      "age_seconds": 125
+      "age_seconds": 245
     },
     {
       "channel": "kinoluv",
       "title": "Только лучшие быки смогут побороться за чемпионский титул🔥",
       "url": "https://www.youtube.com/shorts/UM6XNBjO0Uo",
       "published_at_utc": "2026-06-06T07:03:28+00:00",
-      "age_seconds": 839
+      "age_seconds": 959
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Олды на месте",
       "url": "https://www.youtube.com/shorts/UUjIqnXg6h0",
       "published_at_utc": "2026-06-06T07:00:40+00:00",
-      "age_seconds": 1009
+      "age_seconds": 1129
     }
   ]
 }
