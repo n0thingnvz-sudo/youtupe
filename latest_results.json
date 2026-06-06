@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-06-06T11:34:47.771320+00:00",
+  "generated_at_utc": "2026-06-06T11:37:03.513557+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Ученые Испекли Хлеб из Дрожжей, ВЗЯТЫХ С МУМИИ",
+      "url": "https://www.youtube.com/shorts/KM7UX265v4c",
+      "published_at_utc": "2026-06-06T11:30:24+00:00",
+      "age_seconds": 301
+    },
     {
       "channel": "IXBT Games",
       "title": "Подлость CDPR и Remedy - запрет озвучки GamesVoice, бан игры по IP, запрет на продажу в РФ",
       "url": "https://www.youtube.com/watch?v=aC1q5kSU_PQ",
       "published_at_utc": "2026-06-06T11:02:38+00:00",
-      "age_seconds": 1891
+      "age_seconds": 2024
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пройти PvZ на планшете для заказов",
       "url": "https://www.youtube.com/shorts/nE6JIfvcbwM",
       "published_at_utc": "2026-06-06T11:00:18+00:00",
-      "age_seconds": 1991
+      "age_seconds": 2112
     },
     {
       "channel": "Amitesh",
       "title": "Как не надо вправлять вывихнутое плечо #амитеш #медицина",
       "url": "https://www.youtube.com/shorts/UOyyIHXhMzc",
       "published_at_utc": "2026-06-06T10:33:15+00:00",
-      "age_seconds": 3635
+      "age_seconds": 3757
     },
     {
       "channel": "IGM",
       "title": "РЕМЕЙК RESIDENT EVIL: CODE VERONIKA УЖЕ СКОРО",
       "url": "https://www.youtube.com/shorts/wdC5wa8J3lw",
       "published_at_utc": "2026-06-06T10:27:13+00:00",
-      "age_seconds": 4016
+      "age_seconds": 4149
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Летнее меню в макдональдс",
       "url": "https://www.youtube.com/shorts/eB6uh9MOCsc",
       "published_at_utc": "2026-06-06T10:03:55+00:00",
-      "age_seconds": 5399
+      "age_seconds": 5521
     },
     {
       "channel": "1337LikeR",
       "title": "Магний ahh moment 🥀",
       "url": "https://www.youtube.com/watch?v=MMB1T_GuGfw",
       "published_at_utc": "2026-06-06T10:01:30+00:00",
-      "age_seconds": 5581
+      "age_seconds": 5713
     },
     {
       "channel": "Смешновости",
       "title": "Показывает язык 😛😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/lrAs-COiJmI",
       "published_at_utc": "2026-06-06T10:00:23+00:00",
-      "age_seconds": 5611
+      "age_seconds": 5733
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Щепотка для вкуса",
       "url": "https://www.youtube.com/shorts/evQiqRDUsZs",
       "published_at_utc": "2026-06-06T10:00:12+00:00",
-      "age_seconds": 5597
+      "age_seconds": 5718
     },
     {
       "channel": "windy31",
       "title": "СТАРАЯ СЕКРЕТНАЯ ВЕРСИЯ ПРИВЕТ СОСЕД ПРОЙДЕНА, ЧТО В ПОДВАЛЕ?!",
       "url": "https://www.youtube.com/watch?v=MHmR2f2eMqI",
       "published_at_utc": "2026-06-06T10:00:11+00:00",
-      "age_seconds": 5642
+      "age_seconds": 5775
     }
   ]
 }
