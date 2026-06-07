@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-06-07T09:04:57.976097+00:00",
+  "generated_at_utc": "2026-06-07T09:06:55.778994+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Скинулись на ноутбук",
+      "url": "https://www.youtube.com/shorts/W6TZ1UWCpvc",
+      "published_at_utc": "2026-06-07T09:00:38+00:00",
+      "age_seconds": 292
+    },
+    {
+      "channel": "soskamakaka",
+      "title": "ЧТО С САНДРОНЕ НЕ ТАК?😡#genshinimpact #геншинимпакт #genshin #геншин #сандроне #пулония",
+      "url": "https://www.youtube.com/shorts/LX8otDgFnhE",
+      "published_at_utc": "2026-06-07T09:00:31+00:00",
+      "age_seconds": 365
+    },
     {
       "channel": "Лучшее с T2x2",
       "title": "✅ФУКУСИМА ☢️ Приехала ПОЛИЦИЯ !!! Проникли в ДОМ ликвидаторов ☠️Покинутая БОЛЬНИЦА / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=L6ZV28SSKPA",
       "published_at_utc": "2026-06-07T08:41:23+00:00",
-      "age_seconds": 1414
+      "age_seconds": 1531
     },
     {
       "channel": "РАЙЗ",
       "title": "ДОНК ПРОТИВ ПАПИКОВ! МАЖОР НАЧАЛСЯ",
       "url": "https://www.youtube.com/watch?v=0GGnd5Qra3o",
       "published_at_utc": "2026-06-07T08:35:31+00:00",
-      "age_seconds": 1732
+      "age_seconds": 1852
     },
     {
       "channel": "Recrent",
       "title": "КИБЕРСПОРТИВНЫЙ ПЛАН",
       "url": "https://www.youtube.com/shorts/H-Pof50rLCU",
       "published_at_utc": "2026-06-07T08:33:04+00:00",
-      "age_seconds": 1902
+      "age_seconds": 2020
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱КОПАЕМ ВНИЗ 943,937,559 КМ до ЦЕНТРА ЗЕМЛИ в Роблокс!",
       "url": "https://www.youtube.com/watch?v=0_AcdJ2kBNk",
       "published_at_utc": "2026-06-07T08:00:31+00:00",
-      "age_seconds": 3826
+      "age_seconds": 3945
     },
     {
       "channel": "Смешновости",
       "title": "Как назвать породу? 🤔 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/HxqUF2QJQiI",
       "published_at_utc": "2026-06-07T08:00:15+00:00",
-      "age_seconds": 3823
+      "age_seconds": 3944
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Французский принц",
       "url": "https://www.youtube.com/shorts/R2d_kx_-pl0",
       "published_at_utc": "2026-06-07T08:00:08+00:00",
-      "age_seconds": 3803
+      "age_seconds": 3924
     },
     {
       "channel": "VASYAN1000",
       "title": "Четкая прогулка на лайнере #shorts #quest #юмор #прикол #games #море",
       "url": "https://www.youtube.com/shorts/hQ-veu2q4UQ",
       "published_at_utc": "2026-06-07T07:36:35+00:00",
-      "age_seconds": 5229
+      "age_seconds": 5350
     },
     {
       "channel": "Асафьев. Жизнь",
       "title": "VW хотят вернуть в Россию | Что они творят?! LUCE и AMG GT | Porsche останавливает завод",
       "url": "https://www.youtube.com/watch?v=KyUAk6n3lyI",
       "published_at_utc": "2026-06-07T07:20:07+00:00",
-      "age_seconds": 6224
+      "age_seconds": 6344
     },
     {
       "channel": "Мармеладыч",
       "title": "МАГНИТ, вы реально щас?",
       "url": "https://www.youtube.com/shorts/ISpnHsPEsFs",
       "published_at_utc": "2026-06-07T07:11:04+00:00",
-      "age_seconds": 6761
+      "age_seconds": 6882
     }
   ]
 }
