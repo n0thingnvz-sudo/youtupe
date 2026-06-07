@@ -1,83 +1,104 @@
 {
-  "generated_at_utc": "2026-06-07T09:53:14.151645+00:00",
+  "generated_at_utc": "2026-06-07T09:57:18.980006+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ЛИЛ ТАТАР",
+      "title": "ДК НА АТОМЫ РАЗБИРАЕТ ЛУЧШИЙ АЛЬБОМ ТЫСЯЧЕЛЕТИЯ!",
+      "url": "https://www.youtube.com/watch?v=iDX9CI1xnck",
+      "published_at_utc": "2026-06-07T09:52:41+00:00",
+      "age_seconds": 277
+    },
+    {
+      "channel": "ДУШНИЛА",
+      "title": "ОБЪЯСНИ № 36",
+      "url": "https://www.youtube.com/shorts/vXiwne6H4FA",
+      "published_at_utc": "2026-06-07T09:51:01+00:00",
+      "age_seconds": 271
+    },
+    {
+      "channel": "Amitesh",
+      "title": "Может ли пуля облетать препятствия? #амитеш #физика",
+      "url": "https://www.youtube.com/shorts/EUugmWxT9HM",
+      "published_at_utc": "2026-06-07T09:46:50+00:00",
+      "age_seconds": 558
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Скинулись на ноутбук",
       "url": "https://www.youtube.com/shorts/W6TZ1UWCpvc",
       "published_at_utc": "2026-06-07T09:00:38+00:00",
-      "age_seconds": 3052
+      "age_seconds": 3307
     },
     {
       "channel": "soskamakaka",
       "title": "ЧТО С САНДРОНЕ НЕ ТАК?😡#genshinimpact #геншинимпакт #genshin #геншин #сандроне #пулония",
       "url": "https://www.youtube.com/shorts/LX8otDgFnhE",
       "published_at_utc": "2026-06-07T09:00:31+00:00",
-      "age_seconds": 3143
+      "age_seconds": 3387
     },
     {
       "channel": "Погнали!",
       "title": "Как появился фастфуд #погнали #натанзон #сша",
       "url": "https://www.youtube.com/shorts/axFPDnTOvYo",
       "published_at_utc": "2026-06-07T09:00:30+00:00",
-      "age_seconds": 3103
+      "age_seconds": 3351
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Капитан Армения",
       "url": "https://www.youtube.com/shorts/vx5z9dE_xmA",
       "published_at_utc": "2026-06-07T09:00:05+00:00",
-      "age_seconds": 3086
+      "age_seconds": 3341
     },
     {
       "channel": "IXBT Games",
       "title": "Крепкая Ларка в Legacy of Atlantis #ixbtgames #ixbt #tombraiderlegacyofatlantis #tombraider #игры",
       "url": "https://www.youtube.com/shorts/9C83GPREaCs",
       "published_at_utc": "2026-06-07T09:00:05+00:00",
-      "age_seconds": 3145
+      "age_seconds": 3385
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "✅ФУКУСИМА ☢️ Приехала ПОЛИЦИЯ !!! Проникли в ДОМ ликвидаторов ☠️Покинутая БОЛЬНИЦА / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=L6ZV28SSKPA",
       "published_at_utc": "2026-06-07T08:41:23+00:00",
-      "age_seconds": 4310
+      "age_seconds": 4555
     },
     {
       "channel": "РАЙЗ",
       "title": "ДОНК ПРОТИВ ПАПИКОВ! МАЖОР НАЧАЛСЯ",
       "url": "https://www.youtube.com/watch?v=0GGnd5Qra3o",
       "published_at_utc": "2026-06-07T08:35:31+00:00",
-      "age_seconds": 4626
+      "age_seconds": 4867
     },
     {
       "channel": "Recrent",
       "title": "КИБЕРСПОРТИВНЫЙ ПЛАН",
       "url": "https://www.youtube.com/shorts/H-Pof50rLCU",
       "published_at_utc": "2026-06-07T08:33:04+00:00",
-      "age_seconds": 4798
+      "age_seconds": 5042
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱КОПАЕМ ВНИЗ 943,937,559 КМ до ЦЕНТРА ЗЕМЛИ в Роблокс!",
       "url": "https://www.youtube.com/watch?v=0_AcdJ2kBNk",
       "published_at_utc": "2026-06-07T08:00:31+00:00",
-      "age_seconds": 6721
+      "age_seconds": 6960
     },
     {
       "channel": "Смешновости",
       "title": "Как назвать породу? 🤔 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/HxqUF2QJQiI",
       "published_at_utc": "2026-06-07T08:00:15+00:00",
-      "age_seconds": 6709
+      "age_seconds": 6958
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Французский принц",
       "url": "https://www.youtube.com/shorts/R2d_kx_-pl0",
       "published_at_utc": "2026-06-07T08:00:08+00:00",
-      "age_seconds": 6683
+      "age_seconds": 6938
     }
   ]
 }
