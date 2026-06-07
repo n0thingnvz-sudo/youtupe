@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-07T05:30:34.695568+00:00",
+  "generated_at_utc": "2026-06-07T05:32:35.224877+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "10 ОТКРЫТЫХ МИРОВ КОТОРЫЕ НЕ ЗАКАНЧИВАЮТСЯ",
       "url": "https://www.youtube.com/watch?v=7pbUOC-QWUo",
       "published_at_utc": "2026-06-07T05:00:25+00:00",
-      "age_seconds": 1805
+      "age_seconds": 1925
     },
     {
       "channel": "Rozetked",
       "title": "Вся правда об Nvidia RTX Spark",
       "url": "https://www.youtube.com/watch?v=i9D8uAyM0ww",
       "published_at_utc": "2026-06-07T05:00:10+00:00",
-      "age_seconds": 1736
+      "age_seconds": 1856
     }
   ]
 }
