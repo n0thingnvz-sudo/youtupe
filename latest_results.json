@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-06-07T07:34:46.738810+00:00",
+  "generated_at_utc": "2026-06-07T07:36:44.874231+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Асафьев. Жизнь",
+      "title": "VW хотят вернуть в Россию | Что они творят?! LUCE и AMG GT | Porsche останавливает завод",
+      "url": "https://www.youtube.com/watch?v=KyUAk6n3lyI",
+      "published_at_utc": "2026-06-07T07:20:07+00:00",
+      "age_seconds": 940
+    },
     {
       "channel": "Мармеладыч",
       "title": "МАГНИТ, вы реально щас?",
       "url": "https://www.youtube.com/shorts/ISpnHsPEsFs",
       "published_at_utc": "2026-06-07T07:11:04+00:00",
-      "age_seconds": 1358
+      "age_seconds": 1478
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самое дорогое слово в истории",
       "url": "https://www.youtube.com/shorts/8vDG_YtujMI",
       "published_at_utc": "2026-06-07T07:00:26+00:00",
-      "age_seconds": 1983
+      "age_seconds": 2103
     },
     {
       "channel": "Собиратель новостей",
       "title": "Скандальная Румынка Приехала в Питер К ПУТИНУ",
       "url": "https://www.youtube.com/shorts/IuOy6CRILIU",
       "published_at_utc": "2026-06-07T07:00:19+00:00",
-      "age_seconds": 1985
+      "age_seconds": 2105
     },
     {
       "channel": "Послезавтра",
       "title": "Чудеса льготной ипотеки #ипотека #недвижимость #экономика",
       "url": "https://www.youtube.com/shorts/k370Cs2Dq3c",
       "published_at_utc": "2026-06-07T06:21:00+00:00",
-      "age_seconds": 4324
+      "age_seconds": 4444
     },
     {
       "channel": "IXBT Games",
       "title": "Яркий-мясной боевик: Marvel's Wolverine #ixbtgames #ixbt #marvelswolverine #росомаха #логан #марвел",
       "url": "https://www.youtube.com/shorts/A_lNPsg1yB4",
       "published_at_utc": "2026-06-07T06:00:04+00:00",
-      "age_seconds": 5644
+      "age_seconds": 5765
     },
     {
       "channel": "курОлеся",
       "title": "Ребят, нам вас жаль, но… 😬",
       "url": "https://www.youtube.com/shorts/pCzfX6s40aY",
       "published_at_utc": "2026-06-07T05:47:43+00:00",
-      "age_seconds": 6343
+      "age_seconds": 6463
     }
   ]
 }
