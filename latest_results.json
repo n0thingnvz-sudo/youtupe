@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-06-07T06:30:46.039781+00:00",
+  "generated_at_utc": "2026-06-07T06:32:43.473003+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Чудеса льготной ипотеки #ипотека #недвижимость #экономика",
+      "url": "https://www.youtube.com/shorts/k370Cs2Dq3c",
+      "published_at_utc": "2026-06-07T06:21:00+00:00",
+      "age_seconds": 604
+    },
     {
       "channel": "IXBT Games",
       "title": "Яркий-мясной боевик: Marvel's Wolverine #ixbtgames #ixbt #marvelswolverine #росомаха #логан #марвел",
       "url": "https://www.youtube.com/shorts/A_lNPsg1yB4",
       "published_at_utc": "2026-06-07T06:00:04+00:00",
-      "age_seconds": 1803
+      "age_seconds": 1924
     },
     {
       "channel": "курОлеся",
       "title": "Ребят, нам вас жаль, но… 😬",
       "url": "https://www.youtube.com/shorts/pCzfX6s40aY",
       "published_at_utc": "2026-06-07T05:47:43+00:00",
-      "age_seconds": 2503
+      "age_seconds": 2624
     },
     {
       "channel": "Никитун",
       "title": "10 ОТКРЫТЫХ МИРОВ КОТОРЫЕ НЕ ЗАКАНЧИВАЮТСЯ",
       "url": "https://www.youtube.com/watch?v=7pbUOC-QWUo",
       "published_at_utc": "2026-06-07T05:00:25+00:00",
-      "age_seconds": 5415
+      "age_seconds": 5533
     },
     {
       "channel": "Rozetked",
       "title": "Вся правда об Nvidia RTX Spark",
       "url": "https://www.youtube.com/watch?v=i9D8uAyM0ww",
       "published_at_utc": "2026-06-07T05:00:10+00:00",
-      "age_seconds": 5337
+      "age_seconds": 5456
     }
   ]
 }
