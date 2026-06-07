@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-07T22:10:38.706692+00:00",
+  "generated_at_utc": "2026-06-07T22:12:41.489987+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Объяпонился",
+      "title": "3 вещи про китайские пляжи, которые удивляют туристов 🫢",
+      "url": "https://www.youtube.com/shorts/aGmN3eLsUfw",
+      "published_at_utc": "2026-06-07T22:01:37+00:00",
+      "age_seconds": 605
+    },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Xbox Games Showcase 2026 [20:00] + Gears of War E-Day + PC Gaming Show 2026 [22:00]",
       "url": "https://www.youtube.com/watch?v=8gxhv-vf8YY",
       "published_at_utc": "2026-06-07T20:59:48+00:00",
-      "age_seconds": 4215
+      "age_seconds": 4338
     },
     {
       "channel": "perox",
       "title": "Капитан🏴‍☠️ тгк: Пекарня Пирога #backrooms #бекрумс #пацаны #perox #перокс",
       "url": "https://www.youtube.com/shorts/xtTp3zB9BbM",
       "published_at_utc": "2026-06-07T20:58:05+00:00",
-      "age_seconds": 4265
+      "age_seconds": 4385
     },
     {
       "channel": "Никита Нестеров",
       "title": "Желание клиента - закон! Но что делать, когда клиентов много и желания у всех разные? 👀",
       "url": "https://www.youtube.com/shorts/hkbFtB6wvWY",
       "published_at_utc": "2026-06-07T20:34:12+00:00",
-      "age_seconds": 5740
+      "age_seconds": 5862
     }
   ]
 }
