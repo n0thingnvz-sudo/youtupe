@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-07T18:38:57.946463+00:00",
+  "generated_at_utc": "2026-06-07T18:41:01.573302+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,91 +7,98 @@
       "title": "XBOX Games Showcase 2026",
       "url": "https://www.youtube.com/watch?v=pihTgpq2350",
       "published_at_utc": "2026-06-07T18:37:32+00:00",
-      "age_seconds": 71
+      "age_seconds": 193
+    },
+    {
+      "channel": "Лучшее с T2x2",
+      "title": "Айсберг УЖАСОВ WILDBERRIES / РЕАКЦИЯ T2x2",
+      "url": "https://www.youtube.com/watch?v=xanilBIRSpA",
+      "published_at_utc": "2026-06-07T18:36:15+00:00",
+      "age_seconds": 285
     },
     {
       "channel": "Короче, новости",
       "title": "Эриксен Опять Потерял Сознание Во Время Матча",
       "url": "https://www.youtube.com/shorts/V_pu2FXvx3c",
       "published_at_utc": "2026-06-07T18:21:58+00:00",
-      "age_seconds": 929
+      "age_seconds": 1049
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Найди к утру 1000 сигар не спрашивай зачем",
       "url": "https://www.youtube.com/shorts/wIhzehci_kc",
       "published_at_utc": "2026-06-07T18:09:18+00:00",
-      "age_seconds": 1694
+      "age_seconds": 1814
     },
     {
       "channel": "Vert Dider",
       "title": "Триллион кадров в секунду",
       "url": "https://www.youtube.com/shorts/wxAFan9fl0E",
       "published_at_utc": "2026-06-07T18:08:54+00:00",
-      "age_seconds": 1691
+      "age_seconds": 1811
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Инженеры Мерседес готовы на всё ради нового титула",
       "url": "https://www.youtube.com/shorts/LjItzMUf7Ic",
       "published_at_utc": "2026-06-07T17:40:00+00:00",
-      "age_seconds": 3451
+      "age_seconds": 3571
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Еду на гору \"Две сестры\". Чудо природы рядом с Калининградом",
       "url": "https://www.youtube.com/watch?v=uSN5FB2Etqo",
       "published_at_utc": "2026-06-07T17:35:46+00:00",
-      "age_seconds": 3706
+      "age_seconds": 3826
     },
     {
       "channel": "Короче, новости",
       "title": "Испекли Хлеб из 5000-летней Мумии",
       "url": "https://www.youtube.com/shorts/pAcMmK2BdGM",
       "published_at_utc": "2026-06-07T17:28:22+00:00",
-      "age_seconds": 4145
+      "age_seconds": 4265
     },
     {
       "channel": "StopGame",
       "title": "Лучшее с Summer Game Fest 2026 — Teenage Mutant Ninja Turtles: The Last Ronin",
       "url": "https://www.youtube.com/shorts/NXfNVCqj9Og",
       "published_at_utc": "2026-06-07T17:14:47+00:00",
-      "age_seconds": 5015
+      "age_seconds": 5139
     },
     {
       "channel": "StopGame",
       "title": "Лучшее с Summer Game Fest 2026 — Blood Message",
       "url": "https://www.youtube.com/shorts/x_J7nKXN76s",
       "published_at_utc": "2026-06-07T17:04:14+00:00",
-      "age_seconds": 5648
+      "age_seconds": 5772
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Вот это настоящие полицейские",
       "url": "https://www.youtube.com/shorts/So_dQ_IiZ1c",
       "published_at_utc": "2026-06-07T17:00:19+00:00",
-      "age_seconds": 5832
+      "age_seconds": 5952
     },
     {
       "channel": "Майни",
       "title": "РАЗРАБОТЧИКИ ИГР ИЗ ЯПОНИИ НЕНАВИДЯТ ГЕЙМЕРОВ | Реакция",
       "url": "https://www.youtube.com/watch?v=NVxosl234Gc",
       "published_at_utc": "2026-06-07T17:00:13+00:00",
-      "age_seconds": 5814
+      "age_seconds": 5934
     },
     {
       "channel": "StopGame",
       "title": "Лучшее с Summer Game Fest 2026 — Resident Evil Veronica",
       "url": "https://www.youtube.com/shorts/1Pz48dyqomY",
       "published_at_utc": "2026-06-07T16:56:03+00:00",
-      "age_seconds": 6139
+      "age_seconds": 6263
     },
     {
       "channel": "StopGame",
       "title": "Лучшее с Summer Game Fest 2026 — Stellar Blade 2",
       "url": "https://www.youtube.com/shorts/Zt56kHgkUqY",
       "published_at_utc": "2026-06-07T16:49:04+00:00",
-      "age_seconds": 6558
+      "age_seconds": 6682
     }
   ]
 }
