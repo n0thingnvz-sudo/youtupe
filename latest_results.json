@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-08T20:01:11.265176+00:00",
+  "generated_at_utc": "2026-06-08T20:05:07.530195+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Презентация APPLE WWDC 26 вместе с WYLSACOM: iOS 27 и другие новинки!",
       "url": "https://www.youtube.com/watch?v=DskXXM48BWY",
       "published_at_utc": "2026-06-08T19:00:25+00:00",
-      "age_seconds": 3535
+      "age_seconds": 3775
     },
     {
       "channel": "Никита Нестеров",
       "title": "Беги, Форрест, беги!!!",
       "url": "https://www.youtube.com/shorts/rMffThCB5u4",
       "published_at_utc": "2026-06-08T18:45:11+00:00",
-      "age_seconds": 4496
+      "age_seconds": 4736
     }
   ]
 }
