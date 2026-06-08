@@ -1,90 +1,97 @@
 {
-  "generated_at_utc": "2026-06-08T11:40:55.835931+00:00",
+  "generated_at_utc": "2026-06-08T11:42:55.896890+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Amitesh",
+      "title": "Миф о бобрах #амитеш #мифы",
+      "url": "https://www.youtube.com/shorts/npRhlVsM6y8",
+      "published_at_utc": "2026-06-08T11:31:00+00:00",
+      "age_seconds": 654
+    },
+    {
+      "channel": "IGM",
+      "title": "ЛЕГЕНДАРНЫЙ ИГРОВОЙ ГОД",
+      "url": "https://www.youtube.com/shorts/Mp5aBNxLCEA",
+      "published_at_utc": "2026-06-08T11:28:06+00:00",
+      "age_seconds": 849
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Пролила воду на пол плати €1000 евро",
       "url": "https://www.youtube.com/shorts/QNuuGl9jH4c",
       "published_at_utc": "2026-06-08T11:15:06+00:00",
-      "age_seconds": 1464
+      "age_seconds": 1586
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Поиск снимка 40-летней давности",
       "url": "https://www.youtube.com/shorts/vqWfCESG_YM",
       "published_at_utc": "2026-06-08T11:00:37+00:00",
-      "age_seconds": 2333
+      "age_seconds": 2455
     },
     {
       "channel": "sereGGa",
       "title": "ХАРТСТОУН ГЛАЗАМИ НОВИЧКА В 2026",
       "url": "https://www.youtube.com/watch?v=OR_qH4JLyAI",
       "published_at_utc": "2026-06-08T11:00:11+00:00",
-      "age_seconds": 2415
+      "age_seconds": 2537
     },
     {
       "channel": "курОлеся",
       "title": "Да-да, веганы опять орут, что они веганы 🥱",
       "url": "https://www.youtube.com/shorts/R_FG1yOGVBg",
       "published_at_utc": "2026-06-08T10:34:00+00:00",
-      "age_seconds": 3927
+      "age_seconds": 4049
     },
     {
       "channel": "Valera Ghosther",
       "title": "КАК ОТКРЫТЬ СВОЮ ЕДУ 🐟",
       "url": "https://www.youtube.com/watch?v=gb0udkgFIsk",
       "published_at_utc": "2026-06-08T10:33:05+00:00",
-      "age_seconds": 4053
+      "age_seconds": 4174
     },
     {
       "channel": "Алежа Обухов",
       "title": "Новые профессии со старыми привычками",
       "url": "https://www.youtube.com/shorts/ijSURvir7HQ",
       "published_at_utc": "2026-06-08T10:30:49+00:00",
-      "age_seconds": 4141
+      "age_seconds": 4262
     },
     {
       "channel": "Amitesh",
       "title": "Зачем на прицеле сетка? #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/rej0DFSszCs",
       "published_at_utc": "2026-06-08T10:28:00+00:00",
-      "age_seconds": 4313
+      "age_seconds": 4434
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Первый раз когда хочется дождя",
       "url": "https://www.youtube.com/shorts/jJP0WEQY8FU",
       "published_at_utc": "2026-06-08T10:00:12+00:00",
-      "age_seconds": 5958
+      "age_seconds": 6080
     },
     {
       "channel": "Смешновости",
       "title": "Скидка за красивые глазки 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/ED4DBvGIzKE",
       "published_at_utc": "2026-06-08T10:00:07+00:00",
-      "age_seconds": 5990
+      "age_seconds": 6111
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ ГОВОРЯ, Я АМЕРИКАНЕЦ",
       "url": "https://www.youtube.com/watch?v=pOEmVSmK3O0",
       "published_at_utc": "2026-06-08T09:59:24+00:00",
-      "age_seconds": 5988
+      "age_seconds": 6109
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Собрал все вкусы CHOKODELIKA",
       "url": "https://www.youtube.com/shorts/xgccvlKwYqw",
       "published_at_utc": "2026-06-08T09:44:48+00:00",
-      "age_seconds": 6909
-    },
-    {
-      "channel": "ДУШНИЛА",
-      "title": "МИФЫ № 41",
-      "url": "https://www.youtube.com/shorts/SfuzVV7jgJ0",
-      "published_at_utc": "2026-06-08T09:40:42+00:00",
-      "age_seconds": 7116
+      "age_seconds": 7031
     }
   ]
 }
