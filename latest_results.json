@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-08T19:49:08.519504+00:00",
+  "generated_at_utc": "2026-06-08T19:53:09.691675+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Презентация APPLE WWDC 26 вместе с WYLSACOM: iOS 27 и другие новинки!",
       "url": "https://www.youtube.com/watch?v=DskXXM48BWY",
       "published_at_utc": "2026-06-08T19:00:25+00:00",
-      "age_seconds": 2817
+      "age_seconds": 3056
     },
     {
       "channel": "Никита Нестеров",
       "title": "Беги, Форрест, беги!!!",
       "url": "https://www.youtube.com/shorts/rMffThCB5u4",
       "published_at_utc": "2026-06-08T18:45:11+00:00",
-      "age_seconds": 3777
+      "age_seconds": 4017
     },
     {
       "channel": "Короче, новости",
       "title": "День Сикс-Севен 6.7 в 06:07",
       "url": "https://www.youtube.com/shorts/qKAPWtGA5Ks",
       "published_at_utc": "2026-06-08T17:52:05+00:00",
-      "age_seconds": 6926
-    },
-    {
-      "channel": "perox",
-      "title": "ИМБА😭 тгк: Пекарня Пирога #wutheringwaves #cyberpunk  #wuwa #perox #перокс",
-      "url": "https://www.youtube.com/shorts/M_UFAUuSeog",
-      "published_at_utc": "2026-06-08T17:48:54+00:00",
-      "age_seconds": 7099
+      "age_seconds": 7165
     }
   ]
 }
