@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-08T08:00:50.814566+00:00",
+  "generated_at_utc": "2026-06-08T08:02:46.693184+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Мне бы такого друга…",
+      "url": "https://www.youtube.com/shorts/RNz_e68szCU",
+      "published_at_utc": "2026-06-08T08:00:28+00:00",
+      "age_seconds": 61
+    },
     {
       "channel": "Послезавтра",
       "title": "Кому продают оружие американцы? #сша #европа #америка",
       "url": "https://www.youtube.com/shorts/jCAvsgVW9SQ",
       "published_at_utc": "2026-06-08T07:37:17+00:00",
-      "age_seconds": 1307
+      "age_seconds": 1427
     },
     {
       "channel": "Собиратель новостей",
       "title": "Модники Ходят БОСИКОМ и Платят за это 800 ДОЛЛАРОВ",
       "url": "https://www.youtube.com/shorts/4IQ3O4mKfX8",
       "published_at_utc": "2026-06-08T07:30:07+00:00",
-      "age_seconds": 1757
+      "age_seconds": 1878
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Обман года",
       "url": "https://www.youtube.com/shorts/Oza4rdRrDC8",
       "published_at_utc": "2026-06-08T07:00:36+00:00",
-      "age_seconds": 3534
+      "age_seconds": 3653
     }
   ]
 }
