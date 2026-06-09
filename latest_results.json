@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-06-09T09:04:52.564592+00:00",
+  "generated_at_utc": "2026-06-09T09:06:49.950169+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "История одной семьи",
+      "url": "https://www.youtube.com/shorts/6taDDTIykZA",
+      "published_at_utc": "2026-06-09T09:00:38+00:00",
+      "age_seconds": 291
+    },
     {
       "channel": "ДУШНИЛА",
       "title": "Спидран по тиктоку № 29",
       "url": "https://www.youtube.com/shorts/Gq6eRxY1itg",
       "published_at_utc": "2026-06-09T08:51:34+00:00",
-      "age_seconds": 705
+      "age_seconds": 824
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самое мощное похудение",
       "url": "https://www.youtube.com/shorts/0e641XDHnzo",
       "published_at_utc": "2026-06-09T08:30:10+00:00",
-      "age_seconds": 1999
+      "age_seconds": 2118
     },
     {
       "channel": "Wylsacom",
       "title": "Наушники Яндекс Дропс с Алиса AI. Первое впечатление!",
       "url": "https://www.youtube.com/watch?v=ghZ3y12KUko",
       "published_at_utc": "2026-06-09T08:25:31+00:00",
-      "age_seconds": 2267
+      "age_seconds": 2387
     },
     {
       "channel": "Rozetked",
       "title": "Всё про iOS 27 — так бы сразу, Apple!",
       "url": "https://www.youtube.com/watch?v=YaO9Hwc86pQ",
       "published_at_utc": "2026-06-09T08:04:19+00:00",
-      "age_seconds": 3528
+      "age_seconds": 3648
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 179 - для веселого дня! 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/Gev2bkRQd_I",
       "published_at_utc": "2026-06-09T08:00:35+00:00",
-      "age_seconds": 3801
+      "age_seconds": 3920
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно, а зачем ?",
       "url": "https://www.youtube.com/shorts/l54ZPWDH2Gs",
       "published_at_utc": "2026-06-09T08:00:22+00:00",
-      "age_seconds": 3789
+      "age_seconds": 3908
     },
     {
       "channel": "Собиратель новостей",
       "title": "Телефон Теперь Заряжаем ЧЕРЕЗ ЗОНТИК",
       "url": "https://www.youtube.com/shorts/wZvm_bbneWA",
       "published_at_utc": "2026-06-09T07:15:27+00:00",
-      "age_seconds": 6479
+      "age_seconds": 6598
     }
   ]
 }
