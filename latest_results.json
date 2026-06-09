@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-06-09T22:04:46.473480+00:00",
+  "generated_at_utc": "2026-06-09T22:06:45.074688+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Геймплей Gears of War: E-Day — лучшее с Xbox Games Showcase 2026",
+      "url": "https://www.youtube.com/shorts/y1zOy00CFho",
+      "published_at_utc": "2026-06-09T22:00:15+00:00",
+      "age_seconds": 360
+    },
     {
       "channel": "Объяпонился",
       "title": "Маленькие машины, которые захватили Японию 😯",
       "url": "https://www.youtube.com/shorts/xCI0PBaxvkY",
       "published_at_utc": "2026-06-09T20:19:26+00:00",
-      "age_seconds": 6257
+      "age_seconds": 6377
     },
     {
       "channel": "perox",
       "title": "Правда🌬 тгк: Пекарня Пирога #растенияпротивзомби #pvz #воздух #perox #перокс",
       "url": "https://www.youtube.com/shorts/FX_-laVVIVQ",
       "published_at_utc": "2026-06-09T20:10:40+00:00",
-      "age_seconds": 6750
+      "age_seconds": 6870
     }
   ]
 }
