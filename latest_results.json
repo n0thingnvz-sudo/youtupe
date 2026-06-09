@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-06-09T07:20:48.772149+00:00",
+  "generated_at_utc": "2026-06-09T07:22:46.556693+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Собиратель новостей",
-      "title": "Телефон Теперь Заряжаем ЧЕРЕЗ ЗОНТИК",
-      "url": "https://www.youtube.com/shorts/wZvm_bbneWA",
-      "published_at_utc": "2026-06-09T07:15:27+00:00",
-      "age_seconds": 237
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Нелепая случайность",
       "url": "https://www.youtube.com/shorts/E3JdaHxM1yc",
       "published_at_utc": "2026-06-09T07:00:37+00:00",
-      "age_seconds": 1132
+      "age_seconds": 1253
     },
     {
       "channel": "Марк Аддерли",
       "title": "ОБЗОР НА ВСЕ НОВОВВЕДЕНИЯ - iOS 27 Developer Beta 1",
       "url": "https://www.youtube.com/watch?v=_BunmYU4Rg8",
       "published_at_utc": "2026-06-09T07:00:11+00:00",
-      "age_seconds": 1165
+      "age_seconds": 1286
     },
     {
       "channel": "kinoluv",
       "title": "Уходит целая эпоха!🫡 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/hB-H804dnME",
       "published_at_utc": "2026-06-09T06:35:03+00:00",
-      "age_seconds": 2664
+      "age_seconds": 2785
     },
     {
       "channel": "CS2TV",
       "title": "ФЛАМУС НАОРАЛ НА MONTE! НА МАЖОРЕ ИГРАЮТ В ТЕМНОТЕ! ASTRALIS ОПОЗОРИЛИСЬ! НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=UFrEjUADaqE",
       "published_at_utc": "2026-06-09T06:03:11+00:00",
-      "age_seconds": 4633
+      "age_seconds": 4752
     },
     {
       "channel": "IXBT Games",
       "title": "CD Project RED ПРОТИВ русской озвучки! #ixbtgames #ixbt #cdprojektred #cyberpunk2077 #дубляж  #игры",
       "url": "https://www.youtube.com/shorts/Wog0IXxrcmw",
       "published_at_utc": "2026-06-09T06:00:17+00:00",
-      "age_seconds": 4792
+      "age_seconds": 4912
     }
   ]
 }
