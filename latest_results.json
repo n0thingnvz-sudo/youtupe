@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-06-09T22:16:44.462278+00:00",
+  "generated_at_utc": "2026-06-09T22:18:41.871784+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "StopGame",
+      "title": "Геймплей Gears of War: E-Day — лучшее с Xbox Games Showcase 2026",
+      "url": "https://www.youtube.com/shorts/y1zOy00CFho",
+      "published_at_utc": "2026-06-09T22:00:15+00:00",
+      "age_seconds": 1078
+    },
     {
       "channel": "Объяпонился",
       "title": "Маленькие машины, которые захватили Японию 😯",
       "url": "https://www.youtube.com/shorts/xCI0PBaxvkY",
       "published_at_utc": "2026-06-09T20:19:26+00:00",
-      "age_seconds": 6977
+      "age_seconds": 7096
     }
   ]
 }
