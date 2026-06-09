@@ -1,69 +1,69 @@
 {
-  "generated_at_utc": "2026-06-09T18:41:12.352866+00:00",
+  "generated_at_utc": "2026-06-09T18:45:09.138229+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Бургер БОКС",
+      "url": "https://www.youtube.com/shorts/9JisJWL-Dps",
+      "published_at_utc": "2026-06-09T18:29:03+00:00",
+      "age_seconds": 901
+    },
     {
       "channel": "Vert Dider",
       "title": "Новая озвучка уже на канале!",
       "url": "https://www.youtube.com/shorts/jzKRdb1ib-c",
       "published_at_utc": "2026-06-09T17:21:41+00:00",
-      "age_seconds": 4644
+      "age_seconds": 4884
     },
     {
       "channel": "SonnyK",
       "title": "Gothic Remake - ПОСЛЕ 60 ЧАСОВ",
       "url": "https://www.youtube.com/watch?v=bZ-Mw_CSlSs",
       "published_at_utc": "2026-06-09T17:18:59+00:00",
-      "age_seconds": 4885
+      "age_seconds": 5123
     },
     {
       "channel": "Новостной Гусь",
       "title": "Дональд Трамп любитель спорта",
       "url": "https://www.youtube.com/shorts/toJDnAQEx58",
       "published_at_utc": "2026-06-09T17:15:26+00:00",
-      "age_seconds": 5048
+      "age_seconds": 5287
     },
     {
       "channel": "Вселенная Плюс",
       "title": "ВРЕМЯ НЕЛЬЗЯ ИЗМЕРИТЬ. Семихатов и Сурдин",
       "url": "https://www.youtube.com/watch?v=EmLsnn42_KM",
       "published_at_utc": "2026-06-09T17:15:06+00:00",
-      "age_seconds": 5038
+      "age_seconds": 5278
     },
     {
       "channel": "Vert Dider",
       "title": "Как работает застёжка-молния? [Veritasium]",
       "url": "https://www.youtube.com/watch?v=4_3EYJedJHk",
       "published_at_utc": "2026-06-09T17:11:36+00:00",
-      "age_seconds": 5249
+      "age_seconds": 5489
     },
     {
       "channel": "StopGame",
       "title": "Сразу две Persona — лучшее с Xbox Games Showcase 2026",
       "url": "https://www.youtube.com/shorts/rs5T1OfbdwM",
       "published_at_utc": "2026-06-09T17:02:14+00:00",
-      "age_seconds": 5900
+      "age_seconds": 6138
     },
     {
       "channel": "Wylsacom",
       "title": "Вся правда о презентации iOS 27",
       "url": "https://www.youtube.com/watch?v=xhcMcukp57s",
       "published_at_utc": "2026-06-09T16:55:04+00:00",
-      "age_seconds": 6257
+      "age_seconds": 6497
     },
     {
       "channel": "МайорКрафт",
       "title": "Костюм для настоящих супергероев #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/KJD6_yNZLwA",
       "published_at_utc": "2026-06-09T16:45:14+00:00",
-      "age_seconds": 6885
-    },
-    {
-      "channel": "perox",
-      "title": "Поганец😁 тгк: Пекарня Пирога #поганец #брат #сестра #perox #перокс",
-      "url": "https://www.youtube.com/shorts/Z6O59a9gCqg",
-      "published_at_utc": "2026-06-09T16:42:39+00:00",
-      "age_seconds": 6993
+      "age_seconds": 7123
     }
   ]
 }
