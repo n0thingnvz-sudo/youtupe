@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-09T19:33:17.659189+00:00",
+  "generated_at_utc": "2026-06-09T19:37:15.127080+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,35 @@
       "title": "Китайская арматура самая крепкая в мире",
       "url": "https://www.youtube.com/shorts/w71qWnR9ZWM",
       "published_at_utc": "2026-06-09T19:30:26+00:00",
-      "age_seconds": 73
+      "age_seconds": 310
+    },
+    {
+      "channel": "StopGame",
+      "title": "DLC для DOOM The Dark Ages — лучшее с Xbox Games Showcase 2026",
+      "url": "https://www.youtube.com/shorts/yEyg1Z9tJdk",
+      "published_at_utc": "2026-06-09T19:30:05+00:00",
+      "age_seconds": 392
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Штирлиц никогда не был так близок к провалу",
       "url": "https://www.youtube.com/shorts/bXlmrQbT4nk",
       "published_at_utc": "2026-06-09T18:54:35+00:00",
-      "age_seconds": 2224
+      "age_seconds": 2461
     },
     {
       "channel": "Wylsacom",
       "title": "11 ФИШЕК iOS 27 НА iPHONE 11",
       "url": "https://www.youtube.com/watch?v=C4oqn5ONPmg",
       "published_at_utc": "2026-06-09T18:49:31+00:00",
-      "age_seconds": 2512
+      "age_seconds": 2750
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Бургер БОКС",
       "url": "https://www.youtube.com/shorts/9JisJWL-Dps",
       "published_at_utc": "2026-06-09T18:29:03+00:00",
-      "age_seconds": 3786
+      "age_seconds": 4024
     }
   ]
 }
