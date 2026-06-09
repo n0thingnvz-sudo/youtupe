@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-09T19:25:15.626058+00:00",
+  "generated_at_utc": "2026-06-09T19:29:13.427472+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "хотите я помогу с решением других задач из списка",
       "url": "https://www.youtube.com/shorts/bXlmrQbT4nk",
       "published_at_utc": "2026-06-09T18:54:35+00:00",
-      "age_seconds": 1742
+      "age_seconds": 1983
     },
     {
       "channel": "Wylsacom",
       "title": "11 ФИШЕК iOS 27 НА iPHONE 11",
       "url": "https://www.youtube.com/watch?v=C4oqn5ONPmg",
       "published_at_utc": "2026-06-09T18:49:31+00:00",
-      "age_seconds": 2031
+      "age_seconds": 2270
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Бургер БОКС",
       "url": "https://www.youtube.com/shorts/9JisJWL-Dps",
       "published_at_utc": "2026-06-09T18:29:03+00:00",
-      "age_seconds": 3305
+      "age_seconds": 3545
     }
   ]
 }
