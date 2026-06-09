@@ -1,118 +1,139 @@
 {
-  "generated_at_utc": "2026-06-09T12:23:02.944216+00:00",
+  "generated_at_utc": "2026-06-09T12:27:02.627560+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "GUZNO",
+      "title": "БАЛДЕЖНОЕ ПРОХОЖДЕНИЕ 007 First Light",
+      "url": "https://www.youtube.com/watch?v=XmC6Ky-142E",
+      "published_at_utc": "2026-06-09T12:20:29+00:00",
+      "age_seconds": 350
+    },
+    {
+      "channel": "Amitesh",
+      "title": "Как выглядит сфера вблизи? #амитеш #технологии",
+      "url": "https://www.youtube.com/shorts/aJBM2KyepZE",
+      "published_at_utc": "2026-06-09T12:12:09+00:00",
+      "age_seconds": 830
+    },
     {
       "channel": "EugeneSagaz",
       "title": "Я ОХОТНИК ИЛИ ДОБЫЧА?",
       "url": "https://www.youtube.com/watch?v=0Lg96ZNY2XY",
       "published_at_utc": "2026-06-09T12:03:32+00:00",
-      "age_seconds": 1148
+      "age_seconds": 1389
     },
     {
       "channel": "Смешновости",
       "title": "5 минут без телефона 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/FIBnIQYKzLI",
       "published_at_utc": "2026-06-09T12:00:39+00:00",
-      "age_seconds": 1282
+      "age_seconds": 1524
     },
     {
       "channel": "БУЛДЖАТь",
       "title": "Его наконец-то посадили!",
       "url": "https://www.youtube.com/shorts/Vn21oZJvhFQ",
       "published_at_utc": "2026-06-09T12:00:37+00:00",
-      "age_seconds": 1303
+      "age_seconds": 1546
     },
     {
       "channel": "Kuplinov ► Play",
       "title": "КРОКОДИЛИЙ ПЕРЕКУС ► 007 First Light #8",
       "url": "https://www.youtube.com/watch?v=9plMPx0EVMM",
       "published_at_utc": "2026-06-09T12:00:36+00:00",
-      "age_seconds": 1310
+      "age_seconds": 1552
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Будда в шоке",
+      "url": "https://www.youtube.com/shorts/KzlvsKO5Re0",
+      "published_at_utc": "2026-06-09T12:00:31+00:00",
+      "age_seconds": 1503
+    },
+    {
+      "channel": "MrLololoshka (Роман Фильченков)",
+      "title": "Lp. Мастерская [47] • #68 ПАМЯТЬ ПРОШЛОГО [Древнейшая Аномалия] • Майнкрафт",
+      "url": "https://www.youtube.com/watch?v=qMH7dHuPI4A",
+      "published_at_utc": "2026-06-09T12:00:07+00:00",
+      "age_seconds": 1578
     },
     {
       "channel": "kinoluv",
       "title": "Когда ты умеешь постоять за своего мужа!😏",
       "url": "https://www.youtube.com/shorts/lSBq1gBgXGg",
       "published_at_utc": "2026-06-09T11:54:59+00:00",
-      "age_seconds": 1591
+      "age_seconds": 1833
     },
     {
       "channel": "Поззи",
       "title": "Мы Уходим из Brawl Stars.. Но куда? 🙄",
       "url": "https://www.youtube.com/shorts/Sge-51UBCGU",
       "published_at_utc": "2026-06-09T11:36:47+00:00",
-      "age_seconds": 2771
+      "age_seconds": 3010
     },
     {
       "channel": "Собиратель новостей",
       "title": "В России Продают ДОМ-КОРАБЛЬ",
       "url": "https://www.youtube.com/shorts/DWbHEUJUytQ",
       "published_at_utc": "2026-06-09T11:30:25+00:00",
-      "age_seconds": 3062
+      "age_seconds": 3303
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Нашел наушники Яндекса",
       "url": "https://www.youtube.com/shorts/h7aFxKhpqxI",
       "published_at_utc": "2026-06-09T11:20:24+00:00",
-      "age_seconds": 3698
+      "age_seconds": 3940
     },
     {
       "channel": "Amitesh",
       "title": "Правда ли тепловая камера может заснять это? #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/iyNY4ExWNZc",
       "published_at_utc": "2026-06-09T11:09:34+00:00",
-      "age_seconds": 4342
+      "age_seconds": 4585
     },
     {
       "channel": "This is Хорошо",
       "title": "Самый простой мировой рекорд #shorts #шортс",
       "url": "https://www.youtube.com/shorts/0xI9D-lbOyo",
       "published_at_utc": "2026-06-09T11:00:36+00:00",
-      "age_seconds": 4882
+      "age_seconds": 5124
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Свадьба спасена",
       "url": "https://www.youtube.com/shorts/RVTiOEWybgE",
       "published_at_utc": "2026-06-09T11:00:29+00:00",
-      "age_seconds": 4863
+      "age_seconds": 5105
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Он использует мозг на 200%",
       "url": "https://www.youtube.com/shorts/8Ni_XuZWf6U",
       "published_at_utc": "2026-06-09T11:00:05+00:00",
-      "age_seconds": 4888
+      "age_seconds": 5130
     },
     {
       "channel": "Саша Фасоваша",
       "title": "ИТОГИ КОЛЛАБЫ С МАРМЕЛАДЫЧЕМ",
       "url": "https://www.youtube.com/shorts/m-ZN2PUHOgA",
       "published_at_utc": "2026-06-09T10:52:47+00:00",
-      "age_seconds": 5339
+      "age_seconds": 5583
     },
     {
       "channel": "EVG",
       "title": "КТО РАБОТАЕТ В ТЕЛЕМАГАЗИНЕ?",
       "url": "https://www.youtube.com/shorts/QO_N8JYvb6Q",
       "published_at_utc": "2026-06-09T10:30:20+00:00",
-      "age_seconds": 6664
+      "age_seconds": 6905
     },
     {
       "channel": "sun_kill",
       "title": "Показать процесс?",
       "url": "https://www.youtube.com/shorts/8EXyq1IzxGE",
       "published_at_utc": "2026-06-09T10:30:05+00:00",
-      "age_seconds": 6667
-    },
-    {
-      "channel": "Денис Карамышев",
-      "title": "Лицензия /007 First Light",
-      "url": "https://www.youtube.com/watch?v=2X0qxpuU4t0",
-      "published_at_utc": "2026-06-09T10:23:05+00:00",
-      "age_seconds": 7185
+      "age_seconds": 6908
     }
   ]
 }
