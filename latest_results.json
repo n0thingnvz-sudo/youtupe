@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-06-10T17:47:03.077752+00:00",
+  "generated_at_utc": "2026-06-10T17:51:08.481737+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "МайорКрафт",
+      "title": "Супер герой с телепатом #фильм #сериал #моменты",
+      "url": "https://www.youtube.com/shorts/kWAhlHyvCzU",
+      "published_at_utc": "2026-06-10T17:45:16+00:00",
+      "age_seconds": 285
+    },
     {
       "channel": "Лучшее с T2x2",
       "title": "НИКТО НЕ ЗНАЕТ, ЧТО СЛУЧИЛОСЬ С ЭННИ БЁРЬЕССОН / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=NoZVAZTACB0",
       "published_at_utc": "2026-06-10T17:30:42+00:00",
-      "age_seconds": 980
+      "age_seconds": 1225
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лего Wars: Франшиза наносит ответный удар",
       "url": "https://www.youtube.com/shorts/5U1w3tknVVg",
       "published_at_utc": "2026-06-10T17:30:38+00:00",
-      "age_seconds": 896
+      "age_seconds": 1134
     },
     {
       "channel": "Новостной Гусь",
       "title": "Убрали мусор с помощью нейронки",
       "url": "https://www.youtube.com/shorts/WId3FNlUH5k",
       "published_at_utc": "2026-06-10T17:30:00+00:00",
-      "age_seconds": 933
+      "age_seconds": 1171
     },
     {
       "channel": "i11ushenka",
       "title": "Служба поддержки Стима 😐",
       "url": "https://www.youtube.com/shorts/SdsXrdA2p-I",
       "published_at_utc": "2026-06-10T17:14:16+00:00",
-      "age_seconds": 1856
+      "age_seconds": 2095
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Возвращение легенды",
       "url": "https://www.youtube.com/shorts/ajYWY0vSMaw",
       "published_at_utc": "2026-06-10T17:00:32+00:00",
-      "age_seconds": 2702
+      "age_seconds": 2940
     },
     {
       "channel": "Vert Dider",
       "title": "Машина Гидеона Сундбэка",
       "url": "https://www.youtube.com/shorts/Ndg_eQMEguA",
       "published_at_utc": "2026-06-10T16:43:05+00:00",
-      "age_seconds": 3721
+      "age_seconds": 3960
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Другие НАШЫ ИГРЫ 2026 - кто не попал на шоу",
       "url": "https://www.youtube.com/watch?v=dEC02KJTg4I",
       "published_at_utc": "2026-06-10T16:31:34+00:00",
-      "age_seconds": 4486
+      "age_seconds": 4732
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "ХАЗЯЕВА ПРИЛЕТЕЛИ НА ИБИЦУ | УГАР С ШАДОУКЕКОМ И ЗЛЫМ",
       "url": "https://www.youtube.com/watch?v=3qCQic9ewQc",
       "published_at_utc": "2026-06-10T16:18:30+00:00",
-      "age_seconds": 5254
+      "age_seconds": 5501
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пухососы: драма в 2 актах",
       "url": "https://www.youtube.com/shorts/20ZlLoer6jY",
       "published_at_utc": "2026-06-10T16:15:33+00:00",
-      "age_seconds": 5401
+      "age_seconds": 5639
     },
     {
       "channel": "Никита Нестеров",
       "title": "Шутки миллениалов",
       "url": "https://www.youtube.com/shorts/s-HehwNPzDk",
       "published_at_utc": "2026-06-10T16:09:41+00:00",
-      "age_seconds": 5783
+      "age_seconds": 6029
     },
     {
       "channel": "Майни",
       "title": "КАК ОТКРЫТЬ СВОЮ ЕДУ 🐟 ► Valera Ghosther ( Валера Гостер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=GjU4MuJggLc",
       "published_at_utc": "2026-06-10T16:00:00+00:00",
-      "age_seconds": 6309
+      "age_seconds": 6547
     }
   ]
 }
