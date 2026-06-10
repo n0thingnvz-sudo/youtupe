@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-10T07:38:48.367284+00:00",
+  "generated_at_utc": "2026-06-10T07:40:51.903550+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,35 @@
       "title": "Когда пошёл с бабушкой на кладбище, а она устроила экскурсию. Часть 7",
       "url": "https://www.youtube.com/shorts/tIqqRP9LRnI",
       "published_at_utc": "2026-06-10T07:20:40+00:00",
-      "age_seconds": 1028
+      "age_seconds": 1150
+    },
+    {
+      "channel": "Собиратель новостей",
+      "title": "Украинцы Отказались Слушать Гимн РФ и Получили ШТРАФ",
+      "url": "https://www.youtube.com/shorts/47gXijJHRQ4",
+      "published_at_utc": "2026-06-10T07:15:20+00:00",
+      "age_seconds": 1444
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кризис лабубу",
       "url": "https://www.youtube.com/shorts/NxiHViMmfG4",
       "published_at_utc": "2026-06-10T07:00:22+00:00",
-      "age_seconds": 2229
+      "age_seconds": 2349
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Давайте жить дружно",
       "url": "https://www.youtube.com/shorts/6x1v8p6aEP8",
       "published_at_utc": "2026-06-10T07:00:20+00:00",
-      "age_seconds": 2230
+      "age_seconds": 2350
     },
     {
       "channel": "IXBT Games",
       "title": "Идеальный стёб над каноном #legobatmanlegacyofthedarkknight #batman #dc #лего #ixbtgames #ixbt",
       "url": "https://www.youtube.com/shorts/LMKs-ba_xjM",
       "published_at_utc": "2026-06-10T07:00:07+00:00",
-      "age_seconds": 2283
+      "age_seconds": 2407
     }
   ]
 }
