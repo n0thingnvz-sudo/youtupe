@@ -1,55 +1,69 @@
 {
-  "generated_at_utc": "2026-06-10T08:04:52.563092+00:00",
+  "generated_at_utc": "2026-06-10T08:06:55.099452+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "FixEye",
+      "title": "😱ОНО Охотится на меня пока Я Просто ВЫЖИВАЮ.. САМЫЙ СТРАШНЫЙ МОД EVIL HUNTER",
+      "url": "https://www.youtube.com/watch?v=9ZMeLMN6VPo",
+      "published_at_utc": "2026-06-10T08:00:19+00:00",
+      "age_seconds": 387
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Эта битва станет легендарной",
       "url": "https://www.youtube.com/shorts/uYuUhNySThM",
       "published_at_utc": "2026-06-10T08:00:13+00:00",
-      "age_seconds": 197
+      "age_seconds": 319
+    },
+    {
+      "channel": "Смешновости",
+      "title": "Незванный гость 😂 #истории #история #новости #новость #shorts",
+      "url": "https://www.youtube.com/shorts/fNwETiB3jc8",
+      "published_at_utc": "2026-06-10T08:00:12+00:00",
+      "age_seconds": 345
     },
     {
       "channel": "EVG",
       "title": "БАБКА НЕ ХОЧЕТ ПОПАДАТЬСЯ МОШЕННИКАМ, ПОЧЕМУ?",
       "url": "https://www.youtube.com/shorts/Zq7lCC6cRHk",
       "published_at_utc": "2026-06-10T07:45:02+00:00",
-      "age_seconds": 1100
+      "age_seconds": 1222
     },
     {
       "channel": "Алежа Обухов",
       "title": "Когда пошёл с бабушкой на кладбище, а она устроила экскурсию. Часть 7",
       "url": "https://www.youtube.com/shorts/tIqqRP9LRnI",
       "published_at_utc": "2026-06-10T07:20:40+00:00",
-      "age_seconds": 2590
+      "age_seconds": 2710
     },
     {
       "channel": "Собиратель новостей",
       "title": "Украинцы Отказались Слушать Гимн РФ и Получили ШТРАФ",
       "url": "https://www.youtube.com/shorts/47gXijJHRQ4",
       "published_at_utc": "2026-06-10T07:15:20+00:00",
-      "age_seconds": 2885
+      "age_seconds": 3007
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кризис лабубу",
       "url": "https://www.youtube.com/shorts/NxiHViMmfG4",
       "published_at_utc": "2026-06-10T07:00:22+00:00",
-      "age_seconds": 3788
+      "age_seconds": 3910
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Давайте жить дружно",
       "url": "https://www.youtube.com/shorts/6x1v8p6aEP8",
       "published_at_utc": "2026-06-10T07:00:20+00:00",
-      "age_seconds": 3790
+      "age_seconds": 3912
     },
     {
       "channel": "IXBT Games",
       "title": "Идеальный стёб над каноном #legobatmanlegacyofthedarkknight #batman #dc #лего #ixbtgames #ixbt",
       "url": "https://www.youtube.com/shorts/LMKs-ba_xjM",
       "published_at_utc": "2026-06-10T07:00:07+00:00",
-      "age_seconds": 3847
+      "age_seconds": 3967
     }
   ]
 }
