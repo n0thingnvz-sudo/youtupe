@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-06-10T00:00:37.619873+00:00",
+  "generated_at_utc": "2026-06-10T07:02:55.577837+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "StopGame",
-      "title": "Геймплей Gears of War: E-Day — лучшее с Xbox Games Showcase 2026",
-      "url": "https://www.youtube.com/shorts/y1zOy00CFho",
-      "published_at_utc": "2026-06-09T22:00:15+00:00",
-      "age_seconds": 7194
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Кризис лабубу",
+      "url": "https://www.youtube.com/shorts/NxiHViMmfG4",
+      "published_at_utc": "2026-06-10T07:00:22+00:00",
+      "age_seconds": 71
+    },
+    {
+      "channel": "IXBT Games",
+      "title": "Идеальный стёб над каноном #legobatmanlegacyofthedarkknight #batman #dc #лего #ixbtgames #ixbt",
+      "url": "https://www.youtube.com/shorts/LMKs-ba_xjM",
+      "published_at_utc": "2026-06-10T07:00:07+00:00",
+      "age_seconds": 129
     }
   ]
 }
