@@ -1,90 +1,97 @@
 {
-  "generated_at_utc": "2026-06-10T19:19:08.379906+00:00",
+  "generated_at_utc": "2026-06-10T19:23:11.486913+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ЛИЛ ТАТАР",
+      "title": "DK СМОТРИТ \"Лиза Монеточка у нас в гостях\"",
+      "url": "https://www.youtube.com/watch?v=qIvA_vjF2oQ",
+      "published_at_utc": "2026-06-10T19:18:03+00:00",
+      "age_seconds": 308
+    },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"РАЙ ДЛЯ БЕЛЫХ И БОГАТЫХ / Экваториальная Гвинея — скрытая жемчужина Африки\"",
       "url": "https://www.youtube.com/watch?v=snhMuKnqTN8",
       "published_at_utc": "2026-06-10T19:04:36+00:00",
-      "age_seconds": 872
+      "age_seconds": 1115
     },
     {
       "channel": "Dobryak",
       "title": "Я тренировался ГОД, чтобы поднять этот МЕЧ!",
       "url": "https://www.youtube.com/watch?v=ZRsl8okSgDU",
       "published_at_utc": "2026-06-10T19:04:10+00:00",
-      "age_seconds": 852
+      "age_seconds": 1091
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "ДК ПРОВЁЛ СВАДЬБУ СВОЕЙ ПОДПИСЧИЦЫ НА СТРИМЕ! ТРЕШ СВАДЬБА: ЖЕНИХ НАПИЛСЯ, НЕВЕСТА ПОТЕРЯЛА БУКЕТ!",
       "url": "https://www.youtube.com/watch?v=nEXONiHnwQo",
       "published_at_utc": "2026-06-10T18:28:48+00:00",
-      "age_seconds": 3020
+      "age_seconds": 3263
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"САМЫЕ ТУПЫЕ СТРИМЕРЫ — ГУАКАМОЛЕ, ХЕСУС, ИВАН ЗОЛО\"",
       "url": "https://www.youtube.com/watch?v=8fHoxD8RZcQ",
       "published_at_utc": "2026-06-10T18:20:15+00:00",
-      "age_seconds": 3533
+      "age_seconds": 3776
     },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Ваня Дмитриенко | Вася Шакулин | Сатир",
       "url": "https://www.youtube.com/watch?v=a53zfx1qXWs",
       "published_at_utc": "2026-06-10T18:13:16+00:00",
-      "age_seconds": 3849
+      "age_seconds": 4088
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "ХАЗЯЕВА ПРОБРАЛИСЬ В ЗАМОК НА ИБИЦЕ | Парадеевич, Горилла, Злой и Шадоукек IRL",
       "url": "https://www.youtube.com/watch?v=L6FJYxZRcco",
       "published_at_utc": "2026-06-10T18:03:30+00:00",
-      "age_seconds": 4482
+      "age_seconds": 4720
     },
     {
       "channel": "Объяпонился",
       "title": "3 ошибки, которые лучше не совершать в Южной Корее 🫢",
       "url": "https://www.youtube.com/shorts/zKErAc8zijU",
       "published_at_utc": "2026-06-10T17:48:04+00:00",
-      "age_seconds": 5394
+      "age_seconds": 5630
     },
     {
       "channel": "perox",
       "title": "Я лтн?🫠 тгк: Пекарня Пирога #луксмаксинг #chad #looksmax #perox #перокс",
       "url": "https://www.youtube.com/shorts/AAADRbuq_1I",
       "published_at_utc": "2026-06-10T17:45:24+00:00",
-      "age_seconds": 5510
+      "age_seconds": 5748
     },
     {
       "channel": "МайорКрафт",
       "title": "Супер герой с телепатом #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/kWAhlHyvCzU",
       "published_at_utc": "2026-06-10T17:45:16+00:00",
-      "age_seconds": 5566
+      "age_seconds": 5803
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "НИКТО НЕ ЗНАЕТ, ЧТО СЛУЧИЛОСЬ С ЭННИ БЁРЬЕССОН / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=NoZVAZTACB0",
       "published_at_utc": "2026-06-10T17:30:42+00:00",
-      "age_seconds": 6505
+      "age_seconds": 6748
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лего Wars: Франшиза наносит ответный удар",
       "url": "https://www.youtube.com/shorts/5U1w3tknVVg",
       "published_at_utc": "2026-06-10T17:30:38+00:00",
-      "age_seconds": 6417
+      "age_seconds": 6656
     },
     {
       "channel": "Новостной Гусь",
       "title": "Убрали мусор с помощью нейронки",
       "url": "https://www.youtube.com/shorts/WId3FNlUH5k",
       "published_at_utc": "2026-06-10T17:30:00+00:00",
-      "age_seconds": 6454
+      "age_seconds": 6692
     }
   ]
 }
