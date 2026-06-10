@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-06-10T07:24:48.084888+00:00",
+  "generated_at_utc": "2026-06-10T07:26:48.065137+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Собиратель новостей",
-      "title": "Украинцы Отказались Слушать Гимн РФ и Получили ШТРАФ",
-      "url": "https://www.youtube.com/shorts/47gXijJHRQ4",
-      "published_at_utc": "2026-06-10T07:15:20+00:00",
-      "age_seconds": 484
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кризис лабубу",
       "url": "https://www.youtube.com/shorts/NxiHViMmfG4",
       "published_at_utc": "2026-06-10T07:00:22+00:00",
-      "age_seconds": 1388
+      "age_seconds": 1507
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Давайте жить дружно",
       "url": "https://www.youtube.com/shorts/6x1v8p6aEP8",
       "published_at_utc": "2026-06-10T07:00:20+00:00",
-      "age_seconds": 1389
+      "age_seconds": 1509
     },
     {
       "channel": "IXBT Games",
       "title": "Идеальный стёб над каноном #legobatmanlegacyofthedarkknight #batman #dc #лего #ixbtgames #ixbt",
       "url": "https://www.youtube.com/shorts/LMKs-ba_xjM",
       "published_at_utc": "2026-06-10T07:00:07+00:00",
-      "age_seconds": 1443
+      "age_seconds": 1561
     }
   ]
 }
