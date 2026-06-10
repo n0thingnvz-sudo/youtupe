@@ -1,97 +1,104 @@
 {
-  "generated_at_utc": "2026-06-10T17:13:01.161466+00:00",
+  "generated_at_utc": "2026-06-10T17:17:01.876192+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Возвращение легенды",
+      "url": "https://www.youtube.com/shorts/ajYWY0vSMaw",
+      "published_at_utc": "2026-06-10T17:00:32+00:00",
+      "age_seconds": 900
+    },
     {
       "channel": "Vert Dider",
       "title": "Машина Гидеона Сундбэка",
       "url": "https://www.youtube.com/shorts/Ndg_eQMEguA",
       "published_at_utc": "2026-06-10T16:43:05+00:00",
-      "age_seconds": 1680
+      "age_seconds": 1920
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Другие НАШЫ ИГРЫ 2026 - кто не попал на шоу",
       "url": "https://www.youtube.com/watch?v=dEC02KJTg4I",
       "published_at_utc": "2026-06-10T16:31:34+00:00",
-      "age_seconds": 2444
+      "age_seconds": 2686
     },
     {
       "channel": "ПАРАДЕЕВИЧ CLIPS",
       "title": "ХАЗЯЕВА ПРИЛЕТЕЛИ НА ИБИЦУ | УГАР С ШАДОУКЕКОМ И ЗЛЫМ",
       "url": "https://www.youtube.com/watch?v=3qCQic9ewQc",
       "published_at_utc": "2026-06-10T16:18:30+00:00",
-      "age_seconds": 3214
+      "age_seconds": 3456
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пухососы: драма в 2 актах",
       "url": "https://www.youtube.com/shorts/20ZlLoer6jY",
       "published_at_utc": "2026-06-10T16:15:33+00:00",
-      "age_seconds": 3359
+      "age_seconds": 3599
     },
     {
       "channel": "Никита Нестеров",
       "title": "Шутки миллениалов",
       "url": "https://www.youtube.com/shorts/s-HehwNPzDk",
       "published_at_utc": "2026-06-10T16:09:41+00:00",
-      "age_seconds": 3742
+      "age_seconds": 3984
     },
     {
       "channel": "Майни",
       "title": "КАК ОТКРЫТЬ СВОЮ ЕДУ 🐟 ► Valera Ghosther ( Валера Гостер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=GjU4MuJggLc",
       "published_at_utc": "2026-06-10T16:00:00+00:00",
-      "age_seconds": 4268
+      "age_seconds": 4508
     },
     {
       "channel": "kinoluv",
       "title": "Ужасный конец…😳 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/ki4DgV2SIAI",
       "published_at_utc": "2026-06-10T15:44:47+00:00",
-      "age_seconds": 5204
+      "age_seconds": 5443
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Соедини все точки #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/kTw-LjN3Wos",
       "published_at_utc": "2026-06-10T15:33:54+00:00",
-      "age_seconds": 5884
+      "age_seconds": 6126
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 383",
       "url": "https://www.youtube.com/shorts/LT03AKRflGM",
       "published_at_utc": "2026-06-10T15:31:41+00:00",
-      "age_seconds": 5980
+      "age_seconds": 6219
     },
     {
       "channel": "Собиратель новостей",
       "title": "Зеленский Больше не Летает Через Польшу: ПОССОРИЛИСЬ",
       "url": "https://www.youtube.com/shorts/VZNg8IJOp1U",
       "published_at_utc": "2026-06-10T15:30:27+00:00",
-      "age_seconds": 6061
+      "age_seconds": 6300
     },
     {
       "channel": "CS2TV",
       "title": "ЖЕСТКИЙ КОНФЛИКТ ЗОНЕРА И NPL! ОВЕРДРАЙВ ТОПИТ ЗА MONTE! НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=-A2oV5I9fos",
       "published_at_utc": "2026-06-10T15:29:32+00:00",
-      "age_seconds": 6182
+      "age_seconds": 6424
     },
     {
       "channel": "CS2TV",
       "title": "КОГО УВАЖАЮТ ПРО-ИГРОКИ #cs2 #csgo #interview",
       "url": "https://www.youtube.com/shorts/2UCwqsocacA",
       "published_at_utc": "2026-06-10T15:21:27+00:00",
-      "age_seconds": 6667
+      "age_seconds": 6909
     },
     {
       "channel": "Никита Айсер",
       "title": "Вечно с ним так...",
       "url": "https://www.youtube.com/shorts/-aj6E6qSzUU",
       "published_at_utc": "2026-06-10T15:15:33+00:00",
-      "age_seconds": 6959
+      "age_seconds": 7198
     }
   ]
 }
