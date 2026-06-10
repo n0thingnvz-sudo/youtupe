@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-06-10T20:11:07.075417+00:00",
+  "generated_at_utc": "2026-06-10T20:15:12.978555+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ЛИЛ ТАТАР",
+      "title": "DK СМОТРИТ \"Мэрилин Монро, Игорь Синяк и Грей Вайз. Что здесь происходит?\"",
+      "url": "https://www.youtube.com/watch?v=8M3QDI-Zbao",
+      "published_at_utc": "2026-06-10T20:08:45+00:00",
+      "age_seconds": 387
+    },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"Лиза Монеточка у нас в гостях\"",
       "url": "https://www.youtube.com/watch?v=qIvA_vjF2oQ",
       "published_at_utc": "2026-06-10T19:18:03+00:00",
-      "age_seconds": 3183
+      "age_seconds": 3429
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"РАЙ ДЛЯ БЕЛЫХ И БОГАТЫХ / Экваториальная Гвинея — скрытая жемчужина Африки\"",
       "url": "https://www.youtube.com/watch?v=snhMuKnqTN8",
       "published_at_utc": "2026-06-10T19:04:36+00:00",
-      "age_seconds": 3990
+      "age_seconds": 4236
     },
     {
       "channel": "Dobryak",
       "title": "Я тренировался ГОД, чтобы поднять этот МЕЧ!",
       "url": "https://www.youtube.com/watch?v=ZRsl8okSgDU",
       "published_at_utc": "2026-06-10T19:04:10+00:00",
-      "age_seconds": 3967
+      "age_seconds": 4206
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "ДК ПРОВЁЛ СВАДЬБУ СВОЕЙ ПОДПИСЧИЦЫ НА СТРИМЕ! ТРЕШ СВАДЬБА: ЖЕНИХ НАПИЛСЯ, НЕВЕСТА ПОТЕРЯЛА БУКЕТ!",
       "url": "https://www.youtube.com/watch?v=nEXONiHnwQo",
       "published_at_utc": "2026-06-10T18:28:48+00:00",
-      "age_seconds": 6138
+      "age_seconds": 6384
     },
     {
       "channel": "ЛИЛ ТАТАР",
       "title": "DK СМОТРИТ \"САМЫЕ ТУПЫЕ СТРИМЕРЫ — ГУАКАМОЛЕ, ХЕСУС, ИВАН ЗОЛО\"",
       "url": "https://www.youtube.com/watch?v=8fHoxD8RZcQ",
       "published_at_utc": "2026-06-10T18:20:15+00:00",
-      "age_seconds": 6651
-    },
-    {
-      "channel": "Канал Коваля",
-      "title": "СВОЯК | Коваль | Ваня Дмитриенко | Вася Шакулин | Сатир",
-      "url": "https://www.youtube.com/watch?v=a53zfx1qXWs",
-      "published_at_utc": "2026-06-10T18:13:16+00:00",
-      "age_seconds": 6967
+      "age_seconds": 6897
     }
   ]
 }
