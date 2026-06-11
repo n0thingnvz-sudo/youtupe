@@ -1,69 +1,69 @@
 {
-  "generated_at_utc": "2026-06-11T10:48:48.577526+00:00",
+  "generated_at_utc": "2026-06-11T10:50:49.272116+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Nerkin",
+      "title": "Я ПЕРЕЖИВАЮ за Minecraft Dungeons II",
+      "url": "https://www.youtube.com/watch?v=QN3ivXvMZBQ",
+      "published_at_utc": "2026-06-11T10:35:20+00:00",
+      "age_seconds": 907
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Нету ручек - нет конфетки",
       "url": "https://www.youtube.com/shorts/RWZ5dANHx1E",
       "published_at_utc": "2026-06-11T10:30:34+00:00",
-      "age_seconds": 1016
-    },
-    {
-      "channel": "Унылый",
-      "title": "Походишь патрулём по Степям.... | World of Warcraft: Burning Crusade Classic ч.3",
-      "url": "https://www.youtube.com/watch?v=O_ixyQ_jPmg",
-      "published_at_utc": "2026-06-11T10:28:50+00:00",
-      "age_seconds": 1180
+      "age_seconds": 1136
     },
     {
       "channel": "CS2TV",
       "title": "КТО ТАКОЙ ЖАБ ЖАБЫЧ #cs2 #csgo #counterstrike",
       "url": "https://www.youtube.com/shorts/1eh9GjXwmeQ",
       "published_at_utc": "2026-06-11T10:14:24+00:00",
-      "age_seconds": 2040
+      "age_seconds": 2161
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему Коты Стрекочут 🙀",
       "url": "https://www.youtube.com/shorts/THAjew4u_Nk",
       "published_at_utc": "2026-06-11T10:08:41+00:00",
-      "age_seconds": 2351
+      "age_seconds": 2472
     },
     {
       "channel": "Wylsacom",
       "title": "Наверное лучший павербанк для дома и работы. Но дорого",
       "url": "https://www.youtube.com/shorts/bs7kkFMjip8",
       "published_at_utc": "2026-06-11T10:06:40+00:00",
-      "age_seconds": 2438
+      "age_seconds": 2558
     },
     {
       "channel": "Смешновости",
       "title": "Мамин перекус 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/SIXjIcoQmXc",
       "published_at_utc": "2026-06-11T10:00:11+00:00",
-      "age_seconds": 2863
+      "age_seconds": 2983
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "Я Бросил КУРИТЬ за 7 Дней Разными Способами! (очень тяжело..) / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=WQ8Cke5xP-I",
       "published_at_utc": "2026-06-11T09:30:36+00:00",
-      "age_seconds": 4691
+      "age_seconds": 4812
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Патч для Стокгольма",
       "url": "https://www.youtube.com/shorts/5jd58VuQUlI",
       "published_at_utc": "2026-06-11T09:24:34+00:00",
-      "age_seconds": 4976
+      "age_seconds": 5096
     },
     {
       "channel": "МЯЧ Production",
       "title": "Месси и Роналду – уничтожат фанаты, если случится провал на ЧМ? 😬",
       "url": "https://www.youtube.com/shorts/r-nsWGw7ASM",
       "published_at_utc": "2026-06-11T08:53:23+00:00",
-      "age_seconds": 6856
+      "age_seconds": 6976
     }
   ]
 }
