@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-06-11T07:52:44.955527+00:00",
+  "generated_at_utc": "2026-06-11T07:54:41.639783+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Асафьев. Жизнь",
-      "title": "Запрет парковки для электромобилей | В России запустили Senat | Революция в моторах BMW",
-      "url": "https://www.youtube.com/watch?v=BdeGX2qdO-w",
-      "published_at_utc": "2026-06-11T07:46:00+00:00",
-      "age_seconds": 346
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Нету ручек... а хотя стоп",
       "url": "https://www.youtube.com/shorts/h2N8Arrn3b4",
       "published_at_utc": "2026-06-11T07:00:39+00:00",
-      "age_seconds": 3049
+      "age_seconds": 3168
     },
     {
       "channel": "Собиратель новостей",
       "title": "Ауди Сделала Революцию в ПОВОРОТНИКАХ",
       "url": "https://www.youtube.com/shorts/MRuGOdAdzEI",
       "published_at_utc": "2026-06-11T07:00:27+00:00",
-      "age_seconds": 3057
+      "age_seconds": 3176
     },
     {
       "channel": "IXBT Games",
       "title": "Унижение Sony - Xbox Games Showcase #ixbtgames #ixbt #xbox #microsoft #gamesshowcase #игры",
       "url": "https://www.youtube.com/shorts/8CmseV7APsM",
       "published_at_utc": "2026-06-11T07:00:24+00:00",
-      "age_seconds": 3104
+      "age_seconds": 3221
     }
   ]
 }
