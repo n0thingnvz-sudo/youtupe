@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-06-11T22:28:38.908908+00:00",
+  "generated_at_utc": "2026-06-11T22:30:41.004162+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПАРАДЕЕВИЧ CLIPS",
+      "title": "ЛЮТЫЙ УГАР В ПАРИЖЕ | ЗАСЕЛИЛИСЬ В ЧУЖОЙ НОМЕР В ОТЕЛЕ | Парадеевич, Горилла и Шадоукек IRL ЕВРОТУР",
+      "url": "https://www.youtube.com/watch?v=1hN9i7BcER4",
+      "published_at_utc": "2026-06-11T22:26:28+00:00",
+      "age_seconds": 205
+    },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Позор критикам. Gothic 1 Remake",
       "url": "https://www.youtube.com/watch?v=PesCcWX-a64",
       "published_at_utc": "2026-06-11T21:23:08+00:00",
-      "age_seconds": 3897
+      "age_seconds": 4016
     }
   ]
 }
