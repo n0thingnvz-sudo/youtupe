@@ -1,104 +1,111 @@
 {
-  "generated_at_utc": "2026-06-11T16:10:56.741670+00:00",
+  "generated_at_utc": "2026-06-11T16:12:54.003553+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Студийная Банда",
+      "title": "У ребят просто был вайб",
+      "url": "https://www.youtube.com/shorts/KPt-sMQ9_qg",
+      "published_at_utc": "2026-06-11T15:55:48+00:00",
+      "age_seconds": 924
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "14 лет после покупки дома получил ключи",
       "url": "https://www.youtube.com/shorts/jJXIIHCi4yk",
       "published_at_utc": "2026-06-11T15:44:45+00:00",
-      "age_seconds": 1487
+      "age_seconds": 1607
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Коты будут разговаривать матами",
       "url": "https://www.youtube.com/shorts/6pOi0qYmX84",
       "published_at_utc": "2026-06-11T15:30:33+00:00",
-      "age_seconds": 2338
+      "age_seconds": 2457
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ДУШНИЛА № 384",
       "url": "https://www.youtube.com/shorts/44QPIY_zdxM",
       "published_at_utc": "2026-06-11T15:23:37+00:00",
-      "age_seconds": 2742
+      "age_seconds": 2862
     },
     {
       "channel": "IXBT Games",
       "title": "[СТРИМ] Это какой-то позор... Gothic 1 Remake",
       "url": "https://www.youtube.com/watch?v=PesCcWX-a64",
       "published_at_utc": "2026-06-11T15:21:41+00:00",
-      "age_seconds": 2914
+      "age_seconds": 3034
     },
     {
       "channel": "kinoluv",
       "title": "Первая встреча Златана Ибрагимовича и Мино Райолы😳 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/csdpODo4zNQ",
       "published_at_utc": "2026-06-11T15:14:47+00:00",
-      "age_seconds": 3282
+      "age_seconds": 3401
     },
     {
       "channel": "Margaritka",
       "title": "Работа мечты 😄😄",
       "url": "https://www.youtube.com/shorts/30ygih4gCZo",
       "published_at_utc": "2026-06-11T15:08:30+00:00",
-      "age_seconds": 3688
+      "age_seconds": 3810
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Очень очень очень много пятен",
       "url": "https://www.youtube.com/shorts/9nkOEA50AIk",
       "published_at_utc": "2026-06-11T15:00:37+00:00",
-      "age_seconds": 4134
+      "age_seconds": 4253
     },
     {
       "channel": "Droider",
       "title": "ПОЧЕМУ Claude AI — ЛУЧШИЙ?",
       "url": "https://www.youtube.com/watch?v=hZUR3VLVex0",
       "published_at_utc": "2026-06-11T15:00:29+00:00",
-      "age_seconds": 4126
+      "age_seconds": 4246
     },
     {
       "channel": "Recrent",
       "title": "Я СТАЛ НАСТОЯЩИМ ТАРКОВЧАНИНОМ",
       "url": "https://www.youtube.com/watch?v=mDX07NBk-m4",
       "published_at_utc": "2026-06-11T14:59:31+00:00",
-      "age_seconds": 4272
+      "age_seconds": 4390
     },
     {
       "channel": "МайорКрафт",
       "title": "Неуклюжий супергерой #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/RsuD5eDcpH4",
       "published_at_utc": "2026-06-11T14:45:47+00:00",
-      "age_seconds": 5043
+      "age_seconds": 5164
     },
     {
       "channel": "Vert Dider",
       "title": "Почему молния не расстёгивается сама по себе?",
       "url": "https://www.youtube.com/shorts/lDITiIF5Sy4",
       "published_at_utc": "2026-06-11T14:39:28+00:00",
-      "age_seconds": 5377
+      "age_seconds": 5497
     },
     {
       "channel": "Майни",
       "title": "БЕНЗОПИЛА за 25 МИНУТ ► iMiles ( Аймайлз ) | Реакция",
       "url": "https://www.youtube.com/watch?v=q5WJcXmjkP0",
       "published_at_utc": "2026-06-11T14:34:58+00:00",
-      "age_seconds": 5650
+      "age_seconds": 5770
     },
     {
       "channel": "Amitesh",
       "title": "В Африке ловят на лжи при помощи травы #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/9K5YsWhzvtw",
       "published_at_utc": "2026-06-11T14:22:42+00:00",
-      "age_seconds": 6430
+      "age_seconds": 6550
     },
     {
       "channel": "ROUNDZZ",
       "title": "ФИШКА ДЛЯ КАЖДОГО АГЕНТА  #валорант",
       "url": "https://www.youtube.com/shorts/b6mLbxO7qPQ",
       "published_at_utc": "2026-06-11T14:19:39+00:00",
-      "age_seconds": 6641
+      "age_seconds": 6761
     }
   ]
 }
