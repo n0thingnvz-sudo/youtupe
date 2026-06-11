@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-11T07:24:44.476521+00:00",
+  "generated_at_utc": "2026-06-11T07:26:46.519433+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Нету ручек... а хотя стоп",
+      "url": "https://www.youtube.com/shorts/h2N8Arrn3b4",
+      "published_at_utc": "2026-06-11T07:00:39+00:00",
+      "age_seconds": 1490
+    },
     {
       "channel": "Собиратель новостей",
       "title": "Ауди Сделала Революцию в ПОВОРОТНИКАХ",
       "url": "https://www.youtube.com/shorts/MRuGOdAdzEI",
       "published_at_utc": "2026-06-11T07:00:27+00:00",
-      "age_seconds": 1376
+      "age_seconds": 1497
     },
     {
       "channel": "IXBT Games",
       "title": "Унижение Sony - Xbox Games Showcase #ixbtgames #ixbt #xbox #microsoft #gamesshowcase #игры",
       "url": "https://www.youtube.com/shorts/8CmseV7APsM",
       "published_at_utc": "2026-06-11T07:00:24+00:00",
-      "age_seconds": 1424
+      "age_seconds": 1545
     },
     {
       "channel": "Margaritka",
       "title": "Сегодня не его день 😄",
       "url": "https://www.youtube.com/shorts/l6ylj3Rfdno",
       "published_at_utc": "2026-06-11T05:50:04+00:00",
-      "age_seconds": 5630
+      "age_seconds": 5752
     }
   ]
 }
