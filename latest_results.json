@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-06-12T22:00:39.808365+00:00",
+  "generated_at_utc": "2026-06-12T22:02:43.421733+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IXBT Games",
+      "title": "[СТРИМ] Остальные НАШЫ ИГРЫ 2026 + розыгрыш мерча",
+      "url": "https://www.youtube.com/watch?v=P_GMjd_XwJE",
+      "published_at_utc": "2026-06-12T21:59:33+00:00",
+      "age_seconds": 155
+    },
     {
       "channel": "Объяпонился",
       "title": "3 ошибки, которые лучше не совершать в Японии и Корее 🤔",
       "url": "https://www.youtube.com/shorts/Cb6pdXwbof4",
       "published_at_utc": "2026-06-12T20:46:13+00:00",
-      "age_seconds": 4407
+      "age_seconds": 4530
     },
     {
       "channel": "Никита Нестеров",
       "title": "В разведку её не берем 😅",
       "url": "https://www.youtube.com/shorts/u6ez7l8LIDg",
       "published_at_utc": "2026-06-12T20:33:25+00:00",
-      "age_seconds": 5187
+      "age_seconds": 5310
     },
     {
       "channel": "perox",
       "title": "Видели?😏 тгк: Пекарня Пирога #mha #myheroacademia #моягеройскаяакадемия #perox #перокс",
       "url": "https://www.youtube.com/shorts/96k6325DLUc",
       "published_at_utc": "2026-06-12T20:12:12+00:00",
-      "age_seconds": 6418
+      "age_seconds": 6538
     }
   ]
 }
