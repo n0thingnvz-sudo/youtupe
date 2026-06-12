@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-06-12T20:40:49.090571+00:00",
+  "generated_at_utc": "2026-06-12T20:42:50.859065+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Никита Нестеров",
+      "title": "В разведку её не берем 😅",
+      "url": "https://www.youtube.com/shorts/u6ez7l8LIDg",
+      "published_at_utc": "2026-06-12T20:33:25+00:00",
+      "age_seconds": 513
+    },
     {
       "channel": "perox",
       "title": "Видели?😏 тгк: Пекарня Пирога #mha #myheroacademia #моягеройскаяакадемия #perox #перокс",
       "url": "https://www.youtube.com/shorts/96k6325DLUc",
       "published_at_utc": "2026-06-12T20:12:12+00:00",
-      "age_seconds": 1619
+      "age_seconds": 1739
     },
     {
       "channel": "Никита Айсер",
       "title": "Такие мы дед и бабушка🤣🤣",
       "url": "https://www.youtube.com/shorts/7dAW-olWmxo",
       "published_at_utc": "2026-06-12T19:47:08+00:00",
-      "age_seconds": 3142
+      "age_seconds": 3261
     }
   ]
 }
