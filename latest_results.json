@@ -1,104 +1,118 @@
 {
-  "generated_at_utc": "2026-06-12T13:06:51.610382+00:00",
+  "generated_at_utc": "2026-06-12T13:08:50.196710+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Самый сахар",
+      "title": "Стоит ли покупать дорогое МОРОЖЕННОЕ?",
+      "url": "https://www.youtube.com/watch?v=GiIpyc2aQOg",
+      "published_at_utc": "2026-06-12T13:00:12+00:00",
+      "age_seconds": 422
+    },
+    {
+      "channel": "Студийная Банда",
+      "title": "Вас когда-нибудь путали с мальчиком?",
+      "url": "https://www.youtube.com/shorts/fWMby1aPMfo",
+      "published_at_utc": "2026-06-12T12:52:13+00:00",
+      "age_seconds": 899
+    },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ, 100 ДНЕЙ НА ДИВАНЕ",
       "url": "https://www.youtube.com/shorts/9NPhnu5tpDM",
       "published_at_utc": "2026-06-12T12:48:42+00:00",
-      "age_seconds": 991
+      "age_seconds": 1110
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Еду через весь Калининград летом на мотоцикле",
       "url": "https://www.youtube.com/watch?v=Hw6jqqK-we0",
       "published_at_utc": "2026-06-12T12:48:39+00:00",
-      "age_seconds": 1013
+      "age_seconds": 1132
     },
     {
       "channel": "IXBT Games",
       "title": "GEARS OF WAR E-DAY - главная игра октября",
       "url": "https://www.youtube.com/watch?v=hDTQYXazrzw",
       "published_at_utc": "2026-06-12T12:37:55+00:00",
-      "age_seconds": 1699
+      "age_seconds": 1816
     },
     {
       "channel": "Obsidian Time",
       "title": "ГНОМСКИЙ КООП - Burglin gnomes",
       "url": "https://www.youtube.com/watch?v=kTxNaTB9jfs",
       "published_at_utc": "2026-06-12T12:35:15+00:00",
-      "age_seconds": 1890
+      "age_seconds": 2009
     },
     {
       "channel": "i11ushenka",
       "title": "Великая эпидемия скроллинга",
       "url": "https://www.youtube.com/shorts/Yb-W0X5-eN8",
       "published_at_utc": "2026-06-12T12:31:19+00:00",
-      "age_seconds": 2032
+      "age_seconds": 2151
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱БИТВА С ГЛЕНТОМ В БРАВЛ СТАРС",
       "url": "https://www.youtube.com/watch?v=td5rpt_3mx0",
       "published_at_utc": "2026-06-12T12:29:38+00:00",
-      "age_seconds": 2197
+      "age_seconds": 2314
     },
     {
       "channel": "Amitesh",
       "title": "Не повезло челу так прославиться #амитеш #история",
       "url": "https://www.youtube.com/shorts/j_dffGI0eGs",
       "published_at_utc": "2026-06-12T12:26:21+00:00",
-      "age_seconds": 2373
+      "age_seconds": 2490
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Спокойствие мамы и кота #funnygames #familygames #immersive #игры #games",
       "url": "https://www.youtube.com/shorts/xttIbolLaiE",
       "published_at_utc": "2026-06-12T12:11:16+00:00",
-      "age_seconds": 3280
+      "age_seconds": 3398
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 самых милых детёнышей животных 🥹",
       "url": "https://www.youtube.com/shorts/n26mpkRIQSM",
       "published_at_utc": "2026-06-12T12:07:28+00:00",
-      "age_seconds": 3508
+      "age_seconds": 3625
     },
     {
       "channel": "Смешновости",
       "title": "Спортивные подарки 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/dMUdoSqnQeU",
       "published_at_utc": "2026-06-12T12:00:31+00:00",
-      "age_seconds": 3926
+      "age_seconds": 4044
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Родители отложили на свадьбу жениха нет",
       "url": "https://www.youtube.com/shorts/VRr8SU_M09Y",
       "published_at_utc": "2026-06-12T11:56:19+00:00",
-      "age_seconds": 4153
+      "age_seconds": 4272
     },
     {
       "channel": "МайорКрафт",
       "title": "Когда пила должен бояться #фильм #сериал #моменты",
       "url": "https://www.youtube.com/shorts/MeQC7wpzuu8",
       "published_at_utc": "2026-06-12T11:45:29+00:00",
-      "age_seconds": 4823
+      "age_seconds": 4940
     },
     {
       "channel": "Amitesh",
       "title": "Как устроен двоичный код #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/mU4eI2uc_4c",
       "published_at_utc": "2026-06-12T11:26:24+00:00",
-      "age_seconds": 5970
+      "age_seconds": 6087
     },
     {
       "channel": "IG project",
       "title": "😱ЛИЛИ ЛАВБРЕЙДС И ГИБЛЕТ ОТВЕТИЛИ НА ВОПРОСЫ - ШАМПУНЬ, ЧАМ ЧОМПКИНС ❤️ #поппиплейтайм #хаггивагги",
       "url": "https://www.youtube.com/shorts/UhuV07cSqsg",
       "published_at_utc": "2026-06-12T11:16:11+00:00",
-      "age_seconds": 6572
+      "age_seconds": 6690
     }
   ]
 }
