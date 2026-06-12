@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-06-12T09:04:45.972313+00:00",
+  "generated_at_utc": "2026-06-12T09:06:46.933799+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Погнали!",
+      "title": "Кто на самом деле работает в племени #погнали #эфиопия",
+      "url": "https://www.youtube.com/shorts/lMNc9YfXBEk",
+      "published_at_utc": "2026-06-12T09:00:11+00:00",
+      "age_seconds": 350
+    },
     {
       "channel": "EVG",
       "title": "КУПИЛ СТИРАЛКУ В ЛЕОМАКС...",
       "url": "https://www.youtube.com/shorts/3dUiS_AX5yA",
       "published_at_utc": "2026-06-12T08:30:16+00:00",
-      "age_seconds": 1986
+      "age_seconds": 2105
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "Я СДЕЛАЛ ГИГАНТСКИЙ KINDER delice ВЕСОМ 200 КИЛОГРАММ / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=vj2VOv5ygaM",
       "published_at_utc": "2026-06-12T08:00:39+00:00",
-      "age_seconds": 3846
+      "age_seconds": 3967
     },
     {
       "channel": "Смешновости",
       "title": "Зашила игрушки пёсика 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/yYAYAs5oJm4",
       "published_at_utc": "2026-06-12T08:00:30+00:00",
-      "age_seconds": 3804
+      "age_seconds": 3923
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Начинаем наше приключение",
       "url": "https://www.youtube.com/shorts/INxQGhesiKg",
       "published_at_utc": "2026-06-12T08:00:28+00:00",
-      "age_seconds": 3782
+      "age_seconds": 3902
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "О чем он думает?",
       "url": "https://www.youtube.com/shorts/UrvqFHM1q3k",
       "published_at_utc": "2026-06-12T08:00:05+00:00",
-      "age_seconds": 3805
+      "age_seconds": 3924
     },
     {
       "channel": "Собиратель новостей",
       "title": "Попугай-ИНВАЛИД Летает на ДРОНЕ",
       "url": "https://www.youtube.com/shorts/GqyVz7AA1uY",
       "published_at_utc": "2026-06-12T07:15:02+00:00",
-      "age_seconds": 6503
+      "age_seconds": 6622
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Авто-пасхалки",
       "url": "https://www.youtube.com/shorts/OOZJHJtbIfo",
       "published_at_utc": "2026-06-12T07:10:39+00:00",
-      "age_seconds": 6771
+      "age_seconds": 6890
     }
   ]
 }
