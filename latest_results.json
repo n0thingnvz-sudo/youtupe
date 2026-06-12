@@ -1,13 +1,34 @@
 {
-  "generated_at_utc": "2026-06-12T00:26:35.266324+00:00",
+  "generated_at_utc": "2026-06-12T07:02:50.723059+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "ПАРАДЕЕВИЧ CLIPS",
-      "title": "ЛЮТЫЙ УГАР В ПАРИЖЕ | ЗАСЕЛИЛИСЬ В ЧУЖОЙ НОМЕР В ОТЕЛЕ | Парадеевич, Горилла и Шадоукек IRL ЕВРОТУР",
-      "url": "https://www.youtube.com/watch?v=1hN9i7BcER4",
-      "published_at_utc": "2026-06-11T22:26:28+00:00",
-      "age_seconds": 7163
+      "channel": "Короче, новости",
+      "title": "Снесли Статую Месси в Калькутте",
+      "url": "https://www.youtube.com/shorts/ItK8eaXhBE4",
+      "published_at_utc": "2026-06-12T06:55:18+00:00",
+      "age_seconds": 369
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Маск Смог: Первый в Мире ТРИЛЛИОНЕР",
+      "url": "https://www.youtube.com/shorts/M-fFH7r4eP0",
+      "published_at_utc": "2026-06-12T06:43:15+00:00",
+      "age_seconds": 1092
+    },
+    {
+      "channel": "CS2TV",
+      "title": "ЗАЙВУ ПОСТАВИЛ РЕКОРД ПО ЭЙСАМ #cs2 #csgo #cs2highlights",
+      "url": "https://www.youtube.com/shorts/JbrFdhX34dY",
+      "published_at_utc": "2026-06-12T06:36:25+00:00",
+      "age_seconds": 1562
+    },
+    {
+      "channel": "Vert Dider",
+      "title": "Чиним молнию!",
+      "url": "https://www.youtube.com/shorts/gCRPp-BMdwY",
+      "published_at_utc": "2026-06-12T06:30:32+00:00",
+      "age_seconds": 1833
     }
   ]
 }
