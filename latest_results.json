@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-06-12T07:22:43.877632+00:00",
+  "generated_at_utc": "2026-06-12T07:24:42.510016+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Попугай-ИНВАЛИД Летает на ДРОНЕ",
+      "url": "https://www.youtube.com/shorts/GqyVz7AA1uY",
+      "published_at_utc": "2026-06-12T07:15:02+00:00",
+      "age_seconds": 501
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Авто-пасхалки",
       "url": "https://www.youtube.com/shorts/OOZJHJtbIfo",
       "published_at_utc": "2026-06-12T07:10:39+00:00",
-      "age_seconds": 649
+      "age_seconds": 769
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самый прибыльный рисунок в истории",
       "url": "https://www.youtube.com/shorts/05rYYQhfvYs",
       "published_at_utc": "2026-06-12T07:00:28+00:00",
-      "age_seconds": 1261
+      "age_seconds": 1380
     },
     {
       "channel": "IXBT Games",
       "title": "Эксклюзив Xbox - Gears of War: E-Day #ixbtgames #ixbt #игра2026 #gearsofwar #xbox #microsoft #игры",
       "url": "https://www.youtube.com/shorts/rMEJRvQ76hI",
       "published_at_utc": "2026-06-12T07:00:06+00:00",
-      "age_seconds": 1322
+      "age_seconds": 1441
     },
     {
       "channel": "Короче, новости",
       "title": "Снесли Статую Месси в Калькутте",
       "url": "https://www.youtube.com/shorts/ItK8eaXhBE4",
       "published_at_utc": "2026-06-12T06:55:18+00:00",
-      "age_seconds": 1567
+      "age_seconds": 1686
     },
     {
       "channel": "Короче, новости",
       "title": "Маск Смог: Первый в Мире ТРИЛЛИОНЕР",
       "url": "https://www.youtube.com/shorts/M-fFH7r4eP0",
       "published_at_utc": "2026-06-12T06:43:15+00:00",
-      "age_seconds": 2290
+      "age_seconds": 2409
     },
     {
       "channel": "CS2TV",
       "title": "ЗАЙВУ ПОСТАВИЛ РЕКОРД ПО ЭЙСАМ #cs2 #csgo #cs2highlights",
       "url": "https://www.youtube.com/shorts/JbrFdhX34dY",
       "published_at_utc": "2026-06-12T06:36:25+00:00",
-      "age_seconds": 2756
+      "age_seconds": 2875
     },
     {
       "channel": "Vert Dider",
       "title": "Чиним молнию!",
       "url": "https://www.youtube.com/shorts/gCRPp-BMdwY",
       "published_at_utc": "2026-06-12T06:30:32+00:00",
-      "age_seconds": 3033
+      "age_seconds": 3153
     }
   ]
 }
