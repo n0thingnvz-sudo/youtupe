@@ -1,76 +1,90 @@
 {
-  "generated_at_utc": "2026-06-12T10:20:52.159384+00:00",
+  "generated_at_utc": "2026-06-12T10:22:48.180274+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "РАЙЗ",
+      "title": "БЕЗУМИЕ! НАВИ БЛЕЙД vs ЖАБ ЖАБЫЧ! МАЖОР КЕЛЬН #1",
+      "url": "https://www.youtube.com/watch?v=rke9NwZ2XA4",
+      "published_at_utc": "2026-06-12T10:15:05+00:00",
+      "age_seconds": 431
+    },
+    {
+      "channel": "sereGGa",
+      "title": "AndreyIMMERSION ОСТАЛСЯ ОДИН, НО НЕ СДАЛСЯ | НАЙС ИГРАЕШЬ #129",
+      "url": "https://www.youtube.com/watch?v=1jbwQn_TB80",
+      "published_at_utc": "2026-06-12T10:00:39+00:00",
+      "age_seconds": 1302
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Леонид Корейский",
       "url": "https://www.youtube.com/shorts/GN5HUh7ErWY",
       "published_at_utc": "2026-06-12T10:00:37+00:00",
-      "age_seconds": 1133
+      "age_seconds": 1252
     },
     {
       "channel": "Смешновости",
       "title": "Малые собрали свои чемоданы 😂 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/jO2AsqZMyrc",
       "published_at_utc": "2026-06-12T10:00:03+00:00",
-      "age_seconds": 1190
+      "age_seconds": 1310
     },
     {
       "channel": "ДУШНИЛА",
       "title": "ОБЪЯСНИ № 38",
       "url": "https://www.youtube.com/shorts/APa4THjlE2Q",
       "published_at_utc": "2026-06-12T09:48:15+00:00",
-      "age_seconds": 1864
+      "age_seconds": 1983
     },
     {
       "channel": "Amitesh",
       "title": "Как создают самые огромные цепи в мире #амитеш #технологии",
       "url": "https://www.youtube.com/shorts/HWX4rF_G23k",
       "published_at_utc": "2026-06-12T09:34:22+00:00",
-      "age_seconds": 2727
+      "age_seconds": 2847
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Капибара Пришла в Гости 😹",
       "url": "https://www.youtube.com/shorts/phNdv2eExXw",
       "published_at_utc": "2026-06-12T09:28:05+00:00",
-      "age_seconds": 3107
+      "age_seconds": 3226
     },
     {
       "channel": "Алежа Обухов",
       "title": "Экономный муж 2026. Часть 8",
       "url": "https://www.youtube.com/shorts/BFrxNOJrgSA",
       "published_at_utc": "2026-06-12T09:27:20+00:00",
-      "age_seconds": 3147
+      "age_seconds": 3266
     },
     {
       "channel": "Новостной Гусь",
       "title": "Спасибо за рекламу",
       "url": "https://www.youtube.com/shorts/d8ZvDhuEBvM",
       "published_at_utc": "2026-06-12T09:00:34+00:00",
-      "age_seconds": 4734
+      "age_seconds": 4853
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Троллинг вышел на новый уровень",
       "url": "https://www.youtube.com/shorts/D6PPeJYQj5c",
       "published_at_utc": "2026-06-12T09:00:12+00:00",
-      "age_seconds": 4758
+      "age_seconds": 4877
     },
     {
       "channel": "Погнали!",
       "title": "Кто на самом деле работает в племени #погнали #эфиопия",
       "url": "https://www.youtube.com/shorts/lMNc9YfXBEk",
       "published_at_utc": "2026-06-12T09:00:11+00:00",
-      "age_seconds": 4791
+      "age_seconds": 4909
     },
     {
       "channel": "EVG",
       "title": "КУПИЛ СТИРАЛКУ В ЛЕОМАКС...",
       "url": "https://www.youtube.com/shorts/3dUiS_AX5yA",
       "published_at_utc": "2026-06-12T08:30:16+00:00",
-      "age_seconds": 6546
+      "age_seconds": 6665
     }
   ]
 }
