@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-06-13T10:02:51.539261+00:00",
+  "generated_at_utc": "2026-06-13T10:04:46.751670+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Первый триллионер в истории человечества",
+      "url": "https://www.youtube.com/shorts/7kgZs4bnud4",
+      "published_at_utc": "2026-06-13T10:00:38+00:00",
+      "age_seconds": 152
+    },
     {
       "channel": "CS2TV",
       "title": "БУМЫЧ УНИЖАЕТ КЭРРИГАНА! VITALITY СЛОМАЛИ ВСЕМ ПИКЕМЫ! НОВОСТИ CS, IEM COLOGNE",
       "url": "https://www.youtube.com/watch?v=ONWArnIDwOk",
       "published_at_utc": "2026-06-13T09:45:30+00:00",
-      "age_seconds": 1017
+      "age_seconds": 1134
     },
     {
       "channel": "GoldenBurst",
       "title": "Купили 20 Гаджетов от ChatGPT !)",
       "url": "https://www.youtube.com/watch?v=vFuWgn3a2iw",
       "published_at_utc": "2026-06-13T09:37:46+00:00",
-      "age_seconds": 1464
+      "age_seconds": 1581
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Пёс Батон в Батуми ❤️",
       "url": "https://www.youtube.com/shorts/bYrfX5rhCzk",
       "published_at_utc": "2026-06-13T09:36:13+00:00",
-      "age_seconds": 1541
+      "age_seconds": 1660
     },
     {
       "channel": "ВПИСКА",
       "title": "Арман Царукян на Вписке #интервью #шортс",
       "url": "https://www.youtube.com/shorts/lOvTm3Rinz8",
       "published_at_utc": "2026-06-13T09:28:19+00:00",
-      "age_seconds": 2029
+      "age_seconds": 2147
     },
     {
       "channel": "1337LikeR",
       "title": "Опять Пронёс на Рейс Ржаку ✈️",
       "url": "https://www.youtube.com/watch?v=rkaLSRkYMRY",
       "published_at_utc": "2026-06-13T09:19:46+00:00",
-      "age_seconds": 2568
+      "age_seconds": 2684
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самое норвежское фото из Норвегии",
       "url": "https://www.youtube.com/shorts/i3Ge8G0Yp1M",
       "published_at_utc": "2026-06-13T09:00:39+00:00",
-      "age_seconds": 3653
+      "age_seconds": 3770
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Новый рекорд Мистера Биста",
       "url": "https://www.youtube.com/shorts/cwSaOhlm9Fg",
       "published_at_utc": "2026-06-13T09:00:17+00:00",
-      "age_seconds": 3675
+      "age_seconds": 3793
     },
     {
       "channel": "РАЙЗ",
       "title": "СЕНСАЦИЯ НА МАЖОРЕ! СПИРИТ ФАЛЬКОНС ВИТАЛИТИ, кто проиграл?",
       "url": "https://www.youtube.com/watch?v=5G4-XmlG9_0",
       "published_at_utc": "2026-06-13T09:00:05+00:00",
-      "age_seconds": 3735
+      "age_seconds": 3852
     }
   ]
 }
