@@ -1,69 +1,55 @@
 {
-  "generated_at_utc": "2026-06-13T09:01:03.791873+00:00",
+  "generated_at_utc": "2026-06-13T09:04:48.404547+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Новый рекорд Мистера Биста",
+      "url": "https://www.youtube.com/shorts/cwSaOhlm9Fg",
+      "published_at_utc": "2026-06-13T09:00:17+00:00",
+      "age_seconds": 192
+    },
     {
       "channel": "Лучшее с T2x2",
       "title": "У ТЕБЯ АНДРОИД - НИЩЕБРОД! / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=-paSwadZSmQ",
       "published_at_utc": "2026-06-13T08:00:33+00:00",
-      "age_seconds": 3630
+      "age_seconds": 3854
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Современные проблемы требуют современных решений",
       "url": "https://www.youtube.com/shorts/iH-VojT6TV4",
       "published_at_utc": "2026-06-13T08:00:21+00:00",
-      "age_seconds": 3556
+      "age_seconds": 3788
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 180 - юбилейный выпуск! 🥳 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/fHNVczANd9s",
       "published_at_utc": "2026-06-13T08:00:20+00:00",
-      "age_seconds": 3585
+      "age_seconds": 3813
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "И тут он выжил",
       "url": "https://www.youtube.com/shorts/3uuY60A-32U",
       "published_at_utc": "2026-06-13T08:00:15+00:00",
-      "age_seconds": 3562
+      "age_seconds": 3794
     },
     {
       "channel": "МЯЧ Production",
       "title": "ТОП 10 Станут героями ЧМ-2026",
       "url": "https://www.youtube.com/watch?v=GiqMpC21sfA",
       "published_at_utc": "2026-06-13T08:00:13+00:00",
-      "age_seconds": 3577
+      "age_seconds": 3806
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Стали ЖИВЫМИ БЛОКАМИ • Лучший Выпуск [2026 год] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=1vjmCwN6vGs",
       "published_at_utc": "2026-06-13T08:00:08+00:00",
-      "age_seconds": 3617
-    },
-    {
-      "channel": "Собиратель новостей",
-      "title": "Австралиец Повесил на Фургон Баннер с ПУТИНЫМ",
-      "url": "https://www.youtube.com/shorts/cXAsVK9yaMU",
-      "published_at_utc": "2026-06-13T07:00:29+00:00",
-      "age_seconds": 7142
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Как списать на устном экзамене",
-      "url": "https://www.youtube.com/shorts/U9f5telngts",
-      "published_at_utc": "2026-06-13T07:00:20+00:00",
-      "age_seconds": 7157
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Парашюты с маркетплейсов",
-      "url": "https://www.youtube.com/shorts/KozIUXjK3vY",
-      "published_at_utc": "2026-06-13T07:00:02+00:00",
-      "age_seconds": 7175
+      "age_seconds": 3844
     }
   ]
 }
