@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-06-13T09:38:46.029675+00:00",
+  "generated_at_utc": "2026-06-13T09:40:48.275676+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "GoldenBurst",
+      "title": "Купили 20 Гаджетов от ChatGPT !)",
+      "url": "https://www.youtube.com/watch?v=vFuWgn3a2iw",
+      "published_at_utc": "2026-06-13T09:37:46+00:00",
+      "age_seconds": 141
+    },
     {
       "channel": "1337LikeR",
       "title": "Опять Пронёс на Рейс Ржаку ✈️",
       "url": "https://www.youtube.com/watch?v=rkaLSRkYMRY",
       "published_at_utc": "2026-06-13T09:19:46+00:00",
-      "age_seconds": 1123
+      "age_seconds": 1245
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самое норвежское фото из Норвегии",
       "url": "https://www.youtube.com/shorts/i3Ge8G0Yp1M",
       "published_at_utc": "2026-06-13T09:00:39+00:00",
-      "age_seconds": 2210
+      "age_seconds": 2330
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Новый рекорд Мистера Биста",
       "url": "https://www.youtube.com/shorts/cwSaOhlm9Fg",
       "published_at_utc": "2026-06-13T09:00:17+00:00",
-      "age_seconds": 2232
+      "age_seconds": 2352
     },
     {
       "channel": "РАЙЗ",
       "title": "СЕНСАЦИЯ НА МАЖОРЕ! СПИРИТ ФАЛЬКОНС ВИТАЛИТИ, кто проиграл?",
       "url": "https://www.youtube.com/watch?v=5G4-XmlG9_0",
       "published_at_utc": "2026-06-13T09:00:05+00:00",
-      "age_seconds": 2290
+      "age_seconds": 2412
     },
     {
       "channel": "Лучшее с T2x2",
       "title": "У ТЕБЯ АНДРОИД - НИЩЕБРОД! / РЕАКЦИЯ T2x2",
       "url": "https://www.youtube.com/watch?v=-paSwadZSmQ",
       "published_at_utc": "2026-06-13T08:00:33+00:00",
-      "age_seconds": 5892
+      "age_seconds": 6014
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Современные проблемы требуют современных решений",
       "url": "https://www.youtube.com/shorts/iH-VojT6TV4",
       "published_at_utc": "2026-06-13T08:00:21+00:00",
-      "age_seconds": 5828
+      "age_seconds": 5948
     },
     {
       "channel": "Смешновости",
       "title": "Смешновости 180 - юбилейный выпуск! 🥳 #истории #история #новости #новость #shorts",
       "url": "https://www.youtube.com/shorts/fHNVczANd9s",
       "published_at_utc": "2026-06-13T08:00:20+00:00",
-      "age_seconds": 5853
+      "age_seconds": 5974
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "И тут он выжил",
       "url": "https://www.youtube.com/shorts/3uuY60A-32U",
       "published_at_utc": "2026-06-13T08:00:15+00:00",
-      "age_seconds": 5834
+      "age_seconds": 5954
     },
     {
       "channel": "МЯЧ Production",
       "title": "ТОП 10 Станут героями ЧМ-2026",
       "url": "https://www.youtube.com/watch?v=GiqMpC21sfA",
       "published_at_utc": "2026-06-13T08:00:13+00:00",
-      "age_seconds": 5845
+      "age_seconds": 5965
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Стали ЖИВЫМИ БЛОКАМИ • Лучший Выпуск [2026 год] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=1vjmCwN6vGs",
       "published_at_utc": "2026-06-13T08:00:08+00:00",
-      "age_seconds": 5883
+      "age_seconds": 6004
     }
   ]
 }
