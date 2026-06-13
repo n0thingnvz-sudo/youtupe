@@ -1,27 +1,41 @@
 {
-  "generated_at_utc": "2026-06-13T07:02:43.649334+00:00",
+  "generated_at_utc": "2026-06-13T07:04:44.698985+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Собиратель новостей",
+      "title": "Австралиец Повесил на Фургон Баннер с ПУТИНЫМ",
+      "url": "https://www.youtube.com/shorts/cXAsVK9yaMU",
+      "published_at_utc": "2026-06-13T07:00:29+00:00",
+      "age_seconds": 176
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Парашюты с маркетплейсов",
+      "url": "https://www.youtube.com/shorts/KozIUXjK3vY",
+      "published_at_utc": "2026-06-13T07:00:02+00:00",
+      "age_seconds": 208
+    },
     {
       "channel": "kinoluv",
       "title": "Его имя знал каждый в СССР🫡 Смотрите Чемпионат Мира на Кинопоиске⚽️",
       "url": "https://www.youtube.com/shorts/Y876_GOLBjc",
       "published_at_utc": "2026-06-13T06:11:12+00:00",
-      "age_seconds": 3014
+      "age_seconds": 3135
     },
     {
       "channel": "FixEye - Роблокс",
       "title": "😱Grow a Garden 2 ВЫШЕЛ! Вырастил ГИГАНТ РАСТЕНИЕ и УЖЕ ПОБИЛ МИРОВОЙ РЕКОРД в Роблокс!",
       "url": "https://www.youtube.com/watch?v=BxXmizMzqnM",
       "published_at_utc": "2026-06-13T06:00:33+00:00",
-      "age_seconds": 3696
+      "age_seconds": 3816
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Джими и его 500млн подписчиков",
       "url": "https://www.youtube.com/shorts/XyTvi0LQowA",
       "published_at_utc": "2026-06-13T06:00:19+00:00",
-      "age_seconds": 3669
+      "age_seconds": 3790
     }
   ]
 }
