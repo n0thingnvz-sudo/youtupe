@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-10-19T14:15:36.602649+00:00",
+  "generated_at_utc": "2026-10-19T14:17:33.692223+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "А Рыжик просто хотел Воппер...",
+      "url": "https://www.youtube.com/shorts/VVS4jYXA25E",
+      "published_at_utc": "2026-10-19T14:00:23+00:00",
+      "age_seconds": 984
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой кот не толстый, это просто курдюк 😼",
       "url": "https://www.youtube.com/shorts/ISBfXghE87c",
       "published_at_utc": "2026-10-19T13:58:56+00:00",
-      "age_seconds": 970
+      "age_seconds": 1087
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Неплохой бонус",
       "url": "https://www.youtube.com/shorts/AvMzSS4YJgo",
       "published_at_utc": "2026-10-19T13:12:47+00:00",
-      "age_seconds": 3721
+      "age_seconds": 3840
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пацан к успеху шел, не получилось, не фартануло",
       "url": "https://www.youtube.com/shorts/Ya__FsugZ5A",
       "published_at_utc": "2026-10-19T13:00:30+00:00",
-      "age_seconds": 4458
+      "age_seconds": 4577
     },
     {
       "channel": "Новостной Гусь",
       "title": "Даже не думайте продавать эту медаль",
       "url": "https://www.youtube.com/shorts/MRJeCQER4CM",
       "published_at_utc": "2026-10-19T13:00:14+00:00",
-      "age_seconds": 4473
+      "age_seconds": 4592
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкеч",
       "url": "https://www.youtube.com/shorts/HaSdfjr-IvM",
       "published_at_utc": "2026-10-19T12:30:09+00:00",
-      "age_seconds": 6288
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Случайность, Совпадение, Закономерность",
-      "url": "https://www.youtube.com/shorts/_Vm8e0aF2Pk",
-      "published_at_utc": "2026-10-19T12:15:34+00:00",
-      "age_seconds": 7154
+      "age_seconds": 6407
     }
   ]
 }
