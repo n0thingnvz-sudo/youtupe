@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-19T15:33:33.507425+00:00",
+  "generated_at_utc": "2026-10-19T15:35:40.641122+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "dikiy_vadik",
+      "title": "Серия 5",
+      "url": "https://www.youtube.com/shorts/vf4YYJaq1pU",
+      "published_at_utc": "2026-10-19T15:34:35+00:00",
+      "age_seconds": 34
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чистейшая река в Индии:",
       "url": "https://www.youtube.com/shorts/pmqztlBJ26c",
       "published_at_utc": "2026-10-19T15:00:30+00:00",
-      "age_seconds": 1936
+      "age_seconds": 2056
     },
     {
       "channel": "Майни",
       "title": "Жуткий Месяц: Взбесившийся Вредный Лес ► Spooky Month: The Wacky Wicked Woods | Реакция",
       "url": "https://www.youtube.com/watch?v=qnDAVxruaoY",
       "published_at_utc": "2026-10-19T14:30:07+00:00",
-      "age_seconds": 3743
+      "age_seconds": 3863
     },
     {
       "channel": "i11ushenka",
       "title": "Кибердед-2019: Восстание радиоволн",
       "url": "https://www.youtube.com/shorts/r_tqaDO7dFw",
       "published_at_utc": "2026-10-19T14:20:02+00:00",
-      "age_seconds": 4349
+      "age_seconds": 4469
     },
     {
       "channel": "Послезавтра",
       "title": "Зачем городу граффити? #граффити #берлин #город",
       "url": "https://www.youtube.com/shorts/jTf5yLFz6Lc",
       "published_at_utc": "2026-10-19T14:19:46+00:00",
-      "age_seconds": 4363
+      "age_seconds": 4483
     },
     {
       "channel": "LenS",
       "title": "ЧТО ЕСЛИ БУСТЕР ЗАЙДЕТ НА БАТЛ КАП ПОД ПРИКРЫТИЕМ?",
       "url": "https://www.youtube.com/watch?v=pycYYLRSIHU",
       "published_at_utc": "2026-10-19T14:15:43+00:00",
-      "age_seconds": 4661
+      "age_seconds": 4788
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "А Рыжик просто хотел Воппер...",
       "url": "https://www.youtube.com/shorts/VVS4jYXA25E",
       "published_at_utc": "2026-10-19T14:00:23+00:00",
-      "age_seconds": 5543
+      "age_seconds": 5663
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой кот не толстый, это просто курдюк 😼",
       "url": "https://www.youtube.com/shorts/ISBfXghE87c",
       "published_at_utc": "2026-10-19T13:58:56+00:00",
-      "age_seconds": 5647
+      "age_seconds": 5776
     }
   ]
 }
