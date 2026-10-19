@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-19T15:07:34.003147+00:00",
+  "generated_at_utc": "2026-10-19T15:09:34.532350+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Чистейшая река в Индии:",
+      "url": "https://www.youtube.com/shorts/pmqztlBJ26c",
+      "published_at_utc": "2026-10-19T15:00:30+00:00",
+      "age_seconds": 496
+    },
     {
       "channel": "Майни",
       "title": "Жуткий Месяц: Взбесившийся Вредный Лес ► Spooky Month: The Wacky Wicked Woods | Реакция",
       "url": "https://www.youtube.com/watch?v=qnDAVxruaoY",
       "published_at_utc": "2026-10-19T14:30:07+00:00",
-      "age_seconds": 2183
+      "age_seconds": 2303
     },
     {
       "channel": "i11ushenka",
       "title": "Кибердед-2019: Восстание радиоволн",
       "url": "https://www.youtube.com/shorts/r_tqaDO7dFw",
       "published_at_utc": "2026-10-19T14:20:02+00:00",
-      "age_seconds": 2789
+      "age_seconds": 2910
     },
     {
       "channel": "Послезавтра",
       "title": "Зачем городу граффити? #граффити #берлин #город",
       "url": "https://www.youtube.com/shorts/jTf5yLFz6Lc",
       "published_at_utc": "2026-10-19T14:19:46+00:00",
-      "age_seconds": 2803
+      "age_seconds": 2923
     },
     {
       "channel": "LenS",
       "title": "ЧТО ЕСЛИ БУСТЕР ЗАЙДЕТ НА БАТЛ КАП ПОД ПРИКРЫТИЕМ?",
       "url": "https://www.youtube.com/watch?v=pycYYLRSIHU",
       "published_at_utc": "2026-10-19T14:15:43+00:00",
-      "age_seconds": 3101
+      "age_seconds": 3221
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "А Рыжик просто хотел Воппер...",
       "url": "https://www.youtube.com/shorts/VVS4jYXA25E",
       "published_at_utc": "2026-10-19T14:00:23+00:00",
-      "age_seconds": 3983
+      "age_seconds": 4103
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой кот не толстый, это просто курдюк 😼",
       "url": "https://www.youtube.com/shorts/ISBfXghE87c",
       "published_at_utc": "2026-10-19T13:58:56+00:00",
-      "age_seconds": 4087
+      "age_seconds": 4207
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Неплохой бонус",
       "url": "https://www.youtube.com/shorts/AvMzSS4YJgo",
       "published_at_utc": "2026-10-19T13:12:47+00:00",
-      "age_seconds": 6840
+      "age_seconds": 6960
     }
   ]
 }
