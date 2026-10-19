@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-10-19T16:59:35.690186+00:00",
+  "generated_at_utc": "2026-10-19T17:01:42.613148+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "DeadP47",
+      "title": "САМАЯ ЖИРНАЯ ДРАМА",
+      "url": "https://www.youtube.com/watch?v=iZMfD_XvXc8",
+      "published_at_utc": "2026-10-19T16:55:37+00:00",
+      "age_seconds": 356
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Муравьиные разборки",
       "url": "https://www.youtube.com/shorts/TVyIFQUc8YI",
       "published_at_utc": "2026-10-19T16:30:43+00:00",
-      "age_seconds": 1683
+      "age_seconds": 1803
     },
     {
       "channel": "Jim Gold",
       "title": "КРАСОТА ТРЕБУЕТ ЖЕРТВ...",
       "url": "https://www.youtube.com/watch?v=PrD1wK11Nuk",
       "published_at_utc": "2026-10-19T16:18:28+00:00",
-      "age_seconds": 2434
+      "age_seconds": 2557
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пора мне получать права",
       "url": "https://www.youtube.com/shorts/rL4ybktN4Ic",
       "published_at_utc": "2026-10-19T16:00:01+00:00",
-      "age_seconds": 3525
+      "age_seconds": 3646
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Займи поле соперника #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/DJtYpH3eO-E",
       "published_at_utc": "2026-10-19T15:48:33+00:00",
-      "age_seconds": 4231
+      "age_seconds": 4354
     },
     {
       "channel": "dikiy_vadik",
       "title": "Серия 5",
       "url": "https://www.youtube.com/shorts/vf4YYJaq1pU",
       "published_at_utc": "2026-10-19T15:34:35+00:00",
-      "age_seconds": 5066
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Чистейшая река в Индии:",
-      "url": "https://www.youtube.com/shorts/pmqztlBJ26c",
-      "published_at_utc": "2026-10-19T15:00:30+00:00",
-      "age_seconds": 7096
+      "age_seconds": 5188
     }
   ]
 }
