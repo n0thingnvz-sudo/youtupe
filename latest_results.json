@@ -1,55 +1,69 @@
 {
-  "generated_at_utc": "2026-10-19T12:11:34.675314+00:00",
+  "generated_at_utc": "2026-10-19T12:13:35.134438+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Какие же истории ждут их детей...",
+      "url": "https://www.youtube.com/shorts/0-DrXXdBYOc",
+      "published_at_utc": "2026-10-19T12:00:09+00:00",
+      "age_seconds": 757
+    },
     {
       "channel": "IG project",
       "title": "😱 СТОЛАС СПЕЦИАЛЬНО ОШИБСЯ В АДРЕСЕ ЧТОБЫ ЕГО.... 🤬 #адскийбосс #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/ZEp_WfRKhkc",
       "published_at_utc": "2026-10-19T11:55:47+00:00",
-      "age_seconds": 908
+      "age_seconds": 1029
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Лучший снимок Google Earth 🌏",
+      "url": "https://www.youtube.com/shorts/pbLc-h2-guY",
+      "published_at_utc": "2026-10-19T11:51:49+00:00",
+      "age_seconds": 1275
     },
     {
       "channel": "TheDRZJ",
       "title": "Сони, NVIDIA и EA ЗАНЫЛИ: геймеры с НЕЙРОНКАМИ СЛОМАЛИ ИМ В С Ё",
       "url": "https://www.youtube.com/watch?v=gykuQsyiW6Y",
       "published_at_utc": "2026-10-19T11:17:47+00:00",
-      "age_seconds": 3211
+      "age_seconds": 3331
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Залутал 3 ляма баксов в колледже",
       "url": "https://www.youtube.com/shorts/JaPFfBCQd_4",
       "published_at_utc": "2026-10-19T11:15:00+00:00",
-      "age_seconds": 3347
+      "age_seconds": 3467
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Семье уток помогли добраться до дома 🧡",
       "url": "https://www.youtube.com/shorts/svhAJx5bGaw",
       "published_at_utc": "2026-10-19T11:05:00+00:00",
-      "age_seconds": 3964
+      "age_seconds": 4084
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как называют таких полицейских?",
       "url": "https://www.youtube.com/shorts/cFsnvzazbh4",
       "published_at_utc": "2026-10-19T11:00:36+00:00",
-      "age_seconds": 4210
+      "age_seconds": 4330
     },
     {
       "channel": "sun_kill",
       "title": "сейчас НЕ ВАЙБ выкладывать хиханьки да хаханьки",
       "url": "https://www.youtube.com/shorts/zsl0D1Qb2zA",
       "published_at_utc": "2026-10-19T10:36:39+00:00",
-      "age_seconds": 5633
+      "age_seconds": 5753
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Муравьиный начальник",
       "url": "https://www.youtube.com/shorts/4srmBOC_a30",
       "published_at_utc": "2026-10-19T10:15:24+00:00",
-      "age_seconds": 6923
+      "age_seconds": 7043
     }
   ]
 }
