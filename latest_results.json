@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-19T18:37:35.526823+00:00",
+  "generated_at_utc": "2026-10-19T18:39:39.853268+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Будни шаурмиста. Часть 20",
+      "url": "https://www.youtube.com/shorts/ctI5zmazaM4",
+      "published_at_utc": "2026-10-19T18:30:22+00:00",
+      "age_seconds": 522
+    },
     {
       "channel": "МЯЧ Production",
       "title": "Ямаль — чертенок, Бавария — напихала, МЮ — не сладкая булочка | ХИТ №7",
       "url": "https://www.youtube.com/watch?v=v7iD02gkhlo",
       "published_at_utc": "2026-10-19T18:02:45+00:00",
-      "age_seconds": 2050
+      "age_seconds": 2173
     },
     {
       "channel": "Bulkin Drive",
       "title": "Самая БЫСТРАЯ FERRARI 812 GTS! ЛАМБА или ФЕРРА?! БЕЗУМНЫЙ ВЫХЛОП на V12!",
       "url": "https://www.youtube.com/watch?v=ovFgvaWSobk",
       "published_at_utc": "2026-10-19T17:06:34+00:00",
-      "age_seconds": 5419
+      "age_seconds": 5542
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как тебе такое, Илон Макс?",
       "url": "https://www.youtube.com/shorts/xjD52EtydTA",
       "published_at_utc": "2026-10-19T17:00:30+00:00",
-      "age_seconds": 5777
+      "age_seconds": 5900
     },
     {
       "channel": "DeadP47",
       "title": "САМАЯ ЖИРНАЯ ДРАМА",
       "url": "https://www.youtube.com/watch?v=iZMfD_XvXc8",
       "published_at_utc": "2026-10-19T16:55:37+00:00",
-      "age_seconds": 6108
+      "age_seconds": 6233
     }
   ]
 }
