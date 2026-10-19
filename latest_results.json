@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-10-19T16:21:34.004933+00:00",
+  "generated_at_utc": "2026-10-19T16:23:33.922518+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Jim Gold",
-      "title": "КРАСОТА ТРЕБУЕТ ЖЕРТВ...",
-      "url": "https://www.youtube.com/watch?v=PrD1wK11Nuk",
-      "published_at_utc": "2026-10-19T16:18:28+00:00",
-      "age_seconds": 153
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пора мне получать права",
       "url": "https://www.youtube.com/shorts/rL4ybktN4Ic",
       "published_at_utc": "2026-10-19T16:00:01+00:00",
-      "age_seconds": 1245
+      "age_seconds": 1365
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Займи поле соперника #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/DJtYpH3eO-E",
       "published_at_utc": "2026-10-19T15:48:33+00:00",
-      "age_seconds": 1950
+      "age_seconds": 2071
     },
     {
       "channel": "dikiy_vadik",
       "title": "Серия 5",
       "url": "https://www.youtube.com/shorts/vf4YYJaq1pU",
       "published_at_utc": "2026-10-19T15:34:35+00:00",
-      "age_seconds": 2784
+      "age_seconds": 2905
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чистейшая река в Индии:",
       "url": "https://www.youtube.com/shorts/pmqztlBJ26c",
       "published_at_utc": "2026-10-19T15:00:30+00:00",
-      "age_seconds": 4816
+      "age_seconds": 4936
     },
     {
       "channel": "Майни",
       "title": "Жуткий Месяц: Взбесившийся Вредный Лес ► Spooky Month: The Wacky Wicked Woods | Реакция",
       "url": "https://www.youtube.com/watch?v=qnDAVxruaoY",
       "published_at_utc": "2026-10-19T14:30:07+00:00",
-      "age_seconds": 6623
+      "age_seconds": 6743
     }
   ]
 }
