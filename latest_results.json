@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T14:25:41.293730+00:00",
+  "generated_at_utc": "2026-10-19T14:27:36.189314+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,56 @@
       "title": "Зачем городу граффити? #граффити #берлин #город",
       "url": "https://www.youtube.com/shorts/jTf5yLFz6Lc",
       "published_at_utc": "2026-10-19T14:19:46+00:00",
-      "age_seconds": 283
+      "age_seconds": 403
+    },
+    {
+      "channel": "LenS",
+      "title": "ЧТО ЕСЛИ БУСТЕР ЗАЙДЕТ НА БАТЛ КАП ПОД ПРИКРЫТИЕМ?",
+      "url": "https://www.youtube.com/watch?v=pycYYLRSIHU",
+      "published_at_utc": "2026-10-19T14:15:43+00:00",
+      "age_seconds": 703
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "А Рыжик просто хотел Воппер...",
       "url": "https://www.youtube.com/shorts/VVS4jYXA25E",
       "published_at_utc": "2026-10-19T14:00:23+00:00",
-      "age_seconds": 1463
+      "age_seconds": 1585
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой кот не толстый, это просто курдюк 😼",
       "url": "https://www.youtube.com/shorts/ISBfXghE87c",
       "published_at_utc": "2026-10-19T13:58:56+00:00",
-      "age_seconds": 1567
+      "age_seconds": 1688
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Неплохой бонус",
       "url": "https://www.youtube.com/shorts/AvMzSS4YJgo",
       "published_at_utc": "2026-10-19T13:12:47+00:00",
-      "age_seconds": 4319
+      "age_seconds": 4441
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пацан к успеху шел, не получилось, не фартануло",
       "url": "https://www.youtube.com/shorts/Ya__FsugZ5A",
       "published_at_utc": "2026-10-19T13:00:30+00:00",
-      "age_seconds": 5056
+      "age_seconds": 5178
     },
     {
       "channel": "Новостной Гусь",
       "title": "Даже не думайте продавать эту медаль",
       "url": "https://www.youtube.com/shorts/MRJeCQER4CM",
       "published_at_utc": "2026-10-19T13:00:14+00:00",
-      "age_seconds": 5071
+      "age_seconds": 5193
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкеч",
       "url": "https://www.youtube.com/shorts/HaSdfjr-IvM",
       "published_at_utc": "2026-10-19T12:30:09+00:00",
-      "age_seconds": 6886
+      "age_seconds": 7008
     }
   ]
 }
