@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-19T16:09:37.364608+00:00",
+  "generated_at_utc": "2026-10-19T16:11:47.521052+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Пора мне получать права",
+      "url": "https://www.youtube.com/shorts/rL4ybktN4Ic",
+      "published_at_utc": "2026-10-19T16:00:01+00:00",
+      "age_seconds": 644
+    },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Займи поле соперника #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/DJtYpH3eO-E",
       "published_at_utc": "2026-10-19T15:48:33+00:00",
-      "age_seconds": 1233
+      "age_seconds": 1357
     },
     {
       "channel": "dikiy_vadik",
       "title": "Серия 5",
       "url": "https://www.youtube.com/shorts/vf4YYJaq1pU",
       "published_at_utc": "2026-10-19T15:34:35+00:00",
-      "age_seconds": 2067
+      "age_seconds": 2191
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чистейшая река в Индии:",
       "url": "https://www.youtube.com/shorts/pmqztlBJ26c",
       "published_at_utc": "2026-10-19T15:00:30+00:00",
-      "age_seconds": 4097
+      "age_seconds": 4215
     },
     {
       "channel": "Майни",
       "title": "Жуткий Месяц: Взбесившийся Вредный Лес ► Spooky Month: The Wacky Wicked Woods | Реакция",
       "url": "https://www.youtube.com/watch?v=qnDAVxruaoY",
       "published_at_utc": "2026-10-19T14:30:07+00:00",
-      "age_seconds": 5903
+      "age_seconds": 6023
     },
     {
       "channel": "i11ushenka",
       "title": "Кибердед-2019: Восстание радиоволн",
       "url": "https://www.youtube.com/shorts/r_tqaDO7dFw",
       "published_at_utc": "2026-10-19T14:20:02+00:00",
-      "age_seconds": 6510
+      "age_seconds": 6629
     },
     {
       "channel": "Послезавтра",
       "title": "Зачем городу граффити? #граффити #берлин #город",
       "url": "https://www.youtube.com/shorts/jTf5yLFz6Lc",
       "published_at_utc": "2026-10-19T14:19:46+00:00",
-      "age_seconds": 6523
+      "age_seconds": 6643
     },
     {
       "channel": "LenS",
       "title": "ЧТО ЕСЛИ БУСТЕР ЗАЙДЕТ НА БАТЛ КАП ПОД ПРИКРЫТИЕМ?",
       "url": "https://www.youtube.com/watch?v=pycYYLRSIHU",
       "published_at_utc": "2026-10-19T14:15:43+00:00",
-      "age_seconds": 6823
+      "age_seconds": 6947
     }
   ]
 }
