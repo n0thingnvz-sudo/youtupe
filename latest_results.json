@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-10-19T17:05:36.566931+00:00",
+  "generated_at_utc": "2026-10-19T17:07:35.599661+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Как тебе такое, Илон Макс?",
-      "url": "https://www.youtube.com/shorts/xjD52EtydTA",
-      "published_at_utc": "2026-10-19T17:00:30+00:00",
-      "age_seconds": 257
-    },
     {
       "channel": "DeadP47",
       "title": "САМАЯ ЖИРНАЯ ДРАМА",
       "url": "https://www.youtube.com/watch?v=iZMfD_XvXc8",
       "published_at_utc": "2026-10-19T16:55:37+00:00",
-      "age_seconds": 590
+      "age_seconds": 709
     },
     {
       "channel": "Новостной Гусь",
       "title": "Муравьиные разборки",
       "url": "https://www.youtube.com/shorts/TVyIFQUc8YI",
       "published_at_utc": "2026-10-19T16:30:43+00:00",
-      "age_seconds": 2043
+      "age_seconds": 2163
     },
     {
       "channel": "Jim Gold",
       "title": "КРАСОТА ТРЕБУЕТ ЖЕРТВ...",
       "url": "https://www.youtube.com/watch?v=PrD1wK11Nuk",
       "published_at_utc": "2026-10-19T16:18:28+00:00",
-      "age_seconds": 2795
+      "age_seconds": 2915
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пора мне получать права",
       "url": "https://www.youtube.com/shorts/rL4ybktN4Ic",
       "published_at_utc": "2026-10-19T16:00:01+00:00",
-      "age_seconds": 3886
+      "age_seconds": 4006
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Займи поле соперника #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/DJtYpH3eO-E",
       "published_at_utc": "2026-10-19T15:48:33+00:00",
-      "age_seconds": 4592
+      "age_seconds": 4712
     },
     {
       "channel": "dikiy_vadik",
       "title": "Серия 5",
       "url": "https://www.youtube.com/shorts/vf4YYJaq1pU",
       "published_at_utc": "2026-10-19T15:34:35+00:00",
-      "age_seconds": 5426
+      "age_seconds": 5546
     }
   ]
 }
