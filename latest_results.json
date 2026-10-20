@@ -1,20 +1,41 @@
 {
-  "generated_at_utc": "2026-10-20T10:19:30.636012+00:00",
+  "generated_at_utc": "2026-10-20T10:21:33.567410+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Когда коту пофиг на твоё видео 😾",
+      "url": "https://www.youtube.com/shorts/uOGEXvo-NIw",
+      "published_at_utc": "2026-10-20T10:12:33+00:00",
+      "age_seconds": 511
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Лучше поздно чем никогда",
+      "url": "https://www.youtube.com/shorts/gJNH3wg8GWg",
+      "published_at_utc": "2026-10-20T10:11:43+00:00",
+      "age_seconds": 545
+    },
+    {
+      "channel": "soskamakaka",
+      "title": "#genshinimpact #геншин #геншинимпакт #genshin  #аяка #одетта",
+      "url": "https://www.youtube.com/shorts/E_5Ftnxv-Qo",
+      "published_at_utc": "2026-10-20T10:00:17+00:00",
+      "age_seconds": 1268
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Любовь всей жизни",
       "url": "https://www.youtube.com/shorts/HbvgiLjteGQ",
       "published_at_utc": "2026-10-20T09:11:11+00:00",
-      "age_seconds": 4054
+      "age_seconds": 4177
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Крестоносцев #3",
       "url": "https://www.youtube.com/watch?v=q2TU7FI71L8",
       "published_at_utc": "2026-10-20T08:55:01+00:00",
-      "age_seconds": 5019
+      "age_seconds": 5140
     }
   ]
 }
