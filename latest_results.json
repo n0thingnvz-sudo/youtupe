@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T16:51:33.437206+00:00",
+  "generated_at_utc": "2026-10-20T16:53:39.804547+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "С подругой",
       "url": "https://www.youtube.com/shorts/aQqr3VFv6co",
       "published_at_utc": "2026-10-20T16:48:53+00:00",
-      "age_seconds": 127
+      "age_seconds": 252
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Игра которую мы заслужили",
       "url": "https://www.youtube.com/shorts/-wRku7o3vNM",
       "published_at_utc": "2026-10-20T16:29:48+00:00",
-      "age_seconds": 1259
+      "age_seconds": 1380
     },
     {
       "channel": "Новостной Гусь",
       "title": "Попыталась защитить свой магазин",
       "url": "https://www.youtube.com/shorts/tPZ-8OZo838",
       "published_at_utc": "2026-10-20T16:00:14+00:00",
-      "age_seconds": 3031
+      "age_seconds": 3153
     },
     {
       "channel": "Алежа Обухов",
       "title": "Будни шаурмиста. Сборник. Все серии",
       "url": "https://www.youtube.com/watch?v=PF9RQvn1LTE",
       "published_at_utc": "2026-10-20T15:39:28+00:00",
-      "age_seconds": 4292
+      "age_seconds": 4418
     },
     {
       "channel": "i11ushenka",
       "title": "Как Пэрис Хилтон поцеловала...суп? 😐",
       "url": "https://www.youtube.com/shorts/UT6Rgbpmiq0",
       "published_at_utc": "2026-10-20T15:34:57+00:00",
-      "age_seconds": 4534
+      "age_seconds": 4654
     },
     {
       "channel": "leafxup",
       "title": "ОБМАНЫВАЮ ЛЮДЕЙ ОНЛАЙН...",
       "url": "https://www.youtube.com/watch?v=_5S2wgm_2R0",
       "published_at_utc": "2026-10-20T15:13:06+00:00",
-      "age_seconds": 5889
+      "age_seconds": 6017
     }
   ]
 }
