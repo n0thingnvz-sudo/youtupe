@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-20T18:07:36.808911+00:00",
+  "generated_at_utc": "2026-10-20T18:09:36.905553+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Ваш банк ошибся на $4млн баксов",
+      "url": "https://www.youtube.com/shorts/fiDV6-NTY4s",
+      "published_at_utc": "2026-10-20T17:52:35+00:00",
+      "age_seconds": 975
+    },
     {
       "channel": "SonnyK",
       "title": "Assassin's Creed Destiny — ОТМЕНИЛИ НА..Й",
       "url": "https://www.youtube.com/watch?v=YgbMLm8J-MM",
       "published_at_utc": "2026-10-20T17:24:52+00:00",
-      "age_seconds": 2546
+      "age_seconds": 2667
     },
     {
       "channel": "dikiy_vadik",
       "title": "С подругой",
       "url": "https://www.youtube.com/shorts/aQqr3VFv6co",
       "published_at_utc": "2026-10-20T16:48:53+00:00",
-      "age_seconds": 4689
+      "age_seconds": 4811
     },
     {
       "channel": "парадеевич",
       "title": "Кто из нас самый народный? / Самые странные вопросы",
       "url": "https://www.youtube.com/watch?v=V54CKqWQlpA",
       "published_at_utc": "2026-10-20T16:46:52+00:00",
-      "age_seconds": 4820
+      "age_seconds": 4941
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Игра которую мы заслужили",
       "url": "https://www.youtube.com/shorts/-wRku7o3vNM",
       "published_at_utc": "2026-10-20T16:29:48+00:00",
-      "age_seconds": 5820
+      "age_seconds": 5942
     }
   ]
 }
