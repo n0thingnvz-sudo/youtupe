@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T10:03:33.297148+00:00",
+  "generated_at_utc": "2026-10-20T10:05:38.102808+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Любовь всей жизни",
       "url": "https://www.youtube.com/shorts/HbvgiLjteGQ",
       "published_at_utc": "2026-10-20T09:11:11+00:00",
-      "age_seconds": 3096
+      "age_seconds": 3215
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Крестоносцев #3",
       "url": "https://www.youtube.com/watch?v=q2TU7FI71L8",
       "published_at_utc": "2026-10-20T08:55:01+00:00",
-      "age_seconds": 4060
+      "age_seconds": 4180
     }
   ]
 }
