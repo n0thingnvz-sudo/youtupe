@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T12:29:41.510169+00:00",
+  "generated_at_utc": "2026-10-20T12:31:34.666462+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,35 @@
       "title": "Наконец-то! Война в Космосе - США Против России! @denmarnews",
       "url": "https://www.youtube.com/shorts/nhbYjW6Na5U",
       "published_at_utc": "2026-10-20T12:22:00+00:00",
-      "age_seconds": 402
+      "age_seconds": 523
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Стальной лук",
+      "url": "https://www.youtube.com/shorts/jSbYWXYqQ8A",
+      "published_at_utc": "2026-10-20T12:21:36+00:00",
+      "age_seconds": 552
     },
     {
       "channel": "Натурал Альбертович",
       "title": "Страшное РОДИТЕЛЬСКОЕ СОБРАНИЕ (смешное видео, юмор, прикол, поржать, приколы, смех)",
       "url": "https://www.youtube.com/shorts/4YfB2UnPmeU",
       "published_at_utc": "2026-10-20T12:00:15+00:00",
-      "age_seconds": 1726
+      "age_seconds": 1847
     },
     {
       "channel": "Мармеладыч",
       "title": "Ответ хейтерам без приколов",
       "url": "https://www.youtube.com/shorts/9e9stQRXTg4",
       "published_at_utc": "2026-10-20T11:40:35+00:00",
-      "age_seconds": 2902
+      "age_seconds": 3023
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кажется мне тут есть какой-то намёк…",
       "url": "https://www.youtube.com/shorts/VPNaW-pYUM8",
       "published_at_utc": "2026-10-20T11:10:03+00:00",
-      "age_seconds": 4723
+      "age_seconds": 4845
     }
   ]
 }
