@@ -1,55 +1,55 @@
 {
-  "generated_at_utc": "2026-10-20T15:47:35.668052+00:00",
+  "generated_at_utc": "2026-10-20T15:49:37.536157+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Будни шаурмиста. Сборник. Все серии",
+      "url": "https://www.youtube.com/watch?v=PF9RQvn1LTE",
+      "published_at_utc": "2026-10-20T15:39:28+00:00",
+      "age_seconds": 575
+    },
     {
       "channel": "i11ushenka",
       "title": "Как Пэрис Хилтон поцеловала...суп? 😐",
       "url": "https://www.youtube.com/shorts/UT6Rgbpmiq0",
       "published_at_utc": "2026-10-20T15:34:57+00:00",
-      "age_seconds": 694
+      "age_seconds": 814
     },
     {
       "channel": "leafxup",
       "title": "ОБМАНЫВАЮ ЛЮДЕЙ ОНЛАЙН...",
       "url": "https://www.youtube.com/watch?v=_5S2wgm_2R0",
       "published_at_utc": "2026-10-20T15:13:06+00:00",
-      "age_seconds": 2051
+      "age_seconds": 2172
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Предвыборная компания",
       "url": "https://www.youtube.com/shorts/Fr2n18k-0ic",
       "published_at_utc": "2026-10-20T14:48:12+00:00",
-      "age_seconds": 3515
+      "age_seconds": 3634
     },
     {
       "channel": "парадеевич",
       "title": "MOUSETRAP JENGA - участники, по очереди ставят мышеловки друг на друга. На ком упадет тому наказание",
       "url": "https://www.youtube.com/shorts/5lt8M1EA6gI",
       "published_at_utc": "2026-10-20T14:42:25+00:00",
-      "age_seconds": 3886
+      "age_seconds": 4007
     },
     {
       "channel": "Майни",
       "title": "Я опять переезжаю. Но в этот раз всё по-другому ► TheBrianMaps ( Брайн Мапс) | Реакция",
       "url": "https://www.youtube.com/watch?v=N1D8b_0Z1jA",
       "published_at_utc": "2026-10-20T14:30:13+00:00",
-      "age_seconds": 4577
+      "age_seconds": 4697
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не на ту аудиторию залетел ролик",
       "url": "https://www.youtube.com/shorts/1o7kNrUQ0j4",
       "published_at_utc": "2026-10-20T14:20:23+00:00",
-      "age_seconds": 5183
-    },
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "ТОП 4 существа, чья жизнь — ад 🙃",
-      "url": "https://www.youtube.com/shorts/kls-fBfgI-E",
-      "published_at_utc": "2026-10-20T13:47:58+00:00",
-      "age_seconds": 7146
+      "age_seconds": 5302
     }
   ]
 }
