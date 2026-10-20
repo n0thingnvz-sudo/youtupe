@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-10-20T12:07:34.285076+00:00",
+  "generated_at_utc": "2026-10-20T12:09:38.314086+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Натурал Альбертович",
-      "title": "Страшное РОДИТЕЛЬСКОЕ СОБРАНИЕ (смешное видео, юмор, прикол, поржать, приколы, смех)",
-      "url": "https://www.youtube.com/shorts/4YfB2UnPmeU",
-      "published_at_utc": "2026-10-20T12:00:15+00:00",
-      "age_seconds": 406
-    },
     {
       "channel": "Мармеладыч",
       "title": "Ответ хейтерам без приколов",
       "url": "https://www.youtube.com/shorts/9e9stQRXTg4",
       "published_at_utc": "2026-10-20T11:40:35+00:00",
-      "age_seconds": 1582
+      "age_seconds": 1702
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кажется мне тут есть какой-то намёк…",
       "url": "https://www.youtube.com/shorts/VPNaW-pYUM8",
       "published_at_utc": "2026-10-20T11:10:03+00:00",
-      "age_seconds": 3403
+      "age_seconds": 3523
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Когда коту пофиг на твоё видео 😾",
       "url": "https://www.youtube.com/shorts/uOGEXvo-NIw",
       "published_at_utc": "2026-10-20T10:12:33+00:00",
-      "age_seconds": 6870
+      "age_seconds": 6989
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Лучше поздно чем никогда",
       "url": "https://www.youtube.com/shorts/gJNH3wg8GWg",
       "published_at_utc": "2026-10-20T10:11:43+00:00",
-      "age_seconds": 6903
+      "age_seconds": 7023
     }
   ]
 }
