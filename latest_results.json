@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T18:47:36.684080+00:00",
+  "generated_at_utc": "2026-10-20T18:49:34.815523+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,14 @@
       "title": "Ваш банк ошибся на $4млн баксов",
       "url": "https://www.youtube.com/shorts/fiDV6-NTY4s",
       "published_at_utc": "2026-10-20T17:52:35+00:00",
-      "age_seconds": 3252
+      "age_seconds": 3371
     },
     {
       "channel": "SonnyK",
       "title": "Ubisoft УБИЛА Assassin’s Creed Destiny",
       "url": "https://www.youtube.com/watch?v=YgbMLm8J-MM",
       "published_at_utc": "2026-10-20T17:24:52+00:00",
-      "age_seconds": 4946
-    },
-    {
-      "channel": "dikiy_vadik",
-      "title": "С подругой",
-      "url": "https://www.youtube.com/shorts/aQqr3VFv6co",
-      "published_at_utc": "2026-10-20T16:48:53+00:00",
-      "age_seconds": 7087
+      "age_seconds": 5061
     }
   ]
 }
