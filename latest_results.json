@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-20T16:11:40.944170+00:00",
+  "generated_at_utc": "2026-10-20T16:13:38.126319+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Попыталась защитить свой магазин",
+      "url": "https://www.youtube.com/shorts/tPZ-8OZo838",
+      "published_at_utc": "2026-10-20T16:00:14+00:00",
+      "age_seconds": 752
+    },
     {
       "channel": "Алежа Обухов",
       "title": "Будни шаурмиста. Сборник. Все серии",
       "url": "https://www.youtube.com/watch?v=PF9RQvn1LTE",
       "published_at_utc": "2026-10-20T15:39:28+00:00",
-      "age_seconds": 1893
+      "age_seconds": 2016
     },
     {
       "channel": "i11ushenka",
       "title": "Как Пэрис Хилтон поцеловала...суп? 😐",
       "url": "https://www.youtube.com/shorts/UT6Rgbpmiq0",
       "published_at_utc": "2026-10-20T15:34:57+00:00",
-      "age_seconds": 2134
+      "age_seconds": 2254
     },
     {
       "channel": "leafxup",
       "title": "ОБМАНЫВАЮ ЛЮДЕЙ ОНЛАЙН...",
       "url": "https://www.youtube.com/watch?v=_5S2wgm_2R0",
       "published_at_utc": "2026-10-20T15:13:06+00:00",
-      "age_seconds": 3497
+      "age_seconds": 3615
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Предвыборная компания",
       "url": "https://www.youtube.com/shorts/Fr2n18k-0ic",
       "published_at_utc": "2026-10-20T14:48:12+00:00",
-      "age_seconds": 4955
+      "age_seconds": 5077
     },
     {
       "channel": "парадеевич",
       "title": "MOUSETRAP JENGA - участники, по очереди ставят мышеловки друг на друга. На ком упадет тому наказание",
       "url": "https://www.youtube.com/shorts/5lt8M1EA6gI",
       "published_at_utc": "2026-10-20T14:42:25+00:00",
-      "age_seconds": 5331
+      "age_seconds": 5449
     },
     {
       "channel": "Майни",
       "title": "Я опять переезжаю. Но в этот раз всё по-другому ► TheBrianMaps ( Брайн Мапс) | Реакция",
       "url": "https://www.youtube.com/watch?v=N1D8b_0Z1jA",
       "published_at_utc": "2026-10-20T14:30:13+00:00",
-      "age_seconds": 6017
+      "age_seconds": 6137
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не на ту аудиторию залетел ролик",
       "url": "https://www.youtube.com/shorts/1o7kNrUQ0j4",
       "published_at_utc": "2026-10-20T14:20:23+00:00",
-      "age_seconds": 6622
+      "age_seconds": 6743
     }
   ]
 }
