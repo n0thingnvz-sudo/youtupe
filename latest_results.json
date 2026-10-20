@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-20T10:13:33.740599+00:00",
+  "generated_at_utc": "2026-10-20T10:15:32.348209+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Когда коту пофиг на твоё видео 😾",
+      "url": "https://www.youtube.com/shorts/uOGEXvo-NIw",
+      "published_at_utc": "2026-10-20T10:12:33+00:00",
+      "age_seconds": 149
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Любовь всей жизни",
       "url": "https://www.youtube.com/shorts/HbvgiLjteGQ",
       "published_at_utc": "2026-10-20T09:11:11+00:00",
-      "age_seconds": 3696
+      "age_seconds": 3814
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Крестоносцев #3",
       "url": "https://www.youtube.com/watch?v=q2TU7FI71L8",
       "published_at_utc": "2026-10-20T08:55:01+00:00",
-      "age_seconds": 4659
+      "age_seconds": 4779
     }
   ]
 }
