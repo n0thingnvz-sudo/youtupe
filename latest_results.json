@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-10-20T12:27:36.194101+00:00",
+  "generated_at_utc": "2026-10-20T12:29:41.510169+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Наконец-то! Война в Космосе - США Против России! @denmarnews",
+      "url": "https://www.youtube.com/shorts/nhbYjW6Na5U",
+      "published_at_utc": "2026-10-20T12:22:00+00:00",
+      "age_seconds": 402
+    },
     {
       "channel": "Натурал Альбертович",
       "title": "Страшное РОДИТЕЛЬСКОЕ СОБРАНИЕ (смешное видео, юмор, прикол, поржать, приколы, смех)",
       "url": "https://www.youtube.com/shorts/4YfB2UnPmeU",
       "published_at_utc": "2026-10-20T12:00:15+00:00",
-      "age_seconds": 1609
+      "age_seconds": 1726
     },
     {
       "channel": "Мармеладыч",
       "title": "Ответ хейтерам без приколов",
       "url": "https://www.youtube.com/shorts/9e9stQRXTg4",
       "published_at_utc": "2026-10-20T11:40:35+00:00",
-      "age_seconds": 2783
+      "age_seconds": 2902
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кажется мне тут есть какой-то намёк…",
       "url": "https://www.youtube.com/shorts/VPNaW-pYUM8",
       "published_at_utc": "2026-10-20T11:10:03+00:00",
-      "age_seconds": 4604
+      "age_seconds": 4723
     }
   ]
 }
