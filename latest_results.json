@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-20T11:41:30.925498+00:00",
+  "generated_at_utc": "2026-10-20T11:43:31.389928+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Мармеладыч",
+      "title": "Ответ хейтерам без приколов",
+      "url": "https://www.youtube.com/shorts/9e9stQRXTg4",
+      "published_at_utc": "2026-10-20T11:40:35+00:00",
+      "age_seconds": 141
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кажется мне тут есть какой-то намёк…",
       "url": "https://www.youtube.com/shorts/VPNaW-pYUM8",
       "published_at_utc": "2026-10-20T11:10:03+00:00",
-      "age_seconds": 1842
+      "age_seconds": 1963
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Когда коту пофиг на твоё видео 😾",
       "url": "https://www.youtube.com/shorts/uOGEXvo-NIw",
       "published_at_utc": "2026-10-20T10:12:33+00:00",
-      "age_seconds": 5309
+      "age_seconds": 5429
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Лучше поздно чем никогда",
       "url": "https://www.youtube.com/shorts/gJNH3wg8GWg",
       "published_at_utc": "2026-10-20T10:11:43+00:00",
-      "age_seconds": 5342
+      "age_seconds": 5463
     },
     {
       "channel": "soskamakaka",
       "title": "#genshinimpact #геншин #геншинимпакт #genshin  #аяка #одетта",
       "url": "https://www.youtube.com/shorts/E_5Ftnxv-Qo",
       "published_at_utc": "2026-10-20T10:00:17+00:00",
-      "age_seconds": 6065
+      "age_seconds": 6186
     }
   ]
 }
