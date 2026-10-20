@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-20T08:57:34.988566+00:00",
+  "generated_at_utc": "2026-10-20T08:59:29.463320+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Звездный Капитан",
+      "title": "Ужасы Крестоносцев #3",
+      "url": "https://www.youtube.com/watch?v=q2TU7FI71L8",
+      "published_at_utc": "2026-10-20T08:55:01+00:00",
+      "age_seconds": 219
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ориенталы. Ушастые милахи 🖤",
       "url": "https://www.youtube.com/shorts/Gv1FActcwQk",
       "published_at_utc": "2026-10-20T07:50:38+00:00",
-      "age_seconds": 3985
+      "age_seconds": 4103
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Сказал — сделал",
       "url": "https://www.youtube.com/shorts/e80BRXqZ5QM",
       "published_at_utc": "2026-10-20T07:00:29+00:00",
-      "age_seconds": 6978
+      "age_seconds": 7096
     }
   ]
 }
