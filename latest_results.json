@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-10-21T12:59:31.925767+00:00",
+  "generated_at_utc": "2026-10-21T13:01:34.829390+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "режИИсер",
+      "url": "https://www.youtube.com/shorts/NNlAhQI1Oho",
+      "published_at_utc": "2026-10-21T12:53:27+00:00",
+      "age_seconds": 439
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Кто же виноват?",
       "url": "https://www.youtube.com/shorts/q8Fkj8GtPd4",
       "published_at_utc": "2026-10-21T12:30:26+00:00",
-      "age_seconds": 1698
+      "age_seconds": 1819
     },
     {
       "channel": "dikiy_vadik",
       "title": "ДЗ в школе",
       "url": "https://www.youtube.com/shorts/TrLOnLSfZGU",
       "published_at_utc": "2026-10-21T12:12:06+00:00",
-      "age_seconds": 2813
+      "age_seconds": 2935
     },
     {
       "channel": "Майни",
       "title": "РЕАКЦИИ - ХУДШИЙ КОНТЕНТ! ЗАЧЕМ ЭТО СМОТРЯТ? | Реакция",
       "url": "https://www.youtube.com/watch?v=MyyOur9M7Qo",
       "published_at_utc": "2026-10-21T12:00:17+00:00",
-      "age_seconds": 3493
+      "age_seconds": 3613
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Высокие технологии (могли бы быть)",
       "url": "https://www.youtube.com/shorts/1nQLJbK-HzY",
       "published_at_utc": "2026-10-21T11:49:27+00:00",
-      "age_seconds": 4159
+      "age_seconds": 4279
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Проблема вкусной еды в красивых местах",
       "url": "https://www.youtube.com/shorts/y0Z_fKKvFuE",
       "published_at_utc": "2026-10-21T11:16:00+00:00",
-      "age_seconds": 6183
-    },
-    {
-      "channel": "i11ushenka",
-      "title": "Макроэкономическая бытовуха: Китай против США",
-      "url": "https://www.youtube.com/shorts/BuHog3vhmlY",
-      "published_at_utc": "2026-10-21T11:00:03+00:00",
-      "age_seconds": 7108
+      "age_seconds": 6306
     }
   ]
 }
