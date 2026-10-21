@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T12:01:36.245717+00:00",
+  "generated_at_utc": "2026-10-21T12:03:41.842057+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Высокие технологии (могли бы быть)",
       "url": "https://www.youtube.com/shorts/1nQLJbK-HzY",
       "published_at_utc": "2026-10-21T11:49:27+00:00",
-      "age_seconds": 679
+      "age_seconds": 806
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Проблема вкусной еды в красивых местах",
       "url": "https://www.youtube.com/shorts/y0Z_fKKvFuE",
       "published_at_utc": "2026-10-21T11:16:00+00:00",
-      "age_seconds": 2707
+      "age_seconds": 2832
     },
     {
       "channel": "i11ushenka",
       "title": "Макроэкономическая бытовуха: Китай против США",
       "url": "https://www.youtube.com/shorts/BuHog3vhmlY",
       "published_at_utc": "2026-10-21T11:00:03+00:00",
-      "age_seconds": 3628
+      "age_seconds": 3750
     }
   ]
 }
