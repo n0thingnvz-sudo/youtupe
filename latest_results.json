@@ -1,55 +1,69 @@
 {
-  "generated_at_utc": "2026-10-21T13:09:42.386066+00:00",
+  "generated_at_utc": "2026-10-21T13:11:34.289417+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Самый сахар",
+      "title": "Купил ВСЮ продукцию КРАСНАЯ ЦЕНА (это реально ТРЕШ)",
+      "url": "https://www.youtube.com/watch?v=gL83nelNXTY",
+      "published_at_utc": "2026-10-21T13:00:36+00:00",
+      "age_seconds": 598
+    },
+    {
+      "channel": "ПО ФАКТУ",
+      "title": "Мы нашли игроков с 30 000 часов в Rust — они рейдят катапультами",
+      "url": "https://www.youtube.com/watch?v=eVeuh8nTOhM",
+      "published_at_utc": "2026-10-21T13:00:18+00:00",
+      "age_seconds": 672
+    },
     {
       "channel": "ВПИСКА",
       "title": "Связь Вась #шортс #тренды",
       "url": "https://www.youtube.com/shorts/G8m1byxqZf0",
       "published_at_utc": "2026-10-21T13:00:06+00:00",
-      "age_seconds": 551
+      "age_seconds": 667
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "режИИсер",
       "url": "https://www.youtube.com/shorts/NNlAhQI1Oho",
       "published_at_utc": "2026-10-21T12:53:27+00:00",
-      "age_seconds": 921
+      "age_seconds": 1040
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто же виноват?",
       "url": "https://www.youtube.com/shorts/q8Fkj8GtPd4",
       "published_at_utc": "2026-10-21T12:30:26+00:00",
-      "age_seconds": 2301
+      "age_seconds": 2420
     },
     {
       "channel": "dikiy_vadik",
       "title": "ДЗ в школе",
       "url": "https://www.youtube.com/shorts/TrLOnLSfZGU",
       "published_at_utc": "2026-10-21T12:12:06+00:00",
-      "age_seconds": 3416
+      "age_seconds": 3534
     },
     {
       "channel": "Майни",
       "title": "РЕАКЦИИ - ХУДШИЙ КОНТЕНТ! ЗАЧЕМ ЭТО СМОТРЯТ? | Реакция",
       "url": "https://www.youtube.com/watch?v=MyyOur9M7Qo",
       "published_at_utc": "2026-10-21T12:00:17+00:00",
-      "age_seconds": 4093
+      "age_seconds": 4213
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Высокие технологии (могли бы быть)",
       "url": "https://www.youtube.com/shorts/1nQLJbK-HzY",
       "published_at_utc": "2026-10-21T11:49:27+00:00",
-      "age_seconds": 4761
+      "age_seconds": 4880
     },
     {
       "channel": "Тимур Сидельников",
-      "title": "Главные фишки HUAWEI Nova 16s PRO",
+      "title": "Проблема вкусной еды в красивых местах",
       "url": "https://www.youtube.com/shorts/y0Z_fKKvFuE",
       "published_at_utc": "2026-10-21T11:16:00+00:00",
-      "age_seconds": 6788
+      "age_seconds": 6905
     }
   ]
 }
