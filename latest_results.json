@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T13:25:33.865109+00:00",
+  "generated_at_utc": "2026-10-21T13:27:35.500295+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,63 +7,63 @@
       "title": "Купил ВСЮ продукцию КРАСНАЯ ЦЕНА (это реально ТРЕШ)",
       "url": "https://www.youtube.com/watch?v=gL83nelNXTY",
       "published_at_utc": "2026-10-21T13:00:36+00:00",
-      "age_seconds": 1438
+      "age_seconds": 1558
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "Мы нашли игроков с 30 000 часов в Rust — они рейдят катапультами",
       "url": "https://www.youtube.com/watch?v=eVeuh8nTOhM",
       "published_at_utc": "2026-10-21T13:00:18+00:00",
-      "age_seconds": 1512
+      "age_seconds": 1631
     },
     {
       "channel": "ВПИСКА",
       "title": "Связь Вась #шортс #тренды",
       "url": "https://www.youtube.com/shorts/G8m1byxqZf0",
       "published_at_utc": "2026-10-21T13:00:06+00:00",
-      "age_seconds": 1507
+      "age_seconds": 1626
     },
     {
       "channel": "i11ushenka",
       "title": "Настоящие Гигачады Франции 💪 🇫🇷",
       "url": "https://www.youtube.com/shorts/8Secr5hMxzk",
       "published_at_utc": "2026-10-21T12:59:58+00:00",
-      "age_seconds": 1474
+      "age_seconds": 1593
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "режИИсер",
       "url": "https://www.youtube.com/shorts/NNlAhQI1Oho",
       "published_at_utc": "2026-10-21T12:53:27+00:00",
-      "age_seconds": 1880
+      "age_seconds": 1999
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто же виноват?",
       "url": "https://www.youtube.com/shorts/q8Fkj8GtPd4",
       "published_at_utc": "2026-10-21T12:30:26+00:00",
-      "age_seconds": 3260
+      "age_seconds": 3379
     },
     {
       "channel": "dikiy_vadik",
       "title": "ДЗ в школе",
       "url": "https://www.youtube.com/shorts/TrLOnLSfZGU",
       "published_at_utc": "2026-10-21T12:12:06+00:00",
-      "age_seconds": 4374
+      "age_seconds": 4494
     },
     {
       "channel": "Майни",
       "title": "РЕАКЦИИ - ХУДШИЙ КОНТЕНТ! ЗАЧЕМ ЭТО СМОТРЯТ? | Реакция",
       "url": "https://www.youtube.com/watch?v=MyyOur9M7Qo",
       "published_at_utc": "2026-10-21T12:00:17+00:00",
-      "age_seconds": 5054
+      "age_seconds": 5173
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Высокие технологии (могли бы быть)",
       "url": "https://www.youtube.com/shorts/1nQLJbK-HzY",
       "published_at_utc": "2026-10-21T11:49:27+00:00",
-      "age_seconds": 5720
+      "age_seconds": 5839
     }
   ]
 }
