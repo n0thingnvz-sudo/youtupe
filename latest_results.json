@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-10-21T07:59:28.070419+00:00",
+  "generated_at_utc": "2026-10-21T08:01:40.563245+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Послезавтра",
-      "title": "Где строят лучше всего #стройка #квартира #недвижимость",
-      "url": "https://www.youtube.com/shorts/NtrmdjKZaOo",
-      "published_at_utc": "2026-10-21T07:53:42+00:00",
-      "age_seconds": 287
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Лучше звоните Солу",
       "url": "https://www.youtube.com/shorts/rVx4ag8I3_I",
       "published_at_utc": "2026-10-21T07:00:31+00:00",
-      "age_seconds": 3493
+      "age_seconds": 3615
     }
   ]
 }
