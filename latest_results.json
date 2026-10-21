@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-10-21T11:29:33.023846+00:00",
+  "generated_at_utc": "2026-10-21T11:31:53.727546+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Тимур Сидельников",
-      "title": "Проблема вкусной еды в красивых местах",
-      "url": "https://www.youtube.com/shorts/y0Z_fKKvFuE",
-      "published_at_utc": "2026-10-21T11:16:00+00:00",
-      "age_seconds": 784
-    },
     {
       "channel": "i11ushenka",
       "title": "Макроэкономическая бытовуха: Китай против США",
       "url": "https://www.youtube.com/shorts/BuHog3vhmlY",
       "published_at_utc": "2026-10-21T11:00:03+00:00",
-      "age_seconds": 1708
+      "age_seconds": 1830
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ДР пса пошло не по плану 😲",
       "url": "https://www.youtube.com/shorts/rzt7Wi7F0mA",
       "published_at_utc": "2026-10-21T09:46:11+00:00",
-      "age_seconds": 6172
+      "age_seconds": 6311
     }
   ]
 }
