@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-10-21T14:39:38.132140+00:00",
+  "generated_at_utc": "2026-10-21T14:41:36.453921+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Илон Маск Раздаст 10 МИЛЛИАРДОВ Детям @denmarnews",
+      "url": "https://www.youtube.com/shorts/vuuOpzfT5O4",
+      "published_at_utc": "2026-10-21T14:28:04+00:00",
+      "age_seconds": 759
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Босс, вы уволены",
       "url": "https://www.youtube.com/shorts/UD3GzItWkH4",
       "published_at_utc": "2026-10-21T14:06:25+00:00",
-      "age_seconds": 1944
+      "age_seconds": 2061
     },
     {
       "channel": "Короче, новости",
       "title": "Даже Макрон Повёлся на @denmarnews",
       "url": "https://www.youtube.com/shorts/3V8YfyKxBs4",
       "published_at_utc": "2026-10-21T14:04:19+00:00",
-      "age_seconds": 2066
+      "age_seconds": 2184
     },
     {
       "channel": "МЯЧ Production",
       "title": "💰🤔 СКОЛЬКО БЫ РЕАЛЬНО СТОИЛИ ЛЕГЕНДЫ ФУТБОЛА прямо сейчас: Шевченко, Ривалдо, Фигу",
       "url": "https://www.youtube.com/shorts/6O_S6m3aQnU",
       "published_at_utc": "2026-10-21T14:03:54+00:00",
-      "age_seconds": 2102
+      "age_seconds": 2221
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗОЛОТОЕ ВРЕМЯ ♥️",
       "url": "https://www.youtube.com/shorts/fLdNtUDH-ps",
       "published_at_utc": "2026-10-21T14:03:09+00:00",
-      "age_seconds": 2154
+      "age_seconds": 2273
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Вот кого боятся косатки 🫍",
       "url": "https://www.youtube.com/shorts/Tzxnw6U7EDw",
       "published_at_utc": "2026-10-21T13:58:12+00:00",
-      "age_seconds": 2456
+      "age_seconds": 2572
     },
     {
       "channel": "Самый сахар",
       "title": "Купил ВСЮ продукцию КРАСНАЯ ЦЕНА (это реально ТРЕШ)",
       "url": "https://www.youtube.com/watch?v=gL83nelNXTY",
       "published_at_utc": "2026-10-21T13:00:36+00:00",
-      "age_seconds": 5878
+      "age_seconds": 5997
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "Мы нашли игроков с 30 000 часов в Rust — они рейдят катапультами",
       "url": "https://www.youtube.com/watch?v=eVeuh8nTOhM",
       "published_at_utc": "2026-10-21T13:00:18+00:00",
-      "age_seconds": 5956
+      "age_seconds": 6074
     },
     {
       "channel": "ВПИСКА",
       "title": "Связь Вась #шортс #тренды",
       "url": "https://www.youtube.com/shorts/G8m1byxqZf0",
       "published_at_utc": "2026-10-21T13:00:06+00:00",
-      "age_seconds": 5952
+      "age_seconds": 6067
     },
     {
       "channel": "i11ushenka",
       "title": "Настоящие Гигачады Франции 💪 🇫🇷",
       "url": "https://www.youtube.com/shorts/8Secr5hMxzk",
       "published_at_utc": "2026-10-21T12:59:58+00:00",
-      "age_seconds": 5913
+      "age_seconds": 6033
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "режИИсер",
       "url": "https://www.youtube.com/shorts/NNlAhQI1Oho",
       "published_at_utc": "2026-10-21T12:53:27+00:00",
-      "age_seconds": 6322
+      "age_seconds": 6439
     }
   ]
 }
