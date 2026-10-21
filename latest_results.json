@@ -1,55 +1,83 @@
 {
-  "generated_at_utc": "2026-10-21T14:17:32.803259+00:00",
+  "generated_at_utc": "2026-10-21T14:19:32.857395+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Босс, вы уволены",
+      "url": "https://www.youtube.com/shorts/UD3GzItWkH4",
+      "published_at_utc": "2026-10-21T14:06:25+00:00",
+      "age_seconds": 742
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Даже Макрон Повёлся на @denmarnews",
+      "url": "https://www.youtube.com/shorts/3V8YfyKxBs4",
+      "published_at_utc": "2026-10-21T14:04:19+00:00",
+      "age_seconds": 864
+    },
+    {
+      "channel": "МЯЧ Production",
+      "title": "💰🤔 СКОЛЬКО БЫ РЕАЛЬНО СТОИЛИ ЛЕГЕНДЫ ФУТБОЛА прямо сейчас: Шевченко, Ривалдо, Фигу",
+      "url": "https://www.youtube.com/shorts/6O_S6m3aQnU",
+      "published_at_utc": "2026-10-21T14:03:54+00:00",
+      "age_seconds": 900
+    },
+    {
+      "channel": "Натурал Альбертович",
+      "title": "ЗОЛОТОЕ ВРЕМЯ ♥️",
+      "url": "https://www.youtube.com/shorts/fLdNtUDH-ps",
+      "published_at_utc": "2026-10-21T14:03:09+00:00",
+      "age_seconds": 952
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Вот кого боятся косатки 🫍",
       "url": "https://www.youtube.com/shorts/Tzxnw6U7EDw",
       "published_at_utc": "2026-10-21T13:58:12+00:00",
-      "age_seconds": 1130
+      "age_seconds": 1251
     },
     {
       "channel": "Самый сахар",
       "title": "Купил ВСЮ продукцию КРАСНАЯ ЦЕНА (это реально ТРЕШ)",
       "url": "https://www.youtube.com/watch?v=gL83nelNXTY",
       "published_at_utc": "2026-10-21T13:00:36+00:00",
-      "age_seconds": 4558
+      "age_seconds": 4678
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "Мы нашли игроков с 30 000 часов в Rust — они рейдят катапультами",
       "url": "https://www.youtube.com/watch?v=eVeuh8nTOhM",
       "published_at_utc": "2026-10-21T13:00:18+00:00",
-      "age_seconds": 4630
+      "age_seconds": 4751
     },
     {
       "channel": "ВПИСКА",
       "title": "Связь Вась #шортс #тренды",
       "url": "https://www.youtube.com/shorts/G8m1byxqZf0",
       "published_at_utc": "2026-10-21T13:00:06+00:00",
-      "age_seconds": 4624
+      "age_seconds": 4746
     },
     {
       "channel": "i11ushenka",
       "title": "Настоящие Гигачады Франции 💪 🇫🇷",
       "url": "https://www.youtube.com/shorts/8Secr5hMxzk",
       "published_at_utc": "2026-10-21T12:59:58+00:00",
-      "age_seconds": 4593
+      "age_seconds": 4713
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "режИИсер",
       "url": "https://www.youtube.com/shorts/NNlAhQI1Oho",
       "published_at_utc": "2026-10-21T12:53:27+00:00",
-      "age_seconds": 4999
+      "age_seconds": 5120
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто же виноват?",
       "url": "https://www.youtube.com/shorts/q8Fkj8GtPd4",
       "published_at_utc": "2026-10-21T12:30:26+00:00",
-      "age_seconds": 6379
+      "age_seconds": 6499
     }
   ]
 }
