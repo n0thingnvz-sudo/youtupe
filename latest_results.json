@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T12:53:35.930734+00:00",
+  "generated_at_utc": "2026-10-21T12:55:32.574280+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Кто же виноват?",
       "url": "https://www.youtube.com/shorts/q8Fkj8GtPd4",
       "published_at_utc": "2026-10-21T12:30:26+00:00",
-      "age_seconds": 1340
+      "age_seconds": 1460
     },
     {
       "channel": "dikiy_vadik",
       "title": "ДЗ в школе",
       "url": "https://www.youtube.com/shorts/TrLOnLSfZGU",
       "published_at_utc": "2026-10-21T12:12:06+00:00",
-      "age_seconds": 2456
+      "age_seconds": 2574
     },
     {
       "channel": "Майни",
       "title": "РЕАКЦИИ - ХУДШИЙ КОНТЕНТ! ЗАЧЕМ ЭТО СМОТРЯТ? | Реакция",
       "url": "https://www.youtube.com/watch?v=MyyOur9M7Qo",
       "published_at_utc": "2026-10-21T12:00:17+00:00",
-      "age_seconds": 3133
+      "age_seconds": 3253
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Высокие технологии (могли бы быть)",
       "url": "https://www.youtube.com/shorts/1nQLJbK-HzY",
       "published_at_utc": "2026-10-21T11:49:27+00:00",
-      "age_seconds": 3800
+      "age_seconds": 3920
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Проблема вкусной еды в красивых местах",
       "url": "https://www.youtube.com/shorts/y0Z_fKKvFuE",
       "published_at_utc": "2026-10-21T11:16:00+00:00",
-      "age_seconds": 5826
+      "age_seconds": 5945
     },
     {
       "channel": "i11ushenka",
       "title": "Макроэкономическая бытовуха: Китай против США",
       "url": "https://www.youtube.com/shorts/BuHog3vhmlY",
       "published_at_utc": "2026-10-21T11:00:03+00:00",
-      "age_seconds": 6749
+      "age_seconds": 6868
     }
   ]
 }
