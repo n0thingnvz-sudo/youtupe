@@ -1,27 +1,41 @@
 {
-  "generated_at_utc": "2026-10-22T11:29:32.642209+00:00",
+  "generated_at_utc": "2026-10-22T11:31:35.951608+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Когда голоден, но ты в Австралии 🦘",
+      "url": "https://www.youtube.com/shorts/onxvaGCctTQ",
+      "published_at_utc": "2026-10-22T11:28:28+00:00",
+      "age_seconds": 155
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Англия против форчана",
       "url": "https://www.youtube.com/shorts/d4zEbXySoEU",
       "published_at_utc": "2026-10-22T11:20:47+00:00",
-      "age_seconds": 478
+      "age_seconds": 599
+    },
+    {
+      "channel": "i11ushenka",
+      "title": "Спидран по отмене: История стримера Хутаима",
+      "url": "https://www.youtube.com/shorts/6AQnsfv8JxE",
+      "published_at_utc": "2026-10-22T11:11:20+00:00",
+      "age_seconds": 1151
     },
     {
       "channel": "Алежа Обухов",
       "title": "Ревнивый муж контролирует поездку жены",
       "url": "https://www.youtube.com/shorts/J2TuDNgcckI",
       "published_at_utc": "2026-10-22T11:09:53+00:00",
-      "age_seconds": 1146
+      "age_seconds": 1268
     },
     {
       "channel": "МЯЧ Production",
       "title": "Гюлера должны были удалять? 😬",
       "url": "https://www.youtube.com/shorts/N-8afkRK-1A",
       "published_at_utc": "2026-10-22T10:13:45+00:00",
-      "age_seconds": 4507
+      "age_seconds": 4629
     }
   ]
 }
