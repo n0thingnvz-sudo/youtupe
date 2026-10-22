@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-22T13:45:34.917282+00:00",
+  "generated_at_utc": "2026-10-22T13:47:39.515106+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Как ее достать помогите",
+      "url": "https://www.youtube.com/shorts/SlHHUpZh2uo",
+      "published_at_utc": "2026-10-22T13:29:12+00:00",
+      "age_seconds": 1056
+    },
     {
       "channel": "ВПИСКА",
       "title": "Андрей Гайдулян – о новом прайме у зумеров, мемах и победе над раком",
       "url": "https://www.youtube.com/watch?v=ttPuvO2XifI",
       "published_at_utc": "2026-10-22T13:02:50+00:00",
-      "age_seconds": 2543
+      "age_seconds": 2665
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не выпускайте собак погулять, если ждете курьера",
       "url": "https://www.youtube.com/shorts/yGSBmXzRB5o",
       "published_at_utc": "2026-10-22T12:30:15+00:00",
-      "age_seconds": 4470
+      "age_seconds": 4592
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тюлень - спаситель",
       "url": "https://www.youtube.com/shorts/quKpe89RI6E",
       "published_at_utc": "2026-10-22T12:29:00+00:00",
-      "age_seconds": 4547
+      "age_seconds": 4668
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ПРЕПОД, Когда Пришла ПРОВЕРКА (смешное видео, юмор, прикол, приколы, поржать)",
       "url": "https://www.youtube.com/shorts/_Z005GgTBWU",
       "published_at_utc": "2026-10-22T12:00:03+00:00",
-      "age_seconds": 6298
+      "age_seconds": 6421
     }
   ]
 }
