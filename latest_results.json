@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-10-22T08:33:33.796628+00:00",
+  "generated_at_utc": "2026-10-22T08:35:31.007932+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Новостной Гусь",
-      "title": "Огромная распрадажа во Франции",
-      "url": "https://www.youtube.com/shorts/wZmdkjvoAwk",
-      "published_at_utc": "2026-10-22T08:30:23+00:00",
-      "age_seconds": 143
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Британский бэтман",
       "url": "https://www.youtube.com/shorts/HQxjAYKYoF0",
       "published_at_utc": "2026-10-22T08:13:29+00:00",
-      "age_seconds": 1158
+      "age_seconds": 1278
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Эпик геймс снова облажались",
       "url": "https://www.youtube.com/shorts/nOqzDbuX5eU",
       "published_at_utc": "2026-10-22T06:53:36+00:00",
-      "age_seconds": 5951
+      "age_seconds": 6071
     },
     {
       "channel": "sereGGa",
       "title": "Team Spirit vs Legion | bo3 | FISSURE UNIVERSE GROUP STAGE",
       "url": "https://www.youtube.com/watch?v=fUnfFFxFex8",
       "published_at_utc": "2026-10-22T06:49:32+00:00",
-      "age_seconds": 6230
+      "age_seconds": 6347
     },
     {
       "channel": "Короче, новости",
       "title": "Квартирант Сделал из Квартиры Помойку @denmarnews",
       "url": "https://www.youtube.com/shorts/SrgR1oa1gQ4",
       "published_at_utc": "2026-10-22T06:40:57+00:00",
-      "age_seconds": 6707
+      "age_seconds": 6826
     }
   ]
 }
