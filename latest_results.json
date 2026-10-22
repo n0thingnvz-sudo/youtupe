@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-22T11:09:35.987062+00:00",
+  "generated_at_utc": "2026-10-22T11:11:32.457267+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Ревнивый муж контролирует поездку жены",
+      "url": "https://www.youtube.com/shorts/J2TuDNgcckI",
+      "published_at_utc": "2026-10-22T11:09:53+00:00",
+      "age_seconds": 67
+    },
     {
       "channel": "МЯЧ Production",
       "title": "Гюлера должны были удалять? 😬",
       "url": "https://www.youtube.com/shorts/N-8afkRK-1A",
       "published_at_utc": "2026-10-22T10:13:45+00:00",
-      "age_seconds": 3309
+      "age_seconds": 3429
     }
   ]
 }
