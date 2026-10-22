@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-10-22T17:09:37.956537+00:00",
+  "generated_at_utc": "2026-10-22T17:11:38.656815+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "ВЛЕВО ВПРАВО ВЛЕВО ВПРАВО... ► leafxup | Реакция",
+      "url": "https://www.youtube.com/watch?v=PBFfu16XJ24",
+      "published_at_utc": "2026-10-22T17:00:22+00:00",
+      "age_seconds": 608
+    },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Rump Race #funnygames #couple #игры #games #веселыеигры",
       "url": "https://www.youtube.com/shorts/dUa4f-G4WhU",
       "published_at_utc": "2026-10-22T16:25:10+00:00",
-      "age_seconds": 2637
+      "age_seconds": 2759
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/_DisD9dbGv8",
       "published_at_utc": "2026-10-22T15:42:15+00:00",
-      "age_seconds": 5213
+      "age_seconds": 5334
     },
     {
       "channel": "Влад Раговский",
       "title": "Я Исполнил 100 Желаний Подписчиков! Беларусь.",
       "url": "https://www.youtube.com/watch?v=ceFhGNPSxUE",
       "published_at_utc": "2026-10-22T15:38:04+00:00",
-      "age_seconds": 5471
+      "age_seconds": 5593
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП-4 животных, которые тайно дружат 🤫",
       "url": "https://www.youtube.com/shorts/gPgpSWs9Gos",
       "published_at_utc": "2026-10-22T15:22:37+00:00",
-      "age_seconds": 6389
+      "age_seconds": 6511
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Мечты сбываются",
       "url": "https://www.youtube.com/shorts/jMbw0dwWJOE",
       "published_at_utc": "2026-10-22T15:18:50+00:00",
-      "age_seconds": 6600
+      "age_seconds": 6721
     }
   ]
 }
