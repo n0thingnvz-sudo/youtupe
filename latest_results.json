@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-22T18:29:37.913971+00:00",
+  "generated_at_utc": "2026-10-22T18:31:34.777968+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Bulkin Drive",
+      "title": "ПРАВИЛЬНЫЙ GT-R на ТЮНИНГЕ от ГОШИ ТУРБОТЕХ! Я В ШОКЕ!",
+      "url": "https://www.youtube.com/watch?v=3QndZ48bBTY",
+      "published_at_utc": "2026-10-22T18:22:34+00:00",
+      "age_seconds": 499
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Это что за круглая хреновина на бампере",
       "url": "https://www.youtube.com/shorts/kFPrSqDlTsA",
       "published_at_utc": "2026-10-22T17:18:17+00:00",
-      "age_seconds": 4230
+      "age_seconds": 4350
     },
     {
       "channel": "Майни",
       "title": "ВЛЕВО ВПРАВО ВЛЕВО ВПРАВО... ► leafxup | Реакция",
       "url": "https://www.youtube.com/watch?v=PBFfu16XJ24",
       "published_at_utc": "2026-10-22T17:00:22+00:00",
-      "age_seconds": 5288
+      "age_seconds": 5408
     }
   ]
 }
