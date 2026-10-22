@@ -1,13 +1,27 @@
 {
-  "generated_at_utc": "2026-10-22T11:17:31.946104+00:00",
+  "generated_at_utc": "2026-10-22T11:19:32.858577+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Спидран по отмене: История стримера Хутаима",
+      "url": "https://www.youtube.com/shorts/6AQnsfv8JxE",
+      "published_at_utc": "2026-10-22T11:11:20+00:00",
+      "age_seconds": 431
+    },
+    {
+      "channel": "Алежа Обухов",
+      "title": "Ревнивый муж контролирует поездку жены",
+      "url": "https://www.youtube.com/shorts/J2TuDNgcckI",
+      "published_at_utc": "2026-10-22T11:09:53+00:00",
+      "age_seconds": 546
+    },
     {
       "channel": "МЯЧ Production",
       "title": "Гюлера должны были удалять? 😬",
       "url": "https://www.youtube.com/shorts/N-8afkRK-1A",
       "published_at_utc": "2026-10-22T10:13:45+00:00",
-      "age_seconds": 3788
+      "age_seconds": 3908
     }
   ]
 }
