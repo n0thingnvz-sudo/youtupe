@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-10-22T14:09:38.374722+00:00",
+  "generated_at_utc": "2026-10-22T14:11:45.389429+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Трогательные объятия пеликана и человека 🤗",
+      "url": "https://www.youtube.com/shorts/5Ge-1NNrqi4",
+      "published_at_utc": "2026-10-22T14:09:28+00:00",
+      "age_seconds": 103
+    },
     {
       "channel": "sun_kill",
       "title": "извините не сдержалась",
       "url": "https://www.youtube.com/shorts/NIyPVfOQ9cY",
       "published_at_utc": "2026-10-22T14:03:09+00:00",
-      "age_seconds": 323
+      "age_seconds": 446
     },
     {
       "channel": "sun_kill",
       "title": "наконец-то руки дошли смонтировать #косплей #хатсунемику",
       "url": "https://www.youtube.com/shorts/8UPLznBcYWE",
       "published_at_utc": "2026-10-22T13:58:37+00:00",
-      "age_seconds": 595
+      "age_seconds": 718
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Не один стереотип не пострадал",
       "url": "https://www.youtube.com/shorts/isfZig9S_yY",
       "published_at_utc": "2026-10-22T13:47:15+00:00",
-      "age_seconds": 1292
+      "age_seconds": 1419
     },
     {
       "channel": "DeadP47",
       "title": "BIOWARE УМЕРЛА И ЭТО ХОРОШО",
       "url": "https://www.youtube.com/watch?v=E2h2JcYmkSc",
       "published_at_utc": "2026-10-22T13:42:19+00:00",
-      "age_seconds": 1630
+      "age_seconds": 1754
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как ее достать помогите",
       "url": "https://www.youtube.com/shorts/SlHHUpZh2uo",
       "published_at_utc": "2026-10-22T13:29:12+00:00",
-      "age_seconds": 2376
+      "age_seconds": 2503
     },
     {
       "channel": "ВПИСКА",
       "title": "Андрей Гайдулян – о новом прайме у зумеров, мемах и победе над раком",
       "url": "https://www.youtube.com/watch?v=ttPuvO2XifI",
       "published_at_utc": "2026-10-22T13:02:50+00:00",
-      "age_seconds": 3985
+      "age_seconds": 4111
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не выпускайте собак погулять, если ждете курьера",
       "url": "https://www.youtube.com/shorts/yGSBmXzRB5o",
       "published_at_utc": "2026-10-22T12:30:15+00:00",
-      "age_seconds": 5911
+      "age_seconds": 6038
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тюлень - спаситель",
       "url": "https://www.youtube.com/shorts/quKpe89RI6E",
       "published_at_utc": "2026-10-22T12:29:00+00:00",
-      "age_seconds": 5987
+      "age_seconds": 6114
     }
   ]
 }
