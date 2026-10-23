@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-23T18:23:35.350141+00:00",
+  "generated_at_utc": "2026-10-23T18:25:33.604457+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kropina",
+      "title": "КАРГО-КУЛЬТЫ: зачем строить самолеты из соломы?",
+      "url": "https://www.youtube.com/watch?v=6Wh3So9IlAA",
+      "published_at_utc": "2026-10-23T18:20:49+00:00",
+      "age_seconds": 222
+    },
     {
       "channel": "SonnyK",
       "title": "Обзор Cyberpunk 2077 | DLC Edgerunners 2",
       "url": "https://www.youtube.com/watch?v=991XLfvEhb0",
       "published_at_utc": "2026-10-23T17:36:23+00:00",
-      "age_seconds": 2814
+      "age_seconds": 2932
     },
     {
       "channel": "JOHAN",
       "title": "Глажу ,стираю ,убираю ( Woman Simulator )",
       "url": "https://www.youtube.com/watch?v=a7k6crZhBAQ",
       "published_at_utc": "2026-10-23T17:35:39+00:00",
-      "age_seconds": 2814
+      "age_seconds": 2934
     },
     {
       "channel": "LenS",
       "title": "УСТРОИЛ ДАХАКУ ХЕЙТШОУ НА СИГНАТУРНОМ ТИНКЕРЕ 🔥",
       "url": "https://www.youtube.com/watch?v=8aJ7rQu8Pto",
       "published_at_utc": "2026-10-23T16:36:41+00:00",
-      "age_seconds": 6404
+      "age_seconds": 6522
     },
     {
       "channel": "sun_kill",
       "title": "бедолага",
       "url": "https://www.youtube.com/shorts/u_BwbQUtgw4",
       "published_at_utc": "2026-10-23T16:32:12+00:00",
-      "age_seconds": 6620
+      "age_seconds": 6740
     },
     {
       "channel": "sun_kill",
       "title": "ня чечевица",
       "url": "https://www.youtube.com/shorts/Tf1PX0CpPiw",
       "published_at_utc": "2026-10-23T16:30:27+00:00",
-      "age_seconds": 6725
+      "age_seconds": 6845
     },
     {
       "channel": "sun_kill",
       "title": "Продолжаем делать косплей на Мику #косплей #хатсунемику",
       "url": "https://www.youtube.com/shorts/7nW6cEXlLt4",
       "published_at_utc": "2026-10-23T16:28:23+00:00",
-      "age_seconds": 6849
+      "age_seconds": 6969
     }
   ]
 }
