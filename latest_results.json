@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-10-23T19:11:42.395092+00:00",
+  "generated_at_utc": "2026-10-23T19:13:34.799343+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Никита Нестеров",
-      "title": "Такое случается, когда нужна замена",
-      "url": "https://www.youtube.com/shorts/jiEvpGJu0dg",
-      "published_at_utc": "2026-10-23T18:56:55+00:00",
-      "age_seconds": 855
-    },
     {
       "channel": "kropina",
       "title": "КАРГО-КУЛЬТЫ: зачем строить самолеты из соломы?",
       "url": "https://www.youtube.com/watch?v=6Wh3So9IlAA",
       "published_at_utc": "2026-10-23T18:20:49+00:00",
-      "age_seconds": 2982
+      "age_seconds": 3102
     },
     {
       "channel": "ExileLive",
       "title": "Свадьба, Чума, Мистер Бист в Узбекистане и Другие новости! Вентилятор - Каролина !",
       "url": "https://www.youtube.com/watch?v=pwYXQKBU-NQ",
       "published_at_utc": "2026-10-23T18:19:22+00:00",
-      "age_seconds": 3109
+      "age_seconds": 3226
     },
     {
       "channel": "SonnyK",
       "title": "Обзор Cyberpunk 2077 | DLC Edgerunners 2",
       "url": "https://www.youtube.com/watch?v=991XLfvEhb0",
       "published_at_utc": "2026-10-23T17:36:23+00:00",
-      "age_seconds": 5697
+      "age_seconds": 5813
     },
     {
       "channel": "JOHAN",
       "title": "Глажу ,стираю ,убираю ( Woman Simulator )",
       "url": "https://www.youtube.com/watch?v=a7k6crZhBAQ",
       "published_at_utc": "2026-10-23T17:35:39+00:00",
-      "age_seconds": 5695
+      "age_seconds": 5814
     }
   ]
 }
