@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-23T14:57:38.440464+00:00",
+  "generated_at_utc": "2026-10-23T14:59:35.727253+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "ХУДШИЕ ФАНАТЫ АНИМЕ ► CONWAY ( Конвей ) | Реакция",
+      "url": "https://www.youtube.com/watch?v=Rt1sybkKHXk",
+      "published_at_utc": "2026-10-23T14:45:29+00:00",
+      "age_seconds": 781
+    },
     {
       "channel": "SlivkiShow",
       "title": "Я СРАВНИЛ 1$ vs 100$ РАДИОУПРАВЛЯЕМІЕ САМОЛЕТЫ",
       "url": "https://www.youtube.com/watch?v=YZV7oozyONs",
       "published_at_utc": "2026-10-23T14:38:13+00:00",
-      "age_seconds": 1109
+      "age_seconds": 1230
     },
     {
       "channel": "i11ushenka",
       "title": "Как следователи легко находят 90% преступников 😐",
       "url": "https://www.youtube.com/shorts/RJSaSqrdVaE",
       "published_at_utc": "2026-10-23T14:17:04+00:00",
-      "age_seconds": 2368
+      "age_seconds": 2488
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это сколько в пожизненных?",
       "url": "https://www.youtube.com/shorts/_5mFwgWprAM",
       "published_at_utc": "2026-10-23T13:37:43+00:00",
-      "age_seconds": 4743
+      "age_seconds": 4864
     },
     {
       "channel": "Ассистент грумера",
       "title": "ЛАЙКА ИЩЕТ СЕМЬЮ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/PaodqX9k7PI",
       "published_at_utc": "2026-10-23T13:06:56+00:00",
-      "age_seconds": 6601
+      "age_seconds": 6719
     },
     {
       "channel": "DepoSit",
       "title": "Главный секрет цыплят в CS2",
       "url": "https://www.youtube.com/watch?v=guqTqltXH5g",
       "published_at_utc": "2026-10-23T13:06:04+00:00",
-      "age_seconds": 6632
+      "age_seconds": 6753
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не ведитесь на жалобные глазки",
       "url": "https://www.youtube.com/shorts/V9tcP6M-InU",
       "published_at_utc": "2026-10-23T13:00:09+00:00",
-      "age_seconds": 6996
+      "age_seconds": 7117
     }
   ]
 }
