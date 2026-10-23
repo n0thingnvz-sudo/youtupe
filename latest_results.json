@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-23T07:45:29.149847+00:00",
+  "generated_at_utc": "2026-10-23T07:47:29.258971+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Можно ли пройти Майнкрафт за гриба?",
+      "url": "https://www.youtube.com/shorts/BtYPs_WrSHk",
+      "published_at_utc": "2026-10-23T07:43:53+00:00",
+      "age_seconds": 173
+    },
     {
       "channel": "sereGGa",
       "title": "OG vs 1Win | bo3 | FISSURE UNIVERSE GROUP STAGE",
       "url": "https://www.youtube.com/watch?v=OFUjGEnop6o",
       "published_at_utc": "2026-10-23T07:08:19+00:00",
-      "age_seconds": 2218
+      "age_seconds": 2338
     },
     {
       "channel": "Тру Шорты",
       "title": "Бетон сам затягивает трещины",
       "url": "https://www.youtube.com/shorts/TDd5Uf7ZOVY",
       "published_at_utc": "2026-10-23T05:54:54+00:00",
-      "age_seconds": 6574
+      "age_seconds": 6694
     }
   ]
 }
