@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-10-23T18:31:36.983989+00:00",
+  "generated_at_utc": "2026-10-23T18:33:45.960735+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kropina",
+      "title": "КАРГО-КУЛЬТЫ: зачем строить самолеты из соломы?",
+      "url": "https://www.youtube.com/watch?v=6Wh3So9IlAA",
+      "published_at_utc": "2026-10-23T18:20:49+00:00",
+      "age_seconds": 702
+    },
     {
       "channel": "ExileLive",
       "title": "Свадьба, Чума, Мистер Бист в Узбекистане и Другие новости! Вентилятор - Каролина !",
       "url": "https://www.youtube.com/watch?v=pwYXQKBU-NQ",
       "published_at_utc": "2026-10-23T18:19:22+00:00",
-      "age_seconds": 708
+      "age_seconds": 835
     },
     {
       "channel": "SonnyK",
       "title": "Обзор Cyberpunk 2077 | DLC Edgerunners 2",
       "url": "https://www.youtube.com/watch?v=991XLfvEhb0",
       "published_at_utc": "2026-10-23T17:36:23+00:00",
-      "age_seconds": 3296
+      "age_seconds": 3423
     },
     {
       "channel": "JOHAN",
       "title": "Глажу ,стираю ,убираю ( Woman Simulator )",
       "url": "https://www.youtube.com/watch?v=a7k6crZhBAQ",
       "published_at_utc": "2026-10-23T17:35:39+00:00",
-      "age_seconds": 3294
+      "age_seconds": 3414
     },
     {
       "channel": "LenS",
       "title": "УСТРОИЛ ДАХАКУ ХЕЙТШОУ НА СИГНАТУРНОМ ТИНКЕРЕ 🔥",
       "url": "https://www.youtube.com/watch?v=8aJ7rQu8Pto",
       "published_at_utc": "2026-10-23T16:36:41+00:00",
-      "age_seconds": 6886
-    },
-    {
-      "channel": "sun_kill",
-      "title": "бедолага",
-      "url": "https://www.youtube.com/shorts/u_BwbQUtgw4",
-      "published_at_utc": "2026-10-23T16:32:12+00:00",
-      "age_seconds": 7100
+      "age_seconds": 7014
     }
   ]
 }
