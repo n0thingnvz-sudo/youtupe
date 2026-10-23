@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-23T14:45:31.529837+00:00",
+  "generated_at_utc": "2026-10-23T14:47:35.723521+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "SlivkiShow",
+      "title": "Я СРАВНИЛ 1$ vs 100$ РАДИОУПРАВЛЯЕМІЕ САМОЛЕТЫ",
+      "url": "https://www.youtube.com/watch?v=YZV7oozyONs",
+      "published_at_utc": "2026-10-23T14:38:13+00:00",
+      "age_seconds": 509
+    },
     {
       "channel": "i11ushenka",
       "title": "Как следователи легко находят 90% преступников 😐",
       "url": "https://www.youtube.com/shorts/RJSaSqrdVaE",
       "published_at_utc": "2026-10-23T14:17:04+00:00",
-      "age_seconds": 1647
+      "age_seconds": 1767
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это сколько в пожизненных?",
       "url": "https://www.youtube.com/shorts/_5mFwgWprAM",
       "published_at_utc": "2026-10-23T13:37:43+00:00",
-      "age_seconds": 4022
+      "age_seconds": 4144
     },
     {
       "channel": "Ассистент грумера",
       "title": "ЛАЙКА ИЩЕТ СЕМЬЮ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/PaodqX9k7PI",
       "published_at_utc": "2026-10-23T13:06:56+00:00",
-      "age_seconds": 5877
+      "age_seconds": 6000
     },
     {
       "channel": "DepoSit",
       "title": "Главный секрет цыплят в CS2",
       "url": "https://www.youtube.com/watch?v=guqTqltXH5g",
       "published_at_utc": "2026-10-23T13:06:04+00:00",
-      "age_seconds": 5911
+      "age_seconds": 6032
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не ведитесь на жалобные глазки",
       "url": "https://www.youtube.com/shorts/V9tcP6M-InU",
       "published_at_utc": "2026-10-23T13:00:09+00:00",
-      "age_seconds": 6275
+      "age_seconds": 6397
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП-3 животных, которых сломала любовь 💔",
       "url": "https://www.youtube.com/shorts/JbzfOYc3UP0",
       "published_at_utc": "2026-10-23T12:47:54+00:00",
-      "age_seconds": 7028
+      "age_seconds": 7151
     }
   ]
 }
