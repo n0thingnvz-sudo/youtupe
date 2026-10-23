@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-23T12:25:42.285486+00:00",
+  "generated_at_utc": "2026-10-23T12:27:35.554541+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Саша Фасоваша",
+      "title": "МАРМЕЛАДЫЧ УВОЛИЛСЯ",
+      "url": "https://www.youtube.com/shorts/IzWTzpT-PB8",
+      "published_at_utc": "2026-10-23T12:23:03+00:00",
+      "age_seconds": 235
+    },
     {
       "channel": "i11ushenka",
       "title": "Фем-кафе «Симона» | Даже мужчины и депутат не смогли его развалить...",
       "url": "https://www.youtube.com/shorts/lCZsKHOaK0o",
       "published_at_utc": "2026-10-23T12:08:24+00:00",
-      "age_seconds": 968
+      "age_seconds": 1087
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Американский Мистер Макс",
       "url": "https://www.youtube.com/shorts/GJjFqbc45RI",
       "published_at_utc": "2026-10-23T11:37:54+00:00",
-      "age_seconds": 2813
+      "age_seconds": 2933
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "У этого кота крутой телек 😻",
       "url": "https://www.youtube.com/shorts/7mYfK5VTbTc",
       "published_at_utc": "2026-10-23T11:13:03+00:00",
-      "age_seconds": 4328
+      "age_seconds": 4441
     },
     {
       "channel": "i11ushenka",
       "title": "Кока-Кола их нашла 🇰🇿",
       "url": "https://www.youtube.com/shorts/e2Oe0nNaSNI",
       "published_at_utc": "2026-10-23T11:10:46+00:00",
-      "age_seconds": 4426
+      "age_seconds": 4545
     },
     {
       "channel": "Короче, новости",
       "title": "Гугл Отказался Называть Океан в Честь Трампа @denmarnews",
       "url": "https://www.youtube.com/shorts/GHfWBSEZoNg",
       "published_at_utc": "2026-10-23T10:56:16+00:00",
-      "age_seconds": 5307
+      "age_seconds": 5427
     },
     {
       "channel": "Послезавтра",
       "title": "Прикол армянского метро #метро #ереван #армения",
       "url": "https://www.youtube.com/shorts/IitjIofCmgo",
       "published_at_utc": "2026-10-23T10:54:11+00:00",
-      "age_seconds": 5418
+      "age_seconds": 5538
     },
     {
       "channel": "Короче, новости",
       "title": "Конец Близко? Россию и Украину Готовят к Миру?",
       "url": "https://www.youtube.com/shorts/qDN0ZJQpkNA",
       "published_at_utc": "2026-10-23T10:31:39+00:00",
-      "age_seconds": 6784
+      "age_seconds": 6904
     }
   ]
 }
