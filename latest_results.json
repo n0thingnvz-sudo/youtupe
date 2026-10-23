@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-10-23T17:47:38.938738+00:00",
+  "generated_at_utc": "2026-10-23T17:49:34.075092+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "SonnyK",
+      "title": "Обзор Cyberpunk 2077 | DLC Edgerunners 2",
+      "url": "https://www.youtube.com/watch?v=991XLfvEhb0",
+      "published_at_utc": "2026-10-23T17:36:23+00:00",
+      "age_seconds": 771
+    },
     {
       "channel": "JOHAN",
       "title": "Глажу ,стираю ,убираю ( Woman Simulator )",
       "url": "https://www.youtube.com/watch?v=a7k6crZhBAQ",
       "published_at_utc": "2026-10-23T17:35:39+00:00",
-      "age_seconds": 655
+      "age_seconds": 774
     },
     {
       "channel": "LenS",
       "title": "УСТРОИЛ ДАХАКУ ХЕЙТШОУ НА СИГНАТУРНОМ ТИНКЕРЕ 🔥",
       "url": "https://www.youtube.com/watch?v=8aJ7rQu8Pto",
       "published_at_utc": "2026-10-23T16:36:41+00:00",
-      "age_seconds": 4248
+      "age_seconds": 4364
     },
     {
       "channel": "sun_kill",
       "title": "бедолага",
       "url": "https://www.youtube.com/shorts/u_BwbQUtgw4",
       "published_at_utc": "2026-10-23T16:32:12+00:00",
-      "age_seconds": 4461
+      "age_seconds": 4580
     },
     {
       "channel": "sun_kill",
       "title": "ня чечевица",
       "url": "https://www.youtube.com/shorts/Tf1PX0CpPiw",
       "published_at_utc": "2026-10-23T16:30:27+00:00",
-      "age_seconds": 4566
+      "age_seconds": 4685
     },
     {
       "channel": "sun_kill",
       "title": "Продолжаем делать косплей на Мику #косплей #хатсунемику",
       "url": "https://www.youtube.com/shorts/7nW6cEXlLt4",
       "published_at_utc": "2026-10-23T16:28:23+00:00",
-      "age_seconds": 4690
+      "age_seconds": 4809
     },
     {
       "channel": "Майни",
       "title": "ОН УНИЧТОЖИЛ СВОЮ КАРЬЕРУ - ВЛАДИВА SLAY! ► дикая dog | Реакция",
       "url": "https://www.youtube.com/watch?v=NwI9TR-2fg8",
       "published_at_utc": "2026-10-23T16:15:23+00:00",
-      "age_seconds": 5467
+      "age_seconds": 5587
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Устаревшие сервера",
       "url": "https://www.youtube.com/shorts/Q9MrXbaQmYY",
       "published_at_utc": "2026-10-23T16:13:36+00:00",
-      "age_seconds": 5594
+      "age_seconds": 5710
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Теперь не покупаем, а печатаем игры 😁",
       "url": "https://www.youtube.com/shorts/WCr7Nicu77M",
       "published_at_utc": "2026-10-23T15:52:20+00:00",
-      "age_seconds": 6889
+      "age_seconds": 7002
     }
   ]
 }
