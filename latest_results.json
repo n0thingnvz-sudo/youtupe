@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-23T11:07:34.202542+00:00",
+  "generated_at_utc": "2026-10-23T11:09:35.530796+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,42 @@
       "title": "Гугл Отказался Называть Океан в Честь Трампа @denmarnews",
       "url": "https://www.youtube.com/shorts/GHfWBSEZoNg",
       "published_at_utc": "2026-10-23T10:56:16+00:00",
-      "age_seconds": 627
+      "age_seconds": 747
+    },
+    {
+      "channel": "Послезавтра",
+      "title": "Прикол армянского метро #метро #ереван #армения",
+      "url": "https://www.youtube.com/shorts/IitjIofCmgo",
+      "published_at_utc": "2026-10-23T10:54:11+00:00",
+      "age_seconds": 858
     },
     {
       "channel": "Короче, новости",
       "title": "Конец Близко? Россию и Украину Готовят к Миру?",
       "url": "https://www.youtube.com/shorts/qDN0ZJQpkNA",
       "published_at_utc": "2026-10-23T10:31:39+00:00",
-      "age_seconds": 2104
+      "age_seconds": 2224
     },
     {
       "channel": "Короче, новости",
       "title": "Телега Прокатилась по Свежему Бетону @denmarnews",
       "url": "https://www.youtube.com/shorts/CCQvfKlAA6I",
       "published_at_utc": "2026-10-23T10:21:18+00:00",
-      "age_seconds": 2725
+      "age_seconds": 2845
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тест на iq",
       "url": "https://www.youtube.com/shorts/_Q7rINSXo-c",
       "published_at_utc": "2026-10-23T09:58:46+00:00",
-      "age_seconds": 4081
+      "age_seconds": 4200
     },
     {
       "channel": "ВПИСКА",
       "title": "Гайдулян о стримах с Глебом САСАВОТ #шортс #тренды",
       "url": "https://www.youtube.com/shorts/YgfCejhsnDM",
       "published_at_utc": "2026-10-23T09:41:33+00:00",
-      "age_seconds": 5140
+      "age_seconds": 5259
     }
   ]
 }
