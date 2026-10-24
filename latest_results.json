@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-24T07:49:27.709620+00:00",
+  "generated_at_utc": "2026-10-24T07:51:29.646593+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Стене мешала",
       "url": "https://www.youtube.com/shorts/vjB0Y8ND4ds",
       "published_at_utc": "2026-10-24T07:30:37+00:00",
-      "age_seconds": 1087
+      "age_seconds": 1208
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Могнул",
       "url": "https://www.youtube.com/shorts/D0DvRerwY-k",
       "published_at_utc": "2026-10-24T06:50:09+00:00",
-      "age_seconds": 3515
+      "age_seconds": 3636
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Креативный способ наказать читеров",
       "url": "https://www.youtube.com/shorts/4FGNzqx7NYA",
       "published_at_utc": "2026-10-24T06:35:47+00:00",
-      "age_seconds": 4377
-    },
-    {
-      "channel": "Послезавтра",
-      "title": "Где лучшая кухня? #еда #кухня #страны",
-      "url": "https://www.youtube.com/shorts/SWvE_mWIMj0",
-      "published_at_utc": "2026-10-24T05:49:35+00:00",
-      "age_seconds": 7134
+      "age_seconds": 4498
     }
   ]
 }
