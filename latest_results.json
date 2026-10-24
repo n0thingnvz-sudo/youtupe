@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-24T16:07:36.795274+00:00",
+  "generated_at_utc": "2026-10-24T16:09:32.712087+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ВПИСКА",
+      "title": "Навсегда САША? Гайдулян о своем имени #шортс #тренды",
+      "url": "https://www.youtube.com/shorts/vDvUlCLNa5A",
+      "published_at_utc": "2026-10-24T16:00:16+00:00",
+      "age_seconds": 536
+    },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Бросай, съедай #boardgames #настольныеигры #games #игры #funnygames",
       "url": "https://www.youtube.com/shorts/qzG_S7aU6so",
       "published_at_utc": "2026-10-24T15:46:03+00:00",
-      "age_seconds": 1263
+      "age_seconds": 1380
     },
     {
       "channel": "IG project",
       "title": "СТОЛАС ВЫБРАЛ ВАССАГО? 💔 ОПЯТЬ ИЗМЕНА И НЕНАВИСТЬ ФАНАТОВ! - ПОЛНЫЙ РАЗБОР 4-5 СЕРИЯ АДСКИЙ БОСС",
       "url": "https://www.youtube.com/watch?v=djE8pEKYtxs",
       "published_at_utc": "2026-10-24T15:32:26+00:00",
-      "age_seconds": 2071
+      "age_seconds": 2189
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самые дорогие соколы",
       "url": "https://www.youtube.com/shorts/-dATJGuzgEY",
       "published_at_utc": "2026-10-24T15:30:00+00:00",
-      "age_seconds": 2207
+      "age_seconds": 2325
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Даже за решеткой остается боссом",
       "url": "https://www.youtube.com/shorts/cahjitHvVrk",
       "published_at_utc": "2026-10-24T15:00:04+00:00",
-      "age_seconds": 4004
+      "age_seconds": 4122
     },
     {
       "channel": "Майни",
       "title": "ДОБРЯК ХУЖЕ, ЧЕМ ВЫ ДУМАЛИ: что аниматор делает с девушками? ► Рина Драгунова | Реакция",
       "url": "https://www.youtube.com/watch?v=mvLcm3M6im4",
       "published_at_utc": "2026-10-24T14:15:18+00:00",
-      "age_seconds": 6674
+      "age_seconds": 6792
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "А нечего паучков обижать",
       "url": "https://www.youtube.com/shorts/_FWHNwhhPUE",
       "published_at_utc": "2026-10-24T14:10:18+00:00",
-      "age_seconds": 6990
+      "age_seconds": 7108
     }
   ]
 }
