@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-24T17:15:32.987393+00:00",
+  "generated_at_utc": "2026-10-24T17:17:33.654329+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Кайфанули от фильма",
+      "url": "https://www.youtube.com/shorts/AuaD3m4qq6E",
+      "published_at_utc": "2026-10-24T17:00:33+00:00",
+      "age_seconds": 973
+    },
     {
       "channel": "windy31",
       "title": "ПОППИ ПЛЕЙТАЙМ 6?! ЭТО я в шоке....",
       "url": "https://www.youtube.com/watch?v=Ur5Zc8NJyBI",
       "published_at_utc": "2026-10-24T16:53:17+00:00",
-      "age_seconds": 1320
+      "age_seconds": 1441
     },
     {
       "channel": "Майни",
       "title": "Странные коллеги... ► ZAKATOON (Анимация) | Реакция",
       "url": "https://www.youtube.com/watch?v=xd6XMirhgh4",
       "published_at_utc": "2026-10-24T16:15:33+00:00",
-      "age_seconds": 3537
+      "age_seconds": 3657
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Вы на чьей стороне?",
       "url": "https://www.youtube.com/shorts/FMaahMVfF4U",
       "published_at_utc": "2026-10-24T16:00:39+00:00",
-      "age_seconds": 4447
+      "age_seconds": 4567
     },
     {
       "channel": "ВПИСКА",
       "title": "Навсегда САША? Гайдулян о своем имени #шортс #тренды",
       "url": "https://www.youtube.com/shorts/vDvUlCLNa5A",
       "published_at_utc": "2026-10-24T16:00:16+00:00",
-      "age_seconds": 4496
+      "age_seconds": 4617
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Бросай, съедай #boardgames #настольныеигры #games #игры #funnygames",
       "url": "https://www.youtube.com/shorts/qzG_S7aU6so",
       "published_at_utc": "2026-10-24T15:46:03+00:00",
-      "age_seconds": 5340
+      "age_seconds": 5461
     },
     {
       "channel": "IG project",
       "title": "СТОЛАС ВЫБРАЛ ВАССАГО? 💔 ОПЯТЬ ИЗМЕНА И НЕНАВИСТЬ ФАНАТОВ! - ПОЛНЫЙ РАЗБОР 4-5 СЕРИЯ АДСКИЙ БОСС",
       "url": "https://www.youtube.com/watch?v=djE8pEKYtxs",
       "published_at_utc": "2026-10-24T15:32:26+00:00",
-      "age_seconds": 6149
+      "age_seconds": 6269
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самые дорогие соколы",
       "url": "https://www.youtube.com/shorts/-dATJGuzgEY",
       "published_at_utc": "2026-10-24T15:30:00+00:00",
-      "age_seconds": 6286
+      "age_seconds": 6405
     }
   ]
 }
