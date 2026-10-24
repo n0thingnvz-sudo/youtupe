@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-24T18:11:33.235357+00:00",
+  "generated_at_utc": "2026-10-24T18:13:35.344078+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Разница менталитетов",
+      "url": "https://www.youtube.com/shorts/qpH-AiH0bzM",
+      "published_at_utc": "2026-10-24T18:00:19+00:00",
+      "age_seconds": 749
+    },
     {
       "channel": "i11ushenka",
       "title": "Когда миллиардер решил пофлексить перед племенем",
       "url": "https://www.youtube.com/shorts/c3GSPyJJ_t0",
       "published_at_utc": "2026-10-24T17:43:54+00:00",
-      "age_seconds": 1597
+      "age_seconds": 1717
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Кайфанули от фильма",
       "url": "https://www.youtube.com/shorts/AuaD3m4qq6E",
       "published_at_utc": "2026-10-24T17:00:33+00:00",
-      "age_seconds": 4212
+      "age_seconds": 4335
     },
     {
       "channel": "windy31",
       "title": "ПОППИ ПЛЕЙТАЙМ 6?! ЭТО я в шоке....",
       "url": "https://www.youtube.com/watch?v=Ur5Zc8NJyBI",
       "published_at_utc": "2026-10-24T16:53:17+00:00",
-      "age_seconds": 4680
+      "age_seconds": 4801
     },
     {
       "channel": "Майни",
       "title": "Странные коллеги... ► ZAKATOON (Анимация) | Реакция",
       "url": "https://www.youtube.com/watch?v=xd6XMirhgh4",
       "published_at_utc": "2026-10-24T16:15:33+00:00",
-      "age_seconds": 6897
+      "age_seconds": 7017
     }
   ]
 }
