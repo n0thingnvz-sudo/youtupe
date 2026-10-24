@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-24T10:11:31.951330+00:00",
+  "generated_at_utc": "2026-10-24T10:13:33.976275+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Кошка оч старается не уснуть 😹",
+      "url": "https://www.youtube.com/shorts/o0GlmY07Tvc",
+      "published_at_utc": "2026-10-24T09:59:37+00:00",
+      "age_seconds": 806
+    },
     {
       "channel": "i11ushenka",
       "title": "Тюремная Жижа: Не нравится? Не садись.",
       "url": "https://www.youtube.com/shorts/NDx0UaaSF3w",
       "published_at_utc": "2026-10-24T09:29:19+00:00",
-      "age_seconds": 2473
+      "age_seconds": 2593
     },
     {
       "channel": "Новостной Гусь",
       "title": "Почему упал крест",
       "url": "https://www.youtube.com/shorts/mX6Noht5ABU",
       "published_at_utc": "2026-10-24T09:20:23+00:00",
-      "age_seconds": 3022
+      "age_seconds": 3142
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Эффект бабочки",
       "url": "https://www.youtube.com/shorts/t8sEL6UfssA",
       "published_at_utc": "2026-10-24T09:00:22+00:00",
-      "age_seconds": 4223
+      "age_seconds": 4343
     },
     {
       "channel": "sereGGa",
       "title": "ГЕНИЙ-НОВИЧОК УНИЧТОЖАЕТ ПАБЛИКИ | ДНЕВНИК НОВИЧКА #3",
       "url": "https://www.youtube.com/watch?v=bavdcvgPilU",
       "published_at_utc": "2026-10-24T09:00:10+00:00",
-      "age_seconds": 4269
+      "age_seconds": 4392
     },
     {
       "channel": "ВПИСКА",
       "title": "Гайдулян о борьбе со страшным диагнозом #шортс #тренды",
       "url": "https://www.youtube.com/shorts/xc3rnlyEimk",
       "published_at_utc": "2026-10-24T09:00:01+00:00",
-      "age_seconds": 4270
+      "age_seconds": 4392
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Имбовый шар",
       "url": "https://www.youtube.com/shorts/Lilq9FTrpr0",
       "published_at_utc": "2026-10-24T08:30:15+00:00",
-      "age_seconds": 6031
+      "age_seconds": 6151
     },
     {
       "channel": "МЯЧ Production",
       "title": "Лучшее класико в 21 веке | МЯЧ Легенда feat. Владислав Радимов",
       "url": "https://www.youtube.com/watch?v=9fCzkAkExP8",
       "published_at_utc": "2026-10-24T08:24:32+00:00",
-      "age_seconds": 6381
+      "age_seconds": 6502
     }
   ]
 }
