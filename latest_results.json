@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-24T20:05:29.099355+00:00",
+  "generated_at_utc": "2026-10-24T20:07:32.510736+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Никита Нестеров",
+      "title": "Надо понимать, к чему готовиться",
+      "url": "https://www.youtube.com/shorts/tLlXaROe3Wg",
+      "published_at_utc": "2026-10-24T19:53:08+00:00",
+      "age_seconds": 838
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Открывай осторожно треснет гад",
       "url": "https://www.youtube.com/shorts/Y8XXCImAk5o",
       "published_at_utc": "2026-10-24T18:18:43+00:00",
-      "age_seconds": 6362
+      "age_seconds": 6485
     }
   ]
 }
