@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-24T16:13:35.642615+00:00",
+  "generated_at_utc": "2026-10-24T16:15:32.810744+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Вы на чьей стороне?",
+      "url": "https://www.youtube.com/shorts/FMaahMVfF4U",
+      "published_at_utc": "2026-10-24T16:00:39+00:00",
+      "age_seconds": 846
+    },
     {
       "channel": "ВПИСКА",
       "title": "Навсегда САША? Гайдулян о своем имени #шортс #тренды",
       "url": "https://www.youtube.com/shorts/vDvUlCLNa5A",
       "published_at_utc": "2026-10-24T16:00:16+00:00",
-      "age_seconds": 779
+      "age_seconds": 895
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Бросай, съедай #boardgames #настольныеигры #games #игры #funnygames",
       "url": "https://www.youtube.com/shorts/qzG_S7aU6so",
       "published_at_utc": "2026-10-24T15:46:03+00:00",
-      "age_seconds": 1620
+      "age_seconds": 1739
     },
     {
       "channel": "IG project",
       "title": "СТОЛАС ВЫБРАЛ ВАССАГО? 💔 ОПЯТЬ ИЗМЕНА И НЕНАВИСТЬ ФАНАТОВ! - ПОЛНЫЙ РАЗБОР 4-5 СЕРИЯ АДСКИЙ БОСС",
       "url": "https://www.youtube.com/watch?v=djE8pEKYtxs",
       "published_at_utc": "2026-10-24T15:32:26+00:00",
-      "age_seconds": 2429
+      "age_seconds": 2548
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самые дорогие соколы",
       "url": "https://www.youtube.com/shorts/-dATJGuzgEY",
       "published_at_utc": "2026-10-24T15:30:00+00:00",
-      "age_seconds": 2565
+      "age_seconds": 2684
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Даже за решеткой остается боссом",
       "url": "https://www.youtube.com/shorts/cahjitHvVrk",
       "published_at_utc": "2026-10-24T15:00:04+00:00",
-      "age_seconds": 4362
+      "age_seconds": 4481
     },
     {
       "channel": "Майни",
       "title": "ДОБРЯК ХУЖЕ, ЧЕМ ВЫ ДУМАЛИ: что аниматор делает с девушками? ► Рина Драгунова | Реакция",
       "url": "https://www.youtube.com/watch?v=mvLcm3M6im4",
       "published_at_utc": "2026-10-24T14:15:18+00:00",
-      "age_seconds": 7032
+      "age_seconds": 7152
     }
   ]
 }
