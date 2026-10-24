@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-24T21:45:31.204898+00:00",
+  "generated_at_utc": "2026-10-24T21:47:28.787948+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Куршская коса Балтийское море невероятный закат осенью",
+      "url": "https://www.youtube.com/watch?v=wlt8f9Z202Q",
+      "published_at_utc": "2026-10-24T21:34:55+00:00",
+      "age_seconds": 711
+    },
     {
       "channel": "Никита Нестеров",
       "title": "Надо понимать, к чему готовиться",
       "url": "https://www.youtube.com/shorts/tLlXaROe3Wg",
       "published_at_utc": "2026-10-24T19:53:08+00:00",
-      "age_seconds": 6718
+      "age_seconds": 6835
     }
   ]
 }
