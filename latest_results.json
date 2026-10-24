@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-10-24T15:43:36.105214+00:00",
+  "generated_at_utc": "2026-10-24T15:45:38.161365+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "IG project",
+      "title": "СТОЛАС ВЫБРАЛ ВАССАГО? 💔 ОПЯТЬ ИЗМЕНА И НЕНАВИСТЬ ФАНАТОВ! - ПОЛНЫЙ РАЗБОР 4-5 СЕРИЯ АДСКИЙ БОСС",
+      "url": "https://www.youtube.com/watch?v=djE8pEKYtxs",
+      "published_at_utc": "2026-10-24T15:32:26+00:00",
+      "age_seconds": 750
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Даже за решеткой остается боссом",
       "url": "https://www.youtube.com/shorts/cahjitHvVrk",
       "published_at_utc": "2026-10-24T15:00:04+00:00",
-      "age_seconds": 2563
+      "age_seconds": 2683
     },
     {
       "channel": "Майни",
       "title": "ДОБРЯК ХУЖЕ, ЧЕМ ВЫ ДУМАЛИ: что аниматор делает с девушками? ► Рина Драгунова | Реакция",
       "url": "https://www.youtube.com/watch?v=mvLcm3M6im4",
       "published_at_utc": "2026-10-24T14:15:18+00:00",
-      "age_seconds": 5232
+      "age_seconds": 5352
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "А нечего паучков обижать",
       "url": "https://www.youtube.com/shorts/_FWHNwhhPUE",
       "published_at_utc": "2026-10-24T14:10:18+00:00",
-      "age_seconds": 5549
+      "age_seconds": 5669
     }
   ]
 }
