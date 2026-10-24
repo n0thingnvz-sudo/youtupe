@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-24T08:59:30.129269+00:00",
+  "generated_at_utc": "2026-10-24T09:01:32.277100+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sereGGa",
+      "title": "ГЕНИЙ-НОВИЧОК УНИЧТОЖАЕТ ПАБЛИКИ | ДНЕВНИК НОВИЧКА #3",
+      "url": "https://www.youtube.com/watch?v=bavdcvgPilU",
+      "published_at_utc": "2026-10-24T09:00:10+00:00",
+      "age_seconds": 69
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Имбовый шар",
       "url": "https://www.youtube.com/shorts/Lilq9FTrpr0",
       "published_at_utc": "2026-10-24T08:30:15+00:00",
-      "age_seconds": 1710
+      "age_seconds": 1831
     },
     {
       "channel": "МЯЧ Production",
       "title": "Лучшее класико в 21 веке | МЯЧ Легенда feat. Владислав Радимов",
       "url": "https://www.youtube.com/watch?v=9fCzkAkExP8",
       "published_at_utc": "2026-10-24T08:24:32+00:00",
-      "age_seconds": 2060
+      "age_seconds": 2181
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Запустили [НЕ] ОЧЕРЕДНУЮ Карту • [Полный Цикл] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=49kemoJSHI0",
       "published_at_utc": "2026-10-24T08:00:29+00:00",
-      "age_seconds": 3525
+      "age_seconds": 3646
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Стене мешала",
       "url": "https://www.youtube.com/shorts/vjB0Y8ND4ds",
       "published_at_utc": "2026-10-24T07:30:37+00:00",
-      "age_seconds": 5288
+      "age_seconds": 5409
     }
   ]
 }
