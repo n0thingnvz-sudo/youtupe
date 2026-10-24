@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-10-24T18:29:34.340008+00:00",
+  "generated_at_utc": "2026-10-24T18:31:37.730744+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Хорошая штука iPhone Duo можно брать",
-      "url": "https://www.youtube.com/shorts/Y8XXCImAk5o",
-      "published_at_utc": "2026-10-24T18:18:43+00:00",
-      "age_seconds": 603
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Разница менталитетов",
       "url": "https://www.youtube.com/shorts/qpH-AiH0bzM",
       "published_at_utc": "2026-10-24T18:00:19+00:00",
-      "age_seconds": 1706
+      "age_seconds": 1827
     },
     {
       "channel": "i11ushenka",
       "title": "Когда миллиардер решил пофлексить перед племенем",
       "url": "https://www.youtube.com/shorts/c3GSPyJJ_t0",
       "published_at_utc": "2026-10-24T17:43:54+00:00",
-      "age_seconds": 2677
+      "age_seconds": 2797
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Кайфанули от фильма",
       "url": "https://www.youtube.com/shorts/AuaD3m4qq6E",
       "published_at_utc": "2026-10-24T17:00:33+00:00",
-      "age_seconds": 5292
+      "age_seconds": 5413
     },
     {
       "channel": "windy31",
       "title": "ПОППИ ПЛЕЙТАЙМ 6?! ЭТО я в шоке....",
       "url": "https://www.youtube.com/watch?v=Ur5Zc8NJyBI",
       "published_at_utc": "2026-10-24T16:53:17+00:00",
-      "age_seconds": 5760
+      "age_seconds": 5884
     }
   ]
 }
