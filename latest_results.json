@@ -1,27 +1,41 @@
 {
-  "generated_at_utc": "2026-10-24T11:31:32.356223+00:00",
+  "generated_at_utc": "2026-10-24T11:33:31.454270+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Где спит кошка 😼",
+      "url": "https://www.youtube.com/shorts/ALPrB_2lXOM",
+      "published_at_utc": "2026-10-24T11:18:54+00:00",
+      "age_seconds": 849
+    },
+    {
+      "channel": "1337LikeR",
+      "title": "Сраные Bacrooms 6",
+      "url": "https://www.youtube.com/watch?v=PPA78wHb8qE",
+      "published_at_utc": "2026-10-24T11:18:51+00:00",
+      "age_seconds": 874
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Опять мыться",
       "url": "https://www.youtube.com/shorts/i-gHbndlYA8",
       "published_at_utc": "2026-10-24T10:49:25+00:00",
-      "age_seconds": 2481
+      "age_seconds": 2601
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Хоть что-то получила",
       "url": "https://www.youtube.com/shorts/9qUBEqly_zM",
       "published_at_utc": "2026-10-24T10:00:23+00:00",
-      "age_seconds": 5423
+      "age_seconds": 5543
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кошка оч старается не уснуть 😹",
       "url": "https://www.youtube.com/shorts/o0GlmY07Tvc",
       "published_at_utc": "2026-10-24T09:59:37+00:00",
-      "age_seconds": 5485
+      "age_seconds": 5606
     }
   ]
 }
