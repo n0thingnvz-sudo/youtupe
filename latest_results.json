@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-24T13:07:33.553954+00:00",
+  "generated_at_utc": "2026-10-24T13:09:31.577488+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПО ФАКТУ",
+      "title": "ВСЕМ ПРИВЕТ",
+      "url": "https://www.youtube.com/watch?v=vRzWjQVbbKk",
+      "published_at_utc": "2026-10-24T12:55:05+00:00",
+      "age_seconds": 862
+    },
     {
       "channel": "sun_kill",
       "title": "Погружаемся в закрытую движуху «снг айдолов» ахахаххаха #группы #песни #треки #выступления",
       "url": "https://www.youtube.com/shorts/JEhCC4m7v-0",
       "published_at_utc": "2026-10-24T12:35:07+00:00",
-      "age_seconds": 1885
+      "age_seconds": 2005
     },
     {
       "channel": "Алежа Обухов",
       "title": "Тот самый друг с гейскими шутками. Часть 2",
       "url": "https://www.youtube.com/shorts/E-p5csLOJtw",
       "published_at_utc": "2026-10-24T12:09:58+00:00",
-      "age_seconds": 3422
+      "age_seconds": 3542
     },
     {
       "channel": "Obsidian Time",
       "title": "Это ДЛС ПРОСТО ИМБА - Risk of rain 2",
       "url": "https://www.youtube.com/watch?v=a_KdNwuEAZg",
       "published_at_utc": "2026-10-24T12:00:23+00:00",
-      "age_seconds": 4029
+      "age_seconds": 4147
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Заговор сухариков",
       "url": "https://www.youtube.com/shorts/xlYCLHV8T-o",
       "published_at_utc": "2026-10-24T12:00:16+00:00",
-      "age_seconds": 3990
+      "age_seconds": 4110
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Где спит кошка 😼",
       "url": "https://www.youtube.com/shorts/ALPrB_2lXOM",
       "published_at_utc": "2026-10-24T11:18:54+00:00",
-      "age_seconds": 6488
+      "age_seconds": 6608
     },
     {
       "channel": "1337LikeR",
       "title": "Сраные Bacrooms 6",
       "url": "https://www.youtube.com/watch?v=PPA78wHb8qE",
       "published_at_utc": "2026-10-24T11:18:51+00:00",
-      "age_seconds": 6516
+      "age_seconds": 6634
     }
   ]
 }
