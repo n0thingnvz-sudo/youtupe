@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-10-24T12:13:36.445954+00:00",
+  "generated_at_utc": "2026-10-24T12:15:34.575826+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Obsidian Time",
-      "title": "Это ДЛС ПРОСТО ИМБА - Risk of rain 2",
-      "url": "https://www.youtube.com/watch?v=a_KdNwuEAZg",
-      "published_at_utc": "2026-10-24T12:00:23+00:00",
-      "age_seconds": 792
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Заговор сухариков",
       "url": "https://www.youtube.com/shorts/xlYCLHV8T-o",
       "published_at_utc": "2026-10-24T12:00:16+00:00",
-      "age_seconds": 754
+      "age_seconds": 871
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Где спит кошка 😼",
       "url": "https://www.youtube.com/shorts/ALPrB_2lXOM",
       "published_at_utc": "2026-10-24T11:18:54+00:00",
-      "age_seconds": 3253
+      "age_seconds": 3369
     },
     {
       "channel": "1337LikeR",
       "title": "Сраные Bacrooms 6",
       "url": "https://www.youtube.com/watch?v=PPA78wHb8qE",
       "published_at_utc": "2026-10-24T11:18:51+00:00",
-      "age_seconds": 3278
+      "age_seconds": 3396
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Опять мыться",
       "url": "https://www.youtube.com/shorts/i-gHbndlYA8",
       "published_at_utc": "2026-10-24T10:49:25+00:00",
-      "age_seconds": 5005
+      "age_seconds": 5122
     }
   ]
 }
