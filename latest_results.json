@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-24T09:31:31.661461+00:00",
+  "generated_at_utc": "2026-10-24T09:33:40.314719+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Почему упал крест",
+      "url": "https://www.youtube.com/shorts/mX6Noht5ABU",
+      "published_at_utc": "2026-10-24T09:20:23+00:00",
+      "age_seconds": 742
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Эффект бабочки",
       "url": "https://www.youtube.com/shorts/t8sEL6UfssA",
       "published_at_utc": "2026-10-24T09:00:22+00:00",
-      "age_seconds": 1823
+      "age_seconds": 1943
     },
     {
       "channel": "sereGGa",
       "title": "ГЕНИЙ-НОВИЧОК УНИЧТОЖАЕТ ПАБЛИКИ | ДНЕВНИК НОВИЧКА #3",
       "url": "https://www.youtube.com/watch?v=bavdcvgPilU",
       "published_at_utc": "2026-10-24T09:00:10+00:00",
-      "age_seconds": 1869
+      "age_seconds": 1998
     },
     {
       "channel": "ВПИСКА",
       "title": "Гайдулян о борьбе со страшным диагнозом #шортс #тренды",
       "url": "https://www.youtube.com/shorts/xc3rnlyEimk",
       "published_at_utc": "2026-10-24T09:00:01+00:00",
-      "age_seconds": 1869
+      "age_seconds": 1999
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Имбовый шар",
       "url": "https://www.youtube.com/shorts/Lilq9FTrpr0",
       "published_at_utc": "2026-10-24T08:30:15+00:00",
-      "age_seconds": 3630
+      "age_seconds": 3751
     },
     {
       "channel": "МЯЧ Production",
       "title": "Лучшее класико в 21 веке | МЯЧ Легенда feat. Владислав Радимов",
       "url": "https://www.youtube.com/watch?v=9fCzkAkExP8",
       "published_at_utc": "2026-10-24T08:24:32+00:00",
-      "age_seconds": 3981
+      "age_seconds": 4110
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Запустили [НЕ] ОЧЕРЕДНУЮ Карту • [Полный Цикл] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=49kemoJSHI0",
       "published_at_utc": "2026-10-24T08:00:29+00:00",
-      "age_seconds": 5446
+      "age_seconds": 5575
     }
   ]
 }
