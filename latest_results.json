@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-24T10:55:31.756662+00:00",
+  "generated_at_utc": "2026-10-24T10:57:34.528727+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Опять мыться",
+      "url": "https://www.youtube.com/shorts/i-gHbndlYA8",
+      "published_at_utc": "2026-10-24T10:49:25+00:00",
+      "age_seconds": 441
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Хоть что-то получила",
       "url": "https://www.youtube.com/shorts/9qUBEqly_zM",
       "published_at_utc": "2026-10-24T10:00:23+00:00",
-      "age_seconds": 3262
+      "age_seconds": 3383
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кошка оч старается не уснуть 😹",
       "url": "https://www.youtube.com/shorts/o0GlmY07Tvc",
       "published_at_utc": "2026-10-24T09:59:37+00:00",
-      "age_seconds": 3326
+      "age_seconds": 3446
     },
     {
       "channel": "i11ushenka",
       "title": "Тюремная Жижа: Не нравится? Не садись.",
       "url": "https://www.youtube.com/shorts/NDx0UaaSF3w",
       "published_at_utc": "2026-10-24T09:29:19+00:00",
-      "age_seconds": 5112
+      "age_seconds": 5232
     },
     {
       "channel": "Новостной Гусь",
       "title": "Почему упал крест",
       "url": "https://www.youtube.com/shorts/mX6Noht5ABU",
       "published_at_utc": "2026-10-24T09:20:23+00:00",
-      "age_seconds": 5662
+      "age_seconds": 5782
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Эффект бабочки",
       "url": "https://www.youtube.com/shorts/t8sEL6UfssA",
       "published_at_utc": "2026-10-24T09:00:22+00:00",
-      "age_seconds": 6863
+      "age_seconds": 6984
     },
     {
       "channel": "sereGGa",
       "title": "ГЕНИЙ-НОВИЧОК УНИЧТОЖАЕТ ПАБЛИКИ | ДНЕВНИК НОВИЧКА #3",
       "url": "https://www.youtube.com/watch?v=bavdcvgPilU",
       "published_at_utc": "2026-10-24T09:00:10+00:00",
-      "age_seconds": 6909
+      "age_seconds": 7031
     },
     {
       "channel": "ВПИСКА",
       "title": "Как Гайдулян узнал про свой диагноз? #шортс #тренды",
       "url": "https://www.youtube.com/shorts/xc3rnlyEimk",
       "published_at_utc": "2026-10-24T09:00:01+00:00",
-      "age_seconds": 6910
+      "age_seconds": 7031
     }
   ]
 }
