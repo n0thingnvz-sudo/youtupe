@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-10-24T15:41:32.843408+00:00",
+  "generated_at_utc": "2026-10-24T15:43:36.105214+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Новостной Гусь",
-      "title": "Самые дорогие соколы",
-      "url": "https://www.youtube.com/shorts/-dATJGuzgEY",
-      "published_at_utc": "2026-10-24T15:30:00+00:00",
-      "age_seconds": 645
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Даже за решеткой остается боссом",
       "url": "https://www.youtube.com/shorts/cahjitHvVrk",
       "published_at_utc": "2026-10-24T15:00:04+00:00",
-      "age_seconds": 2441
+      "age_seconds": 2563
     },
     {
       "channel": "Майни",
       "title": "ДОБРЯК ХУЖЕ, ЧЕМ ВЫ ДУМАЛИ: что аниматор делает с девушками? ► Рина Драгунова | Реакция",
       "url": "https://www.youtube.com/watch?v=mvLcm3M6im4",
       "published_at_utc": "2026-10-24T14:15:18+00:00",
-      "age_seconds": 5112
+      "age_seconds": 5232
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "А нечего паучков обижать",
       "url": "https://www.youtube.com/shorts/_FWHNwhhPUE",
       "published_at_utc": "2026-10-24T14:10:18+00:00",
-      "age_seconds": 5427
+      "age_seconds": 5549
     }
   ]
 }
