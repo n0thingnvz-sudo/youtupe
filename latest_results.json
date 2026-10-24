@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-24T14:09:30.852366+00:00",
+  "generated_at_utc": "2026-10-24T14:11:31.038510+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,28 @@
       "title": "Робо-утки",
       "url": "https://www.youtube.com/shorts/LMvKO82pW3A",
       "published_at_utc": "2026-10-24T13:30:14+00:00",
-      "age_seconds": 2310
+      "age_seconds": 2430
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Верная чайка",
       "url": "https://www.youtube.com/shorts/NLwh0IhvuQg",
       "published_at_utc": "2026-10-24T13:00:35+00:00",
-      "age_seconds": 4091
+      "age_seconds": 4210
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "ВСЕМ ПРИВЕТ",
       "url": "https://www.youtube.com/watch?v=vRzWjQVbbKk",
       "published_at_utc": "2026-10-24T12:55:05+00:00",
-      "age_seconds": 4462
+      "age_seconds": 4581
     },
     {
       "channel": "sun_kill",
       "title": "Погружаемся в закрытую движуху «снг айдолов» ахахаххаха #группы #песни #треки #выступления",
       "url": "https://www.youtube.com/shorts/JEhCC4m7v-0",
       "published_at_utc": "2026-10-24T12:35:07+00:00",
-      "age_seconds": 5604
-    },
-    {
-      "channel": "Алежа Обухов",
-      "title": "Тот самый друг с гейскими шутками. Часть 2",
-      "url": "https://www.youtube.com/shorts/E-p5csLOJtw",
-      "published_at_utc": "2026-10-24T12:09:58+00:00",
-      "age_seconds": 7141
+      "age_seconds": 5724
     }
   ]
 }
