@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-25T10:17:33.912746+00:00",
+  "generated_at_utc": "2026-10-25T10:19:32.686742+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,42 @@
       "title": "Когда сотрудник умнее работодателя",
       "url": "https://www.youtube.com/shorts/SN34k9CdG2Q",
       "published_at_utc": "2026-10-25T10:06:21+00:00",
-      "age_seconds": 607
+      "age_seconds": 727
+    },
+    {
+      "channel": "ВПИСКА",
+      "title": "Гайдулян о проблеме кино в России #шортс #тренды",
+      "url": "https://www.youtube.com/shorts/hLRwscSqoEU",
+      "published_at_utc": "2026-10-25T10:00:37+00:00",
+      "age_seconds": 1116
     },
     {
       "channel": "курОлеся",
       "title": "Встретились наконец-то с Сонечкой Зизи в Москве 🍂🧡",
       "url": "https://www.youtube.com/shorts/WLFpJkyYpUE",
       "published_at_utc": "2026-10-25T09:51:43+00:00",
-      "age_seconds": 1502
+      "age_seconds": 1622
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Автомат для дошираков на фудкорте",
       "url": "https://www.youtube.com/shorts/0wySMhK3LHU",
       "published_at_utc": "2026-10-25T09:06:21+00:00",
-      "age_seconds": 4244
+      "age_seconds": 4364
     },
     {
       "channel": "Новостной Гусь",
       "title": "Спасение человека за бортом",
       "url": "https://www.youtube.com/shorts/jQKT_WCvjtE",
       "published_at_utc": "2026-10-25T09:00:20+00:00",
-      "age_seconds": 4585
+      "age_seconds": 4706
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Вонючий протест",
       "url": "https://www.youtube.com/shorts/mcF73k3L9QU",
       "published_at_utc": "2026-10-25T08:22:30+00:00",
-      "age_seconds": 6856
+      "age_seconds": 6977
     }
   ]
 }
