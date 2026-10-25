@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-24T23:35:23.478147+00:00",
+  "generated_at_utc": "2026-10-25T07:01:37.681660+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Сергей Милушкин",
-      "title": "Куршская коса Балтийское море невероятный закат осенью",
-      "url": "https://www.youtube.com/watch?v=wlt8f9Z202Q",
-      "published_at_utc": "2026-10-24T21:34:55+00:00",
-      "age_seconds": 7189
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Грузинские симпсоны они такие",
+      "url": "https://www.youtube.com/shorts/v1ahIvno7zs",
+      "published_at_utc": "2026-10-25T06:53:41+00:00",
+      "age_seconds": 428
+    },
+    {
+      "channel": "Послезавтра",
+      "title": "Сколько стоят рестораны? #ресторан #страны #цены",
+      "url": "https://www.youtube.com/shorts/C31zqnLCtBQ",
+      "published_at_utc": "2026-10-25T06:28:35+00:00",
+      "age_seconds": 1915
     }
   ]
 }
