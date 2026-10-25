@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-25T09:01:34.763718+00:00",
+  "generated_at_utc": "2026-10-25T09:03:31.365841+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Вонючий протест",
       "url": "https://www.youtube.com/shorts/mcF73k3L9QU",
       "published_at_utc": "2026-10-25T08:22:30+00:00",
-      "age_seconds": 2295
+      "age_seconds": 2416
     },
     {
       "channel": "sereGGa",
       "title": "Team Liquid vs OG | bo3 | FISSURE UNIVERSE GROUP STAGE",
       "url": "https://www.youtube.com/watch?v=ib1C4MNToAE",
       "published_at_utc": "2026-10-25T07:31:41+00:00",
-      "age_seconds": 5381
+      "age_seconds": 5498
     }
   ]
 }
