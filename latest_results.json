@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-25T08:33:31.249173+00:00",
+  "generated_at_utc": "2026-10-25T08:35:28.975721+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Вонючий протест",
+      "url": "https://www.youtube.com/shorts/mcF73k3L9QU",
+      "published_at_utc": "2026-10-25T08:22:30+00:00",
+      "age_seconds": 735
+    },
     {
       "channel": "sereGGa",
       "title": "Team Liquid vs OG | bo3 | FISSURE UNIVERSE GROUP STAGE",
       "url": "https://www.youtube.com/watch?v=ib1C4MNToAE",
       "published_at_utc": "2026-10-25T07:31:41+00:00",
-      "age_seconds": 3698
+      "age_seconds": 3816
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Грузинские симпсоны они такие",
       "url": "https://www.youtube.com/shorts/v1ahIvno7zs",
       "published_at_utc": "2026-10-25T06:53:41+00:00",
-      "age_seconds": 5945
+      "age_seconds": 6064
     }
   ]
 }
