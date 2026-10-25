@@ -1,27 +1,41 @@
 {
-  "generated_at_utc": "2026-10-25T15:13:33.941395+00:00",
+  "generated_at_utc": "2026-10-25T15:15:34.611554+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Самый ненавистный бегун",
+      "url": "https://www.youtube.com/shorts/70F01D-JRTg",
+      "published_at_utc": "2026-10-25T15:00:08+00:00",
+      "age_seconds": 878
+    },
+    {
+      "channel": "МЯЧ Production",
+      "title": "ЭЛЬ КЛАСИКО Выиграет …    #элькласико #реалмадрид #барселона",
+      "url": "https://www.youtube.com/shorts/ca9apiTqwEo",
+      "published_at_utc": "2026-10-25T14:59:06+00:00",
+      "age_seconds": 947
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Акулы — не людоеды! Расслабься 🦈",
       "url": "https://www.youtube.com/shorts/F5A61XBTF-Y",
       "published_at_utc": "2026-10-25T14:53:14+00:00",
-      "age_seconds": 1189
+      "age_seconds": 1309
     },
     {
       "channel": "i11ushenka",
       "title": "Телевизоры, которые слишком много знали: как ИИ их освободил",
       "url": "https://www.youtube.com/shorts/BywJ1dNQKbo",
       "published_at_utc": "2026-10-25T14:02:16+00:00",
-      "age_seconds": 4216
+      "age_seconds": 4335
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Хороший Габен, плохой Габен",
       "url": "https://www.youtube.com/shorts/hYI6Ha5UnuE",
       "published_at_utc": "2026-10-25T14:00:05+00:00",
-      "age_seconds": 4362
+      "age_seconds": 4481
     }
   ]
 }
