@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-10-25T14:09:46.464550+00:00",
+  "generated_at_utc": "2026-10-25T14:11:34.337651+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Хороший Габен, плохой Габен",
+      "url": "https://www.youtube.com/shorts/hYI6Ha5UnuE",
+      "published_at_utc": "2026-10-25T14:00:05+00:00",
+      "age_seconds": 641
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Батя носит куртку 48 лет и норм",
       "url": "https://www.youtube.com/shorts/uU4YvJMpa8o",
       "published_at_utc": "2026-10-25T12:55:03+00:00",
-      "age_seconds": 4436
+      "age_seconds": 4543
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сюжетный поворот",
       "url": "https://www.youtube.com/shorts/Yc1dks98h0E",
       "published_at_utc": "2026-10-25T12:49:18+00:00",
-      "age_seconds": 4779
+      "age_seconds": 4888
     },
     {
       "channel": "Ремонтяш",
       "title": "ИГРОВОЙ ПК с OZON за 40 тысяч",
       "url": "https://www.youtube.com/watch?v=0qle87oa824",
       "published_at_utc": "2026-10-25T12:40:38+00:00",
-      "age_seconds": 5307
+      "age_seconds": 5414
     }
   ]
 }
