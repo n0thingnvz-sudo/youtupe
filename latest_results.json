@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-25T19:33:34.405663+00:00",
+  "generated_at_utc": "2026-10-25T19:35:32.356486+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "МЯЧ Production",
+      "title": "Антигероем Эль Класико станет…",
+      "url": "https://www.youtube.com/shorts/-mlEp6XJb5c",
+      "published_at_utc": "2026-10-25T19:24:04+00:00",
+      "age_seconds": 649
+    },
     {
       "channel": "МЯЧ Production",
       "title": "Главным Героем Эль Класико станет…",
       "url": "https://www.youtube.com/shorts/v1xvifPoJiw",
       "published_at_utc": "2026-10-25T17:51:20+00:00",
-      "age_seconds": 6094
+      "age_seconds": 6213
     }
   ]
 }
