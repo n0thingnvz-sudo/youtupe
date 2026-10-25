@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-10-25T16:07:34.465924+00:00",
+  "generated_at_utc": "2026-10-25T16:09:32.502200+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Пробую Казахский фастфуд (очень плохо)",
+      "url": "https://www.youtube.com/shorts/W1OoOzFdj4k",
+      "published_at_utc": "2026-10-25T16:00:08+00:00",
+      "age_seconds": 536
+    },
     {
       "channel": "Короче, новости",
       "title": "Учим Географию по Протестам @denmarnews",
       "url": "https://www.youtube.com/shorts/ojVzqLtYHsw",
       "published_at_utc": "2026-10-25T15:54:02+00:00",
-      "age_seconds": 761
+      "age_seconds": 880
     },
     {
       "channel": "Ассистент грумера",
       "title": "ТИБЕТСКИЙ МАСТИФ ТИБА В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/yiCPVJbJ63U",
       "published_at_utc": "2026-10-25T15:21:01+00:00",
-      "age_seconds": 2754
+      "age_seconds": 2873
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Герои в которых мы нуждались",
       "url": "https://www.youtube.com/shorts/9wQzmVE2Xy0",
       "published_at_utc": "2026-10-25T15:20:26+00:00",
-      "age_seconds": 2779
+      "age_seconds": 2899
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кто живет в Швеции?",
       "url": "https://www.youtube.com/shorts/z-XUDzKq-Uo",
       "published_at_utc": "2026-10-25T15:20:15+00:00",
-      "age_seconds": 2790
+      "age_seconds": 2910
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самый ненавистный бегун",
       "url": "https://www.youtube.com/shorts/70F01D-JRTg",
       "published_at_utc": "2026-10-25T15:00:08+00:00",
-      "age_seconds": 3998
+      "age_seconds": 4118
     },
     {
       "channel": "МЯЧ Production",
       "title": "ЭЛЬ КЛАСИКО Выиграет …    #элькласико #реалмадрид #барселона",
       "url": "https://www.youtube.com/shorts/ca9apiTqwEo",
       "published_at_utc": "2026-10-25T14:59:06+00:00",
-      "age_seconds": 4067
+      "age_seconds": 4187
     },
     {
       "channel": "i11ushenka",
       "title": "Поймать их всех: день, когда человечество ловило покемонов Везде",
       "url": "https://www.youtube.com/shorts/JmkP9ZUQP-w",
       "published_at_utc": "2026-10-25T14:58:57+00:00",
-      "age_seconds": 4055
+      "age_seconds": 4174
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Акулы — не людоеды! Расслабься 🦈",
       "url": "https://www.youtube.com/shorts/F5A61XBTF-Y",
       "published_at_utc": "2026-10-25T14:53:14+00:00",
-      "age_seconds": 4429
+      "age_seconds": 4548
     }
   ]
 }
