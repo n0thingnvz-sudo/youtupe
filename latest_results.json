@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-25T13:07:33.482480+00:00",
+  "generated_at_utc": "2026-10-25T13:09:32.331705+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Батя носит куртку 48 лет и норм",
+      "url": "https://www.youtube.com/shorts/uU4YvJMpa8o",
+      "published_at_utc": "2026-10-25T12:55:03+00:00",
+      "age_seconds": 824
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сюжетный поворот",
       "url": "https://www.youtube.com/shorts/Yc1dks98h0E",
       "published_at_utc": "2026-10-25T12:49:18+00:00",
-      "age_seconds": 1048
+      "age_seconds": 1168
     },
     {
       "channel": "Ремонтяш",
       "title": "ИГРОВОЙ ПК с OZON за 40 тысяч",
       "url": "https://www.youtube.com/watch?v=0qle87oa824",
       "published_at_utc": "2026-10-25T12:40:38+00:00",
-      "age_seconds": 1575
+      "age_seconds": 1694
     },
     {
       "channel": "IG project",
       "title": "😱 БЛИТЦ СЛОМАЕТ РОГ в 3 СЕЗОНЕ АДСКОГО БОССА? 💔 #адскийбосс #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/hbjvAItGBq0",
       "published_at_utc": "2026-10-25T12:08:51+00:00",
-      "age_seconds": 3484
+      "age_seconds": 3603
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ГРЯЗНАЯ ПОСУДА (смешное видео, юмор, поржать, приколы, Вайны)",
       "url": "https://www.youtube.com/shorts/0y5radLEf6A",
       "published_at_utc": "2026-10-25T12:00:19+00:00",
-      "age_seconds": 4003
+      "age_seconds": 4121
     }
   ]
 }
