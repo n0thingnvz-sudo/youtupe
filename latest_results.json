@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-25T12:03:36.937337+00:00",
+  "generated_at_utc": "2026-10-25T12:05:33.612792+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Натурал Альбертович",
+      "title": "ГРЯЗНАЯ ПОСУДА (смешное видео, юмор, поржать, приколы, Вайны)",
+      "url": "https://www.youtube.com/shorts/0y5radLEf6A",
+      "published_at_utc": "2026-10-25T12:00:19+00:00",
+      "age_seconds": 282
+    },
     {
       "channel": "курОлеся",
       "title": "Они это сделали.",
       "url": "https://www.youtube.com/shorts/rPCLawY-YSw",
       "published_at_utc": "2026-10-25T10:58:10+00:00",
-      "age_seconds": 3875
+      "age_seconds": 3995
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Хорошо что не было селёдки под шубой",
       "url": "https://www.youtube.com/shorts/f3tyNInajSo",
       "published_at_utc": "2026-10-25T10:32:56+00:00",
-      "age_seconds": 5391
+      "age_seconds": 5510
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему этого кота ненавидят? 😿",
       "url": "https://www.youtube.com/shorts/9GRWB-BV2Bk",
       "published_at_utc": "2026-10-25T10:20:15+00:00",
-      "age_seconds": 6169
+      "age_seconds": 6288
     },
     {
       "channel": "Тру Шорты",
       "title": "Когда сотрудник умнее работодателя",
       "url": "https://www.youtube.com/shorts/SN34k9CdG2Q",
       "published_at_utc": "2026-10-25T10:06:21+00:00",
-      "age_seconds": 6967
+      "age_seconds": 7087
     }
   ]
 }
