@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-10-26T13:57:38.757281+00:00",
+  "generated_at_utc": "2026-10-26T13:59:34.838013+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "курОлеся",
+      "title": "Вот такая семейка у нас 🤪",
+      "url": "https://www.youtube.com/shorts/i6nS4JOTwOM",
+      "published_at_utc": "2026-10-26T13:43:06+00:00",
+      "age_seconds": 939
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Бедная тесла",
       "url": "https://www.youtube.com/shorts/PAlSlLRSgy8",
       "published_at_utc": "2026-10-26T13:37:22+00:00",
-      "age_seconds": 1166
+      "age_seconds": 1286
     },
     {
       "channel": "Короче, новости",
       "title": "Жижа из Банки Обрела Смысл @denmarnews",
       "url": "https://www.youtube.com/shorts/AVDFZAA1UV4",
       "published_at_utc": "2026-10-26T13:31:35+00:00",
-      "age_seconds": 1509
+      "age_seconds": 1628
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Посчитай быстрее #funnygames #couple #игры #games",
       "url": "https://www.youtube.com/shorts/X38PCRZib_w",
       "published_at_utc": "2026-10-26T13:24:07+00:00",
-      "age_seconds": 1979
+      "age_seconds": 2098
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Молись и кайся грешник",
       "url": "https://www.youtube.com/shorts/zuIAbA0np6c",
       "published_at_utc": "2026-10-26T13:07:12+00:00",
-      "age_seconds": 2977
+      "age_seconds": 3097
     },
     {
       "channel": "Самый сахар",
       "title": "Я проверил ИИ-скам рестораны (это треш)",
       "url": "https://www.youtube.com/watch?v=djtXEOCjdvE",
       "published_at_utc": "2026-10-26T13:00:31+00:00",
-      "age_seconds": 3363
+      "age_seconds": 3483
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Главный хейтер кинематографа",
       "url": "https://www.youtube.com/shorts/TGJmjNm_tBk",
       "published_at_utc": "2026-10-26T12:34:43+00:00",
-      "age_seconds": 4925
+      "age_seconds": 5045
     },
     {
       "channel": "Короче, новости",
       "title": "Так вот Зачем Нужен Iphone Duo @denmarnews",
       "url": "https://www.youtube.com/shorts/aqO-0lwrBNU",
       "published_at_utc": "2026-10-26T12:32:20+00:00",
-      "age_seconds": 5064
+      "age_seconds": 5183
     },
     {
       "channel": "Новостной Гусь",
       "title": "Большой любитель подарков",
       "url": "https://www.youtube.com/shorts/uEmYhBVYzL8",
       "published_at_utc": "2026-10-26T12:30:05+00:00",
-      "age_seconds": 5202
+      "age_seconds": 5322
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ремикс комикса «Кот-тайна раскрыта» от JennyJinya",
       "url": "https://www.youtube.com/shorts/RYXtezpCuro",
       "published_at_utc": "2026-10-26T12:28:44+00:00",
-      "age_seconds": 5301
+      "age_seconds": 5421
     },
     {
       "channel": "Jim Gold",
       "title": "ПОЗОР ВИТ ПИПИР НЕ БУДЕТ ЗАБЫТ - feat @AntiKeK_6713",
       "url": "https://www.youtube.com/watch?v=wtzU7tnXreQ",
       "published_at_utc": "2026-10-26T12:09:30+00:00",
-      "age_seconds": 6454
+      "age_seconds": 6573
     }
   ]
 }
