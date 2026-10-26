@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-10-26T11:07:36.789038+00:00",
+  "generated_at_utc": "2026-10-26T11:09:33.868306+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Он знал ради чего идет",
-      "url": "https://www.youtube.com/shorts/Yeu9SkfaSeo",
-      "published_at_utc": "2026-10-26T11:00:32+00:00",
-      "age_seconds": 374
-    },
     {
       "channel": "i11ushenka",
       "title": "Как нейросеть накормила Британию 🇬🇧",
       "url": "https://www.youtube.com/shorts/0n4eMRLYf7s",
       "published_at_utc": "2026-10-26T10:29:58+00:00",
-      "age_seconds": 2194
+      "age_seconds": 2314
     },
     {
       "channel": "Алежа Обухов",
       "title": "Как делали успешный бизнес в разные годы",
       "url": "https://www.youtube.com/shorts/eyWxdDyPQD0",
       "published_at_utc": "2026-10-26T10:27:26+00:00",
-      "age_seconds": 2376
+      "age_seconds": 2496
     },
     {
       "channel": "sereGGa",
       "title": "Team Yandex vs Team Liquid | bo3 | PARI UNIVERSE GROUP STAGE",
       "url": "https://www.youtube.com/watch?v=btYPnRWx_NI",
       "published_at_utc": "2026-10-26T10:07:37+00:00",
-      "age_seconds": 3586
+      "age_seconds": 3705
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Первые отзывы о складном Айфоне",
       "url": "https://www.youtube.com/shorts/V4Q0HDZGLEE",
       "published_at_utc": "2026-10-26T10:03:39+00:00",
-      "age_seconds": 3787
+      "age_seconds": 3908
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Неудачный тайминг для презентации",
       "url": "https://www.youtube.com/shorts/9fYEPQqaqEY",
       "published_at_utc": "2026-10-26T10:00:25+00:00",
-      "age_seconds": 3981
+      "age_seconds": 4101
     },
     {
       "channel": "Звездный Капитан",
       "title": "Что показали в трейлере фильма Крестоносцы",
       "url": "https://www.youtube.com/watch?v=SdCFQKjh-WY",
       "published_at_utc": "2026-10-26T09:16:37+00:00",
-      "age_seconds": 6604
+      "age_seconds": 6724
     }
   ]
 }
