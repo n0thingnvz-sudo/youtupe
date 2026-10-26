@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T09:27:33.469104+00:00",
+  "generated_at_utc": "2026-10-26T09:29:30.645592+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,42 @@
       "title": "Что показали в трейлере фильма Крестоносцы",
       "url": "https://www.youtube.com/watch?v=SdCFQKjh-WY",
       "published_at_utc": "2026-10-26T09:16:37+00:00",
-      "age_seconds": 605
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Уволен за победу",
-      "url": "https://www.youtube.com/shorts/fgC_K5PHPxU",
-      "published_at_utc": "2026-10-26T09:03:55+00:00",
-      "age_seconds": 1373
+      "age_seconds": 723
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему шотландская вислоухая запрещена в Европе 🙀",
       "url": "https://www.youtube.com/shorts/2keoyIB184A",
       "published_at_utc": "2026-10-26T08:50:36+00:00",
-      "age_seconds": 2189
+      "age_seconds": 2305
     },
     {
       "channel": "Послезавтра",
       "title": "Самый дорогой в Европе? #европа #евросоюз #бизнес",
       "url": "https://www.youtube.com/shorts/itCI_QNBl2s",
       "published_at_utc": "2026-10-26T08:32:14+00:00",
-      "age_seconds": 3255
+      "age_seconds": 3375
     },
     {
       "channel": "Новостной Гусь",
       "title": "Лучше заряжайте телефоны дома",
       "url": "https://www.youtube.com/shorts/EYDJSF_C2rk",
       "published_at_utc": "2026-10-26T08:30:10+00:00",
-      "age_seconds": 3396
+      "age_seconds": 3514
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Чипсы с настоящей икрой и крабом",
       "url": "https://www.youtube.com/shorts/rsWahrBum6s",
       "published_at_utc": "2026-10-26T08:21:50+00:00",
-      "age_seconds": 3916
+      "age_seconds": 4033
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "👿 Майнкрафт, но Мы Сделали ДЬЯВОЛЬСКОЕ КОЛЬЦО #12 • [Супер Артефакт] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=fl6WKetLGh8",
       "published_at_utc": "2026-10-26T08:00:27+00:00",
-      "age_seconds": 5211
+      "age_seconds": 5328
     }
   ]
 }
