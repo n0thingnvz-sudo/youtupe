@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-10-26T12:41:35.651363+00:00",
+  "generated_at_utc": "2026-10-26T12:43:39.106816+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Главный хейтер кинематографа",
-      "url": "https://www.youtube.com/shorts/TGJmjNm_tBk",
-      "published_at_utc": "2026-10-26T12:34:43+00:00",
-      "age_seconds": 363
-    },
     {
       "channel": "Короче, новости",
       "title": "Так вот Зачем Нужен Iphone Duo @denmarnews",
       "url": "https://www.youtube.com/shorts/aqO-0lwrBNU",
       "published_at_utc": "2026-10-26T12:32:20+00:00",
-      "age_seconds": 502
+      "age_seconds": 625
     },
     {
       "channel": "Новостной Гусь",
       "title": "Большой любитель подарков",
       "url": "https://www.youtube.com/shorts/uEmYhBVYzL8",
       "published_at_utc": "2026-10-26T12:30:05+00:00",
-      "age_seconds": 640
+      "age_seconds": 763
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Ремикс комикса «Кот-тайна раскрыта» от JennyJinya",
+      "url": "https://www.youtube.com/shorts/RYXtezpCuro",
+      "published_at_utc": "2026-10-26T12:28:44+00:00",
+      "age_seconds": 863
     },
     {
       "channel": "Jim Gold",
       "title": "ПОЗОР ВИТ ПИПИР НЕ БУДЕТ ЗАБЫТ - feat @AntiKeK_6713",
       "url": "https://www.youtube.com/watch?v=wtzU7tnXreQ",
       "published_at_utc": "2026-10-26T12:09:30+00:00",
-      "age_seconds": 1892
+      "age_seconds": 2016
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Принглс объединяет людей",
       "url": "https://www.youtube.com/shorts/CvjQ32jFjoM",
       "published_at_utc": "2026-10-26T11:17:44+00:00",
-      "age_seconds": 4982
+      "age_seconds": 5105
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Он знал ради чего идет",
       "url": "https://www.youtube.com/shorts/Yeu9SkfaSeo",
       "published_at_utc": "2026-10-26T11:00:32+00:00",
-      "age_seconds": 6013
+      "age_seconds": 6137
     }
   ]
 }
