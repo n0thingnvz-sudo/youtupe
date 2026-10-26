@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T19:59:30.865334+00:00",
+  "generated_at_utc": "2026-10-26T20:01:39.476352+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Никогда не играй в Яндекс Хорроры",
       "url": "https://www.youtube.com/watch?v=H7EOKr0SDCs",
       "published_at_utc": "2026-10-26T18:39:43+00:00",
-      "age_seconds": 4784
+      "age_seconds": 4913
     },
     {
       "channel": "МЯЧ Production",
       "title": "Моуринью переиграл Флика, атакующий футбол Аллегри, что делать с Карриком? | ХИТ №8",
       "url": "https://www.youtube.com/watch?v=8Psj4OxL1pk",
       "published_at_utc": "2026-10-26T18:38:24+00:00",
-      "age_seconds": 4828
+      "age_seconds": 4954
     },
     {
       "channel": "DeadP47",
       "title": "ФАНАТЫ BIOWARE В ЯРОСТИ",
       "url": "https://www.youtube.com/watch?v=YSFyU0AhbRs",
       "published_at_utc": "2026-10-26T18:08:10+00:00",
-      "age_seconds": 6672
+      "age_seconds": 6800
     }
   ]
 }
