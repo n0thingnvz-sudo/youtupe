@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T10:03:34.679532+00:00",
+  "generated_at_utc": "2026-10-26T10:05:33.573128+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Что показали в трейлере фильма Крестоносцы",
       "url": "https://www.youtube.com/watch?v=SdCFQKjh-WY",
       "published_at_utc": "2026-10-26T09:16:37+00:00",
-      "age_seconds": 2764
+      "age_seconds": 2884
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Уволен за победу",
       "url": "https://www.youtube.com/shorts/fgC_K5PHPxU",
       "published_at_utc": "2026-10-26T09:03:55+00:00",
-      "age_seconds": 3532
+      "age_seconds": 3653
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему шотландская вислоухая запрещена в Европе 🙀",
       "url": "https://www.youtube.com/shorts/2keoyIB184A",
       "published_at_utc": "2026-10-26T08:50:36+00:00",
-      "age_seconds": 4348
+      "age_seconds": 4469
     },
     {
       "channel": "Послезавтра",
       "title": "Самый дорогой в Европе? #европа #евросоюз #бизнес",
       "url": "https://www.youtube.com/shorts/itCI_QNBl2s",
       "published_at_utc": "2026-10-26T08:32:14+00:00",
-      "age_seconds": 5415
+      "age_seconds": 5535
     },
     {
       "channel": "Новостной Гусь",
       "title": "Лучше заряжайте телефоны дома",
       "url": "https://www.youtube.com/shorts/EYDJSF_C2rk",
       "published_at_utc": "2026-10-26T08:30:10+00:00",
-      "age_seconds": 5555
+      "age_seconds": 5677
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Чипсы с настоящей икрой и крабом",
       "url": "https://www.youtube.com/shorts/rsWahrBum6s",
       "published_at_utc": "2026-10-26T08:21:50+00:00",
-      "age_seconds": 6076
+      "age_seconds": 6196
     }
   ]
 }
