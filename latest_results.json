@@ -1,48 +1,62 @@
 {
-  "generated_at_utc": "2026-10-26T15:41:37.832186+00:00",
+  "generated_at_utc": "2026-10-26T15:43:34.410267+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Дельфины кайфуют от рыбы фугу 🐬",
+      "url": "https://www.youtube.com/shorts/SXskHpVweP4",
+      "published_at_utc": "2026-10-26T15:23:01+00:00",
+      "age_seconds": 1202
+    },
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Как получить из электричества счет за электричество",
+      "url": "https://www.youtube.com/shorts/HbZObai0dtc",
+      "published_at_utc": "2026-10-26T15:20:25+00:00",
+      "age_seconds": 1342
+    },
     {
       "channel": "Майни",
       "title": "ХРОНИКИ ЭНЕРГОСОВ - Как весь мир подсел на энергетики ► sndk ( Сыендук ) | Реакция",
       "url": "https://www.youtube.com/watch?v=4U3YQysehrM",
       "published_at_utc": "2026-10-26T15:15:02+00:00",
-      "age_seconds": 1528
+      "age_seconds": 1648
     },
     {
       "channel": "Obsidian Time",
       "title": "ТЫКАЮ БЛОКИ - МайнШилд 4",
       "url": "https://www.youtube.com/watch?v=I1s3YYqm4-o",
       "published_at_utc": "2026-10-26T15:04:10+00:00",
-      "age_seconds": 2247
+      "age_seconds": 2363
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Что не так с новыми Cheetos?",
       "url": "https://www.youtube.com/shorts/MoTSLYaNVJ4",
       "published_at_utc": "2026-10-26T15:02:18+00:00",
-      "age_seconds": 2330
+      "age_seconds": 2447
     },
     {
       "channel": "Короче, новости",
       "title": "Трампа Опять Кинули с Нобелевкой @denmarnews",
       "url": "https://www.youtube.com/shorts/DkTM0WU34vI",
       "published_at_utc": "2026-10-26T14:10:24+00:00",
-      "age_seconds": 5419
+      "age_seconds": 5539
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/dydht683GEE",
       "published_at_utc": "2026-10-26T14:06:02+00:00",
-      "age_seconds": 5705
+      "age_seconds": 5822
     },
     {
       "channel": "курОлеся",
       "title": "Вот такая семейка у нас 🤪",
       "url": "https://www.youtube.com/shorts/i6nS4JOTwOM",
       "published_at_utc": "2026-10-26T13:43:06+00:00",
-      "age_seconds": 7059
+      "age_seconds": 7179
     }
   ]
 }
