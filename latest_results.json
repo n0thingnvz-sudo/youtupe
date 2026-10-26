@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-26T09:09:28.894955+00:00",
+  "generated_at_utc": "2026-10-26T09:11:31.622732+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Почему шотландская вислоухая запрещена в Европе 🙀",
+      "url": "https://www.youtube.com/shorts/2keoyIB184A",
+      "published_at_utc": "2026-10-26T08:50:36+00:00",
+      "age_seconds": 1226
+    },
     {
       "channel": "Послезавтра",
       "title": "Самый дорогой в Европе? #европа #евросоюз #бизнес",
       "url": "https://www.youtube.com/shorts/itCI_QNBl2s",
       "published_at_utc": "2026-10-26T08:32:14+00:00",
-      "age_seconds": 2175
+      "age_seconds": 2295
     },
     {
       "channel": "Новостной Гусь",
       "title": "Лучше заряжайте телефоны дома",
       "url": "https://www.youtube.com/shorts/EYDJSF_C2rk",
       "published_at_utc": "2026-10-26T08:30:10+00:00",
-      "age_seconds": 2314
+      "age_seconds": 2434
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Чипсы с настоящей икрой и крабом",
       "url": "https://www.youtube.com/shorts/rsWahrBum6s",
       "published_at_utc": "2026-10-26T08:21:50+00:00",
-      "age_seconds": 2832
+      "age_seconds": 2954
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "👿 Майнкрафт, но Мы Сделали ДЬЯВОЛЬСКОЕ КОЛЬЦО #12 • [Супер Артефакт] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=fl6WKetLGh8",
       "published_at_utc": "2026-10-26T08:00:27+00:00",
-      "age_seconds": 4127
+      "age_seconds": 4248
     }
   ]
 }
