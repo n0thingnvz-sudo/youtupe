@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-10-26T16:17:46.397600+00:00",
+  "generated_at_utc": "2026-10-26T16:19:48.741597+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "i11ushenka",
-      "title": "iPhone Duo: Прорывное Нейро-Складывание 🍎",
-      "url": "https://www.youtube.com/shorts/iRmiZbr0cHM",
-      "published_at_utc": "2026-10-26T16:05:24+00:00",
-      "age_seconds": 667
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Подушка опасности",
       "url": "https://www.youtube.com/shorts/gwb9ebSkFXw",
       "published_at_utc": "2026-10-26T15:54:39+00:00",
-      "age_seconds": 1329
+      "age_seconds": 1448
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Дельфины кайфуют от рыбы фугу 🐬",
       "url": "https://www.youtube.com/shorts/SXskHpVweP4",
       "published_at_utc": "2026-10-26T15:23:01+00:00",
-      "age_seconds": 3244
+      "age_seconds": 3378
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как получить из электричества счет за электричество",
       "url": "https://www.youtube.com/shorts/HbZObai0dtc",
       "published_at_utc": "2026-10-26T15:20:25+00:00",
-      "age_seconds": 3383
+      "age_seconds": 3502
     },
     {
       "channel": "Майни",
       "title": "ХРОНИКИ ЭНЕРГОСОВ - Как весь мир подсел на энергетики ► sndk ( Сыендук ) | Реакция",
       "url": "https://www.youtube.com/watch?v=4U3YQysehrM",
       "published_at_utc": "2026-10-26T15:15:02+00:00",
-      "age_seconds": 3688
+      "age_seconds": 3808
     },
     {
       "channel": "Obsidian Time",
       "title": "ТЫКАЮ БЛОКИ - МайнШилд 4",
       "url": "https://www.youtube.com/watch?v=I1s3YYqm4-o",
       "published_at_utc": "2026-10-26T15:04:10+00:00",
-      "age_seconds": 4415
+      "age_seconds": 4537
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Что не так с новыми Cheetos?",
       "url": "https://www.youtube.com/shorts/MoTSLYaNVJ4",
       "published_at_utc": "2026-10-26T15:02:18+00:00",
-      "age_seconds": 4488
+      "age_seconds": 4622
     }
   ]
 }
