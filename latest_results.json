@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-10-26T12:11:45.021897+00:00",
+  "generated_at_utc": "2026-10-26T12:13:35.405725+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Jim Gold",
-      "title": "ПОЗОР ВИТ ПИПИР НЕ БУДЕТ ЗАБЫТ - feat @AntiKeK_6713",
-      "url": "https://www.youtube.com/watch?v=wtzU7tnXreQ",
-      "published_at_utc": "2026-10-26T12:09:30+00:00",
-      "age_seconds": 102
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Принглс объединяет людей",
       "url": "https://www.youtube.com/shorts/CvjQ32jFjoM",
       "published_at_utc": "2026-10-26T11:17:44+00:00",
-      "age_seconds": 3185
+      "age_seconds": 3302
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Он знал ради чего идет",
       "url": "https://www.youtube.com/shorts/Yeu9SkfaSeo",
       "published_at_utc": "2026-10-26T11:00:32+00:00",
-      "age_seconds": 4216
+      "age_seconds": 4334
     },
     {
       "channel": "i11ushenka",
       "title": "Как нейросеть накормила Британию 🇬🇧",
       "url": "https://www.youtube.com/shorts/0n4eMRLYf7s",
       "published_at_utc": "2026-10-26T10:29:58+00:00",
-      "age_seconds": 6033
+      "age_seconds": 6153
     },
     {
       "channel": "Алежа Обухов",
       "title": "Как делали успешный бизнес в разные годы",
       "url": "https://www.youtube.com/shorts/eyWxdDyPQD0",
       "published_at_utc": "2026-10-26T10:27:26+00:00",
-      "age_seconds": 6224
+      "age_seconds": 6336
     }
   ]
 }
