@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T18:57:42.542826+00:00",
+  "generated_at_utc": "2026-10-26T18:59:32.966460+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Никогда не играй в Яндекс Хорроры",
       "url": "https://www.youtube.com/watch?v=H7EOKr0SDCs",
       "published_at_utc": "2026-10-26T18:39:43+00:00",
-      "age_seconds": 1076
+      "age_seconds": 1186
     },
     {
       "channel": "МЯЧ Production",
       "title": "Моуринью переиграл Флика, атакующий футбол Аллегри, что делать с Карриком? | ХИТ №8",
       "url": "https://www.youtube.com/watch?v=8Psj4OxL1pk",
       "published_at_utc": "2026-10-26T18:38:24+00:00",
-      "age_seconds": 1117
+      "age_seconds": 1229
     },
     {
       "channel": "DeadP47",
       "title": "БИТВА ЗА MASS EFFECT",
       "url": "https://www.youtube.com/watch?v=YSFyU0AhbRs",
       "published_at_utc": "2026-10-26T18:08:10+00:00",
-      "age_seconds": 2963
+      "age_seconds": 3074
     },
     {
       "channel": "Майни",
       "title": "13 Карт — Клоны подменяют Фёдора ► 2 сезон 2 серия | Реакция",
       "url": "https://www.youtube.com/watch?v=DPGKAuLZh-Q",
       "published_at_utc": "2026-10-26T17:00:36+00:00",
-      "age_seconds": 6959
+      "age_seconds": 7074
     }
   ]
 }
