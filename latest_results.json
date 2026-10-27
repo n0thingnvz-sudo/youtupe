@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-27T12:33:36.627124+00:00",
+  "generated_at_utc": "2026-10-27T12:35:33.846317+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Obsidian Time",
+      "title": "Внезапный кооп во внезапный РОГАЛИК - Far far west",
+      "url": "https://www.youtube.com/watch?v=poPxAVc3X7c",
+      "published_at_utc": "2026-10-27T12:27:53+00:00",
+      "age_seconds": 460
+    },
     {
       "channel": "Ассистент грумера",
       "title": "ОВЧАРЁНОК РИЧЧИ В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/KKuFNAChgcA",
       "published_at_utc": "2026-10-27T12:00:29+00:00",
-      "age_seconds": 1948
+      "age_seconds": 2066
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Майнкрафт на компьютере за 1$",
       "url": "https://www.youtube.com/shorts/IIrFHIFLZOo",
       "published_at_utc": "2026-10-27T11:45:17+00:00",
-      "age_seconds": 2849
+      "age_seconds": 2969
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Неожиданная встреча на дороге 😳",
       "url": "https://www.youtube.com/shorts/1QWpniSDOGI",
       "published_at_utc": "2026-10-27T11:33:41+00:00",
-      "age_seconds": 3565
+      "age_seconds": 3682
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Африканская математика",
       "url": "https://www.youtube.com/shorts/781A37DJNsk",
       "published_at_utc": "2026-10-27T10:41:52+00:00",
-      "age_seconds": 6654
+      "age_seconds": 6774
     }
   ]
 }
