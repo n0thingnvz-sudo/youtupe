@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-27T10:49:30.741629+00:00",
+  "generated_at_utc": "2026-10-27T10:51:30.239819+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Африканская математика",
+      "url": "https://www.youtube.com/shorts/781A37DJNsk",
+      "published_at_utc": "2026-10-27T10:41:52+00:00",
+      "age_seconds": 533
+    },
     {
       "channel": "ВПИСКА",
       "title": "Гайдулян о конфликте с Гогунским #шортс #тренды",
       "url": "https://www.youtube.com/shorts/qjzjcovjNVU",
       "published_at_utc": "2026-10-27T10:00:07+00:00",
-      "age_seconds": 2943
+      "age_seconds": 3063
     },
     {
       "channel": "Obsidian Time",
       "title": "Эта страничка изменила игру #shorts #obsidiantime",
       "url": "https://www.youtube.com/shorts/G5ez39Kqp4I",
       "published_at_utc": "2026-10-27T09:51:57+00:00",
-      "age_seconds": 3452
+      "age_seconds": 3572
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Комондор 🤍 Боец за овец с дредами",
       "url": "https://www.youtube.com/shorts/R8xXIj6acZo",
       "published_at_utc": "2026-10-27T09:45:40+00:00",
-      "age_seconds": 3801
+      "age_seconds": 3921
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Прошел, но какой ценой?",
       "url": "https://www.youtube.com/shorts/Voc_vqeiVXk",
       "published_at_utc": "2026-10-27T09:21:01+00:00",
-      "age_seconds": 5264
+      "age_seconds": 5384
     }
   ]
 }
