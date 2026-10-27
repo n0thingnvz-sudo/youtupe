@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-27T08:11:30.209068+00:00",
+  "generated_at_utc": "2026-10-27T08:13:33.224862+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Bulkin Drive",
+      "title": "Купили ТАЧКУ из ФОРСАЖА ДЕШЕВЛЕ 200.000 рублей! Но есть нюанс...",
+      "url": "https://www.youtube.com/watch?v=OAvOx-c5XPs",
+      "published_at_utc": "2026-10-27T08:00:17+00:00",
+      "age_seconds": 756
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Хорошо что в формуле 1 задом сдавать не надо",
       "url": "https://www.youtube.com/shorts/hDEF-gAdoDY",
       "published_at_utc": "2026-10-27T07:54:40+00:00",
-      "age_seconds": 966
+      "age_seconds": 1088
     }
   ]
 }
