@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-27T15:39:33.762989+00:00",
+  "generated_at_utc": "2026-10-27T15:41:40.181943+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Ягуар бы не выжил если бы не они 🐆",
+      "url": "https://www.youtube.com/shorts/mHSDRVdgf38",
+      "published_at_utc": "2026-10-27T15:32:26+00:00",
+      "age_seconds": 520
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Откопал картошку за $150.000 баксов",
       "url": "https://www.youtube.com/shorts/Do_woVp0gwU",
       "published_at_utc": "2026-10-27T15:02:47+00:00",
-      "age_seconds": 2160
+      "age_seconds": 2282
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Будущий Месси",
       "url": "https://www.youtube.com/shorts/tucgAtR_rA0",
       "published_at_utc": "2026-10-27T14:57:33+00:00",
-      "age_seconds": 2474
+      "age_seconds": 2595
     },
     {
       "channel": "IG project",
       "title": "😭 ФАНДОМ ПОЖАЛЕЛ СТЕЛЛУ? ЕЕ ИСТОРИЯ ТРАГИЧНЕЕ, ЧЕМ ВЫ ДУМАЛИ 💔 #адскийбосс #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/ffAI-i7wXc0",
       "published_at_utc": "2026-10-27T14:20:29+00:00",
-      "age_seconds": 4706
+      "age_seconds": 4828
     },
     {
       "channel": "Новостной Гусь",
       "title": "Фильм про Ким Чен Ына",
       "url": "https://www.youtube.com/shorts/ph99vOuI2fc",
       "published_at_utc": "2026-10-27T14:20:08+00:00",
-      "age_seconds": 4717
+      "age_seconds": 4838
     },
     {
       "channel": "i11ushenka",
       "title": "Преступление века: Малыш обыграл 5-леток 😐",
       "url": "https://www.youtube.com/shorts/WHfzCjSkMsY",
       "published_at_utc": "2026-10-27T14:07:28+00:00",
-      "age_seconds": 5463
+      "age_seconds": 5583
     },
     {
       "channel": "Короче, новости",
       "title": "Китай Запрещает Мбаппе из-за Мема про Диктатора @denmarnews",
       "url": "https://www.youtube.com/shorts/owY2BZQFPD8",
       "published_at_utc": "2026-10-27T13:47:00+00:00",
-      "age_seconds": 6703
+      "age_seconds": 6824
     }
   ]
 }
