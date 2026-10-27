@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-27T11:35:34.002466+00:00",
+  "generated_at_utc": "2026-10-27T11:37:32.232318+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Неожиданная встреча на дороге 😳",
+      "url": "https://www.youtube.com/shorts/1QWpniSDOGI",
+      "published_at_utc": "2026-10-27T11:33:41+00:00",
+      "age_seconds": 202
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Африканская математика",
       "url": "https://www.youtube.com/shorts/781A37DJNsk",
       "published_at_utc": "2026-10-27T10:41:52+00:00",
-      "age_seconds": 3176
+      "age_seconds": 3294
     },
     {
       "channel": "ВПИСКА",
       "title": "Ссора Гайдуляна и Гогунского. Почему не общались? #шортс #тренды",
       "url": "https://www.youtube.com/shorts/qjzjcovjNVU",
       "published_at_utc": "2026-10-27T10:00:07+00:00",
-      "age_seconds": 5706
+      "age_seconds": 5824
     },
     {
       "channel": "Obsidian Time",
       "title": "Эта страничка изменила игру #shorts #obsidiantime",
       "url": "https://www.youtube.com/shorts/G5ez39Kqp4I",
       "published_at_utc": "2026-10-27T09:51:57+00:00",
-      "age_seconds": 6216
+      "age_seconds": 6334
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Комондор 🤍 Боец за овец с дредами",
       "url": "https://www.youtube.com/shorts/R8xXIj6acZo",
       "published_at_utc": "2026-10-27T09:45:40+00:00",
-      "age_seconds": 6564
+      "age_seconds": 6683
     }
   ]
 }
