@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-10-27T18:03:41.880503+00:00",
+  "generated_at_utc": "2026-10-27T18:05:42.249698+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Профессия исключительно для незрячих",
+      "url": "https://www.youtube.com/shorts/hVBqwvy6qYg",
+      "published_at_utc": "2026-10-27T17:50:02+00:00",
+      "age_seconds": 884
+    },
     {
       "channel": "Майни",
       "title": "Зачем Оливия Мучает Принцессу Гвиневру? ► Soderling ( Содерлинг ) | Реакция",
       "url": "https://www.youtube.com/watch?v=NW6uWqEXPDE",
       "published_at_utc": "2026-10-27T17:30:01+00:00",
-      "age_seconds": 1949
+      "age_seconds": 2069
     },
     {
       "channel": "SonnyK",
       "title": "КОНСОЛИ ЗА $1800 — ЭТО КОНЕЦ (доехали)",
       "url": "https://www.youtube.com/watch?v=IFfgGGUidCM",
       "published_at_utc": "2026-10-27T17:25:18+00:00",
-      "age_seconds": 2284
+      "age_seconds": 2403
     },
     {
       "channel": "i11ushenka",
       "title": "Закон vs Разум: как коп чуть не сорвал операцию",
       "url": "https://www.youtube.com/shorts/hp3q_LmqOnc",
       "published_at_utc": "2026-10-27T17:07:01+00:00",
-      "age_seconds": 3331
+      "age_seconds": 3451
     }
   ]
 }
