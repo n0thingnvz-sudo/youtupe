@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T13:03:38.862064+00:00",
+  "generated_at_utc": "2026-10-27T13:05:38.648071+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,42 @@
       "title": "Как минимум одно применение есть",
       "url": "https://www.youtube.com/shorts/1v3OkzbNT2E",
       "published_at_utc": "2026-10-27T13:00:11+00:00",
-      "age_seconds": 159
+      "age_seconds": 276
+    },
+    {
+      "channel": "Di ray",
+      "title": "DEADLOCK - НОВИЧОК в 2026!",
+      "url": "https://www.youtube.com/watch?v=y59rL72foMs",
+      "published_at_utc": "2026-10-27T13:00:01+00:00",
+      "age_seconds": 325
     },
     {
       "channel": "Obsidian Time",
       "title": "Внезапный кооп во внезапный РОГАЛИК - Far far west",
       "url": "https://www.youtube.com/watch?v=poPxAVc3X7c",
       "published_at_utc": "2026-10-27T12:27:53+00:00",
-      "age_seconds": 2144
+      "age_seconds": 2264
     },
     {
       "channel": "Ассистент грумера",
       "title": "ОВЧАРЁНОК РИЧЧИ В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/KKuFNAChgcA",
       "published_at_utc": "2026-10-27T12:00:29+00:00",
-      "age_seconds": 3749
+      "age_seconds": 3867
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Майнкрафт на компьютере за 1$",
       "url": "https://www.youtube.com/shorts/IIrFHIFLZOo",
       "published_at_utc": "2026-10-27T11:45:17+00:00",
-      "age_seconds": 4653
+      "age_seconds": 4770
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Неожиданная встреча на дороге 😳",
       "url": "https://www.youtube.com/shorts/1QWpniSDOGI",
       "published_at_utc": "2026-10-27T11:33:41+00:00",
-      "age_seconds": 5366
+      "age_seconds": 5484
     }
   ]
 }
