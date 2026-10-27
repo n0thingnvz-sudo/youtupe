@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-10-27T17:27:37.626428+00:00",
+  "generated_at_utc": "2026-10-27T17:29:40.469657+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "SonnyK",
-      "title": "КОНСОЛИ ЗА $1800 — ЭТО КОНЕЦ (доехали)",
-      "url": "https://www.youtube.com/watch?v=IFfgGGUidCM",
-      "published_at_utc": "2026-10-27T17:25:18+00:00",
-      "age_seconds": 120
-    },
     {
       "channel": "i11ushenka",
       "title": "Закон vs Разум: как коп чуть не сорвал операцию",
       "url": "https://www.youtube.com/shorts/hp3q_LmqOnc",
       "published_at_utc": "2026-10-27T17:07:01+00:00",
-      "age_seconds": 1171
+      "age_seconds": 1290
     },
     {
       "channel": "Майни",
       "title": "САМАЯ ЖИРНАЯ ДРАМА ► DeadP47 ( Дедп47 ) | Реакция",
       "url": "https://www.youtube.com/watch?v=d2xuREGVu7E",
       "published_at_utc": "2026-10-27T16:00:10+00:00",
-      "age_seconds": 5180
+      "age_seconds": 5300
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ягуар бы не выжил если бы не они 🐆",
       "url": "https://www.youtube.com/shorts/mHSDRVdgf38",
       "published_at_utc": "2026-10-27T15:32:26+00:00",
-      "age_seconds": 6880
+      "age_seconds": 7004
     }
   ]
 }
