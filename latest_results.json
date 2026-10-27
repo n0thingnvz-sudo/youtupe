@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-27T10:21:31.995738+00:00",
+  "generated_at_utc": "2026-10-27T10:23:32.227166+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ВПИСКА",
+      "title": "Гайдулян о конфликте с Гогунским #шортс #тренды",
+      "url": "https://www.youtube.com/shorts/qjzjcovjNVU",
+      "published_at_utc": "2026-10-27T10:00:07+00:00",
+      "age_seconds": 1384
+    },
     {
       "channel": "Obsidian Time",
       "title": "Эта страничка изменила игру #shorts #obsidiantime",
       "url": "https://www.youtube.com/shorts/G5ez39Kqp4I",
       "published_at_utc": "2026-10-27T09:51:57+00:00",
-      "age_seconds": 1774
+      "age_seconds": 1894
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Комондор 🤍 Боец за овец с дредами",
       "url": "https://www.youtube.com/shorts/R8xXIj6acZo",
       "published_at_utc": "2026-10-27T09:45:40+00:00",
-      "age_seconds": 2122
+      "age_seconds": 2242
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Прошел, но какой ценой?",
       "url": "https://www.youtube.com/shorts/Voc_vqeiVXk",
       "published_at_utc": "2026-10-27T09:21:01+00:00",
-      "age_seconds": 3585
+      "age_seconds": 3704
     },
     {
       "channel": "Мармеладыч",
       "title": "Чья Могила за моим заводом?",
       "url": "https://www.youtube.com/shorts/3SJEOlhQjz8",
       "published_at_utc": "2026-10-27T08:44:48+00:00",
-      "age_seconds": 5768
+      "age_seconds": 5888
     },
     {
       "channel": "Короче, новости",
       "title": "Ядерный Реактор на Луне: Зачем Россия в Это Ввязалась?",
       "url": "https://www.youtube.com/shorts/P-YRQllYH_c",
       "published_at_utc": "2026-10-27T08:36:18+00:00",
-      "age_seconds": 6265
+      "age_seconds": 6384
     },
     {
       "channel": "Новостной Гусь",
       "title": "А зачем столько шампуней?",
       "url": "https://www.youtube.com/shorts/JkR149-w1jQ",
       "published_at_utc": "2026-10-27T08:30:32+00:00",
-      "age_seconds": 6613
+      "age_seconds": 6732
     }
   ]
 }
