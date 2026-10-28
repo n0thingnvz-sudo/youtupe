@@ -1,34 +1,34 @@
 {
-  "generated_at_utc": "2026-10-28T12:17:37.094660+00:00",
+  "generated_at_utc": "2026-10-28T12:19:33.831931+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "лизкеч",
+      "title": "вк: лизкетч",
+      "url": "https://www.youtube.com/shorts/s0D1Z4vqSaw",
+      "published_at_utc": "2026-10-28T12:04:04+00:00",
+      "age_seconds": 891
+    },
     {
       "channel": "windy31",
       "title": "ПОЧТИ НОВЫЙ ПОППИ ПЛЕЙТАЙМ - GIGGLELAND #1",
       "url": "https://www.youtube.com/watch?v=gJN19b48RJk",
       "published_at_utc": "2026-10-28T12:00:10+00:00",
-      "age_seconds": 1031
+      "age_seconds": 1148
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Теперь не покупаем, а печатаем игры 😁",
       "url": "https://www.youtube.com/shorts/Az4v_rDgY9c",
       "published_at_utc": "2026-10-28T10:38:17+00:00",
-      "age_seconds": 5930
+      "age_seconds": 6047
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ремикс комикса «Жизнь и смерть поменялись ролями»",
       "url": "https://www.youtube.com/shorts/KT3npsQkyOQ",
       "published_at_utc": "2026-10-28T10:31:35+00:00",
-      "age_seconds": 6331
-    },
-    {
-      "channel": "Obsidian Time",
-      "title": "Пробуем свежий РОГАЛИК - Gennady (ссылка в закрепе)",
-      "url": "https://www.youtube.com/watch?v=AWsn3tRlmpA",
-      "published_at_utc": "2026-10-28T10:18:17+00:00",
-      "age_seconds": 7158
+      "age_seconds": 6448
     }
   ]
 }
