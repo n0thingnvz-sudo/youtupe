@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-10-28T10:27:33.834262+00:00",
+  "generated_at_utc": "2026-10-28T10:29:31.669207+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Obsidian Time",
+      "title": "Пробуем свежий РОГАЛИК - Gennady (ссылка в закрепе)",
+      "url": "https://www.youtube.com/watch?v=AWsn3tRlmpA",
+      "published_at_utc": "2026-10-28T10:18:17+00:00",
+      "age_seconds": 673
+    },
     {
       "channel": "sereGGa",
       "title": "Team Liquid vs Parivision | bo3 | PARI UNIVERSE Play-off",
       "url": "https://www.youtube.com/watch?v=tS6TtsfR79Y",
       "published_at_utc": "2026-10-28T10:10:21+00:00",
-      "age_seconds": 1021
+      "age_seconds": 1138
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Айшоускам",
       "url": "https://www.youtube.com/shorts/ZQerosblrsM",
       "published_at_utc": "2026-10-28T09:37:21+00:00",
-      "age_seconds": 2965
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Уровень не тот: АвтоВАЗ Отказал Дизайнеру Bentley @denmarnews",
-      "url": "https://www.youtube.com/shorts/xB6YWQrf-ic",
-      "published_at_utc": "2026-10-28T08:27:13+00:00",
-      "age_seconds": 7169
+      "age_seconds": 3085
     }
   ]
 }
