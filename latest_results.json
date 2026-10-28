@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T13:41:38.909569+00:00",
+  "generated_at_utc": "2026-10-28T13:43:36.419933+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Сейчас вылетит птичка",
       "url": "https://www.youtube.com/shorts/PBbxAqlzUGs",
       "published_at_utc": "2026-10-28T13:16:05+00:00",
-      "age_seconds": 1482
+      "age_seconds": 1603
     },
     {
       "channel": "Саша Фасоваша",
       "title": "что-то странное на заводе…",
       "url": "https://www.youtube.com/shorts/qc0iqr0z04A",
       "published_at_utc": "2026-10-28T13:02:21+00:00",
-      "age_seconds": 2316
+      "age_seconds": 2437
     },
     {
       "channel": "Денис Карамышев",
       "title": "Последствия /ARC Raiders",
       "url": "https://www.youtube.com/watch?v=a4t439Xgcv0",
       "published_at_utc": "2026-10-28T13:00:16+00:00",
-      "age_seconds": 2480
+      "age_seconds": 2597
     },
     {
       "channel": "Новостной Гусь",
       "title": "Лучше бы другой мем полюбил",
       "url": "https://www.youtube.com/shorts/xoH8enF04y8",
       "published_at_utc": "2026-10-28T12:30:33+00:00",
-      "age_seconds": 4213
+      "age_seconds": 4333
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/s0D1Z4vqSaw",
       "published_at_utc": "2026-10-28T12:04:04+00:00",
-      "age_seconds": 5812
+      "age_seconds": 5933
     },
     {
       "channel": "windy31",
       "title": "ПОЧТИ НОВЫЙ ПОППИ ПЛЕЙТАЙМ - GIGGLELAND #1",
       "url": "https://www.youtube.com/watch?v=gJN19b48RJk",
       "published_at_utc": "2026-10-28T12:00:10+00:00",
-      "age_seconds": 6072
+      "age_seconds": 6190
     }
   ]
 }
