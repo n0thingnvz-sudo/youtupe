@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T10:43:32.502316+00:00",
+  "generated_at_utc": "2026-10-28T10:45:31.504528+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,28 @@
       "title": "Теперь не покупаем, а печатаем игры 😁",
       "url": "https://www.youtube.com/shorts/Az4v_rDgY9c",
       "published_at_utc": "2026-10-28T10:38:17+00:00",
-      "age_seconds": 286
-    },
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "Ремикс комикса «Жизнь и смерть поменялись ролями»",
-      "url": "https://www.youtube.com/shorts/KT3npsQkyOQ",
-      "published_at_utc": "2026-10-28T10:31:35+00:00",
-      "age_seconds": 688
+      "age_seconds": 404
     },
     {
       "channel": "Obsidian Time",
       "title": "Пробуем свежий РОГАЛИК - Gennady (ссылка в закрепе)",
       "url": "https://www.youtube.com/watch?v=AWsn3tRlmpA",
       "published_at_utc": "2026-10-28T10:18:17+00:00",
-      "age_seconds": 1514
+      "age_seconds": 1633
     },
     {
       "channel": "sereGGa",
       "title": "Team Liquid vs Parivision | bo3 | PARI UNIVERSE Play-off",
       "url": "https://www.youtube.com/watch?v=tS6TtsfR79Y",
       "published_at_utc": "2026-10-28T10:10:21+00:00",
-      "age_seconds": 1979
+      "age_seconds": 2096
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Айшоускам",
       "url": "https://www.youtube.com/shorts/ZQerosblrsM",
       "published_at_utc": "2026-10-28T09:37:21+00:00",
-      "age_seconds": 3925
+      "age_seconds": 4044
     }
   ]
 }
