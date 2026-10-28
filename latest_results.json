@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-10-28T15:59:42.575485+00:00",
+  "generated_at_utc": "2026-10-28T16:01:46.824257+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Ну так-то по факту",
+      "url": "https://www.youtube.com/shorts/DxiS4CSpIco",
+      "published_at_utc": "2026-10-28T16:00:19+00:00",
+      "age_seconds": 32
+    },
     {
       "channel": "i11ushenka",
       "title": "Почему все забыли про малыша-футболиста Неваду",
       "url": "https://www.youtube.com/shorts/lJ_bwacV6Lc",
       "published_at_utc": "2026-10-28T15:30:24+00:00",
-      "age_seconds": 1687
+      "age_seconds": 1807
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Типичные питомцы пацанов:",
       "url": "https://www.youtube.com/shorts/YnjtdAjNkyo",
       "published_at_utc": "2026-10-28T15:30:13+00:00",
-      "age_seconds": 1717
+      "age_seconds": 1838
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что-то тут не так…",
       "url": "https://www.youtube.com/shorts/HrjprhX2lV0",
       "published_at_utc": "2026-10-28T15:15:05+00:00",
-      "age_seconds": 2626
+      "age_seconds": 2746
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самая долгая трансляция Снуп Догга",
       "url": "https://www.youtube.com/shorts/yXKCuBnAqaQ",
       "published_at_utc": "2026-10-28T15:00:39+00:00",
-      "age_seconds": 3491
+      "age_seconds": 3611
     },
     {
       "channel": "Майни",
       "title": "PLAYSTATION КОНЕЦ ► Каргас | Реакция",
       "url": "https://www.youtube.com/watch?v=-hZBx3Xi81o",
       "published_at_utc": "2026-10-28T15:00:07+00:00",
-      "age_seconds": 3503
+      "age_seconds": 3623
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мужчина, штаны наденьте",
       "url": "https://www.youtube.com/shorts/5-a2VNekGk8",
       "published_at_utc": "2026-10-28T14:30:07+00:00",
-      "age_seconds": 5323
+      "age_seconds": 5444
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Острая курица из Кореи (вкусно?)",
       "url": "https://www.youtube.com/shorts/0zEdhaK6Ips",
       "published_at_utc": "2026-10-28T14:24:55+00:00",
-      "age_seconds": 5655
+      "age_seconds": 5776
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Индийский интеллект",
       "url": "https://www.youtube.com/shorts/sY75W-OWtrU",
       "published_at_utc": "2026-10-28T14:14:38+00:00",
-      "age_seconds": 6253
+      "age_seconds": 6373
     }
   ]
 }
