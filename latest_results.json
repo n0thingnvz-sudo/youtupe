@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-10-28T10:31:36.509083+00:00",
+  "generated_at_utc": "2026-10-28T10:33:31.256193+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Obsidian Time",
-      "title": "Пробуем свежий РОГАЛИК - Gennady (ссылка в закрепе)",
-      "url": "https://www.youtube.com/watch?v=AWsn3tRlmpA",
-      "published_at_utc": "2026-10-28T10:18:17+00:00",
-      "age_seconds": 798
-    },
     {
       "channel": "sereGGa",
       "title": "Team Liquid vs Parivision | bo3 | PARI UNIVERSE Play-off",
       "url": "https://www.youtube.com/watch?v=tS6TtsfR79Y",
       "published_at_utc": "2026-10-28T10:10:21+00:00",
-      "age_seconds": 1262
+      "age_seconds": 1377
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Айшоускам",
       "url": "https://www.youtube.com/shorts/ZQerosblrsM",
       "published_at_utc": "2026-10-28T09:37:21+00:00",
-      "age_seconds": 3206
+      "age_seconds": 3324
     }
   ]
 }
