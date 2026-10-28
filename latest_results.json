@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T17:03:40.717889+00:00",
+  "generated_at_utc": "2026-10-28T17:05:36.233975+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Первый китайский ии фильм",
       "url": "https://www.youtube.com/shorts/PDMHKvPq7w0",
       "published_at_utc": "2026-10-28T16:16:43+00:00",
-      "age_seconds": 2768
+      "age_seconds": 2885
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ну так-то по факту",
       "url": "https://www.youtube.com/shorts/DxiS4CSpIco",
       "published_at_utc": "2026-10-28T16:00:19+00:00",
-      "age_seconds": 3751
+      "age_seconds": 3868
     },
     {
       "channel": "i11ushenka",
       "title": "Почему все забыли про малыша-футболиста Неваду",
       "url": "https://www.youtube.com/shorts/lJ_bwacV6Lc",
       "published_at_utc": "2026-10-28T15:30:24+00:00",
-      "age_seconds": 5528
+      "age_seconds": 5648
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Типичные питомцы пацанов:",
       "url": "https://www.youtube.com/shorts/YnjtdAjNkyo",
       "published_at_utc": "2026-10-28T15:30:13+00:00",
-      "age_seconds": 5557
+      "age_seconds": 5674
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что-то тут не так…",
       "url": "https://www.youtube.com/shorts/HrjprhX2lV0",
       "published_at_utc": "2026-10-28T15:15:05+00:00",
-      "age_seconds": 6466
+      "age_seconds": 6583
     }
   ]
 }
