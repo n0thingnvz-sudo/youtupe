@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T14:45:37.834755+00:00",
+  "generated_at_utc": "2026-10-28T14:47:48.676136+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Мужчина, штаны наденьте",
       "url": "https://www.youtube.com/shorts/5-a2VNekGk8",
       "published_at_utc": "2026-10-28T14:30:07+00:00",
-      "age_seconds": 879
+      "age_seconds": 1007
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Острая курица из Кореи (вкусно?)",
       "url": "https://www.youtube.com/shorts/0zEdhaK6Ips",
       "published_at_utc": "2026-10-28T14:24:55+00:00",
-      "age_seconds": 1212
+      "age_seconds": 1340
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Индийский интеллект",
       "url": "https://www.youtube.com/shorts/sY75W-OWtrU",
       "published_at_utc": "2026-10-28T14:14:38+00:00",
-      "age_seconds": 1809
+      "age_seconds": 1937
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Пёс выдал мыльные пузыри 🫧",
       "url": "https://www.youtube.com/shorts/idPfrw_jVcg",
       "published_at_utc": "2026-10-28T13:54:14+00:00",
-      "age_seconds": 3052
+      "age_seconds": 3179
     },
     {
       "channel": "Новостной Гусь",
       "title": "Специфическое хобби спасло одну маленькую жизнь",
       "url": "https://www.youtube.com/shorts/WAd31iR1d1M",
       "published_at_utc": "2026-10-28T13:45:06+00:00",
-      "age_seconds": 3580
+      "age_seconds": 3707
     },
     {
       "channel": "SHAPKA",
       "title": "Э Т О   Б Е З У М И Е",
       "url": "https://www.youtube.com/watch?v=dXgcldxECY0",
       "published_at_utc": "2026-10-28T13:37:37+00:00",
-      "age_seconds": 4021
+      "age_seconds": 4148
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сейчас вылетит птичка",
       "url": "https://www.youtube.com/shorts/PBbxAqlzUGs",
       "published_at_utc": "2026-10-28T13:16:05+00:00",
-      "age_seconds": 5322
+      "age_seconds": 5450
+    },
+    {
+      "channel": "Саша Фасоваша",
+      "title": "что-то странное на заводе…",
+      "url": "https://www.youtube.com/shorts/qc0iqr0z04A",
+      "published_at_utc": "2026-10-28T13:02:21+00:00",
+      "age_seconds": 6285
     },
     {
       "channel": "Денис Карамышев",
       "title": "Последствия /ARC Raiders",
       "url": "https://www.youtube.com/watch?v=a4t439Xgcv0",
       "published_at_utc": "2026-10-28T13:00:16+00:00",
-      "age_seconds": 6318
+      "age_seconds": 6450
     }
   ]
 }
