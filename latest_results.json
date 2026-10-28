@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-10-28T09:49:27.437313+00:00",
+  "generated_at_utc": "2026-10-28T09:51:33.547739+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Айшоускам",
+      "url": "https://www.youtube.com/shorts/ZQerosblrsM",
+      "published_at_utc": "2026-10-28T09:37:21+00:00",
+      "age_seconds": 805
+    },
     {
       "channel": "Короче, новости",
       "title": "Уровень не тот: АвтоВАЗ Отказал Дизайнеру Bentley @denmarnews",
       "url": "https://www.youtube.com/shorts/xB6YWQrf-ic",
       "published_at_utc": "2026-10-28T08:27:13+00:00",
-      "age_seconds": 4888
+      "age_seconds": 5009
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Китайский диктатор",
       "url": "https://www.youtube.com/shorts/u2qr5v24h20",
       "published_at_utc": "2026-10-28T08:08:17+00:00",
-      "age_seconds": 6027
+      "age_seconds": 6149
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Бобры офигительны 🙌",
       "url": "https://www.youtube.com/shorts/a1HU-azEwgc",
       "published_at_utc": "2026-10-28T08:07:27+00:00",
-      "age_seconds": 6092
+      "age_seconds": 6215
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Я СОВРАЛ Лучшему Другу • [Оставь Или Укради] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=6i96J0wi5fA",
       "published_at_utc": "2026-10-28T08:00:32+00:00",
-      "age_seconds": 6520
+      "age_seconds": 6645
     }
   ]
 }
