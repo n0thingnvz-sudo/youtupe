@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-28T08:27:30.243519+00:00",
+  "generated_at_utc": "2026-10-28T08:29:28.619454+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Китайский диктатор",
+      "url": "https://www.youtube.com/shorts/u2qr5v24h20",
+      "published_at_utc": "2026-10-28T08:08:17+00:00",
+      "age_seconds": 1228
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Бобры офигительны 🙌",
       "url": "https://www.youtube.com/shorts/a1HU-azEwgc",
       "published_at_utc": "2026-10-28T08:07:27+00:00",
-      "age_seconds": 1174
+      "age_seconds": 1293
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Я СОВРАЛ Лучшему Другу • [Оставь Или Укради] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=6i96J0wi5fA",
       "published_at_utc": "2026-10-28T08:00:32+00:00",
-      "age_seconds": 1603
+      "age_seconds": 1721
     }
   ]
 }
