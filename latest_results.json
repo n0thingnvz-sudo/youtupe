@@ -1,62 +1,55 @@
 {
-  "generated_at_utc": "2026-10-28T16:25:35.542526+00:00",
+  "generated_at_utc": "2026-10-28T16:27:39.025042+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Первый китайский ии фильм",
-      "url": "https://www.youtube.com/shorts/PDMHKvPq7w0",
-      "published_at_utc": "2026-10-28T16:16:43+00:00",
-      "age_seconds": 484
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ну так-то по факту",
       "url": "https://www.youtube.com/shorts/DxiS4CSpIco",
       "published_at_utc": "2026-10-28T16:00:19+00:00",
-      "age_seconds": 1467
+      "age_seconds": 1589
     },
     {
       "channel": "i11ushenka",
       "title": "Почему все забыли про малыша-футболиста Неваду",
       "url": "https://www.youtube.com/shorts/lJ_bwacV6Lc",
       "published_at_utc": "2026-10-28T15:30:24+00:00",
-      "age_seconds": 3247
+      "age_seconds": 3368
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Типичные питомцы пацанов:",
       "url": "https://www.youtube.com/shorts/YnjtdAjNkyo",
       "published_at_utc": "2026-10-28T15:30:13+00:00",
-      "age_seconds": 3273
+      "age_seconds": 3395
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что-то тут не так…",
       "url": "https://www.youtube.com/shorts/HrjprhX2lV0",
       "published_at_utc": "2026-10-28T15:15:05+00:00",
-      "age_seconds": 4182
+      "age_seconds": 4304
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самая долгая трансляция Снуп Догга",
       "url": "https://www.youtube.com/shorts/yXKCuBnAqaQ",
       "published_at_utc": "2026-10-28T15:00:39+00:00",
-      "age_seconds": 5046
+      "age_seconds": 5168
     },
     {
       "channel": "Майни",
       "title": "PLAYSTATION КОНЕЦ ► Каргас | Реакция",
       "url": "https://www.youtube.com/watch?v=-hZBx3Xi81o",
       "published_at_utc": "2026-10-28T15:00:07+00:00",
-      "age_seconds": 5063
+      "age_seconds": 5183
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мужчина, штаны наденьте",
       "url": "https://www.youtube.com/shorts/5-a2VNekGk8",
       "published_at_utc": "2026-10-28T14:30:07+00:00",
-      "age_seconds": 6879
+      "age_seconds": 7001
     }
   ]
 }
