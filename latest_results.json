@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T10:01:39.488539+00:00",
+  "generated_at_utc": "2026-10-28T10:03:34.941565+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Айшоускам",
       "url": "https://www.youtube.com/shorts/ZQerosblrsM",
       "published_at_utc": "2026-10-28T09:37:21+00:00",
-      "age_seconds": 1410
+      "age_seconds": 1526
     },
     {
       "channel": "Короче, новости",
       "title": "Уровень не тот: АвтоВАЗ Отказал Дизайнеру Bentley @denmarnews",
       "url": "https://www.youtube.com/shorts/xB6YWQrf-ic",
       "published_at_utc": "2026-10-28T08:27:13+00:00",
-      "age_seconds": 5614
+      "age_seconds": 5731
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Китайский диктатор",
       "url": "https://www.youtube.com/shorts/u2qr5v24h20",
       "published_at_utc": "2026-10-28T08:08:17+00:00",
-      "age_seconds": 6754
+      "age_seconds": 6870
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Бобры офигительны 🙌",
       "url": "https://www.youtube.com/shorts/a1HU-azEwgc",
       "published_at_utc": "2026-10-28T08:07:27+00:00",
-      "age_seconds": 6822
+      "age_seconds": 6937
     }
   ]
 }
