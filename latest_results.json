@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-10-29T12:37:38.973322+00:00",
+  "generated_at_utc": "2026-10-29T12:39:44.443905+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Тимур Сидельников",
-      "title": "Бургер, но вместо булочки круассан 🥐",
-      "url": "https://www.youtube.com/shorts/xabG9vF2sIU",
-      "published_at_utc": "2026-10-29T12:19:46+00:00",
-      "age_seconds": 1042
-    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Шимпанзе офигительные 🙈",
       "url": "https://www.youtube.com/shorts/SA_KYIo8ido",
       "published_at_utc": "2026-10-29T12:19:25+00:00",
-      "age_seconds": 1062
+      "age_seconds": 1178
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Дирижабль, ага",
       "url": "https://www.youtube.com/shorts/pcYCrhpvZEY",
       "published_at_utc": "2026-10-29T12:00:23+00:00",
-      "age_seconds": 2186
+      "age_seconds": 2303
     },
     {
       "channel": "курОлеся",
       "title": "Любимый костюм, как вы знаете",
       "url": "https://www.youtube.com/shorts/5TCjB2MS0zg",
       "published_at_utc": "2026-10-29T11:07:22+00:00",
-      "age_seconds": 5365
+      "age_seconds": 5482
     },
     {
       "channel": "курОлеся",
       "title": "Какой больше идёт?",
       "url": "https://www.youtube.com/shorts/vTYHLfABS0g",
       "published_at_utc": "2026-10-29T11:05:34+00:00",
-      "age_seconds": 5473
+      "age_seconds": 5590
     },
     {
       "channel": "sereGGa",
       "title": "Team Spirit vs Legion | bo3 | PARI UNIVERSE Play-off",
       "url": "https://www.youtube.com/watch?v=RPCfhHuxEps",
       "published_at_utc": "2026-10-29T11:05:00+00:00",
-      "age_seconds": 5545
+      "age_seconds": 5670
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Обознались",
       "url": "https://www.youtube.com/shorts/sst1icmsRr0",
       "published_at_utc": "2026-10-29T11:00:27+00:00",
-      "age_seconds": 5782
+      "age_seconds": 5899
     }
   ]
 }
