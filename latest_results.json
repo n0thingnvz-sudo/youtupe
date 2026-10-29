@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-29T10:35:33.605412+00:00",
+  "generated_at_utc": "2026-10-29T10:37:33.427630+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Странные школьники рассказывают безумные истории",
+      "url": "https://www.youtube.com/shorts/Ax1_u81cxF8",
+      "published_at_utc": "2026-10-29T10:27:22+00:00",
+      "age_seconds": 579
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Они среди нас?",
       "url": "https://www.youtube.com/shorts/GfvsfXm4c_M",
       "published_at_utc": "2026-10-29T10:00:18+00:00",
-      "age_seconds": 2069
+      "age_seconds": 2188
     },
     {
       "channel": "soskamakaka",
       "title": "#геншинимпакт #геншин #genshinimpact #ронова #genshin  #селестия",
       "url": "https://www.youtube.com/shorts/aUV-Wl7CuJY",
       "published_at_utc": "2026-10-29T10:00:14+00:00",
-      "age_seconds": 2111
+      "age_seconds": 2231
     },
     {
       "channel": "i11ushenka",
       "title": "История любви пингвина и картонной девушки",
       "url": "https://www.youtube.com/shorts/r6onpofpbrU",
       "published_at_utc": "2026-10-29T09:45:01+00:00",
-      "age_seconds": 2970
+      "age_seconds": 3090
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Заправочные войны",
       "url": "https://www.youtube.com/shorts/uBNKcEvFdHE",
       "published_at_utc": "2026-10-29T09:29:33+00:00",
-      "age_seconds": 3915
+      "age_seconds": 4035
     },
     {
       "channel": "Тру Шорты",
       "title": "Весь год это только корни. А потом...",
       "url": "https://www.youtube.com/shorts/nigYF4qKR0E",
       "published_at_utc": "2026-10-29T09:15:07+00:00",
-      "age_seconds": 4761
+      "age_seconds": 4881
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Наснимался и уснул",
       "url": "https://www.youtube.com/shorts/e5fjLjLrt40",
       "published_at_utc": "2026-10-29T09:00:28+00:00",
-      "age_seconds": 5659
+      "age_seconds": 5778
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Да будет ураган сказал авто маляр",
       "url": "https://www.youtube.com/shorts/vGu4B8jNqWI",
       "published_at_utc": "2026-10-29T08:47:01+00:00",
-      "age_seconds": 6467
+      "age_seconds": 6587
     }
   ]
 }
