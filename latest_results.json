@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-29T09:01:35.200325+00:00",
+  "generated_at_utc": "2026-10-29T09:03:32.439687+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Автомаляра кормят ураганы $250 тыс не слабо",
+      "url": "https://www.youtube.com/shorts/vGu4B8jNqWI",
+      "published_at_utc": "2026-10-29T08:47:01+00:00",
+      "age_seconds": 946
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Изверги",
       "url": "https://www.youtube.com/shorts/n7g67ciiU5Q",
       "published_at_utc": "2026-10-29T08:30:34+00:00",
-      "age_seconds": 1814
+      "age_seconds": 1932
     },
     {
       "channel": "i11ushenka",
       "title": "День, когда Гейб показал свой пароль (и что из этого вышло)",
       "url": "https://www.youtube.com/shorts/XGqw96mJoFw",
       "published_at_utc": "2026-10-29T08:22:28+00:00",
-      "age_seconds": 2284
+      "age_seconds": 2403
     },
     {
       "channel": "курОлеся",
       "title": "Сливаю блогеров без смс и регистрации 📲",
       "url": "https://www.youtube.com/shorts/zA0tYQQJW7I",
       "published_at_utc": "2026-10-29T07:59:07+00:00",
-      "age_seconds": 3699
+      "age_seconds": 3818
     },
     {
       "channel": "Короче, новости",
       "title": "Роналду Выиграл Золотой Мяч Всех Времён @denmarnews",
       "url": "https://www.youtube.com/shorts/e3C56Bbtv2g",
       "published_at_utc": "2026-10-29T07:56:50+00:00",
-      "age_seconds": 3834
+      "age_seconds": 3953
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ты неправильно гладишь собаку 😐",
       "url": "https://www.youtube.com/shorts/1UGuTGd-TIY",
       "published_at_utc": "2026-10-29T07:55:06+00:00",
-      "age_seconds": 3959
+      "age_seconds": 4077
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "12 друзей стримера",
       "url": "https://www.youtube.com/shorts/ELARlILhLXE",
       "published_at_utc": "2026-10-29T07:51:13+00:00",
-      "age_seconds": 4176
+      "age_seconds": 4293
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Он просто хотел посмотреть футбол...",
       "url": "https://www.youtube.com/shorts/i3h5oFW0zgo",
       "published_at_utc": "2026-10-29T07:10:05+00:00",
-      "age_seconds": 6643
+      "age_seconds": 6761
     }
   ]
 }
