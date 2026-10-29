@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-10-29T18:29:33.514598+00:00",
+  "generated_at_utc": "2026-10-29T18:31:39.891169+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Благодарность за спасение",
+      "url": "https://www.youtube.com/shorts/e-m3fpa5m-w",
+      "published_at_utc": "2026-10-29T18:20:05+00:00",
+      "age_seconds": 626
+    },
     {
       "channel": "МЯЧ Production",
       "title": "РЕАЛ обыграл БАРСУ из-за глубины состава? 🤔",
       "url": "https://www.youtube.com/shorts/2LAUVt3_YVE",
       "published_at_utc": "2026-10-29T18:00:08+00:00",
-      "age_seconds": 1726
+      "age_seconds": 1846
     },
     {
       "channel": "LenS",
       "title": "СЫГРАЛ во ВСЕ РЕЖИМЫ на 1 ПОРЯДОЧНОСТИ в DOTA 2",
       "url": "https://www.youtube.com/watch?v=osP7fwZHdFk",
       "published_at_utc": "2026-10-29T16:58:11+00:00",
-      "age_seconds": 5472
+      "age_seconds": 5598
     },
     {
       "channel": "TheDRZJ",
       "title": "CALL OF DUTY ВСЕХ ЗАЕ..ЛА",
       "url": "https://www.youtube.com/watch?v=bVpZCDI1gS4",
       "published_at_utc": "2026-10-29T16:46:29+00:00",
-      "age_seconds": 6168
+      "age_seconds": 6293
     },
     {
       "channel": "sun_kill",
       "title": "раскрываю секреты женской 🍒 #датреш",
       "url": "https://www.youtube.com/shorts/c7CCSrt68dw",
       "published_at_utc": "2026-10-29T16:44:16+00:00",
-      "age_seconds": 6256
-    },
-    {
-      "channel": "Alina Мuradimova",
-      "title": "НЕВЫНОСИМЫЕ ДЕТКИ | Как «мягкое родительство» создаёт детей-тиранов",
-      "url": "https://www.youtube.com/watch?v=BJe0E-j8Yac",
-      "published_at_utc": "2026-10-29T16:30:30+00:00",
-      "age_seconds": 7102
+      "age_seconds": 6376
     }
   ]
 }
