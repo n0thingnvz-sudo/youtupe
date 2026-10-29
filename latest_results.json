@@ -1,48 +1,34 @@
 {
-  "generated_at_utc": "2026-10-29T18:41:37.133108+00:00",
+  "generated_at_utc": "2026-10-29T18:43:38.139712+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Сергей Милушкин",
-      "title": "А вот нехрен желтые штаны покупать",
-      "url": "https://www.youtube.com/shorts/gH5GfuFbLVk",
-      "published_at_utc": "2026-10-29T18:20:10+00:00",
-      "age_seconds": 1240
-    },
-    {
-      "channel": "i11ushenka",
-      "title": "Благодарность за спасение",
-      "url": "https://www.youtube.com/shorts/e-m3fpa5m-w",
-      "published_at_utc": "2026-10-29T18:20:05+00:00",
-      "age_seconds": 1228
-    },
     {
       "channel": "МЯЧ Production",
       "title": "РЕАЛ обыграл БАРСУ из-за глубины состава? 🤔",
       "url": "https://www.youtube.com/shorts/2LAUVt3_YVE",
       "published_at_utc": "2026-10-29T18:00:08+00:00",
-      "age_seconds": 2449
+      "age_seconds": 2570
     },
     {
       "channel": "LenS",
       "title": "СЫГРАЛ во ВСЕ РЕЖИМЫ на 1 ПОРЯДОЧНОСТИ в DOTA 2",
       "url": "https://www.youtube.com/watch?v=osP7fwZHdFk",
       "published_at_utc": "2026-10-29T16:58:11+00:00",
-      "age_seconds": 6196
+      "age_seconds": 6317
     },
     {
       "channel": "TheDRZJ",
       "title": "CALL OF DUTY ВСЕХ ЗАЕ..ЛА",
       "url": "https://www.youtube.com/watch?v=bVpZCDI1gS4",
       "published_at_utc": "2026-10-29T16:46:29+00:00",
-      "age_seconds": 6889
+      "age_seconds": 7012
     },
     {
       "channel": "sun_kill",
       "title": "раскрываю секреты женской 🍒 #датреш",
       "url": "https://www.youtube.com/shorts/c7CCSrt68dw",
       "published_at_utc": "2026-10-29T16:44:16+00:00",
-      "age_seconds": 6977
+      "age_seconds": 7096
     }
   ]
 }
