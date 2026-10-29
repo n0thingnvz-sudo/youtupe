@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-29T13:39:37.756270+00:00",
+  "generated_at_utc": "2026-10-29T13:41:40.481560+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Коннор",
+      "title": "Проверил, как вам?",
+      "url": "https://www.youtube.com/shorts/6rZF6cnOxoU",
+      "published_at_utc": "2026-10-29T13:31:55+00:00",
+      "age_seconds": 553
+    },
     {
       "channel": "Натурал Альбертович",
       "title": "Дом УЖАСОВ (смешное видео, юмор, прикол, приколы, поржать, вайны)",
       "url": "https://www.youtube.com/shorts/rlFrDoxlnlQ",
       "published_at_utc": "2026-10-29T13:00:38+00:00",
-      "age_seconds": 2304
+      "age_seconds": 2427
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "+ в комменты кто им гордится",
       "url": "https://www.youtube.com/shorts/zmnMRQv6QIc",
       "published_at_utc": "2026-10-29T13:00:32+00:00",
-      "age_seconds": 2294
+      "age_seconds": 2416
     },
     {
       "channel": "dikiy_vadik",
       "title": "Подруги после 30",
       "url": "https://www.youtube.com/shorts/qLgZImU1kss",
       "published_at_utc": "2026-10-29T12:32:18+00:00",
-      "age_seconds": 4003
+      "age_seconds": 4126
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Запрещенные шутки",
       "url": "https://www.youtube.com/shorts/krAzB5vFSH8",
       "published_at_utc": "2026-10-29T12:24:34+00:00",
-      "age_seconds": 4452
+      "age_seconds": 4575
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Бургер, но вместо булочки круассан 🥐",
       "url": "https://www.youtube.com/shorts/xabG9vF2sIU",
       "published_at_utc": "2026-10-29T12:19:46+00:00",
-      "age_seconds": 4760
+      "age_seconds": 4883
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Шимпанзе офигительные 🙈",
       "url": "https://www.youtube.com/shorts/SA_KYIo8ido",
       "published_at_utc": "2026-10-29T12:19:25+00:00",
-      "age_seconds": 4779
+      "age_seconds": 4902
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Дирижабль, ага",
       "url": "https://www.youtube.com/shorts/pcYCrhpvZEY",
       "published_at_utc": "2026-10-29T12:00:23+00:00",
-      "age_seconds": 5903
+      "age_seconds": 6025
     }
   ]
 }
