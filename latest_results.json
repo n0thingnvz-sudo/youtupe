@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-29T18:25:38.364728+00:00",
+  "generated_at_utc": "2026-10-29T18:27:35.594839+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "А вот нехрен желтые штаны покупать",
+      "url": "https://www.youtube.com/shorts/gH5GfuFbLVk",
+      "published_at_utc": "2026-10-29T18:20:10+00:00",
+      "age_seconds": 398
+    },
     {
       "channel": "МЯЧ Production",
       "title": "РЕАЛ обыграл БАРСУ из-за глубины состава? 🤔",
       "url": "https://www.youtube.com/shorts/2LAUVt3_YVE",
       "published_at_utc": "2026-10-29T18:00:08+00:00",
-      "age_seconds": 1488
+      "age_seconds": 1608
     },
     {
       "channel": "LenS",
       "title": "СЫГРАЛ во ВСЕ РЕЖИМЫ на 1 ПОРЯДОЧНОСТИ в DOTA 2",
       "url": "https://www.youtube.com/watch?v=osP7fwZHdFk",
       "published_at_utc": "2026-10-29T16:58:11+00:00",
-      "age_seconds": 5238
+      "age_seconds": 5355
     },
     {
       "channel": "TheDRZJ",
       "title": "CALL OF DUTY ВСЕХ ЗАЕ..ЛА",
       "url": "https://www.youtube.com/watch?v=bVpZCDI1gS4",
       "published_at_utc": "2026-10-29T16:46:29+00:00",
-      "age_seconds": 5932
+      "age_seconds": 6051
     },
     {
       "channel": "sun_kill",
       "title": "раскрываю секреты женской 🍒 #датреш",
       "url": "https://www.youtube.com/shorts/c7CCSrt68dw",
       "published_at_utc": "2026-10-29T16:44:16+00:00",
-      "age_seconds": 6017
+      "age_seconds": 6137
     },
     {
       "channel": "Alina Мuradimova",
       "title": "НЕВЫНОСИМЫЕ ДЕТКИ | Как «мягкое родительство» создаёт детей-тиранов",
       "url": "https://www.youtube.com/watch?v=BJe0E-j8Yac",
       "published_at_utc": "2026-10-29T16:30:30+00:00",
-      "age_seconds": 6863
+      "age_seconds": 6983
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Как Нотч добавлял лутбоксы в Майнкрафт",
       "url": "https://www.youtube.com/shorts/pf2OVHQ6d9M",
       "published_at_utc": "2026-10-29T16:27:20+00:00",
-      "age_seconds": 7048
+      "age_seconds": 7168
     }
   ]
 }
