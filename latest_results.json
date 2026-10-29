@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-29T11:19:33.954868+00:00",
+  "generated_at_utc": "2026-10-29T11:21:34.969106+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Любимый костюм, как вы знаете",
       "url": "https://www.youtube.com/shorts/5TCjB2MS0zg",
       "published_at_utc": "2026-10-29T11:07:22+00:00",
-      "age_seconds": 683
+      "age_seconds": 802
     },
     {
       "channel": "курОлеся",
       "title": "Какой больше идёт?",
       "url": "https://www.youtube.com/shorts/vTYHLfABS0g",
       "published_at_utc": "2026-10-29T11:05:34+00:00",
-      "age_seconds": 791
+      "age_seconds": 910
+    },
+    {
+      "channel": "sereGGa",
+      "title": "Team Spirit vs Legion | bo3 | PARI UNIVERSE Play-off",
+      "url": "https://www.youtube.com/watch?v=RPCfhHuxEps",
+      "published_at_utc": "2026-10-29T11:05:00+00:00",
+      "age_seconds": 980
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Обознались",
       "url": "https://www.youtube.com/shorts/sst1icmsRr0",
       "published_at_utc": "2026-10-29T11:00:27+00:00",
-      "age_seconds": 1099
+      "age_seconds": 1219
     },
     {
       "channel": "Алежа Обухов",
       "title": "Странные школьники рассказывают безумные истории",
       "url": "https://www.youtube.com/shorts/Ax1_u81cxF8",
       "published_at_utc": "2026-10-29T10:27:22+00:00",
-      "age_seconds": 3099
+      "age_seconds": 3217
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Они среди нас?",
       "url": "https://www.youtube.com/shorts/GfvsfXm4c_M",
       "published_at_utc": "2026-10-29T10:00:18+00:00",
-      "age_seconds": 4708
+      "age_seconds": 4828
     },
     {
       "channel": "soskamakaka",
       "title": "#геншинимпакт #геншин #genshinimpact #ронова #genshin  #селестия",
       "url": "https://www.youtube.com/shorts/aUV-Wl7CuJY",
       "published_at_utc": "2026-10-29T10:00:14+00:00",
-      "age_seconds": 4752
+      "age_seconds": 4870
     },
     {
       "channel": "i11ushenka",
       "title": "История любви пингвина и картонной девушки",
       "url": "https://www.youtube.com/shorts/r6onpofpbrU",
       "published_at_utc": "2026-10-29T09:45:01+00:00",
-      "age_seconds": 5610
+      "age_seconds": 5730
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Заправочные войны",
       "url": "https://www.youtube.com/shorts/uBNKcEvFdHE",
       "published_at_utc": "2026-10-29T09:29:33+00:00",
-      "age_seconds": 6554
+      "age_seconds": 6673
     }
   ]
 }
