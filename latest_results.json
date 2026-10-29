@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-10-29T09:39:33.531294+00:00",
+  "generated_at_utc": "2026-10-29T09:41:31.815921+00:00",
   "hours_window": 2,
   "items": [
     {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Заправочные войны",
+      "url": "https://www.youtube.com/shorts/uBNKcEvFdHE",
+      "published_at_utc": "2026-10-29T09:29:33+00:00",
+      "age_seconds": 672
+    },
+    {
       "channel": "Тру Шорты",
-      "title": "Почти весь год это просто корни. А потом...",
+      "title": "Весь год это только корни. А потом...",
       "url": "https://www.youtube.com/shorts/nigYF4qKR0E",
       "published_at_utc": "2026-10-29T09:15:07+00:00",
-      "age_seconds": 1401
+      "age_seconds": 1521
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Наснимался и уснул",
       "url": "https://www.youtube.com/shorts/e5fjLjLrt40",
       "published_at_utc": "2026-10-29T09:00:28+00:00",
-      "age_seconds": 2297
+      "age_seconds": 2417
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Автомаляра кормят ураганы $250 тыс не слабо",
       "url": "https://www.youtube.com/shorts/vGu4B8jNqWI",
       "published_at_utc": "2026-10-29T08:47:01+00:00",
-      "age_seconds": 3105
+      "age_seconds": 3225
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Изверги",
       "url": "https://www.youtube.com/shorts/n7g67ciiU5Q",
       "published_at_utc": "2026-10-29T08:30:34+00:00",
-      "age_seconds": 4091
+      "age_seconds": 4211
     },
     {
       "channel": "i11ushenka",
       "title": "День, когда Гейб показал свой пароль (и что из этого вышло)",
       "url": "https://www.youtube.com/shorts/XGqw96mJoFw",
       "published_at_utc": "2026-10-29T08:22:28+00:00",
-      "age_seconds": 4563
+      "age_seconds": 4683
     },
     {
       "channel": "курОлеся",
       "title": "Сливаю блогеров без смс и регистрации 📲",
       "url": "https://www.youtube.com/shorts/zA0tYQQJW7I",
       "published_at_utc": "2026-10-29T07:59:07+00:00",
-      "age_seconds": 5977
+      "age_seconds": 6097
     },
     {
       "channel": "Короче, новости",
       "title": "Роналду Выиграл Золотой Мяч Всех Времён @denmarnews",
       "url": "https://www.youtube.com/shorts/e3C56Bbtv2g",
       "published_at_utc": "2026-10-29T07:56:50+00:00",
-      "age_seconds": 6112
+      "age_seconds": 6232
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ты неправильно гладишь собаку 😐",
       "url": "https://www.youtube.com/shorts/1UGuTGd-TIY",
       "published_at_utc": "2026-10-29T07:55:06+00:00",
-      "age_seconds": 6239
+      "age_seconds": 6355
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "12 друзей стримера",
       "url": "https://www.youtube.com/shorts/ELARlILhLXE",
       "published_at_utc": "2026-10-29T07:51:13+00:00",
-      "age_seconds": 6452
+      "age_seconds": 6572
     }
   ]
 }
