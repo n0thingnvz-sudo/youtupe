@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-10-29T13:11:36.672406+00:00",
+  "generated_at_utc": "2026-10-29T13:13:35.910994+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Натурал Альбертович",
-      "title": "Дом УЖАСОВ (смешное видео, юмор, прикол, приколы, поржать, вайны)",
-      "url": "https://www.youtube.com/shorts/rlFrDoxlnlQ",
-      "published_at_utc": "2026-10-29T13:00:38+00:00",
-      "age_seconds": 624
-    },
     {
       "channel": "dikiy_vadik",
       "title": "Подруги после 30",
       "url": "https://www.youtube.com/shorts/qLgZImU1kss",
       "published_at_utc": "2026-10-29T12:32:18+00:00",
-      "age_seconds": 2323
+      "age_seconds": 2444
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Запрещенные шутки",
       "url": "https://www.youtube.com/shorts/krAzB5vFSH8",
       "published_at_utc": "2026-10-29T12:24:34+00:00",
-      "age_seconds": 2773
+      "age_seconds": 2894
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Бургер, но вместо булочки круассан 🥐",
       "url": "https://www.youtube.com/shorts/xabG9vF2sIU",
       "published_at_utc": "2026-10-29T12:19:46+00:00",
-      "age_seconds": 3080
+      "age_seconds": 3201
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Шимпанзе офигительные 🙈",
       "url": "https://www.youtube.com/shorts/SA_KYIo8ido",
       "published_at_utc": "2026-10-29T12:19:25+00:00",
-      "age_seconds": 3099
+      "age_seconds": 3221
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Дирижабль, ага",
       "url": "https://www.youtube.com/shorts/pcYCrhpvZEY",
       "published_at_utc": "2026-10-29T12:00:23+00:00",
-      "age_seconds": 4223
+      "age_seconds": 4344
     }
   ]
 }
