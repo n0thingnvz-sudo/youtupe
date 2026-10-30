@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-30T16:15:34.356120+00:00",
+  "generated_at_utc": "2026-10-30T16:17:44.114693+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Что придумали в Москве? #москва #тетрис #мафия",
+      "url": "https://www.youtube.com/shorts/aPZWbFFCKrI",
+      "published_at_utc": "2026-10-30T16:10:31+00:00",
+      "age_seconds": 358
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сюжет если бы он забыл сон:",
       "url": "https://www.youtube.com/shorts/G-srppAeplQ",
       "published_at_utc": "2026-10-30T16:04:25+00:00",
-      "age_seconds": 622
+      "age_seconds": 743
     },
     {
       "channel": "Никита Нестеров",
       "title": "Интересы хоть и общие, но правила есть правила",
       "url": "https://www.youtube.com/shorts/xpiVrhjPl7w",
       "published_at_utc": "2026-10-30T15:47:02+00:00",
-      "age_seconds": 1685
+      "age_seconds": 1807
     },
     {
       "channel": "МЯЧ Production",
       "title": "Трансфер Это’О в Барсу – Предательство Реала? 😬",
       "url": "https://www.youtube.com/shorts/oEaTHH8JGDs",
       "published_at_utc": "2026-10-30T15:43:23+00:00",
-      "age_seconds": 1892
+      "age_seconds": 2013
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Проклятие человека паука",
       "url": "https://www.youtube.com/shorts/9ENaa5L9sOs",
       "published_at_utc": "2026-10-30T15:09:42+00:00",
-      "age_seconds": 3905
+      "age_seconds": 4026
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Как BIG BON нас обманывает",
       "url": "https://www.youtube.com/shorts/GxT36cfuF7Y",
       "published_at_utc": "2026-10-30T14:32:03+00:00",
-      "age_seconds": 6182
+      "age_seconds": 6305
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "ВОРУЙ УБЕГАЙ",
       "url": "https://www.youtube.com/watch?v=0WgAF__Jaxo",
       "published_at_utc": "2026-10-30T14:26:15+00:00",
-      "age_seconds": 6555
+      "age_seconds": 6684
     }
   ]
 }
