@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-10-30T20:03:37.616092+00:00",
+  "generated_at_utc": "2026-10-30T20:05:37.464080+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Тру Шорты",
-      "title": "Пожиратель гор",
-      "url": "https://www.youtube.com/shorts/LZY2kqHMVt8",
-      "published_at_utc": "2026-10-30T19:52:05+00:00",
-      "age_seconds": 623
-    },
     {
       "channel": "SonnyK",
       "title": "Обзор ФИНАЛЬНОГО DLC Assassin’s Creed Resynced | Ассасин ВЕРНУЛ Ауру",
       "url": "https://www.youtube.com/watch?v=Q6upFCNapl8",
       "published_at_utc": "2026-10-30T18:28:35+00:00",
-      "age_seconds": 5681
+      "age_seconds": 5804
     }
   ]
 }
