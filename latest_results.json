@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-30T15:39:41.949867+00:00",
+  "generated_at_utc": "2026-10-30T15:41:45.390276+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Проклятие человека паука",
       "url": "https://www.youtube.com/shorts/9ENaa5L9sOs",
       "published_at_utc": "2026-10-30T15:09:42+00:00",
-      "age_seconds": 1746
+      "age_seconds": 1865
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Как BIG BON нас обманывает",
       "url": "https://www.youtube.com/shorts/GxT36cfuF7Y",
       "published_at_utc": "2026-10-30T14:32:03+00:00",
-      "age_seconds": 4025
+      "age_seconds": 4144
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "ВОРУЙ УБЕГАЙ",
       "url": "https://www.youtube.com/watch?v=0WgAF__Jaxo",
       "published_at_utc": "2026-10-30T14:26:15+00:00",
-      "age_seconds": 4403
+      "age_seconds": 4526
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ни стыда, не совести, не ссылки",
       "url": "https://www.youtube.com/shorts/f0r5zVo6G-w",
       "published_at_utc": "2026-10-30T14:02:47+00:00",
-      "age_seconds": 5761
+      "age_seconds": 5880
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Гайка за $65.000 баксов за 5 дней легко и просто",
       "url": "https://www.youtube.com/shorts/VuH3OL-mw2U",
       "published_at_utc": "2026-10-30T14:01:39+00:00",
-      "age_seconds": 5830
+      "age_seconds": 5949
     }
   ]
 }
