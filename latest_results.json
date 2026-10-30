@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-10-30T10:07:36.387005+00:00",
+  "generated_at_utc": "2026-10-30T10:09:29.163503+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "Кирпич Вместо Кошки: Странный Тренд в Китае @denmarnews",
-      "url": "https://www.youtube.com/shorts/04rRruLDN3w",
-      "published_at_utc": "2026-10-30T09:54:14+00:00",
-      "age_seconds": 753
-    },
     {
       "channel": "Короче, новости",
       "title": "У Binance Украли $ 3 500 000 000 @denmarnews",
       "url": "https://www.youtube.com/shorts/MdNtHeSAjUs",
       "published_at_utc": "2026-10-30T09:40:33+00:00",
-      "age_seconds": 1574
+      "age_seconds": 1689
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ради таких видео я плачу за интернет",
       "url": "https://www.youtube.com/shorts/Vb-hjVu2mls",
       "published_at_utc": "2026-10-30T09:25:25+00:00",
-      "age_seconds": 2486
+      "age_seconds": 2600
     },
     {
       "channel": "Короче, новости",
       "title": "Советский Танкист Добрался до Трампа @denmarnews",
       "url": "https://www.youtube.com/shorts/nNaIwxDQJsY",
       "published_at_utc": "2026-10-30T09:20:42+00:00",
-      "age_seconds": 2765
+      "age_seconds": 2880
     },
     {
       "channel": "sereGGa",
       "title": "\"ММР НЕ ПОКАЗАТЕЛЬ\" ПРЕВРАТИЛСЯ В ДЕБАТЫ С ШИЗОМ (саней)",
       "url": "https://www.youtube.com/watch?v=_vS8yj0hd4E",
       "published_at_utc": "2026-10-30T09:10:15+00:00",
-      "age_seconds": 3429
+      "age_seconds": 3543
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Провальный кругосветный круиз",
       "url": "https://www.youtube.com/shorts/PjaeNSipbEM",
       "published_at_utc": "2026-10-30T08:37:21+00:00",
-      "age_seconds": 5387
+      "age_seconds": 5501
     },
     {
       "channel": "Мармеладыч",
       "title": "Верни Гаврилу в Могилу.",
       "url": "https://www.youtube.com/shorts/qkjQsD8qC1g",
       "published_at_utc": "2026-10-30T08:15:35+00:00",
-      "age_seconds": 6686
+      "age_seconds": 6800
     }
   ]
 }
