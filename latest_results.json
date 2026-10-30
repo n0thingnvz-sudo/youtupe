@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-30T09:35:29.044925+00:00",
+  "generated_at_utc": "2026-10-30T09:37:32.794960+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Ради таких видео я плачу за интернет",
       "url": "https://www.youtube.com/shorts/Vb-hjVu2mls",
       "published_at_utc": "2026-10-30T09:25:25+00:00",
-      "age_seconds": 560
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Советский Танкист Добрался до Трампа @denmarnews",
-      "url": "https://www.youtube.com/shorts/nNaIwxDQJsY",
-      "published_at_utc": "2026-10-30T09:20:42+00:00",
-      "age_seconds": 840
+      "age_seconds": 681
     },
     {
       "channel": "sereGGa",
       "title": "\"ММР НЕ ПОКАЗАТЕЛЬ\" ПРЕВРАТИЛСЯ В ДЕБАТЫ С ШИЗОМ (саней)",
       "url": "https://www.youtube.com/watch?v=_vS8yj0hd4E",
       "published_at_utc": "2026-10-30T09:10:15+00:00",
-      "age_seconds": 1502
+      "age_seconds": 1626
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Провальный кругосветный круиз",
       "url": "https://www.youtube.com/shorts/PjaeNSipbEM",
       "published_at_utc": "2026-10-30T08:37:21+00:00",
-      "age_seconds": 3461
+      "age_seconds": 3585
     },
     {
       "channel": "Мармеладыч",
       "title": "Верни Гаврилу в Могилу.",
       "url": "https://www.youtube.com/shorts/qkjQsD8qC1g",
       "published_at_utc": "2026-10-30T08:15:35+00:00",
-      "age_seconds": 4761
+      "age_seconds": 4883
     },
     {
       "channel": "VASYAN1000",
       "title": "Типичный трамвай #shorts #quest #юмор #прикол #games",
       "url": "https://www.youtube.com/shorts/fo8ZsIdyxdU",
       "published_at_utc": "2026-10-30T07:47:43+00:00",
-      "age_seconds": 6431
+      "age_seconds": 6553
     }
   ]
 }
