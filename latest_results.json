@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-30T17:35:31.266708+00:00",
+  "generated_at_utc": "2026-10-30T17:37:35.250475+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Ремонтяш",
+      "title": "НИШЕВЫЙ ИГРОВОЙ ПК с WB за 100 тысяч",
+      "url": "https://www.youtube.com/watch?v=IgChGJMizZA",
+      "published_at_utc": "2026-10-30T17:31:08+00:00",
+      "age_seconds": 344
+    },
     {
       "channel": "JOHAN",
       "title": "Скам агенство ( Scam With Your Friends )",
       "url": "https://www.youtube.com/watch?v=jnryU7UsTVQ",
       "published_at_utc": "2026-10-30T17:03:54+00:00",
-      "age_seconds": 1839
+      "age_seconds": 1959
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Кто быстрее? #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/bN2IEA4MbzE",
       "published_at_utc": "2026-10-30T16:30:02+00:00",
-      "age_seconds": 3901
+      "age_seconds": 4022
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в пятницу в Калининграде это надо видеть",
       "url": "https://www.youtube.com/watch?v=7JTVzeqT82E",
       "published_at_utc": "2026-10-30T16:29:52+00:00",
-      "age_seconds": 3895
+      "age_seconds": 4015
     },
     {
       "channel": "Послезавтра",
       "title": "Что придумали в Москве? #москва #тетрис #мафия",
       "url": "https://www.youtube.com/shorts/aPZWbFFCKrI",
       "published_at_utc": "2026-10-30T16:10:31+00:00",
-      "age_seconds": 5038
+      "age_seconds": 5158
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Сюжет если бы он забыл сон:",
       "url": "https://www.youtube.com/shorts/G-srppAeplQ",
       "published_at_utc": "2026-10-30T16:04:25+00:00",
-      "age_seconds": 5421
+      "age_seconds": 5542
     },
     {
       "channel": "Никита Нестеров",
       "title": "Интересы хоть и общие, но правила есть правила",
       "url": "https://www.youtube.com/shorts/xpiVrhjPl7w",
       "published_at_utc": "2026-10-30T15:47:02+00:00",
-      "age_seconds": 6483
+      "age_seconds": 6604
     },
     {
       "channel": "МЯЧ Production",
       "title": "Трансфер Это’О в Барсу – Предательство Реала? 😬",
       "url": "https://www.youtube.com/shorts/oEaTHH8JGDs",
       "published_at_utc": "2026-10-30T15:43:23+00:00",
-      "age_seconds": 6690
+      "age_seconds": 6811
     }
   ]
 }
