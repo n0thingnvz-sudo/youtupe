@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-10-30T14:43:35.869363+00:00",
+  "generated_at_utc": "2026-10-30T14:45:36.642188+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Как BIG BON нас обманывает",
+      "url": "https://www.youtube.com/shorts/GxT36cfuF7Y",
+      "published_at_utc": "2026-10-30T14:32:03+00:00",
+      "age_seconds": 783
+    },
     {
       "channel": "ПО ФАКТУ",
       "title": "ВОРУЙ УБЕГАЙ",
       "url": "https://www.youtube.com/watch?v=0WgAF__Jaxo",
       "published_at_utc": "2026-10-30T14:26:15+00:00",
-      "age_seconds": 1037
+      "age_seconds": 1157
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ни стыда, не совести, не ссылки",
       "url": "https://www.youtube.com/shorts/f0r5zVo6G-w",
       "published_at_utc": "2026-10-30T14:02:47+00:00",
-      "age_seconds": 2399
+      "age_seconds": 2519
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Гайка за $65.000 баксов за 5 дней легко и просто",
       "url": "https://www.youtube.com/shorts/VuH3OL-mw2U",
       "published_at_utc": "2026-10-30T14:01:39+00:00",
-      "age_seconds": 2468
+      "age_seconds": 2588
     },
     {
       "channel": "Самый сахар",
       "title": "Попробовал ВСЁ МЕНЮ Ростикс. KFC был лучше?",
       "url": "https://www.youtube.com/watch?v=fz1B8Iz-OQ8",
       "published_at_utc": "2026-10-30T13:15:28+00:00",
-      "age_seconds": 5225
+      "age_seconds": 5346
     },
     {
       "channel": "IG project",
       "title": "😱СТРАЙКЕР ВЛЮБИЛСЯ В БАРБИ? САМАЯ НЕОЖИДАННАЯ ПАРА В АДСКОМ БОССЕ❤️ #адскийбосс #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/6POGtKhPRkw",
       "published_at_utc": "2026-10-30T13:06:16+00:00",
-      "age_seconds": 5799
+      "age_seconds": 5919
     },
     {
       "channel": "Valera Ghosther",
       "title": "Ларёк с сосисками (страшный)",
       "url": "https://www.youtube.com/watch?v=lamvQWS7c3A",
       "published_at_utc": "2026-10-30T12:45:35+00:00",
-      "age_seconds": 7075
+      "age_seconds": 7194
     }
   ]
 }
