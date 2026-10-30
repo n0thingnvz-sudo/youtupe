@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-10-30T11:59:32.834104+00:00",
+  "generated_at_utc": "2026-10-30T12:01:37.547516+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Obsidian Time",
-      "title": "Яичные будни и Пытаемся попасть на серный остров - МайнШилд 4",
-      "url": "https://www.youtube.com/watch?v=JnMz_eaX2zE",
-      "published_at_utc": "2026-10-30T11:48:24+00:00",
-      "age_seconds": 668
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Умные мысли преследовали стримершу",
       "url": "https://www.youtube.com/shorts/N_qJuP4Tu4s",
       "published_at_utc": "2026-10-30T10:30:30+00:00",
-      "age_seconds": 5296
+      "age_seconds": 5418
     }
   ]
 }
