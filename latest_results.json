@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-10-30T12:33:34.811858+00:00",
+  "generated_at_utc": "2026-10-30T12:35:37.875117+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Агитация вышла на новый уровень",
-      "url": "https://www.youtube.com/shorts/1MEdG5meFMU",
-      "published_at_utc": "2026-10-30T12:28:28+00:00",
-      "age_seconds": 260
-    },
     {
       "channel": "sun_kill",
       "title": "ну реально тревожно от этих песен становится",
       "url": "https://www.youtube.com/shorts/QwMej7n4o0o",
       "published_at_utc": "2026-10-30T12:02:21+00:00",
-      "age_seconds": 1811
+      "age_seconds": 1931
     },
     {
       "channel": "Obsidian Time",
       "title": "Яичные будни и Пытаемся попасть на серный остров - МайнШилд 4",
       "url": "https://www.youtube.com/watch?v=JnMz_eaX2zE",
       "published_at_utc": "2026-10-30T11:48:24+00:00",
-      "age_seconds": 2710
+      "age_seconds": 2833
     }
   ]
 }
