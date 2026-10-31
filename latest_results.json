@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-10-31T19:03:36.309874+00:00",
+  "generated_at_utc": "2026-10-31T19:05:35.309511+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ExileLive",
+      "title": "Наша Свадьба! Мы Муж и Жена! Потратил *0.000.000 ₽",
+      "url": "https://www.youtube.com/watch?v=pySJJbS-1oo",
+      "published_at_utc": "2026-10-31T18:51:53+00:00",
+      "age_seconds": 794
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Пробую ВСЁ МЕНЮ Wendy’s",
       "url": "https://www.youtube.com/shorts/CTyV13jFMHI",
       "published_at_utc": "2026-10-31T17:41:10+00:00",
-      "age_seconds": 4915
+      "age_seconds": 5035
     },
     {
       "channel": "nowkie",
       "title": "самый обычный влог из Японии)))",
       "url": "https://www.youtube.com/watch?v=qe7ClbknRk4",
       "published_at_utc": "2026-10-31T17:27:44+00:00",
-      "age_seconds": 5700
+      "age_seconds": 5819
     }
   ]
 }
