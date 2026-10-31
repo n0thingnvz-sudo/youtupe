@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-10-31T07:17:28.356797+00:00",
+  "generated_at_utc": "2026-10-31T07:19:27.343075+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Такие праздники одобряем",
+      "url": "https://www.youtube.com/shorts/_pN4Oil7WdI",
+      "published_at_utc": "2026-10-31T07:00:27+00:00",
+      "age_seconds": 1097
+    },
     {
       "channel": "Послезавтра",
       "title": "Люксембург. Самые богатые в мире. Почему?",
       "url": "https://www.youtube.com/watch?v=6SqpSFP7vIU",
       "published_at_utc": "2026-10-31T06:37:46+00:00",
-      "age_seconds": 2323
+      "age_seconds": 2443
     }
   ]
 }
