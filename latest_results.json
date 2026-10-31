@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T20:09:35.194947+00:00",
+  "generated_at_utc": "2026-10-31T20:11:32.347167+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Так и живём 🥲",
       "url": "https://www.youtube.com/shorts/l0vqOfdQ3yg",
       "published_at_utc": "2026-10-31T19:44:09+00:00",
-      "age_seconds": 1497
+      "age_seconds": 1616
     },
     {
       "channel": "Тру Шорты",
       "title": "Попал в пробку из-за самолёта",
       "url": "https://www.youtube.com/shorts/LVbTlh3tL20",
       "published_at_utc": "2026-10-31T19:28:19+00:00",
-      "age_seconds": 2409
+      "age_seconds": 2529
     },
     {
       "channel": "ExileLive",
       "title": "Наша Свадьба! Мы Муж и Жена! Потратил *0.000.000 ₽",
       "url": "https://www.youtube.com/watch?v=pySJJbS-1oo",
       "published_at_utc": "2026-10-31T18:51:53+00:00",
-      "age_seconds": 4635
+      "age_seconds": 4753
     }
   ]
 }
