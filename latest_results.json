@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-10-31T10:05:36.949250+00:00",
+  "generated_at_utc": "2026-10-31T10:07:31.284017+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Где его Нобелевка?",
+      "url": "https://www.youtube.com/shorts/U81q7EVyX34",
+      "published_at_utc": "2026-10-31T10:00:00+00:00",
+      "age_seconds": 405
+    },
     {
       "channel": "1337LikeR",
       "title": "Алло, Вы Лох? (Scam With Your Friends)",
       "url": "https://www.youtube.com/watch?v=AAyeOjC-6e8",
       "published_at_utc": "2026-10-31T09:23:30+00:00",
-      "age_seconds": 2519
+      "age_seconds": 2635
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Люди не меняются?",
       "url": "https://www.youtube.com/shorts/9_5KdrxgrJc",
       "published_at_utc": "2026-10-31T09:00:07+00:00",
-      "age_seconds": 3878
+      "age_seconds": 3998
     },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Пушной | Шальнов | Сатир",
       "url": "https://www.youtube.com/watch?v=1kPm1gRez24",
       "published_at_utc": "2026-10-31T08:57:35+00:00",
-      "age_seconds": 4024
+      "age_seconds": 4144
     },
     {
       "channel": "Короче, новости",
       "title": "ИИ Прочитал Мысли и Воссоздал Картинки @denmarnews",
       "url": "https://www.youtube.com/shorts/HakBqp2rnB4",
       "published_at_utc": "2026-10-31T08:44:57+00:00",
-      "age_seconds": 4785
+      "age_seconds": 4905
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "В душе гонщик",
       "url": "https://www.youtube.com/shorts/8E_5bgWYRt8",
       "published_at_utc": "2026-10-31T08:38:13+00:00",
-      "age_seconds": 5193
+      "age_seconds": 5313
     }
   ]
 }
