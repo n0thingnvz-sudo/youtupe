@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-10-31T09:25:30.979780+00:00",
+  "generated_at_utc": "2026-10-31T09:27:33.186580+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "1337LikeR",
+      "title": "Алло, Вы Лох? (Scam With Your Friends)",
+      "url": "https://www.youtube.com/watch?v=AAyeOjC-6e8",
+      "published_at_utc": "2026-10-31T09:23:30+00:00",
+      "age_seconds": 236
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Люди не меняются?",
       "url": "https://www.youtube.com/shorts/9_5KdrxgrJc",
       "published_at_utc": "2026-10-31T09:00:07+00:00",
-      "age_seconds": 1479
+      "age_seconds": 1599
     },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Пушной | Шальнов | Сатир",
       "url": "https://www.youtube.com/watch?v=1kPm1gRez24",
       "published_at_utc": "2026-10-31T08:57:35+00:00",
-      "age_seconds": 1624
+      "age_seconds": 1745
     },
     {
       "channel": "Короче, новости",
       "title": "ИИ Прочитал Мысли и Воссоздал Картинки @denmarnews",
       "url": "https://www.youtube.com/shorts/HakBqp2rnB4",
       "published_at_utc": "2026-10-31T08:44:57+00:00",
-      "age_seconds": 2386
+      "age_seconds": 2506
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "В душе гонщик",
       "url": "https://www.youtube.com/shorts/8E_5bgWYRt8",
       "published_at_utc": "2026-10-31T08:38:13+00:00",
-      "age_seconds": 2793
+      "age_seconds": 2914
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "31.12.1999. Проблема исчисления",
       "url": "https://www.youtube.com/shorts/14NOpjCz1uA",
       "published_at_utc": "2026-10-31T08:00:37+00:00",
-      "age_seconds": 5079
+      "age_seconds": 5200
     },
     {
       "channel": "Послезавтра",
       "title": "Люксембург. Самые богатые в мире. Почему?",
       "url": "https://www.youtube.com/watch?v=6SqpSFP7vIU",
       "published_at_utc": "2026-10-31T08:00:09+00:00",
-      "age_seconds": 5060
+      "age_seconds": 5180
     },
     {
       "channel": "МЯЧ Production",
       "title": "Команда месяца | Рейтинг МЯЧа | Октябрь 2026",
       "url": "https://www.youtube.com/watch?v=sKGIm6Mu03o",
       "published_at_utc": "2026-10-31T08:00:09+00:00",
-      "age_seconds": 5085
+      "age_seconds": 5205
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Бро просто хотел искупаться",
       "url": "https://www.youtube.com/shorts/zux8b2DfkMw",
       "published_at_utc": "2026-10-31T08:00:00+00:00",
-      "age_seconds": 5086
+      "age_seconds": 5206
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему пёс так реагирует на духи 🤔",
       "url": "https://www.youtube.com/shorts/vfgca6Tmh70",
       "published_at_utc": "2026-10-31T07:48:14+00:00",
-      "age_seconds": 5808
+      "age_seconds": 5929
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ночной перекус",
       "url": "https://www.youtube.com/shorts/viUqULatu6Q",
       "published_at_utc": "2026-10-31T07:27:53+00:00",
-      "age_seconds": 7013
+      "age_seconds": 7134
     }
   ]
 }
