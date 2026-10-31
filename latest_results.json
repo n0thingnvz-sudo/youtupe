@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-10-31T17:17:34.556320+00:00",
+  "generated_at_utc": "2026-10-31T17:19:34.307377+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Azazin Kreet",
-      "title": "Внушил 5 скуфам из РАЗНЫХ СТРАН, что они выиграли International 2027 [Я потратил на это год]",
-      "url": "https://www.youtube.com/watch?v=AlJtjJXOfQA",
-      "published_at_utc": "2026-10-31T17:00:09+00:00",
-      "age_seconds": 1000
-    },
     {
       "channel": "Майни",
       "title": "ФАНАТИКИ ГАРРИ ПОТТЕРА ОБЪЯВИЛИ ВОЙНУ ТВИТТЕРУ - МАЛФОИД ► BVS ( БВС ) | Реакция",
       "url": "https://www.youtube.com/watch?v=ZGhxmkWsIYA",
       "published_at_utc": "2026-10-31T16:45:05+00:00",
-      "age_seconds": 1885
+      "age_seconds": 2005
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде в субботу вечером это надо видеть",
       "url": "https://www.youtube.com/watch?v=if-iDaAEDOw",
       "published_at_utc": "2026-10-31T16:28:44+00:00",
-      "age_seconds": 2884
+      "age_seconds": 3002
     }
   ]
 }
