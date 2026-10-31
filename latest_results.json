@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T19:47:34.184478+00:00",
+  "generated_at_utc": "2026-10-31T19:49:32.276798+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Попал в пробку из-за самолёта",
       "url": "https://www.youtube.com/shorts/LVbTlh3tL20",
       "published_at_utc": "2026-10-31T19:28:19+00:00",
-      "age_seconds": 1089
+      "age_seconds": 1209
     },
     {
       "channel": "ExileLive",
       "title": "Наша Свадьба! Мы Муж и Жена! Потратил *0.000.000 ₽",
       "url": "https://www.youtube.com/watch?v=pySJJbS-1oo",
       "published_at_utc": "2026-10-31T18:51:53+00:00",
-      "age_seconds": 3315
+      "age_seconds": 3433
     }
   ]
 }
