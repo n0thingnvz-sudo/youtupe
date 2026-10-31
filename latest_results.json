@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-10-31T10:39:31.543904+00:00",
+  "generated_at_utc": "2026-10-31T10:41:31.581115+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Звездный Капитан",
-      "title": "Ужасы Заразы",
-      "url": "https://www.youtube.com/watch?v=EoypqAmJ9Fc",
-      "published_at_utc": "2026-10-31T10:35:37+00:00",
-      "age_seconds": 183
-    },
     {
       "channel": "АНТИБЛОГЕР",
       "title": "ЗАМОРИТЬ СЕБЯ ГОЛОДОМ - Как сыроеды, праноеды и прочие отрицают действительность",
       "url": "https://www.youtube.com/watch?v=eUXiDytFAwY",
       "published_at_utc": "2026-10-31T10:15:11+00:00",
-      "age_seconds": 1427
+      "age_seconds": 1546
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Где его Нобелевка?",
       "url": "https://www.youtube.com/shorts/U81q7EVyX34",
       "published_at_utc": "2026-10-31T10:00:00+00:00",
-      "age_seconds": 2325
+      "age_seconds": 2445
     },
     {
       "channel": "1337LikeR",
       "title": "Алло, Вы Лох? (Scam With Your Friends)",
       "url": "https://www.youtube.com/watch?v=AAyeOjC-6e8",
       "published_at_utc": "2026-10-31T09:23:30+00:00",
-      "age_seconds": 4555
+      "age_seconds": 4675
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Люди не меняются?",
       "url": "https://www.youtube.com/shorts/9_5KdrxgrJc",
       "published_at_utc": "2026-10-31T09:00:07+00:00",
-      "age_seconds": 5918
+      "age_seconds": 6038
     },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Пушной | Шальнов | Сатир",
       "url": "https://www.youtube.com/watch?v=1kPm1gRez24",
       "published_at_utc": "2026-10-31T08:57:35+00:00",
-      "age_seconds": 6064
+      "age_seconds": 6184
     },
     {
       "channel": "Короче, новости",
       "title": "ИИ Прочитал Мысли и Воссоздал Картинки @denmarnews",
       "url": "https://www.youtube.com/shorts/HakBqp2rnB4",
       "published_at_utc": "2026-10-31T08:44:57+00:00",
-      "age_seconds": 6825
+      "age_seconds": 6945
     }
   ]
 }
