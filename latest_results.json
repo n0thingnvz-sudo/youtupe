@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T08:15:28.131711+00:00",
+  "generated_at_utc": "2026-10-31T08:17:29.968531+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,42 @@
       "title": "Люксембург. Самые богатые в мире. Почему?",
       "url": "https://www.youtube.com/watch?v=6SqpSFP7vIU",
       "published_at_utc": "2026-10-31T08:00:09+00:00",
-      "age_seconds": 860
+      "age_seconds": 980
+    },
+    {
+      "channel": "МЯЧ Production",
+      "title": "Команда месяца | Рейтинг МЯЧа | Октябрь 2026",
+      "url": "https://www.youtube.com/watch?v=sKGIm6Mu03o",
+      "published_at_utc": "2026-10-31T08:00:09+00:00",
+      "age_seconds": 1004
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Бро просто хотел искупаться",
       "url": "https://www.youtube.com/shorts/zux8b2DfkMw",
       "published_at_utc": "2026-10-31T08:00:00+00:00",
-      "age_seconds": 884
+      "age_seconds": 1005
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему пёс так реагирует на духи 🤔",
       "url": "https://www.youtube.com/shorts/vfgca6Tmh70",
       "published_at_utc": "2026-10-31T07:48:14+00:00",
-      "age_seconds": 1605
+      "age_seconds": 1727
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ночной перекус",
       "url": "https://www.youtube.com/shorts/viUqULatu6Q",
       "published_at_utc": "2026-10-31T07:27:53+00:00",
-      "age_seconds": 2811
+      "age_seconds": 2933
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Такие праздники одобряем",
       "url": "https://www.youtube.com/shorts/_pN4Oil7WdI",
       "published_at_utc": "2026-10-31T07:00:27+00:00",
-      "age_seconds": 4457
+      "age_seconds": 4578
     }
   ]
 }
