@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T10:01:35.065622+00:00",
+  "generated_at_utc": "2026-10-31T10:03:36.446552+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Алло, Вы Лох? (Scam With Your Friends)",
       "url": "https://www.youtube.com/watch?v=AAyeOjC-6e8",
       "published_at_utc": "2026-10-31T09:23:30+00:00",
-      "age_seconds": 2278
+      "age_seconds": 2399
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Люди не меняются?",
       "url": "https://www.youtube.com/shorts/9_5KdrxgrJc",
       "published_at_utc": "2026-10-31T09:00:07+00:00",
-      "age_seconds": 3639
+      "age_seconds": 3759
     },
     {
       "channel": "Канал Коваля",
       "title": "СВОЯК | Коваль | Пушной | Шальнов | Сатир",
       "url": "https://www.youtube.com/watch?v=1kPm1gRez24",
       "published_at_utc": "2026-10-31T08:57:35+00:00",
-      "age_seconds": 3784
+      "age_seconds": 3904
     },
     {
       "channel": "Короче, новости",
       "title": "ИИ Прочитал Мысли и Воссоздал Картинки @denmarnews",
       "url": "https://www.youtube.com/shorts/HakBqp2rnB4",
       "published_at_utc": "2026-10-31T08:44:57+00:00",
-      "age_seconds": 4546
+      "age_seconds": 4666
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "В душе гонщик",
       "url": "https://www.youtube.com/shorts/8E_5bgWYRt8",
       "published_at_utc": "2026-10-31T08:38:13+00:00",
-      "age_seconds": 4953
+      "age_seconds": 5074
     }
   ]
 }
