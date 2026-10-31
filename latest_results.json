@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T11:13:32.257743+00:00",
+  "generated_at_utc": "2026-10-31T11:15:30.926991+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Этот тигр любит грязь больше самок 🐯",
       "url": "https://www.youtube.com/shorts/RjgRoJ_-IUc",
       "published_at_utc": "2026-10-31T11:06:08+00:00",
-      "age_seconds": 414
+      "age_seconds": 533
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Не пролез",
+      "url": "https://www.youtube.com/shorts/NVvS9BeXtg4",
+      "published_at_utc": "2026-10-31T11:00:36+00:00",
+      "age_seconds": 849
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Угадываем вкусы Baskin Robbins #funnygames #игры #games #couple",
       "url": "https://www.youtube.com/shorts/67I-nnwWAwo",
       "published_at_utc": "2026-10-31T10:40:33+00:00",
-      "age_seconds": 1950
+      "age_seconds": 2069
     },
     {
       "channel": "sun_kill",
       "title": "дофаминовая яма 😐",
       "url": "https://www.youtube.com/shorts/WZMk_Nu--aw",
       "published_at_utc": "2026-10-31T10:40:29+00:00",
-      "age_seconds": 1923
+      "age_seconds": 2042
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это точно последнее желание ?",
       "url": "https://www.youtube.com/shorts/D04H0_bJvw8",
       "published_at_utc": "2026-10-31T10:36:10+00:00",
-      "age_seconds": 2196
+      "age_seconds": 2315
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Заразы",
       "url": "https://www.youtube.com/watch?v=EoypqAmJ9Fc",
       "published_at_utc": "2026-10-31T10:35:37+00:00",
-      "age_seconds": 2223
+      "age_seconds": 2343
     },
     {
       "channel": "АНТИБЛОГЕР",
       "title": "ЗАМОРИТЬ СЕБЯ ГОЛОДОМ - Как сыроеды, праноеды и прочие отрицают действительность",
       "url": "https://www.youtube.com/watch?v=eUXiDytFAwY",
       "published_at_utc": "2026-10-31T10:15:11+00:00",
-      "age_seconds": 3466
+      "age_seconds": 3585
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Где его Нобелевка?",
       "url": "https://www.youtube.com/shorts/U81q7EVyX34",
       "published_at_utc": "2026-10-31T10:00:00+00:00",
-      "age_seconds": 4366
+      "age_seconds": 4485
     },
     {
       "channel": "1337LikeR",
       "title": "Алло, Вы Лох? (Scam With Your Friends)",
       "url": "https://www.youtube.com/watch?v=AAyeOjC-6e8",
       "published_at_utc": "2026-10-31T09:23:30+00:00",
-      "age_seconds": 6595
+      "age_seconds": 6714
     }
   ]
 }
