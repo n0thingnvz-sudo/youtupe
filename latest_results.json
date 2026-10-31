@@ -1,83 +1,62 @@
 {
-  "generated_at_utc": "2026-10-31T12:15:36.750581+00:00",
+  "generated_at_utc": "2026-10-31T12:17:35.036862+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "Угнал Тачку Директора Bigatti @denmarnews",
-      "url": "https://www.youtube.com/shorts/e3Wl0GC1kCo",
-      "published_at_utc": "2026-10-31T12:08:33+00:00",
-      "age_seconds": 369
-    },
-    {
-      "channel": "dikiy_vadik",
-      "title": "Те самые отношения",
-      "url": "https://www.youtube.com/shorts/0YjE2H94TIM",
-      "published_at_utc": "2026-10-31T12:06:22+00:00",
-      "age_seconds": 517
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Подарок не свадьбу",
       "url": "https://www.youtube.com/shorts/wooafOlrqZk",
       "published_at_utc": "2026-10-31T12:03:33+00:00",
-      "age_seconds": 673
+      "age_seconds": 794
     },
     {
       "channel": "Послезавтра",
       "title": "Странные названия вещей #метро #унитаз #дизель",
       "url": "https://www.youtube.com/shorts/s7fZ_VXpqfY",
       "published_at_utc": "2026-10-31T11:31:30+00:00",
-      "age_seconds": 2579
+      "age_seconds": 2699
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Этот тигр любит грязь больше самок 🐯",
       "url": "https://www.youtube.com/shorts/RjgRoJ_-IUc",
       "published_at_utc": "2026-10-31T11:06:08+00:00",
-      "age_seconds": 4134
+      "age_seconds": 4257
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Не пролез",
       "url": "https://www.youtube.com/shorts/NVvS9BeXtg4",
       "published_at_utc": "2026-10-31T11:00:36+00:00",
-      "age_seconds": 4449
+      "age_seconds": 4571
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Угадываем вкусы Baskin Robbins #funnygames #игры #games #couple",
       "url": "https://www.youtube.com/shorts/67I-nnwWAwo",
       "published_at_utc": "2026-10-31T10:40:33+00:00",
-      "age_seconds": 5670
+      "age_seconds": 5793
     },
     {
       "channel": "sun_kill",
       "title": "дофаминовая яма 😐",
       "url": "https://www.youtube.com/shorts/WZMk_Nu--aw",
       "published_at_utc": "2026-10-31T10:40:29+00:00",
-      "age_seconds": 5643
+      "age_seconds": 5763
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это точно последнее желание ?",
       "url": "https://www.youtube.com/shorts/D04H0_bJvw8",
       "published_at_utc": "2026-10-31T10:36:10+00:00",
-      "age_seconds": 5916
+      "age_seconds": 6037
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Заразы",
       "url": "https://www.youtube.com/watch?v=EoypqAmJ9Fc",
       "published_at_utc": "2026-10-31T10:35:37+00:00",
-      "age_seconds": 5943
-    },
-    {
-      "channel": "АНТИБЛОГЕР",
-      "title": "ЗАМОРИТЬ СЕБЯ ГОЛОДОМ - Как сыроеды, праноеды и прочие отрицают действительность",
-      "url": "https://www.youtube.com/watch?v=eUXiDytFAwY",
-      "published_at_utc": "2026-10-31T10:15:11+00:00",
-      "age_seconds": 7186
+      "age_seconds": 6063
     }
   ]
 }
