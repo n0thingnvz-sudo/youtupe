@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-10-31T12:43:32.943848+00:00",
+  "generated_at_utc": "2026-10-31T12:45:36.446203+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Дима Масленников",
+      "title": "ЭТО ШОК! Что я нашёл в Контейнере в Дубае? (Buster, Дубровский)",
+      "url": "https://www.youtube.com/watch?v=P10MumLEJWk",
+      "published_at_utc": "2026-10-31T12:29:56+00:00",
+      "age_seconds": 892
+    },
     {
       "channel": "Короче, новости",
       "title": "Угнал Тачку Директора Bugatti @denmarnews",
       "url": "https://www.youtube.com/shorts/e3Wl0GC1kCo",
       "published_at_utc": "2026-10-31T12:08:33+00:00",
-      "age_seconds": 2049
+      "age_seconds": 2169
     },
     {
       "channel": "dikiy_vadik",
       "title": "Те самые отношения",
       "url": "https://www.youtube.com/shorts/0YjE2H94TIM",
       "published_at_utc": "2026-10-31T12:06:22+00:00",
-      "age_seconds": 2197
+      "age_seconds": 2317
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Подарок не свадьбу",
       "url": "https://www.youtube.com/shorts/wooafOlrqZk",
       "published_at_utc": "2026-10-31T12:03:33+00:00",
-      "age_seconds": 2352
+      "age_seconds": 2473
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ошиблись, бывает",
       "url": "https://www.youtube.com/shorts/DHqei--fsfY",
       "published_at_utc": "2026-10-31T12:00:09+00:00",
-      "age_seconds": 2556
+      "age_seconds": 2676
     },
     {
       "channel": "Послезавтра",
       "title": "Странные названия вещей #метро #унитаз #дизель",
       "url": "https://www.youtube.com/shorts/s7fZ_VXpqfY",
       "published_at_utc": "2026-10-31T11:31:30+00:00",
-      "age_seconds": 4259
+      "age_seconds": 4379
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Этот тигр любит грязь больше самок 🐯",
       "url": "https://www.youtube.com/shorts/RjgRoJ_-IUc",
       "published_at_utc": "2026-10-31T11:06:08+00:00",
-      "age_seconds": 5815
+      "age_seconds": 5935
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Не пролез",
       "url": "https://www.youtube.com/shorts/NVvS9BeXtg4",
       "published_at_utc": "2026-10-31T11:00:36+00:00",
-      "age_seconds": 6129
+      "age_seconds": 6249
     }
   ]
 }
