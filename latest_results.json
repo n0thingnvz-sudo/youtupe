@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-11-01T15:33:37.551719+00:00",
+  "generated_at_utc": "2026-11-01T15:35:37.758637+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Муравьиный босс 2",
-      "url": "https://www.youtube.com/shorts/sz2RtfPAirM",
-      "published_at_utc": "2026-11-01T15:32:13+00:00",
-      "age_seconds": 35
-    },
     {
       "channel": "ТОПЛЕС",
       "title": "В ОБЫЧНЫХ ЯБЛОКАХ ЕСТЬ ЯД?",
       "url": "https://www.youtube.com/shorts/zGHkGQJRrL0",
       "published_at_utc": "2026-11-01T15:08:46+00:00",
-      "age_seconds": 1429
+      "age_seconds": 1549
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Он прошел эту жизнь",
       "url": "https://www.youtube.com/shorts/xpTqUcvMeaA",
       "published_at_utc": "2026-11-01T14:20:05+00:00",
-      "age_seconds": 4363
+      "age_seconds": 4483
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ремикс комикса «Невылупившиеся» 💔",
       "url": "https://www.youtube.com/shorts/qpiT808FQcQ",
       "published_at_utc": "2026-11-01T14:08:46+00:00",
-      "age_seconds": 5059
+      "age_seconds": 5180
     }
   ]
 }
