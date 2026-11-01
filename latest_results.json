@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-01T14:37:34.009969+00:00",
+  "generated_at_utc": "2026-11-01T14:39:39.244590+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Он прошел эту жизнь",
+      "url": "https://www.youtube.com/shorts/xpTqUcvMeaA",
+      "published_at_utc": "2026-11-01T14:20:05+00:00",
+      "age_seconds": 1125
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ремикс комикса «Невылупившиеся» 💔",
       "url": "https://www.youtube.com/shorts/qpiT808FQcQ",
       "published_at_utc": "2026-11-01T14:08:46+00:00",
-      "age_seconds": 1698
+      "age_seconds": 1821
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Китайский Хэллоуин",
       "url": "https://www.youtube.com/shorts/hF5GMrlNmLw",
       "published_at_utc": "2026-11-01T12:50:43+00:00",
-      "age_seconds": 6363
+      "age_seconds": 6487
     }
   ]
 }
