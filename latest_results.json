@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-01T10:09:31.796236+00:00",
+  "generated_at_utc": "2026-11-01T10:11:33.819113+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Жирафы не медленные! 🦒",
       "url": "https://www.youtube.com/shorts/u5ApzBob_lU",
       "published_at_utc": "2026-11-01T09:23:25+00:00",
-      "age_seconds": 2736
+      "age_seconds": 2857
     },
     {
       "channel": "Мармеладыч",
       "title": "Есть одна проблемка с лимонадом нашим #1апреля",
       "url": "https://www.youtube.com/shorts/xviEe-6HjQs",
       "published_at_utc": "2026-11-01T09:19:46+00:00",
-      "age_seconds": 2950
+      "age_seconds": 3070
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Взрывные декорации",
       "url": "https://www.youtube.com/shorts/mxZN1we_VNE",
       "published_at_utc": "2026-11-01T09:05:05+00:00",
-      "age_seconds": 3821
+      "age_seconds": 3940
     },
     {
       "channel": "Obsidian Time",
       "title": "Инженер строит ФИЗИЧЕСКИЙ ЗАВОД - Sandustry",
       "url": "https://www.youtube.com/watch?v=31cs4TbWipg",
       "published_at_utc": "2026-11-01T09:00:03+00:00",
-      "age_seconds": 4168
+      "age_seconds": 4289
     }
   ]
 }
