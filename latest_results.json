@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-01T11:01:34.462829+00:00",
+  "generated_at_utc": "2026-11-01T11:03:33.817473+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Жирафы не медленные! 🦒",
       "url": "https://www.youtube.com/shorts/u5ApzBob_lU",
       "published_at_utc": "2026-11-01T09:23:25+00:00",
-      "age_seconds": 5859
+      "age_seconds": 5979
     },
     {
       "channel": "Мармеладыч",
       "title": "Есть одна проблемка с лимонадом нашим #1апреля",
       "url": "https://www.youtube.com/shorts/xviEe-6HjQs",
       "published_at_utc": "2026-11-01T09:19:46+00:00",
-      "age_seconds": 6072
+      "age_seconds": 6191
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Взрывные декорации",
       "url": "https://www.youtube.com/shorts/mxZN1we_VNE",
       "published_at_utc": "2026-11-01T09:05:05+00:00",
-      "age_seconds": 6943
+      "age_seconds": 7062
     }
   ]
 }
