@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-11-01T11:27:35.090845+00:00",
+  "generated_at_utc": "2026-11-01T11:29:33.744651+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Хоть одна причина против?",
-      "url": "https://www.youtube.com/shorts/5_sE42ywHgw",
-      "published_at_utc": "2026-11-01T11:21:04+00:00",
-      "age_seconds": 344
-    },
     {
       "channel": "лизкеч",
       "title": "@Tetka_2200",
       "url": "https://www.youtube.com/shorts/tOK_R8ywGno",
       "published_at_utc": "2026-11-01T11:08:13+00:00",
-      "age_seconds": 1125
+      "age_seconds": 1243
     },
     {
       "channel": "sereGGa",
       "title": "Team Spirit vs Team Yandex | GRAND FINAL bo5 | PARI UNIVERSE",
       "url": "https://www.youtube.com/watch?v=yEEpuupDjCs",
       "published_at_utc": "2026-11-01T11:01:18+00:00",
-      "age_seconds": 1565
+      "age_seconds": 1683
     }
   ]
 }
