@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-01T19:49:30.769664+00:00",
+  "generated_at_utc": "2026-11-01T19:51:33.007463+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Никита Нестеров",
+      "title": "Или когда сам работал в общепите 😅",
+      "url": "https://www.youtube.com/shorts/y55uJmz1iV4",
+      "published_at_utc": "2026-11-01T19:49:53+00:00",
+      "age_seconds": 73
+    },
     {
       "channel": "VASYAN1000",
       "title": "Сельский Хеллоуин  #shorts #quest #прикол #юмор",
       "url": "https://www.youtube.com/shorts/DvzSmBwhvVQ",
       "published_at_utc": "2026-11-01T18:41:21+00:00",
-      "age_seconds": 4054
+      "age_seconds": 4175
     },
     {
       "channel": "kropina",
       "title": "ЕДИНСТВЕННАЯ В ИСТОРИИ ЖЕНЩИНА - ЯКУДЗА",
       "url": "https://www.youtube.com/watch?v=c_zZCcypP1k",
       "published_at_utc": "2026-11-01T18:18:13+00:00",
-      "age_seconds": 5418
+      "age_seconds": 5538
     },
     {
       "channel": "LenS",
       "title": "ПУТЬ в ТОП-1: БОРЬБА ЗА ВЫЖИВАНИЕ",
       "url": "https://www.youtube.com/watch?v=WfIx6C223B4",
       "published_at_utc": "2026-11-01T18:12:30+00:00",
-      "age_seconds": 5811
+      "age_seconds": 5933
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Что происходит в Калининграде в воскресенье это надо видеть. Влог 1 ноября 2026 года",
       "url": "https://www.youtube.com/watch?v=TDwAoi7GS78",
       "published_at_utc": "2026-11-01T17:51:51+00:00",
-      "age_seconds": 7015
+      "age_seconds": 7136
     }
   ]
 }
