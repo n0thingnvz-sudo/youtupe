@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-01T09:31:33.759352+00:00",
+  "generated_at_utc": "2026-11-01T09:33:30.007906+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Мармеладыч",
+      "title": "Есть одна проблемка с лимонадом нашим #1апреля",
+      "url": "https://www.youtube.com/shorts/xviEe-6HjQs",
+      "published_at_utc": "2026-11-01T09:19:46+00:00",
+      "age_seconds": 790
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Взрывные декорации",
       "url": "https://www.youtube.com/shorts/mxZN1we_VNE",
       "published_at_utc": "2026-11-01T09:05:05+00:00",
-      "age_seconds": 1541
+      "age_seconds": 1661
     },
     {
       "channel": "Obsidian Time",
       "title": "Инженер строит ФИЗИЧЕСКИЙ ЗАВОД - Sandustry",
       "url": "https://www.youtube.com/watch?v=31cs4TbWipg",
       "published_at_utc": "2026-11-01T09:00:03+00:00",
-      "age_seconds": 1890
+      "age_seconds": 2006
     },
     {
       "channel": "ВПИСКА",
       "title": "Гайдулян - заложник образа Саши из Универа? #шортсы #тренды",
       "url": "https://www.youtube.com/shorts/OVMsc07_xqw",
       "published_at_utc": "2026-11-01T08:00:13+00:00",
-      "age_seconds": 5459
+      "age_seconds": 5577
     },
     {
       "channel": "Короче, новости",
       "title": "Госдума Против Клоунов 🤡 кто кого?",
       "url": "https://www.youtube.com/shorts/CbEhWb7YLQY",
       "published_at_utc": "2026-11-01T07:56:59+00:00",
-      "age_seconds": 5624
+      "age_seconds": 5743
     }
   ]
 }
