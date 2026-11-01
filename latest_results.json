@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-01T16:59:33.959536+00:00",
+  "generated_at_utc": "2026-11-01T17:01:38.423067+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "АМЕРИКАНЦЫ НАШЛИ РУ ЮТУБ (Это ошибка...) ► Колпыч | Реакция",
+      "url": "https://www.youtube.com/watch?v=czz1G4NSomQ",
+      "published_at_utc": "2026-11-01T16:45:01+00:00",
+      "age_seconds": 931
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Майнкрафт и гриферство это одно целое",
       "url": "https://www.youtube.com/shorts/rtBo8cOjrzw",
       "published_at_utc": "2026-11-01T16:30:22+00:00",
-      "age_seconds": 1704
+      "age_seconds": 1827
     },
     {
       "channel": "SHAPKA",
       "title": "Посмотрим ответ Фемочки на мой Ролик...",
       "url": "https://www.youtube.com/watch?v=lMp4UpL7osc",
       "published_at_utc": "2026-11-01T16:22:47+00:00",
-      "age_seconds": 2150
+      "age_seconds": 2272
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Новое меню Ростикс х Doritos",
       "url": "https://www.youtube.com/shorts/oPJlSZoUSCs",
       "published_at_utc": "2026-11-01T16:13:50+00:00",
-      "age_seconds": 2715
+      "age_seconds": 2839
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Муравьиный босс 2",
       "url": "https://www.youtube.com/shorts/sz2RtfPAirM",
       "published_at_utc": "2026-11-01T15:32:13+00:00",
-      "age_seconds": 5193
+      "age_seconds": 5316
     },
     {
       "channel": "ТОПЛЕС",
       "title": "В ОБЫЧНЫХ ЯБЛОКАХ ЕСТЬ ЯД?",
       "url": "https://www.youtube.com/shorts/zGHkGQJRrL0",
       "published_at_utc": "2026-11-01T15:08:46+00:00",
-      "age_seconds": 6588
+      "age_seconds": 6710
     }
   ]
 }
