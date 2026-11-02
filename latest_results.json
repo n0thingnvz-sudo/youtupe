@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-02T08:15:26.234407+00:00",
+  "generated_at_utc": "2026-11-02T08:17:28.394498+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "MrLololoshka (Роман Фильченков)",
+      "title": "👿 Майнкрафт, но Мы Создали ПОСЛЕДНИЙ ПРЕДМЕТ #13 • [Редкость: ЛоФиксовый] + Фиксплей",
+      "url": "https://www.youtube.com/watch?v=UxyKGUUpAxg",
+      "published_at_utc": "2026-11-02T08:00:12+00:00",
+      "age_seconds": 1022
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Шутка на $8.000.000",
       "url": "https://www.youtube.com/shorts/jLl64Mui-78",
       "published_at_utc": "2026-11-02T07:00:38+00:00",
-      "age_seconds": 4445
+      "age_seconds": 4567
     }
   ]
 }
