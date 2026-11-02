@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T10:31:35.485208+00:00",
+  "generated_at_utc": "2026-11-02T10:33:32.787213+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Опасная находка",
       "url": "https://www.youtube.com/shorts/6JyMNZ5v714",
       "published_at_utc": "2026-11-02T10:30:20+00:00",
-      "age_seconds": 27
+      "age_seconds": 145
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Весёлый могильщик #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/oFAm7Wb-8nk",
       "published_at_utc": "2026-11-02T10:13:43+00:00",
-      "age_seconds": 1041
+      "age_seconds": 1159
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Модный Марк",
       "url": "https://www.youtube.com/shorts/2ScjPwG92GI",
       "published_at_utc": "2026-11-02T09:59:52+00:00",
-      "age_seconds": 1855
+      "age_seconds": 1974
     },
     {
       "channel": "Саша Фасоваша",
       "title": "САМЫЙ АБСУРДНЫЙ ПРАЗДНИК",
       "url": "https://www.youtube.com/shorts/3ffLjhAkLQc",
       "published_at_utc": "2026-11-02T09:17:30+00:00",
-      "age_seconds": 4407
+      "age_seconds": 4526
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "И сто рублей, и сто друзей",
       "url": "https://www.youtube.com/shorts/I4eUdpy9NLk",
       "published_at_utc": "2026-11-02T08:41:05+00:00",
-      "age_seconds": 6582
+      "age_seconds": 6701
     }
   ]
 }
