@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T17:11:38.755941+00:00",
+  "generated_at_utc": "2026-11-02T17:13:36.413630+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Я купил iPhone Duo",
       "url": "https://www.youtube.com/watch?v=J_Hj4qdKlgw",
       "published_at_utc": "2026-11-02T17:05:09+00:00",
-      "age_seconds": 380
+      "age_seconds": 497
     },
     {
       "channel": "Майни",
       "title": "Ведьмак 3 [РЕМАСТЕР] \"Баги, Приколы, Фейлы\" ► Marmok ( Марко  ) | Реакция",
       "url": "https://www.youtube.com/watch?v=NQjBeT77I7c",
       "published_at_utc": "2026-11-02T16:30:37+00:00",
-      "age_seconds": 2393
+      "age_seconds": 2513
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Какой план у него был?",
       "url": "https://www.youtube.com/shorts/1Cf64eKSJU0",
       "published_at_utc": "2026-11-02T16:00:37+00:00",
-      "age_seconds": 4211
+      "age_seconds": 4330
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Зачем в коровах делают дырки 🐄",
       "url": "https://www.youtube.com/shorts/hpIAiEAndwQ",
       "published_at_utc": "2026-11-02T15:22:14+00:00",
-      "age_seconds": 6532
+      "age_seconds": 6650
     }
   ]
 }
