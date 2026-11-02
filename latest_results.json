@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T11:59:30.766006+00:00",
+  "generated_at_utc": "2026-11-02T12:01:34.391989+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Его любимый предмет - физра?🤔",
       "url": "https://www.youtube.com/shorts/OYPrdvD2UT0",
       "published_at_utc": "2026-11-02T11:49:20+00:00",
-      "age_seconds": 564
+      "age_seconds": 684
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Американская готовка как отдельный вид искусства",
       "url": "https://www.youtube.com/shorts/ERnyyq30tYI",
       "published_at_utc": "2026-11-02T11:07:22+00:00",
-      "age_seconds": 3084
+      "age_seconds": 3204
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Северокорейские понты",
       "url": "https://www.youtube.com/shorts/oZxJqn2P1Tw",
       "published_at_utc": "2026-11-02T11:00:12+00:00",
-      "age_seconds": 3513
+      "age_seconds": 3634
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Опасная находка",
       "url": "https://www.youtube.com/shorts/6JyMNZ5v714",
       "published_at_utc": "2026-11-02T10:30:20+00:00",
-      "age_seconds": 5305
+      "age_seconds": 5426
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Весёлый могильщик #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/oFAm7Wb-8nk",
       "published_at_utc": "2026-11-02T10:13:43+00:00",
-      "age_seconds": 6319
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Модный Марк",
-      "url": "https://www.youtube.com/shorts/2ScjPwG92GI",
-      "published_at_utc": "2026-11-02T09:59:52+00:00",
-      "age_seconds": 7134
+      "age_seconds": 6441
     }
   ]
 }
