@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-11-02T20:19:44.851155+00:00",
+  "generated_at_utc": "2026-11-02T20:21:40.564431+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Никита Нестеров",
-      "title": "Говори за себя 😳",
-      "url": "https://www.youtube.com/shorts/Qmzcyg8t_g0",
-      "published_at_utc": "2026-11-02T20:13:03+00:00",
-      "age_seconds": 372
-    },
     {
       "channel": "МЯЧ Production",
       "title": "«Арсенал» засушил «Ливерпуль», Кейн простил «Дортмунд», «Интер» проклят в дерби | ХИТ №9",
       "url": "https://www.youtube.com/watch?v=0F7Px9gpyZo",
       "published_at_utc": "2026-11-02T18:23:57+00:00",
-      "age_seconds": 6905
+      "age_seconds": 7021
     }
   ]
 }
