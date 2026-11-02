@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T12:25:31.775944+00:00",
+  "generated_at_utc": "2026-11-02T12:27:32.905325+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "ЭТО КОНЕЦ ДЛЯ БЛИЦА!? 💔 СТРАШНЫЕ НАМЕКИ НА ФИНАЛ 3 СЕЗОНА - ПОЛНЫЙ РАЗБОР 6-7 СЕРИЯ АДСКИЙ БОСС",
       "url": "https://www.youtube.com/watch?v=xuvf6Tbikr8",
       "published_at_utc": "2026-11-02T12:12:10+00:00",
-      "age_seconds": 765
+      "age_seconds": 885
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Побелела",
+      "url": "https://www.youtube.com/shorts/r2cujcVN1G4",
+      "published_at_utc": "2026-11-02T12:05:19+00:00",
+      "age_seconds": 1287
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/Uog0HnFInOY",
       "published_at_utc": "2026-11-02T12:04:54+00:00",
-      "age_seconds": 1210
+      "age_seconds": 1331
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Летающая брынза",
       "url": "https://www.youtube.com/shorts/qUdG-l0E01I",
       "published_at_utc": "2026-11-02T12:00:21+00:00",
-      "age_seconds": 1465
+      "age_seconds": 1585
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/A2rdIkyuChU",
       "published_at_utc": "2026-11-02T11:51:37+00:00",
-      "age_seconds": 1999
+      "age_seconds": 2120
     },
     {
       "channel": "курОлеся",
       "title": "Его любимый предмет - физра?🤔",
       "url": "https://www.youtube.com/shorts/OYPrdvD2UT0",
       "published_at_utc": "2026-11-02T11:49:20+00:00",
-      "age_seconds": 2124
+      "age_seconds": 2244
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Американская готовка как отдельный вид искусства",
       "url": "https://www.youtube.com/shorts/ERnyyq30tYI",
       "published_at_utc": "2026-11-02T11:07:22+00:00",
-      "age_seconds": 4644
+      "age_seconds": 4764
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Северокорейские понты",
       "url": "https://www.youtube.com/shorts/oZxJqn2P1Tw",
       "published_at_utc": "2026-11-02T11:00:12+00:00",
-      "age_seconds": 5074
+      "age_seconds": 5194
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Опасная находка",
       "url": "https://www.youtube.com/shorts/6JyMNZ5v714",
       "published_at_utc": "2026-11-02T10:30:20+00:00",
-      "age_seconds": 6866
+      "age_seconds": 6986
     }
   ]
 }
