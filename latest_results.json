@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T16:15:44.104746+00:00",
+  "generated_at_utc": "2026-11-02T16:17:41.226916+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Какой план у него был?",
       "url": "https://www.youtube.com/shorts/1Cf64eKSJU0",
       "published_at_utc": "2026-11-02T16:00:37+00:00",
-      "age_seconds": 852
+      "age_seconds": 971
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Зачем в коровах делают дырки 🐄",
       "url": "https://www.youtube.com/shorts/hpIAiEAndwQ",
       "published_at_utc": "2026-11-02T15:22:14+00:00",
-      "age_seconds": 3173
+      "age_seconds": 3293
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как это нет соуса?",
       "url": "https://www.youtube.com/shorts/0xIoA3tEFIY",
       "published_at_utc": "2026-11-02T15:00:38+00:00",
-      "age_seconds": 4451
+      "age_seconds": 4570
     },
     {
       "channel": "Короче, новости",
       "title": "Обошёл Землю ПЕШКОМ: Ушёл из Дома 28 лет назад @denmarnews",
       "url": "https://www.youtube.com/shorts/_S06_LqNboU",
       "published_at_utc": "2026-11-02T14:56:07+00:00",
-      "age_seconds": 4717
+      "age_seconds": 4837
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Старик Снуп нарывается на драку",
       "url": "https://www.youtube.com/shorts/DlZQiYY1DSE",
       "published_at_utc": "2026-11-02T14:17:14+00:00",
-      "age_seconds": 7073
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Эта битва будет легендарной",
-      "url": "https://www.youtube.com/shorts/io7W538cIrY",
-      "published_at_utc": "2026-11-02T14:15:16+00:00",
-      "age_seconds": 7173
+      "age_seconds": 7193
     }
   ]
 }
