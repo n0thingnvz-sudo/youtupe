@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-11-02T15:29:37.479921+00:00",
+  "generated_at_utc": "2026-11-02T15:31:41.904048+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Зачем в коровах делают дырки 🐄",
+      "url": "https://www.youtube.com/shorts/hpIAiEAndwQ",
+      "published_at_utc": "2026-11-02T15:22:14+00:00",
+      "age_seconds": 534
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как это нет соуса?",
       "url": "https://www.youtube.com/shorts/0xIoA3tEFIY",
       "published_at_utc": "2026-11-02T15:00:38+00:00",
-      "age_seconds": 1688
+      "age_seconds": 1808
     },
     {
       "channel": "Короче, новости",
       "title": "Обошёл Землю ПЕШКОМ: Ушёл из Дома 28 лет назад @denmarnews",
       "url": "https://www.youtube.com/shorts/_S06_LqNboU",
       "published_at_utc": "2026-11-02T14:56:07+00:00",
-      "age_seconds": 1956
+      "age_seconds": 2076
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Старик Снуп нарывается на драку",
       "url": "https://www.youtube.com/shorts/DlZQiYY1DSE",
       "published_at_utc": "2026-11-02T14:17:14+00:00",
-      "age_seconds": 4311
+      "age_seconds": 4434
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Эта битва будет легендарной",
       "url": "https://www.youtube.com/shorts/io7W538cIrY",
       "published_at_utc": "2026-11-02T14:15:16+00:00",
-      "age_seconds": 4411
+      "age_seconds": 4531
     },
     {
       "channel": "Короче, новости",
       "title": "Это Было Его Последним Желанием в Жизни",
       "url": "https://www.youtube.com/shorts/RL6vpbhLjaA",
       "published_at_utc": "2026-11-02T14:14:01+00:00",
-      "age_seconds": 4482
+      "age_seconds": 4602
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Атака на холодильники разогрели до 50 градусов",
       "url": "https://www.youtube.com/shorts/-0b2QC6jz2s",
       "published_at_utc": "2026-11-02T14:06:23+00:00",
-      "age_seconds": 4944
+      "age_seconds": 5064
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Повезло повезло",
       "url": "https://www.youtube.com/shorts/3Kio2vQ9Ux4",
       "published_at_utc": "2026-11-02T14:00:26+00:00",
-      "age_seconds": 5300
+      "age_seconds": 5420
     },
     {
       "channel": "Короче, новости",
       "title": "Кинотеатр c Гипнозом СОТРЁТ ПАМЯТЬ Зрителям  @denmarnews​",
       "url": "https://www.youtube.com/shorts/EdruMnPzZOc",
       "published_at_utc": "2026-11-02T13:56:47+00:00",
-      "age_seconds": 5516
+      "age_seconds": 5636
     },
     {
       "channel": "Короче, новости",
       "title": "Небоскрёб из Майнкрафта Построят в Москве @denmarnews",
       "url": "https://www.youtube.com/shorts/F2up9n0lhkw",
       "published_at_utc": "2026-11-02T13:37:40+00:00",
-      "age_seconds": 6663
+      "age_seconds": 6783
     }
   ]
 }
