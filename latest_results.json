@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-11-02T16:09:40.055316+00:00",
+  "generated_at_utc": "2026-11-02T16:11:41.422532+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Какой план у него был?",
-      "url": "https://www.youtube.com/shorts/1Cf64eKSJU0",
-      "published_at_utc": "2026-11-02T16:00:37+00:00",
-      "age_seconds": 492
-    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Зачем в коровах делают дырки 🐄",
       "url": "https://www.youtube.com/shorts/hpIAiEAndwQ",
       "published_at_utc": "2026-11-02T15:22:14+00:00",
-      "age_seconds": 2813
+      "age_seconds": 2935
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как это нет соуса?",
       "url": "https://www.youtube.com/shorts/0xIoA3tEFIY",
       "published_at_utc": "2026-11-02T15:00:38+00:00",
-      "age_seconds": 4091
+      "age_seconds": 4212
     },
     {
       "channel": "Короче, новости",
       "title": "Обошёл Землю ПЕШКОМ: Ушёл из Дома 28 лет назад @denmarnews",
       "url": "https://www.youtube.com/shorts/_S06_LqNboU",
       "published_at_utc": "2026-11-02T14:56:07+00:00",
-      "age_seconds": 4359
+      "age_seconds": 4479
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Старик Снуп нарывается на драку",
       "url": "https://www.youtube.com/shorts/DlZQiYY1DSE",
       "published_at_utc": "2026-11-02T14:17:14+00:00",
-      "age_seconds": 6713
+      "age_seconds": 6835
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Эта битва будет легендарной",
       "url": "https://www.youtube.com/shorts/io7W538cIrY",
       "published_at_utc": "2026-11-02T14:15:16+00:00",
-      "age_seconds": 6813
+      "age_seconds": 6934
     },
     {
       "channel": "Короче, новости",
       "title": "Это Было Его Последним Желанием в Жизни",
       "url": "https://www.youtube.com/shorts/RL6vpbhLjaA",
       "published_at_utc": "2026-11-02T14:14:01+00:00",
-      "age_seconds": 6885
+      "age_seconds": 7005
     }
   ]
 }
