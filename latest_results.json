@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T11:01:39.752160+00:00",
+  "generated_at_utc": "2026-11-02T11:03:32.558943+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,28 @@
       "title": "Опасная находка",
       "url": "https://www.youtube.com/shorts/6JyMNZ5v714",
       "published_at_utc": "2026-11-02T10:30:20+00:00",
-      "age_seconds": 1830
-    },
-    {
-      "channel": "Bulkin Drive",
-      "title": "ТЮНИНГ GT-R НА 13.000.000 РУБЛЕЙ - ГОША, КОГДА МЫ ПОЕДЕМ?!",
-      "url": "https://www.youtube.com/watch?v=_Gu1Fio_QQM",
-      "published_at_utc": "2026-11-02T10:26:14+00:00",
-      "age_seconds": 2082
+      "age_seconds": 1946
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Весёлый могильщик #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/oFAm7Wb-8nk",
       "published_at_utc": "2026-11-02T10:13:43+00:00",
-      "age_seconds": 2847
+      "age_seconds": 2960
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Модный Марк",
       "url": "https://www.youtube.com/shorts/2ScjPwG92GI",
       "published_at_utc": "2026-11-02T09:59:52+00:00",
-      "age_seconds": 3658
+      "age_seconds": 3774
     },
     {
       "channel": "Саша Фасоваша",
       "title": "САМЫЙ АБСУРДНЫЙ ПРАЗДНИК НА ЗАВОДЕ МАРМЕЛАДЫЧА",
       "url": "https://www.youtube.com/shorts/3ffLjhAkLQc",
       "published_at_utc": "2026-11-02T09:17:30+00:00",
-      "age_seconds": 6211
+      "age_seconds": 6327
     }
   ]
 }
