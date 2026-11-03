@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-03T20:53:31.059786+00:00",
+  "generated_at_utc": "2026-11-03T20:55:33.600353+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Никита Нестеров",
+      "title": "Любые совпадения случайны 😅",
+      "url": "https://www.youtube.com/shorts/TyX2xekO7lk",
+      "published_at_utc": "2026-11-03T20:48:32+00:00",
+      "age_seconds": 395
+    },
     {
       "channel": "SonnyK",
       "title": "Обзор Phantom Blade Zero | ЭКШЕН ГОДА",
       "url": "https://www.youtube.com/watch?v=DWXPSwXk54E",
       "published_at_utc": "2026-11-03T19:15:08+00:00",
-      "age_seconds": 5886
+      "age_seconds": 6008
     }
   ]
 }
