@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-03T10:17:30.028567+00:00",
+  "generated_at_utc": "2026-11-03T10:19:30.088630+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Всё гениальное просто",
+      "url": "https://www.youtube.com/shorts/JQU43MHaB80",
+      "published_at_utc": "2026-11-03T10:00:04+00:00",
+      "age_seconds": 1120
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Когда твоя собака не защитник 😂",
       "url": "https://www.youtube.com/shorts/5IoYOseGJmU",
       "published_at_utc": "2026-11-03T09:51:19+00:00",
-      "age_seconds": 1543
+      "age_seconds": 1662
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Орешки мистера биста",
       "url": "https://www.youtube.com/shorts/-AUdTd-FH-g",
       "published_at_utc": "2026-11-03T09:12:12+00:00",
-      "age_seconds": 3873
+      "age_seconds": 3993
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Вынес мусор",
       "url": "https://www.youtube.com/shorts/uDAnF1RIPZg",
       "published_at_utc": "2026-11-03T09:00:11+00:00",
-      "age_seconds": 4593
+      "age_seconds": 4713
     }
   ]
 }
