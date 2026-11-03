@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-03T08:45:32.535839+00:00",
+  "generated_at_utc": "2026-11-03T08:47:31.336482+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Это всего лишь Бугатти за €3.000.000",
       "url": "https://www.youtube.com/shorts/KZBLe6Q0zKg",
       "published_at_utc": "2026-11-03T08:00:19+00:00",
-      "age_seconds": 2666
+      "age_seconds": 2788
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Я в зоопарке",
       "url": "https://www.youtube.com/shorts/O8m8g3hK4Dg",
       "published_at_utc": "2026-11-03T07:43:32+00:00",
-      "age_seconds": 3674
+      "age_seconds": 3796
     },
     {
       "channel": "VASYAN1000",
       "title": "Зачем я приехал в село? #shorts #quest #прикол #юмор",
       "url": "https://www.youtube.com/shorts/6yNghkg0nLs",
       "published_at_utc": "2026-11-03T07:38:49+00:00",
-      "age_seconds": 3966
+      "age_seconds": 4088
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Трэвис Уэйн",
       "url": "https://www.youtube.com/shorts/2Vwdsd51W2s",
       "published_at_utc": "2026-11-03T07:00:23+00:00",
-      "age_seconds": 6262
+      "age_seconds": 6384
     }
   ]
 }
