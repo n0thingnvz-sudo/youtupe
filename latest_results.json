@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-03T12:09:38.132714+00:00",
+  "generated_at_utc": "2026-11-03T12:11:36.572522+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Щедрый фортнайт",
+      "url": "https://www.youtube.com/shorts/3rG6xw-eNTc",
+      "published_at_utc": "2026-11-03T12:00:12+00:00",
+      "age_seconds": 636
+    },
     {
       "channel": "Послезавтра",
       "title": "Самая известная деревня Европы #европа #шенген #евросоюз",
       "url": "https://www.youtube.com/shorts/n_ZpLB-VZdw",
       "published_at_utc": "2026-11-03T11:12:49+00:00",
-      "age_seconds": 3340
+      "age_seconds": 3460
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Конец света (точно)",
       "url": "https://www.youtube.com/shorts/rxPdFjsDFxI",
       "published_at_utc": "2026-11-03T10:47:05+00:00",
-      "age_seconds": 4902
+      "age_seconds": 5023
     },
     {
       "channel": "Тру Шорты",
       "title": "Завещание тролля с безумным условием",
       "url": "https://www.youtube.com/shorts/AvWkpdHEyfM",
       "published_at_utc": "2026-11-03T10:17:25+00:00",
-      "age_seconds": 6663
+      "age_seconds": 6783
     }
   ]
 }
