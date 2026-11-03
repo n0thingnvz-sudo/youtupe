@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-03T19:37:43.719596+00:00",
+  "generated_at_utc": "2026-11-03T19:39:36.696259+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Обзор Phantom Blade Zero | ЭКШЕН ГОДА",
       "url": "https://www.youtube.com/watch?v=DWXPSwXk54E",
       "published_at_utc": "2026-11-03T19:15:08+00:00",
-      "age_seconds": 1337
+      "age_seconds": 1450
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Что-то пошло не поплану",
       "url": "https://www.youtube.com/shorts/Qk8cEvdWic4",
       "published_at_utc": "2026-11-03T18:00:14+00:00",
-      "age_seconds": 5800
+      "age_seconds": 5912
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Аварийный запас на 72 часа",
       "url": "https://www.youtube.com/shorts/Kh9jxRtirdw",
       "published_at_utc": "2026-11-03T17:53:26+00:00",
-      "age_seconds": 6209
+      "age_seconds": 6321
     }
   ]
 }
