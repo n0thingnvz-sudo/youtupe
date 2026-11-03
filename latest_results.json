@@ -1,55 +1,41 @@
 {
-  "generated_at_utc": "2026-11-03T16:03:41.386656+00:00",
+  "generated_at_utc": "2026-11-03T16:05:41.494737+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Ассистент грумера",
-      "title": "БЕРНСКАЯ БЕРТА ВЕРНУЛАСЬ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
-      "url": "https://www.youtube.com/shorts/onVq9DS0HlY",
-      "published_at_utc": "2026-11-03T16:00:26+00:00",
-      "age_seconds": 151
-    },
     {
       "channel": "Тимур Сидельников",
       "title": "Как готовят Биг-Мак? (Главный секрет)",
       "url": "https://www.youtube.com/shorts/aT2629NQ89M",
       "published_at_utc": "2026-11-03T15:42:40+00:00",
-      "age_seconds": 1228
+      "age_seconds": 1349
     },
     {
       "channel": "Майни",
       "title": "Злодеи: Общий сбор - Пилот ► ZAMination | Реакция",
       "url": "https://www.youtube.com/watch?v=tNTRf-AHZaU",
       "published_at_utc": "2026-11-03T15:30:08+00:00",
-      "age_seconds": 1943
+      "age_seconds": 2062
     },
     {
       "channel": "leafxup",
       "title": "МОД НА ДИКТАТУРУ...",
       "url": "https://www.youtube.com/watch?v=e1G96-E0_JI",
       "published_at_utc": "2026-11-03T15:10:28+00:00",
-      "age_seconds": 3173
+      "age_seconds": 3294
     },
     {
       "channel": "Короче, новости",
       "title": "Сладкая Месть: Норвегия Троллит Трампа Туалетами @denmarnews",
       "url": "https://www.youtube.com/shorts/tcomTRTvKhY",
       "published_at_utc": "2026-11-03T14:40:27+00:00",
-      "age_seconds": 4937
+      "age_seconds": 5057
     },
     {
       "channel": "Короче, новости",
       "title": "Все Готовятся к Ядерной Войне? @denmarnews",
       "url": "https://www.youtube.com/shorts/HFRWi2-UNuo",
       "published_at_utc": "2026-11-03T14:20:55+00:00",
-      "age_seconds": 6109
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "В России Запретят Пиццу? @denmarnews",
-      "url": "https://www.youtube.com/shorts/qnPrLXmgsZ4",
-      "published_at_utc": "2026-11-03T14:04:38+00:00",
-      "age_seconds": 7086
+      "age_seconds": 6229
     }
   ]
 }
