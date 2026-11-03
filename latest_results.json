@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-03T13:17:36.598772+00:00",
+  "generated_at_utc": "2026-11-03T13:19:38.064185+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Разоблачение на Муд Лапса",
+      "url": "https://www.youtube.com/shorts/i2pDMCFMcPo",
+      "published_at_utc": "2026-11-03T13:00:03+00:00",
+      "age_seconds": 1124
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Это как бульдак, но дороже",
       "url": "https://www.youtube.com/shorts/ZjqHgAtHUwY",
       "published_at_utc": "2026-11-03T12:22:09+00:00",
-      "age_seconds": 3298
+      "age_seconds": 3416
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/gVkC15_T0Wg",
       "published_at_utc": "2026-11-03T12:15:54+00:00",
-      "age_seconds": 3664
+      "age_seconds": 3782
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Щедрый фортнайт",
       "url": "https://www.youtube.com/shorts/3rG6xw-eNTc",
       "published_at_utc": "2026-11-03T12:00:12+00:00",
-      "age_seconds": 4596
+      "age_seconds": 4715
     }
   ]
 }
