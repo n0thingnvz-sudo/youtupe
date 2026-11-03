@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-03T19:01:42.817164+00:00",
+  "generated_at_utc": "2026-11-03T19:03:38.464505+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Что-то пошло не поплану",
       "url": "https://www.youtube.com/shorts/Qk8cEvdWic4",
       "published_at_utc": "2026-11-03T18:00:14+00:00",
-      "age_seconds": 3638
+      "age_seconds": 3754
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Мужик сделал аварийный запас на 72 часа",
       "url": "https://www.youtube.com/shorts/Kh9jxRtirdw",
       "published_at_utc": "2026-11-03T17:53:26+00:00",
-      "age_seconds": 4047
+      "age_seconds": 4163
     },
     {
       "channel": "Майни",
       "title": "КАК Я БРОСИЛ КУРИТЬ (и не курю уже 4 года) ► МИРБИ | Реакция",
       "url": "https://www.youtube.com/watch?v=jbNQ0i571pQ",
       "published_at_utc": "2026-11-03T17:30:29+00:00",
-      "age_seconds": 5401
-    },
-    {
-      "channel": "sun_kill",
-      "title": "может вернуться в преподавание ахахаха",
-      "url": "https://www.youtube.com/shorts/toKSBJTbiWM",
-      "published_at_utc": "2026-11-03T17:01:08+00:00",
-      "age_seconds": 7169
+      "age_seconds": 5522
     }
   ]
 }
