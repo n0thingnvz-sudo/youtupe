@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-03T09:49:30.249437+00:00",
+  "generated_at_utc": "2026-11-03T09:51:28.782053+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Орешки мистера биста",
       "url": "https://www.youtube.com/shorts/-AUdTd-FH-g",
       "published_at_utc": "2026-11-03T09:12:12+00:00",
-      "age_seconds": 2195
+      "age_seconds": 2313
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Вынес мусор",
       "url": "https://www.youtube.com/shorts/uDAnF1RIPZg",
       "published_at_utc": "2026-11-03T09:00:11+00:00",
-      "age_seconds": 2915
+      "age_seconds": 3034
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Это всего лишь Бугатти за €3.000.000",
       "url": "https://www.youtube.com/shorts/KZBLe6Q0zKg",
       "published_at_utc": "2026-11-03T08:00:19+00:00",
-      "age_seconds": 6507
+      "age_seconds": 6626
     }
   ]
 }
