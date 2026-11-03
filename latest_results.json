@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-03T12:33:32.840736+00:00",
+  "generated_at_utc": "2026-11-03T12:35:33.019414+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Это как бульдак, но дороже",
+      "url": "https://www.youtube.com/shorts/ZjqHgAtHUwY",
+      "published_at_utc": "2026-11-03T12:22:09+00:00",
+      "age_seconds": 774
+    },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/gVkC15_T0Wg",
       "published_at_utc": "2026-11-03T12:15:54+00:00",
-      "age_seconds": 1021
+      "age_seconds": 1140
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Щедрый фортнайт",
       "url": "https://www.youtube.com/shorts/3rG6xw-eNTc",
       "published_at_utc": "2026-11-03T12:00:12+00:00",
-      "age_seconds": 1954
+      "age_seconds": 2073
     },
     {
       "channel": "Послезавтра",
       "title": "Самая известная деревня Европы #европа #шенген #евросоюз",
       "url": "https://www.youtube.com/shorts/n_ZpLB-VZdw",
       "published_at_utc": "2026-11-03T11:12:49+00:00",
-      "age_seconds": 4780
+      "age_seconds": 4900
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Конец света (точно)",
       "url": "https://www.youtube.com/shorts/rxPdFjsDFxI",
       "published_at_utc": "2026-11-03T10:47:05+00:00",
-      "age_seconds": 6341
+      "age_seconds": 6460
     }
   ]
 }
