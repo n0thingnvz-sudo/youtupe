@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-03T15:39:35.327046+00:00",
+  "generated_at_utc": "2026-11-03T15:41:39.102741+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "Злодеи: Общий сбор - Пилот ► ZAMination | Реакция",
+      "url": "https://www.youtube.com/watch?v=tNTRf-AHZaU",
+      "published_at_utc": "2026-11-03T15:30:08+00:00",
+      "age_seconds": 623
+    },
     {
       "channel": "leafxup",
       "title": "МОД НА ДИКТАТУРУ...",
       "url": "https://www.youtube.com/watch?v=e1G96-E0_JI",
       "published_at_utc": "2026-11-03T15:10:28+00:00",
-      "age_seconds": 1729
+      "age_seconds": 1853
     },
     {
       "channel": "Короче, новости",
       "title": "Сладкая Месть: Норвегия Троллит Трампа Туалетами @denmarnews",
       "url": "https://www.youtube.com/shorts/tcomTRTvKhY",
       "published_at_utc": "2026-11-03T14:40:27+00:00",
-      "age_seconds": 3496
+      "age_seconds": 3617
     },
     {
       "channel": "Короче, новости",
       "title": "Все Готовятся к Ядерной Войне? @denmarnews",
       "url": "https://www.youtube.com/shorts/HFRWi2-UNuo",
       "published_at_utc": "2026-11-03T14:20:55+00:00",
-      "age_seconds": 4668
+      "age_seconds": 4789
     },
     {
       "channel": "Короче, новости",
       "title": "В России Запретят Пиццу? @denmarnews",
       "url": "https://www.youtube.com/shorts/qnPrLXmgsZ4",
       "published_at_utc": "2026-11-03T14:04:38+00:00",
-      "age_seconds": 5645
+      "age_seconds": 5766
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Не дождался",
       "url": "https://www.youtube.com/shorts/eo2ROgKRGIw",
       "published_at_utc": "2026-11-03T14:00:19+00:00",
-      "age_seconds": 5908
+      "age_seconds": 6029
     },
     {
       "channel": "IG project",
       "title": "😭 БЛИТЦ СТАНЕТ ЗЛОДЕЕМ? ЕГО ПОГЛОТИТ РУ (КОРЕНЬ ЗЛА) 💔 #адскийбосс #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/uabOjnoRMFg",
       "published_at_utc": "2026-11-03T13:47:03+00:00",
-      "age_seconds": 6713
+      "age_seconds": 6834
     }
   ]
 }
