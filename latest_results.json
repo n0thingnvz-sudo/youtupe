@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-11-04T11:09:38.347215+00:00",
+  "generated_at_utc": "2026-11-04T11:11:35.627290+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "Трампу Объявят Импичмент После Поражения на Выборах? @denmarnews",
-      "url": "https://www.youtube.com/shorts/VXFiZr3VoSc",
-      "published_at_utc": "2026-11-04T11:06:05+00:00",
-      "age_seconds": 159
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что ж ты фраер, сдал назад?",
       "url": "https://www.youtube.com/shorts/lL90XwU-7dY",
       "published_at_utc": "2026-11-04T10:15:03+00:00",
-      "age_seconds": 3225
+      "age_seconds": 3344
     },
     {
       "channel": "Короче, новости",
-      "title": "Могнем Повторить: Мизулина Учит Язык Зумеров @denmarnews",
+      "title": "МОГНУлина Учит Язык Зумеров @denmarnews",
       "url": "https://www.youtube.com/shorts/CnADx3UwweU",
       "published_at_utc": "2026-11-04T09:28:15+00:00",
-      "age_seconds": 6029
+      "age_seconds": 6148
     },
     {
       "channel": "Короче, новости",
       "title": "Турция Поёт Калинку: Батраков Круче Месси и Роналду @denmarnews",
       "url": "https://www.youtube.com/shorts/QTbfSIcjiTE",
       "published_at_utc": "2026-11-04T09:25:04+00:00",
-      "age_seconds": 6220
+      "age_seconds": 6339
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "ШахматИИст от бога",
       "url": "https://www.youtube.com/shorts/oUSH0k0u99c",
       "published_at_utc": "2026-11-04T09:14:06+00:00",
-      "age_seconds": 6882
+      "age_seconds": 7001
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему их хоронят заживо? 🙀",
       "url": "https://www.youtube.com/shorts/7hQhytH9Ydo",
       "published_at_utc": "2026-11-04T09:11:35+00:00",
-      "age_seconds": 7050
+      "age_seconds": 7169
     }
   ]
 }
