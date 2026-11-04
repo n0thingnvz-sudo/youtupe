@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-04T11:27:35.633817+00:00",
+  "generated_at_utc": "2026-11-04T11:29:32.745060+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Трамп, У НАС ОТМЕНА: Кто Выиграл Выборы в США @denmarnews",
+      "url": "https://www.youtube.com/shorts/QOfDD5ObsJ8",
+      "published_at_utc": "2026-11-04T11:19:37+00:00",
+      "age_seconds": 545
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Трампу Объявят Импичмент После Поражения на Выборах? @denmarnews",
+      "url": "https://www.youtube.com/shorts/VXFiZr3VoSc",
+      "published_at_utc": "2026-11-04T11:06:05+00:00",
+      "age_seconds": 1357
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что ж ты фраер, сдал назад?",
       "url": "https://www.youtube.com/shorts/lL90XwU-7dY",
       "published_at_utc": "2026-11-04T10:15:03+00:00",
-      "age_seconds": 4305
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Могнем Повторить: Мизулина Учит Язык Зумеров @denmarnews",
-      "url": "https://www.youtube.com/shorts/CnADx3UwweU",
-      "published_at_utc": "2026-11-04T09:28:15+00:00",
-      "age_seconds": 7109
+      "age_seconds": 4423
     }
   ]
 }
