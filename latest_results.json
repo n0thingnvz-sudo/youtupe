@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-04T17:23:39.757438+00:00",
+  "generated_at_utc": "2026-11-04T17:25:35.646059+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,7 @@
       "title": "KFC со вкусом Чили-Лайм",
       "url": "https://www.youtube.com/shorts/cWuXYKF_bDc",
       "published_at_utc": "2026-11-04T16:38:29+00:00",
-      "age_seconds": 2680
-    },
-    {
-      "channel": "Тру Шорты",
-      "title": "Он ещё ходит. Но уже не сам",
-      "url": "https://www.youtube.com/shorts/MXchlylmUWY",
-      "published_at_utc": "2026-11-04T15:23:24+00:00",
-      "age_seconds": 7144
+      "age_seconds": 2797
     }
   ]
 }
