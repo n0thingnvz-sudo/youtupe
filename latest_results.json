@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-04T17:05:43.309422+00:00",
+  "generated_at_utc": "2026-11-04T17:07:43.498082+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,14 @@
       "title": "KFC со вкусом Чили-Лайм",
       "url": "https://www.youtube.com/shorts/cWuXYKF_bDc",
       "published_at_utc": "2026-11-04T16:38:29+00:00",
-      "age_seconds": 1601
-    },
-    {
-      "channel": "Dobryak",
-      "title": "Стриптизерши",
-      "url": "https://www.youtube.com/shorts/pb4AVmKzlT8",
-      "published_at_utc": "2026-11-04T15:40:57+00:00",
-      "age_seconds": 5062
+      "age_seconds": 1720
     },
     {
       "channel": "Тру Шорты",
       "title": "Он ещё ходит. Но уже не сам",
       "url": "https://www.youtube.com/shorts/MXchlylmUWY",
       "published_at_utc": "2026-11-04T15:23:24+00:00",
-      "age_seconds": 6064
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Осудительная благодарность",
-      "url": "https://www.youtube.com/shorts/KdclY1YXGU4",
-      "published_at_utc": "2026-11-04T15:06:37+00:00",
-      "age_seconds": 7091
+      "age_seconds": 6184
     }
   ]
 }
