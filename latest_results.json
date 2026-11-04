@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-04T13:25:42.074422+00:00",
+  "generated_at_utc": "2026-11-04T13:27:41.283553+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "RTX 5090 $6000 баксов коту под хвост",
+      "url": "https://www.youtube.com/shorts/5FybtQBZylI",
+      "published_at_utc": "2026-11-04T13:07:12+00:00",
+      "age_seconds": 1178
+    },
     {
       "channel": "Майни",
       "title": "CALL OF DUTY MODERN WARFARE 4 2026 ПОЛНЫЙ КОНЕЦ ► КАРГАС | Реакция",
       "url": "https://www.youtube.com/watch?v=Vx6du7fCCa0",
       "published_at_utc": "2026-11-04T13:00:34+00:00",
-      "age_seconds": 1436
+      "age_seconds": 1556
     },
     {
       "channel": "Натурал Альбертович",
       "title": "Как Я Стих Сдавал (смешное видео, юмор, прикол, поржать, вайны)",
       "url": "https://www.youtube.com/shorts/qvPM9h5fXJQ",
       "published_at_utc": "2026-11-04T13:00:15+00:00",
-      "age_seconds": 1490
+      "age_seconds": 1610
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/KQleABzQv48",
       "published_at_utc": "2026-11-04T12:55:24+00:00",
-      "age_seconds": 1776
+      "age_seconds": 1896
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Спящие бизнесмены не проснулись",
       "url": "https://www.youtube.com/shorts/rApQQBR1BY4",
       "published_at_utc": "2026-11-04T12:30:06+00:00",
-      "age_seconds": 3282
+      "age_seconds": 3403
     },
     {
       "channel": "курОлеся",
       "title": "Девчонки, сколько попаданий из 8?",
       "url": "https://www.youtube.com/shorts/Znd--U7_w7Y",
       "published_at_utc": "2026-11-04T11:37:30+00:00",
-      "age_seconds": 6436
+      "age_seconds": 6557
     },
     {
       "channel": "Послезавтра",
       "title": "Куда вкладывают деньги в Европе? #европа #евросоюз #люксембург",
       "url": "https://www.youtube.com/shorts/WRkPor6j8WM",
       "published_at_utc": "2026-11-04T11:27:42+00:00",
-      "age_seconds": 7007
+      "age_seconds": 7127
     }
   ]
 }
