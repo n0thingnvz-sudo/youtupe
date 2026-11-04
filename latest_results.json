@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-11-04T17:39:35.853836+00:00",
+  "generated_at_utc": "2026-11-04T17:41:38.705931+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "gamewadafaq",
-      "title": "ПОСЛЕДНЕЕ видео по GTA 5",
-      "url": "https://www.youtube.com/watch?v=EvNOxbfleX0",
-      "published_at_utc": "2026-11-04T17:30:33+00:00",
-      "age_seconds": 539
-    },
     {
       "channel": "Тимур Сидельников",
       "title": "KFC со вкусом Чили-Лайм",
       "url": "https://www.youtube.com/shorts/cWuXYKF_bDc",
       "published_at_utc": "2026-11-04T16:38:29+00:00",
-      "age_seconds": 3637
+      "age_seconds": 3758
     }
   ]
 }
