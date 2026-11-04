@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-04T16:49:42.841773+00:00",
+  "generated_at_utc": "2026-11-04T16:51:41.677645+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "KFC со вкусом Чили-Лайм",
+      "url": "https://www.youtube.com/shorts/cWuXYKF_bDc",
+      "published_at_utc": "2026-11-04T16:38:29+00:00",
+      "age_seconds": 761
+    },
     {
       "channel": "Dobryak",
       "title": "Стриптизерши",
       "url": "https://www.youtube.com/shorts/pb4AVmKzlT8",
       "published_at_utc": "2026-11-04T15:40:57+00:00",
-      "age_seconds": 4103
+      "age_seconds": 4222
     },
     {
       "channel": "Тру Шорты",
       "title": "Он ещё ходит. Но уже не сам",
       "url": "https://www.youtube.com/shorts/MXchlylmUWY",
       "published_at_utc": "2026-11-04T15:23:24+00:00",
-      "age_seconds": 5104
+      "age_seconds": 5224
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Осудительная благодарность",
       "url": "https://www.youtube.com/shorts/KdclY1YXGU4",
       "published_at_utc": "2026-11-04T15:06:37+00:00",
-      "age_seconds": 6134
+      "age_seconds": 6253
     },
     {
       "channel": "Майни",
       "title": "САМАЯ ТУПАЯ НЕЙРОСЕТЬ УСТРОИЛА ВОЙНУ в GTA SAMP ► STRAYF ( ГТА СТРЕЙФ ) | Реакция",
       "url": "https://www.youtube.com/watch?v=d0MRjtEZqjA",
       "published_at_utc": "2026-11-04T15:00:05+00:00",
-      "age_seconds": 6508
+      "age_seconds": 6625
     }
   ]
 }
