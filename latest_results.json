@@ -1,48 +1,34 @@
 {
-  "generated_at_utc": "2026-11-04T09:39:29.935431+00:00",
+  "generated_at_utc": "2026-11-04T09:43:30.648722+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "МОГНУлина Учит Язык Зумеров @denmarnews",
-      "url": "https://www.youtube.com/shorts/CnADx3UwweU",
-      "published_at_utc": "2026-11-04T09:28:15+00:00",
-      "age_seconds": 627
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Турция Поёт Калинку: Батраков Круче Месси и Роналду @denmarnews",
-      "url": "https://www.youtube.com/shorts/QTbfSIcjiTE",
-      "published_at_utc": "2026-11-04T09:25:04+00:00",
-      "age_seconds": 818
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "ШахматИИст от бога",
       "url": "https://www.youtube.com/shorts/oUSH0k0u99c",
       "published_at_utc": "2026-11-04T09:14:06+00:00",
-      "age_seconds": 1479
+      "age_seconds": 1719
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему их хоронят заживо? 🙀",
       "url": "https://www.youtube.com/shorts/7hQhytH9Ydo",
       "published_at_utc": "2026-11-04T09:11:35+00:00",
-      "age_seconds": 1646
+      "age_seconds": 1885
     },
     {
       "channel": "Dobryak",
-      "title": "Я Алкоголик.",
+      "title": "Я Алкоголик. (Анимация)",
       "url": "https://www.youtube.com/watch?v=_L4lclLfnnU",
       "published_at_utc": "2026-11-04T09:08:52+00:00",
-      "age_seconds": 1819
+      "age_seconds": 2058
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Реально ОБЕЗВРЕДИЛИ Бомбу • [Немой, Глухой, Слепой] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=dzfQglDY0Pc",
       "published_at_utc": "2026-11-04T08:00:21+00:00",
-      "age_seconds": 5934
+      "age_seconds": 6173
     }
   ]
 }
