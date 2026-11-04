@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-04T15:47:39.825305+00:00",
+  "generated_at_utc": "2026-11-04T15:49:46.388192+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Dobryak",
+      "title": "Стриптизерши",
+      "url": "https://www.youtube.com/shorts/pb4AVmKzlT8",
+      "published_at_utc": "2026-11-04T15:40:57+00:00",
+      "age_seconds": 505
+    },
     {
       "channel": "Тру Шорты",
       "title": "Он ещё ходит. Но уже не сам",
       "url": "https://www.youtube.com/shorts/MXchlylmUWY",
       "published_at_utc": "2026-11-04T15:23:24+00:00",
-      "age_seconds": 1384
+      "age_seconds": 1504
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Осудительная благодарность",
       "url": "https://www.youtube.com/shorts/KdclY1YXGU4",
       "published_at_utc": "2026-11-04T15:06:37+00:00",
-      "age_seconds": 2411
+      "age_seconds": 2531
     },
     {
       "channel": "Майни",
       "title": "САМАЯ ТУПАЯ НЕЙРОСЕТЬ УСТРОИЛА ВОЙНУ в GTA SAMP ► STRAYF ( ГТА СТРЕЙФ ) | Реакция",
       "url": "https://www.youtube.com/watch?v=d0MRjtEZqjA",
       "published_at_utc": "2026-11-04T15:00:05+00:00",
-      "age_seconds": 2785
+      "age_seconds": 2905
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Инвестор от бога",
       "url": "https://www.youtube.com/shorts/bvmhF7jU-Hw",
       "published_at_utc": "2026-11-04T13:48:50+00:00",
-      "age_seconds": 7078
+      "age_seconds": 7198
     }
   ]
 }
