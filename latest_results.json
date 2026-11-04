@@ -1,27 +1,41 @@
 {
-  "generated_at_utc": "2026-11-04T11:37:35.333922+00:00",
+  "generated_at_utc": "2026-11-04T11:39:33.821082+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Куда вкладывают деньги в Европе? #европа #евросоюз #люксембург",
+      "url": "https://www.youtube.com/shorts/WRkPor6j8WM",
+      "published_at_utc": "2026-11-04T11:27:42+00:00",
+      "age_seconds": 647
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Мистер Бист переиграл",
       "url": "https://www.youtube.com/shorts/LTJpcOl3rVQ",
       "published_at_utc": "2026-11-04T11:20:11+00:00",
-      "age_seconds": 998
+      "age_seconds": 1117
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Трамп, У НАС ОТМЕНА: Кто Выиграл Выборы в США @denmarnews",
+      "url": "https://www.youtube.com/shorts/QOfDD5ObsJ8",
+      "published_at_utc": "2026-11-04T11:19:37+00:00",
+      "age_seconds": 1147
     },
     {
       "channel": "Короче, новости",
       "title": "Трампу Объявят Импичмент После Поражения на Выборах? @denmarnews",
       "url": "https://www.youtube.com/shorts/VXFiZr3VoSc",
       "published_at_utc": "2026-11-04T11:06:05+00:00",
-      "age_seconds": 1840
+      "age_seconds": 1959
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что ж ты фраер, сдал назад?",
       "url": "https://www.youtube.com/shorts/lL90XwU-7dY",
       "published_at_utc": "2026-11-04T10:15:03+00:00",
-      "age_seconds": 4906
+      "age_seconds": 5025
     }
   ]
 }
