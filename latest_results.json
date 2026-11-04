@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-04T18:09:42.594508+00:00",
+  "generated_at_utc": "2026-11-04T18:11:39.683770+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "DeadP47",
+      "title": "Антон Логвинов МОГНУЛ Phantom Blade Zero",
+      "url": "https://www.youtube.com/watch?v=ImR7EpqqgkI",
+      "published_at_utc": "2026-11-04T17:59:06+00:00",
+      "age_seconds": 743
+    },
     {
       "channel": "sun_kill",
       "title": "Наконец-то дошли руки #влог #элевэйт #фандомфест",
       "url": "https://www.youtube.com/shorts/88pDy-isgX4",
       "published_at_utc": "2026-11-04T17:51:09+00:00",
-      "age_seconds": 1043
+      "age_seconds": 1163
     },
     {
       "channel": "gamewadafaq",
       "title": "ПОСЛЕДНЕЕ видео по GTA 5",
       "url": "https://www.youtube.com/watch?v=EvNOxbfleX0",
       "published_at_utc": "2026-11-04T17:30:33+00:00",
-      "age_seconds": 2346
+      "age_seconds": 2463
     },
     {
       "channel": "Тимур Сидельников",
       "title": "KFC со вкусом Чили-Лайм",
       "url": "https://www.youtube.com/shorts/cWuXYKF_bDc",
       "published_at_utc": "2026-11-04T16:38:29+00:00",
-      "age_seconds": 5444
+      "age_seconds": 5559
     }
   ]
 }
