@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-05T20:21:45.809953+00:00",
+  "generated_at_utc": "2026-11-05T20:24:01.095708+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Bulkin Drive",
+      "title": "ВСЕ МОИ ТАЧКИ - УСТАНОВИЛ ЛИЧНЫЙ РЕКОРД СКОРОСТИ! РАЗОГНАЛ КАЖДУЮ ДО МАКСИМАЛКИ!",
+      "url": "https://www.youtube.com/watch?v=LYCM1kMYC-Y",
+      "published_at_utc": "2026-11-05T20:11:26+00:00",
+      "age_seconds": 693
+    },
     {
       "channel": "ЕГОР ШКРЕД",
       "title": "ЭКСТРЕМАЛЬНОЕ ЗАДАНИЕ с БАБУШКОЙ «мне очень жаль, что так случилось»",
       "url": "https://www.youtube.com/watch?v=JRYYFCisbcM",
       "published_at_utc": "2026-11-05T19:55:55+00:00",
-      "age_seconds": 1501
+      "age_seconds": 1621
     },
     {
       "channel": "Никита Нестеров",
       "title": "Вообще звучит логично.. 🤔",
       "url": "https://www.youtube.com/shorts/5q2y6GfE2O0",
       "published_at_utc": "2026-11-05T19:00:44+00:00",
-      "age_seconds": 4832
+      "age_seconds": 4951
     }
   ]
 }
