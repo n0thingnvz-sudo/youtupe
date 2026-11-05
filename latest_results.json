@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-05T10:01:32.129550+00:00",
+  "generated_at_utc": "2026-11-05T10:03:34.042706+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "У рейнболта конкурент",
       "url": "https://www.youtube.com/shorts/AmLa62DlbvQ",
       "published_at_utc": "2026-11-05T09:14:57+00:00",
-      "age_seconds": 2749
+      "age_seconds": 2869
     },
     {
       "channel": "i11ushenka",
       "title": "Что пошло не так на борту самолета",
       "url": "https://www.youtube.com/shorts/tKTq2I-mTaQ",
       "published_at_utc": "2026-11-05T09:00:07+00:00",
-      "age_seconds": 3624
+      "age_seconds": 3744
     },
     {
       "channel": "Послезавтра",
       "title": "Тайна Spotify #люксембург #деньги #экономика",
       "url": "https://www.youtube.com/shorts/RaI0BBGv9qA",
       "published_at_utc": "2026-11-05T08:09:43+00:00",
-      "age_seconds": 6646
+      "age_seconds": 6766
     }
   ]
 }
