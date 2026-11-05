@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-05T17:07:49.606103+00:00",
+  "generated_at_utc": "2026-11-05T17:09:47.481716+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "TheBrianMaps",
+      "title": "Я нашёл РЕЦЕПТ, который лучше не готовить одному..",
+      "url": "https://www.youtube.com/watch?v=CNaBg3vMVp4",
+      "published_at_utc": "2026-11-05T16:49:04+00:00",
+      "age_seconds": 1225
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Самый удачный и неудачный день одновременно",
       "url": "https://www.youtube.com/shorts/aqHO-Hn0pdg",
       "published_at_utc": "2026-11-05T16:30:03+00:00",
-      "age_seconds": 2207
+      "age_seconds": 2325
     },
     {
       "channel": "Короче, новости",
       "title": "Эйфелеву Башню Закрыли: Париж Готовится к Новым Протестам @denmarnews",
       "url": "https://www.youtube.com/shorts/fCoUgLivUn0",
       "published_at_utc": "2026-11-05T16:00:35+00:00",
-      "age_seconds": 3972
+      "age_seconds": 4089
     },
     {
       "channel": "LenS",
       "title": "УДИВИЛ СТРЕЯ НОВОЙ СИГНАТУРКОЙ на ТУРНИРЕ за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=UCmKxbfBoAo",
       "published_at_utc": "2026-11-05T15:54:11+00:00",
-      "age_seconds": 4407
+      "age_seconds": 4525
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это окуп",
       "url": "https://www.youtube.com/shorts/u92M1MMNiZw",
       "published_at_utc": "2026-11-05T15:50:35+00:00",
-      "age_seconds": 4576
+      "age_seconds": 4694
     },
     {
       "channel": "ТОПЛЕС",
       "title": "ОГОНЬ — это ПЛАЗМА? Развенчиваем мифы!",
       "url": "https://www.youtube.com/shorts/kHUtVJa7wE8",
       "published_at_utc": "2026-11-05T15:32:22+00:00",
-      "age_seconds": 5655
+      "age_seconds": 5773
     }
   ]
 }
