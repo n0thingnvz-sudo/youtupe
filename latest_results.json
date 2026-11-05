@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-11-05T16:31:46.877355+00:00",
+  "generated_at_utc": "2026-11-05T16:33:43.292817+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Самый удачный и неудачный день одновременно",
+      "url": "https://www.youtube.com/shorts/aqHO-Hn0pdg",
+      "published_at_utc": "2026-11-05T16:30:03+00:00",
+      "age_seconds": 165
+    },
     {
       "channel": "Короче, новости",
       "title": "Эйфелеву Башню Закрыли: Париж Готовится к Новым Протестам @denmarnews",
       "url": "https://www.youtube.com/shorts/fCoUgLivUn0",
       "published_at_utc": "2026-11-05T16:00:35+00:00",
-      "age_seconds": 1814
+      "age_seconds": 1930
     },
     {
       "channel": "LenS",
       "title": "УДИВИЛ СТРЕЯ НОВОЙ СИГНАТУРКОЙ на ТУРНИРЕ за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=UCmKxbfBoAo",
       "published_at_utc": "2026-11-05T15:54:11+00:00",
-      "age_seconds": 2245
+      "age_seconds": 2361
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это окуп",
       "url": "https://www.youtube.com/shorts/u92M1MMNiZw",
       "published_at_utc": "2026-11-05T15:50:35+00:00",
-      "age_seconds": 2418
+      "age_seconds": 2534
     },
     {
       "channel": "ТОПЛЕС",
       "title": "ОГОНЬ — это ПЛАЗМА? Развенчиваем мифы!",
       "url": "https://www.youtube.com/shorts/kHUtVJa7wE8",
       "published_at_utc": "2026-11-05T15:32:22+00:00",
-      "age_seconds": 3497
+      "age_seconds": 3613
     },
     {
       "channel": "МЯЧ Production",
       "title": "ТОП 10 Команд, ставших лучше без звезды",
       "url": "https://www.youtube.com/watch?v=18YDKVDDhsw",
       "published_at_utc": "2026-11-05T15:00:34+00:00",
-      "age_seconds": 5431
+      "age_seconds": 5543
     },
     {
       "channel": "i11ushenka",
       "title": "Культура отмены vs шахтёры-гигачады",
       "url": "https://www.youtube.com/shorts/xDMRe1vSrd8",
       "published_at_utc": "2026-11-05T15:00:12+00:00",
-      "age_seconds": 5421
+      "age_seconds": 5539
     },
     {
       "channel": "Короче, новости",
       "title": "Повара Уволили из-за ПИЦЦЫ С АНАНАСАМИ @denmarnews",
       "url": "https://www.youtube.com/shorts/jZAU_XZOWgs",
       "published_at_utc": "2026-11-05T15:00:09+00:00",
-      "age_seconds": 5440
+      "age_seconds": 5556
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Китайский надувной ДОМ за 25 тыщ",
       "url": "https://www.youtube.com/shorts/dTTOGGvN5I0",
       "published_at_utc": "2026-11-05T14:55:37+00:00",
-      "age_seconds": 5739
+      "age_seconds": 5852
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Майкл из ГТА 5 в Москве",
       "url": "https://www.youtube.com/shorts/o1zF60L5zzY",
       "published_at_utc": "2026-11-05T14:50:19+00:00",
-      "age_seconds": 6034
+      "age_seconds": 6150
     },
     {
       "channel": "dikiy_vadik",
       "title": "В отношениях",
       "url": "https://www.youtube.com/shorts/xdpMDefH7sc",
       "published_at_utc": "2026-11-05T14:48:03+00:00",
-      "age_seconds": 6188
+      "age_seconds": 6301
     }
   ]
 }
