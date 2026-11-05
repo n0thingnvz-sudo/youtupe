@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-05T15:07:46.316279+00:00",
+  "generated_at_utc": "2026-11-05T15:10:03.505498+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Надувной ДОМ за 25 тыщ",
       "url": "https://www.youtube.com/shorts/dTTOGGvN5I0",
       "published_at_utc": "2026-11-05T14:55:37+00:00",
-      "age_seconds": 693
+      "age_seconds": 833
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Майкл из ГТА 5 в Москве",
+      "url": "https://www.youtube.com/shorts/o1zF60L5zzY",
+      "published_at_utc": "2026-11-05T14:50:19+00:00",
+      "age_seconds": 1131
     },
     {
       "channel": "dikiy_vadik",
       "title": "В отношениях",
       "url": "https://www.youtube.com/shorts/xdpMDefH7sc",
       "published_at_utc": "2026-11-05T14:48:03+00:00",
-      "age_seconds": 1141
+      "age_seconds": 1282
     },
     {
       "channel": "Короче, новости",
       "title": "Эта Капча Взбесила Хакеров КНДР @denmarnews",
       "url": "https://www.youtube.com/shorts/hFr__fuJ9U8",
       "published_at_utc": "2026-11-05T14:04:32+00:00",
-      "age_seconds": 3732
+      "age_seconds": 3874
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Какой мичиганец не любит быстрой езды",
       "url": "https://www.youtube.com/shorts/b3vEiJN9auc",
       "published_at_utc": "2026-11-05T14:00:43+00:00",
-      "age_seconds": 3966
+      "age_seconds": 4107
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Утонет или не утонет? #boardgames #настольныеигры #игры #games #настолки",
       "url": "https://www.youtube.com/shorts/mCSy_oT_vbg",
       "published_at_utc": "2026-11-05T13:58:49+00:00",
-      "age_seconds": 4099
+      "age_seconds": 4240
     },
     {
       "channel": "Короче, новости",
       "title": "Роналду Точно Уходит: Когда Последний Матч? @denmarnews",
       "url": "https://www.youtube.com/shorts/cMuyBOk9GxY",
       "published_at_utc": "2026-11-05T13:58:23+00:00",
-      "age_seconds": 4101
+      "age_seconds": 4243
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Проверка жениха по-китайски",
       "url": "https://www.youtube.com/shorts/cE-O9xWUVP0",
       "published_at_utc": "2026-11-05T13:52:50+00:00",
-      "age_seconds": 4438
+      "age_seconds": 4580
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кетцалькоатль 👀 Гигантский птерозавр",
       "url": "https://www.youtube.com/shorts/kvG7ZwR4ibE",
       "published_at_utc": "2026-11-05T13:10:12+00:00",
-      "age_seconds": 7016
+      "age_seconds": 7156
     }
   ]
 }
