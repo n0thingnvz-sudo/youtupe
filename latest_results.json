@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-05T09:01:27.878710+00:00",
+  "generated_at_utc": "2026-11-05T09:03:29.344361+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Что пошло не так на борту самолета",
+      "url": "https://www.youtube.com/shorts/tKTq2I-mTaQ",
+      "published_at_utc": "2026-11-05T09:00:07+00:00",
+      "age_seconds": 144
+    },
     {
       "channel": "Послезавтра",
       "title": "Тайна Spotify #люксембург #деньги #экономика",
       "url": "https://www.youtube.com/shorts/RaI0BBGv9qA",
       "published_at_utc": "2026-11-05T08:09:43+00:00",
-      "age_seconds": 3046
+      "age_seconds": 3166
     },
     {
       "channel": "Новостной Гусь",
       "title": "Сколько Трампу осталось быть президентом?",
       "url": "https://www.youtube.com/shorts/0Zrh8lCRKO4",
       "published_at_utc": "2026-11-05T07:30:30+00:00",
-      "age_seconds": 5413
+      "age_seconds": 5534
     }
   ]
 }
