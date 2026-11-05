@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-05T09:31:29.801252+00:00",
+  "generated_at_utc": "2026-11-05T09:33:39.139031+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "У рейнболта конкурент",
+      "url": "https://www.youtube.com/shorts/AmLa62DlbvQ",
+      "published_at_utc": "2026-11-05T09:14:57+00:00",
+      "age_seconds": 1075
+    },
     {
       "channel": "i11ushenka",
       "title": "Что пошло не так на борту самолета",
       "url": "https://www.youtube.com/shorts/tKTq2I-mTaQ",
       "published_at_utc": "2026-11-05T09:00:07+00:00",
-      "age_seconds": 1824
+      "age_seconds": 1944
     },
     {
       "channel": "Послезавтра",
       "title": "Тайна Spotify #люксембург #деньги #экономика",
       "url": "https://www.youtube.com/shorts/RaI0BBGv9qA",
       "published_at_utc": "2026-11-05T08:09:43+00:00",
-      "age_seconds": 4846
+      "age_seconds": 4966
     }
   ]
 }
