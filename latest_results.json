@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-05T08:15:25.650591+00:00",
+  "generated_at_utc": "2026-11-05T08:17:26.289157+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Тайна Spotify #люксембург #деньги #экономика",
+      "url": "https://www.youtube.com/shorts/RaI0BBGv9qA",
+      "published_at_utc": "2026-11-05T08:09:43+00:00",
+      "age_seconds": 406
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Сколько Трампу осталось быть президентом?",
       "url": "https://www.youtube.com/shorts/0Zrh8lCRKO4",
       "published_at_utc": "2026-11-05T07:30:30+00:00",
-      "age_seconds": 2653
+      "age_seconds": 2773
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Горный козёл это вообще что такое 😐",
       "url": "https://www.youtube.com/shorts/Nndzjb6CHyI",
       "published_at_utc": "2026-11-05T06:48:35+00:00",
-      "age_seconds": 5184
+      "age_seconds": 5304
     }
   ]
 }
