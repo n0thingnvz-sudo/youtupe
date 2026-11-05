@@ -1,76 +1,69 @@
 {
-  "generated_at_utc": "2026-11-05T16:51:45.981787+00:00",
+  "generated_at_utc": "2026-11-05T16:53:46.661016+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "TheBrianMaps",
-      "title": "Я нашёл РЕЦЕПТ, который лучше не готовить одному..",
-      "url": "https://www.youtube.com/watch?v=CNaBg3vMVp4",
-      "published_at_utc": "2026-11-05T16:49:04+00:00",
-      "age_seconds": 145
-    },
     {
       "channel": "Новостной Гусь",
       "title": "Самый удачный и неудачный день одновременно",
       "url": "https://www.youtube.com/shorts/aqHO-Hn0pdg",
       "published_at_utc": "2026-11-05T16:30:03+00:00",
-      "age_seconds": 1246
+      "age_seconds": 1366
     },
     {
       "channel": "Короче, новости",
       "title": "Эйфелеву Башню Закрыли: Париж Готовится к Новым Протестам @denmarnews",
       "url": "https://www.youtube.com/shorts/fCoUgLivUn0",
       "published_at_utc": "2026-11-05T16:00:35+00:00",
-      "age_seconds": 3011
+      "age_seconds": 3131
     },
     {
       "channel": "LenS",
       "title": "УДИВИЛ СТРЕЯ НОВОЙ СИГНАТУРКОЙ на ТУРНИРЕ за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=UCmKxbfBoAo",
       "published_at_utc": "2026-11-05T15:54:11+00:00",
-      "age_seconds": 3444
+      "age_seconds": 3564
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это окуп",
       "url": "https://www.youtube.com/shorts/u92M1MMNiZw",
       "published_at_utc": "2026-11-05T15:50:35+00:00",
-      "age_seconds": 3615
+      "age_seconds": 3735
     },
     {
       "channel": "ТОПЛЕС",
       "title": "ОГОНЬ — это ПЛАЗМА? Развенчиваем мифы!",
       "url": "https://www.youtube.com/shorts/kHUtVJa7wE8",
       "published_at_utc": "2026-11-05T15:32:22+00:00",
-      "age_seconds": 4694
+      "age_seconds": 4814
     },
     {
       "channel": "МЯЧ Production",
       "title": "ТОП 10 Команд, ставших лучше без звезды",
       "url": "https://www.youtube.com/watch?v=18YDKVDDhsw",
       "published_at_utc": "2026-11-05T15:00:34+00:00",
-      "age_seconds": 6625
+      "age_seconds": 6744
     },
     {
       "channel": "i11ushenka",
       "title": "Культура отмены vs шахтёры-гигачады",
       "url": "https://www.youtube.com/shorts/xDMRe1vSrd8",
       "published_at_utc": "2026-11-05T15:00:12+00:00",
-      "age_seconds": 6621
+      "age_seconds": 6740
     },
     {
       "channel": "Короче, новости",
       "title": "Повара Уволили из-за ПИЦЦЫ С АНАНАСАМИ @denmarnews",
       "url": "https://www.youtube.com/shorts/jZAU_XZOWgs",
       "published_at_utc": "2026-11-05T15:00:09+00:00",
-      "age_seconds": 6637
+      "age_seconds": 6757
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Китайский надувной ДОМ за 25 тыщ",
       "url": "https://www.youtube.com/shorts/dTTOGGvN5I0",
       "published_at_utc": "2026-11-05T14:55:37+00:00",
-      "age_seconds": 6935
+      "age_seconds": 7057
     }
   ]
 }
