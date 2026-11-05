@@ -1,34 +1,48 @@
 {
-  "generated_at_utc": "2026-11-05T13:13:34.204617+00:00",
+  "generated_at_utc": "2026-11-05T13:15:36.559637+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Кетцалькоатль 👀 Гигантский птерозавр",
+      "url": "https://www.youtube.com/shorts/kvG7ZwR4ibE",
+      "published_at_utc": "2026-11-05T13:10:12+00:00",
+      "age_seconds": 293
+    },
+    {
+      "channel": "Новостной Гусь",
+      "title": "Северокорейская шпионка узнала все пароли",
+      "url": "https://www.youtube.com/shorts/MkrM3XUVje8",
+      "published_at_utc": "2026-11-05T13:00:16+00:00",
+      "age_seconds": 871
+    },
     {
       "channel": "sun_kill",
       "title": "быть 10 лет в отношениях или… #тренд #отношения",
       "url": "https://www.youtube.com/shorts/ow9yexXA5Cg",
       "published_at_utc": "2026-11-05T12:47:44+00:00",
-      "age_seconds": 1488
+      "age_seconds": 1608
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Викторина без права на ошибку",
       "url": "https://www.youtube.com/shorts/urZZLxOzXY8",
       "published_at_utc": "2026-11-05T12:43:39+00:00",
-      "age_seconds": 1747
+      "age_seconds": 1869
     },
     {
       "channel": "i11ushenka",
       "title": "Когда преступник слишком хорош...государство его нанимает",
       "url": "https://www.youtube.com/shorts/iLPQpgl5lnA",
       "published_at_utc": "2026-11-05T12:35:13+00:00",
-      "age_seconds": 2238
+      "age_seconds": 2358
     },
     {
       "channel": "Мармеладыч",
       "title": "Меня и Мой Бренд Отменяют :(",
       "url": "https://www.youtube.com/shorts/Bwlee845g4I",
       "published_at_utc": "2026-11-05T12:02:26+00:00",
-      "age_seconds": 4232
+      "age_seconds": 4353
     }
   ]
 }
