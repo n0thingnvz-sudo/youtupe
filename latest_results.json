@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-06T16:19:39.073289+00:00",
+  "generated_at_utc": "2026-11-06T16:21:35.347720+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Кабан Кабаныч решает вопросики",
+      "url": "https://www.youtube.com/shorts/uCR17FhVeac",
+      "published_at_utc": "2026-11-06T16:00:29+00:00",
+      "age_seconds": 1218
+    },
     {
       "channel": "Майни",
       "title": "ВСЕ МЕМЫ ОКТЯБРЯ ► небуди | Реакция",
       "url": "https://www.youtube.com/watch?v=rg6I8cCWFtY",
       "published_at_utc": "2026-11-06T15:45:02+00:00",
-      "age_seconds": 2009
+      "age_seconds": 2128
     },
     {
       "channel": "SHAPKA",
       "title": "СЛАВЯНСКИЕ МУЖЧИНЫ НЕ НУЖНЫ ИНОСТРАНКАМ. ЧЕ??",
       "url": "https://www.youtube.com/watch?v=gikpo-EieJM",
       "published_at_utc": "2026-11-06T15:22:44+00:00",
-      "age_seconds": 3355
+      "age_seconds": 3473
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Маленькие чаевые",
       "url": "https://www.youtube.com/shorts/ePAcMgWMEQE",
       "published_at_utc": "2026-11-06T15:22:29+00:00",
-      "age_seconds": 3380
+      "age_seconds": 3498
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Гепарды чирикают. И это прекрасно 😍",
       "url": "https://www.youtube.com/shorts/djjUYoV5EXw",
       "published_at_utc": "2026-11-06T14:27:35+00:00",
-      "age_seconds": 6693
+      "age_seconds": 6809
     }
   ]
 }
