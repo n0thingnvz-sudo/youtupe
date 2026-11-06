@@ -1,48 +1,62 @@
 {
-  "generated_at_utc": "2026-11-06T16:45:45.600282+00:00",
+  "generated_at_utc": "2026-11-06T16:47:36.126798+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Alina Мuradimova",
+      "title": "Он идеальный... работодатель? 💔",
+      "url": "https://www.youtube.com/shorts/57FEXBIv36o",
+      "published_at_utc": "2026-11-06T16:46:30+00:00",
+      "age_seconds": 23
+    },
     {
       "channel": "sun_kill",
       "title": "ПРОВЕРЯЕМ НАШУ МЕНТАЛЬНУЮ СВЯЗЬ (не очень связаны)",
       "url": "https://www.youtube.com/shorts/1t-UebussR8",
       "published_at_utc": "2026-11-06T16:35:55+00:00",
-      "age_seconds": 517
+      "age_seconds": 638
+    },
+    {
+      "channel": "Новостной Гусь",
+      "title": "Бесконечное кругосветное путешествие... закончилось",
+      "url": "https://www.youtube.com/shorts/rxeBVr8Z9DE",
+      "published_at_utc": "2026-11-06T16:30:29+00:00",
+      "age_seconds": 978
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Проиграли и битву и войну",
       "url": "https://www.youtube.com/shorts/If2hOiYZV5g",
       "published_at_utc": "2026-11-06T16:22:59+00:00",
-      "age_seconds": 1316
+      "age_seconds": 1429
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Кабан Кабаныч решает вопросики",
       "url": "https://www.youtube.com/shorts/uCR17FhVeac",
       "published_at_utc": "2026-11-06T16:00:29+00:00",
-      "age_seconds": 2666
+      "age_seconds": 2778
     },
     {
       "channel": "Майни",
       "title": "ВСЕ МЕМЫ ОКТЯБРЯ ► небуди | Реакция",
       "url": "https://www.youtube.com/watch?v=rg6I8cCWFtY",
       "published_at_utc": "2026-11-06T15:45:02+00:00",
-      "age_seconds": 3568
+      "age_seconds": 3689
     },
     {
       "channel": "SHAPKA",
       "title": "СЛАВЯНСКИЕ МУЖЧИНЫ НЕ НУЖНЫ ИНОСТРАНКАМ. ЧЕ??",
       "url": "https://www.youtube.com/watch?v=gikpo-EieJM",
       "published_at_utc": "2026-11-06T15:22:44+00:00",
-      "age_seconds": 4914
+      "age_seconds": 5034
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Маленькие чаевые",
       "url": "https://www.youtube.com/shorts/ePAcMgWMEQE",
       "published_at_utc": "2026-11-06T15:22:29+00:00",
-      "age_seconds": 4946
+      "age_seconds": 5059
     }
   ]
 }
