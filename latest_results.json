@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-06T16:09:37.525553+00:00",
+  "generated_at_utc": "2026-11-06T16:11:41.588062+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Кабан Кабаныч решает вопросики",
+      "url": "https://www.youtube.com/shorts/uCR17FhVeac",
+      "published_at_utc": "2026-11-06T16:00:29+00:00",
+      "age_seconds": 618
+    },
     {
       "channel": "Майни",
       "title": "ВСЕ МЕМЫ ОКТЯБРЯ ► небуди | Реакция",
       "url": "https://www.youtube.com/watch?v=rg6I8cCWFtY",
       "published_at_utc": "2026-11-06T15:45:02+00:00",
-      "age_seconds": 1408
+      "age_seconds": 1528
     },
     {
       "channel": "SHAPKA",
       "title": "СЛАВЯНСКИЕ МУЖЧИНЫ НЕ НУЖНЫ ИНОСТРАНКАМ. ЧЕ??",
       "url": "https://www.youtube.com/watch?v=gikpo-EieJM",
       "published_at_utc": "2026-11-06T15:22:44+00:00",
-      "age_seconds": 2754
+      "age_seconds": 2873
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Маленькие чаевые",
       "url": "https://www.youtube.com/shorts/ePAcMgWMEQE",
       "published_at_utc": "2026-11-06T15:22:29+00:00",
-      "age_seconds": 2778
+      "age_seconds": 2899
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Гепарды чирикают. И это прекрасно 😍",
       "url": "https://www.youtube.com/shorts/djjUYoV5EXw",
       "published_at_utc": "2026-11-06T14:27:35+00:00",
-      "age_seconds": 6091
+      "age_seconds": 6212
     },
     {
       "channel": "i11ushenka",
       "title": "Как биологи спасли популяцию дибблеров, обманув самок (Стив легенда)",
       "url": "https://www.youtube.com/shorts/FdMeC0hI2UM",
       "published_at_utc": "2026-11-06T14:15:00+00:00",
-      "age_seconds": 6811
+      "age_seconds": 6931
     },
     {
       "channel": "leafxup",
       "title": "ПОМОЧИЛИ НОЖКИ...",
       "url": "https://www.youtube.com/watch?v=0gpKMSIA47Q",
       "published_at_utc": "2026-11-06T14:13:41+00:00",
-      "age_seconds": 6938
+      "age_seconds": 7060
     }
   ]
 }
