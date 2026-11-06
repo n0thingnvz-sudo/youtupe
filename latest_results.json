@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T12:57:36.775961+00:00",
+  "generated_at_utc": "2026-11-06T12:59:38.251021+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Импостер обнаружен",
       "url": "https://www.youtube.com/shorts/FD9eiI_gUT8",
       "published_at_utc": "2026-11-06T12:38:57+00:00",
-      "age_seconds": 1073
+      "age_seconds": 1190
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как достать пиццу из холодильника в гараже",
       "url": "https://www.youtube.com/shorts/t5QfAxKifzU",
       "published_at_utc": "2026-11-06T12:35:39+00:00",
-      "age_seconds": 1271
+      "age_seconds": 1389
     },
     {
       "channel": "МЯЧ Production",
       "title": "Недооцененная скромность Садио Мане 🙏🏻",
       "url": "https://www.youtube.com/shorts/ATMVOyr96N8",
       "published_at_utc": "2026-11-06T12:33:31+00:00",
-      "age_seconds": 1406
+      "age_seconds": 1525
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ ГОВОРЯ, 100 ДНЕЙ В ЧЕРНОБЫЛЕ",
       "url": "https://www.youtube.com/watch?v=rjbhAUIhHq0",
       "published_at_utc": "2026-11-06T12:00:01+00:00",
-      "age_seconds": 3395
+      "age_seconds": 3512
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пункт назначения",
       "url": "https://www.youtube.com/shorts/VKwNq_rK-mI",
       "published_at_utc": "2026-11-06T11:29:03+00:00",
-      "age_seconds": 5267
+      "age_seconds": 5384
     },
     {
       "channel": "Новостной Гусь",
       "title": "Полицейская погоня в стиле ГТА",
       "url": "https://www.youtube.com/shorts/Dw5rbhCjqZc",
       "published_at_utc": "2026-11-06T11:00:30+00:00",
-      "age_seconds": 6979
+      "age_seconds": 7096
     }
   ]
 }
