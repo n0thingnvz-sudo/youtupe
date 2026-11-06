@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T16:55:48.777416+00:00",
+  "generated_at_utc": "2026-11-06T16:57:40.380117+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,56 +7,63 @@
       "title": "Он идеальный... работодатель? 💔",
       "url": "https://www.youtube.com/shorts/57FEXBIv36o",
       "published_at_utc": "2026-11-06T16:46:30+00:00",
-      "age_seconds": 515
+      "age_seconds": 625
+    },
+    {
+      "channel": "Коннор",
+      "title": "Проверил, как вам?",
+      "url": "https://www.youtube.com/shorts/BNj5WaPV2y4",
+      "published_at_utc": "2026-11-06T16:43:14+00:00",
+      "age_seconds": 835
     },
     {
       "channel": "sun_kill",
       "title": "ПРОВЕРЯЕМ НАШУ МЕНТАЛЬНУЮ СВЯЗЬ (не очень связаны)",
       "url": "https://www.youtube.com/shorts/1t-UebussR8",
       "published_at_utc": "2026-11-06T16:35:55+00:00",
-      "age_seconds": 1117
+      "age_seconds": 1238
     },
     {
       "channel": "Новостной Гусь",
       "title": "Бесконечное кругосветное путешествие... закончилось",
       "url": "https://www.youtube.com/shorts/rxeBVr8Z9DE",
       "published_at_utc": "2026-11-06T16:30:29+00:00",
-      "age_seconds": 1470
+      "age_seconds": 1580
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Проиграли и битву и войну",
       "url": "https://www.youtube.com/shorts/If2hOiYZV5g",
       "published_at_utc": "2026-11-06T16:22:59+00:00",
-      "age_seconds": 1921
+      "age_seconds": 2031
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Кабан Кабаныч решает вопросики",
       "url": "https://www.youtube.com/shorts/uCR17FhVeac",
       "published_at_utc": "2026-11-06T16:00:29+00:00",
-      "age_seconds": 3270
+      "age_seconds": 3380
     },
     {
       "channel": "Майни",
       "title": "ВСЕ МЕМЫ ОКТЯБРЯ ► небуди | Реакция",
       "url": "https://www.youtube.com/watch?v=rg6I8cCWFtY",
       "published_at_utc": "2026-11-06T15:45:02+00:00",
-      "age_seconds": 4168
+      "age_seconds": 4289
     },
     {
       "channel": "SHAPKA",
       "title": "СЛАВЯНСКИЕ МУЖЧИНЫ НЕ НУЖНЫ ИНОСТРАНКАМ. ЧЕ??",
       "url": "https://www.youtube.com/watch?v=gikpo-EieJM",
       "published_at_utc": "2026-11-06T15:22:44+00:00",
-      "age_seconds": 5514
+      "age_seconds": 5636
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Маленькие чаевые",
       "url": "https://www.youtube.com/shorts/ePAcMgWMEQE",
       "published_at_utc": "2026-11-06T15:22:29+00:00",
-      "age_seconds": 5551
+      "age_seconds": 5661
     }
   ]
 }
