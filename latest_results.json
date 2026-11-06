@@ -1,69 +1,62 @@
 {
-  "generated_at_utc": "2026-11-06T14:13:49.266966+00:00",
+  "generated_at_utc": "2026-11-06T14:15:47.122452+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Геймеры против Сэма",
-      "url": "https://www.youtube.com/shorts/6D6ryI_tZ80",
-      "published_at_utc": "2026-11-06T14:00:28+00:00",
-      "age_seconds": 738
-    },
     {
       "channel": "Dobryak",
       "title": "Пьяные выходки",
       "url": "https://www.youtube.com/shorts/ATimjP-yf6Y",
       "published_at_utc": "2026-11-06T13:48:45+00:00",
-      "age_seconds": 1479
+      "age_seconds": 1600
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тайская реклама KFC",
       "url": "https://www.youtube.com/shorts/1G5Xk-ED0m8",
       "published_at_utc": "2026-11-06T13:40:19+00:00",
-      "age_seconds": 1948
+      "age_seconds": 2068
     },
     {
       "channel": "i11ushenka",
       "title": "Как Франция заставит Гейба Ньюэлла платить миллионы",
       "url": "https://www.youtube.com/shorts/VX1aNx0dV1I",
       "published_at_utc": "2026-11-06T13:11:26+00:00",
-      "age_seconds": 3665
+      "age_seconds": 3785
     },
     {
       "channel": "Натурал Альбертович",
       "title": "БАТЯ и ПЛОСКОСТОПИЕ (смешное видео, прикол, юмор, поржать, приколы, смех)",
       "url": "https://www.youtube.com/shorts/vzQrwRWfvIk",
       "published_at_utc": "2026-11-06T13:00:23+00:00",
-      "age_seconds": 4364
+      "age_seconds": 4490
     },
     {
       "channel": "Новостной Гусь",
       "title": "На этот раз хакеры зашли слишком далеко",
       "url": "https://www.youtube.com/shorts/9AqH8Zpn3sY",
       "published_at_utc": "2026-11-06T13:00:12+00:00",
-      "age_seconds": 4353
+      "age_seconds": 4474
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Импостер обнаружен",
       "url": "https://www.youtube.com/shorts/FD9eiI_gUT8",
       "published_at_utc": "2026-11-06T12:38:57+00:00",
-      "age_seconds": 5630
+      "age_seconds": 5750
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как достать пиццу из холодильника в гараже",
       "url": "https://www.youtube.com/shorts/t5QfAxKifzU",
       "published_at_utc": "2026-11-06T12:35:39+00:00",
-      "age_seconds": 5828
+      "age_seconds": 5949
     },
     {
       "channel": "МЯЧ Production",
       "title": "Недооцененная скромность Садио Мане 🙏🏻",
       "url": "https://www.youtube.com/shorts/ATMVOyr96N8",
       "published_at_utc": "2026-11-06T12:33:31+00:00",
-      "age_seconds": 5968
+      "age_seconds": 6095
     }
   ]
 }
