@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-06T13:21:40.122259+00:00",
+  "generated_at_utc": "2026-11-06T13:23:38.777571+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Как Франция заставит Гейба Ньюэлла платить миллионы",
+      "url": "https://www.youtube.com/shorts/VX1aNx0dV1I",
+      "published_at_utc": "2026-11-06T13:11:26+00:00",
+      "age_seconds": 666
+    },
     {
       "channel": "Натурал Альбертович",
       "title": "БАТЯ и ПЛОСКОСТОПИЕ (смешное видео, прикол, юмор, поржать, приколы, смех)",
       "url": "https://www.youtube.com/shorts/vzQrwRWfvIk",
       "published_at_utc": "2026-11-06T13:00:23+00:00",
-      "age_seconds": 1245
+      "age_seconds": 1363
     },
     {
       "channel": "Новостной Гусь",
       "title": "На этот раз хакеры зашли слишком далеко",
       "url": "https://www.youtube.com/shorts/9AqH8Zpn3sY",
       "published_at_utc": "2026-11-06T13:00:12+00:00",
-      "age_seconds": 1236
+      "age_seconds": 1354
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Импостер обнаружен",
       "url": "https://www.youtube.com/shorts/FD9eiI_gUT8",
       "published_at_utc": "2026-11-06T12:38:57+00:00",
-      "age_seconds": 2512
+      "age_seconds": 2630
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как достать пиццу из холодильника в гараже",
       "url": "https://www.youtube.com/shorts/t5QfAxKifzU",
       "published_at_utc": "2026-11-06T12:35:39+00:00",
-      "age_seconds": 2710
+      "age_seconds": 2829
     },
     {
       "channel": "МЯЧ Production",
       "title": "Недооцененная скромность Садио Мане 🙏🏻",
       "url": "https://www.youtube.com/shorts/ATMVOyr96N8",
       "published_at_utc": "2026-11-06T12:33:31+00:00",
-      "age_seconds": 2850
+      "age_seconds": 2964
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ ГОВОРЯ, 100 ДНЕЙ В ЧЕРНОБЫЛЕ",
       "url": "https://www.youtube.com/watch?v=rjbhAUIhHq0",
       "published_at_utc": "2026-11-06T12:00:01+00:00",
-      "age_seconds": 4831
+      "age_seconds": 4952
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пункт назначения",
       "url": "https://www.youtube.com/shorts/VKwNq_rK-mI",
       "published_at_utc": "2026-11-06T11:29:03+00:00",
-      "age_seconds": 6706
+      "age_seconds": 6824
     }
   ]
 }
