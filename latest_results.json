@@ -1,69 +1,69 @@
 {
-  "generated_at_utc": "2026-11-06T18:35:38.562447+00:00",
+  "generated_at_utc": "2026-11-06T18:37:35.356830+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ТОПЛЕС",
+      "title": "КАК РАБОТАЕТ ИММУНИТЕТ? Рассказываем всего за минуту!",
+      "url": "https://www.youtube.com/shorts/8e4oj6g5t2c",
+      "published_at_utc": "2026-11-06T18:10:27+00:00",
+      "age_seconds": 1567
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самый человечный сервис",
       "url": "https://www.youtube.com/shorts/fz-zmGGTeFA",
       "published_at_utc": "2026-11-06T18:00:29+00:00",
-      "age_seconds": 2057
+      "age_seconds": 2180
     },
     {
       "channel": "Послезавтра",
       "title": "Европейский рай Люксембурга #европа #евросоюз #люксембург",
       "url": "https://www.youtube.com/shorts/jjKhgijmGks",
       "published_at_utc": "2026-11-06T17:39:07+00:00",
-      "age_seconds": 3322
+      "age_seconds": 3442
     },
     {
       "channel": "Майни",
       "title": "ПОТОМ НЕ ЖАЛУЙСЯ, ЧТО УЗНАЛ ЭТО ► Снежа | Реакция",
       "url": "https://www.youtube.com/watch?v=p_kPzYVqInQ",
       "published_at_utc": "2026-11-06T17:30:17+00:00",
-      "age_seconds": 3853
+      "age_seconds": 3973
     },
     {
       "channel": "JOHAN",
       "title": "Новые горизонты ( HANDS OVER / NOVA RP )",
       "url": "https://www.youtube.com/watch?v=f7JUgjSli7E",
       "published_at_utc": "2026-11-06T17:21:25+00:00",
-      "age_seconds": 4388
+      "age_seconds": 4508
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Допранковался",
       "url": "https://www.youtube.com/shorts/XLagHIq0pLk",
       "published_at_utc": "2026-11-06T17:00:27+00:00",
-      "age_seconds": 5659
+      "age_seconds": 5782
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Никогда не ставь такую кастрюлю на плиту",
       "url": "https://www.youtube.com/shorts/OHuTEdzfkPI",
       "published_at_utc": "2026-11-06T16:54:27+00:00",
-      "age_seconds": 6021
+      "age_seconds": 6143
     },
     {
       "channel": "Alina Мuradimova",
       "title": "Он идеальный... работодатель? 💔",
       "url": "https://www.youtube.com/shorts/57FEXBIv36o",
       "published_at_utc": "2026-11-06T16:46:30+00:00",
-      "age_seconds": 6502
+      "age_seconds": 6624
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/BNj5WaPV2y4",
       "published_at_utc": "2026-11-06T16:43:14+00:00",
-      "age_seconds": 6711
-    },
-    {
-      "channel": "sun_kill",
-      "title": "ПРОВЕРЯЕМ НАШУ МЕНТАЛЬНУЮ СВЯЗЬ (не очень связаны)",
-      "url": "https://www.youtube.com/shorts/1t-UebussR8",
-      "published_at_utc": "2026-11-06T16:35:55+00:00",
-      "age_seconds": 7117
+      "age_seconds": 6832
     }
   ]
 }
