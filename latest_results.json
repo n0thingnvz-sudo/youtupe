@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T19:21:38.029024+00:00",
+  "generated_at_utc": "2026-11-06T19:23:35.139362+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Обзор ДЛС Crimson Desert: Charting the Unknown",
       "url": "https://www.youtube.com/watch?v=zJ0q8FI9O70",
       "published_at_utc": "2026-11-06T18:39:10+00:00",
-      "age_seconds": 2529
+      "age_seconds": 2647
     },
     {
       "channel": "ТОПЛЕС",
       "title": "КАК РАБОТАЕТ ИММУНИТЕТ? Рассказываем всего за минуту!",
       "url": "https://www.youtube.com/shorts/8e4oj6g5t2c",
       "published_at_utc": "2026-11-06T18:10:27+00:00",
-      "age_seconds": 4208
+      "age_seconds": 4328
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самый человечный сервис",
       "url": "https://www.youtube.com/shorts/fz-zmGGTeFA",
       "published_at_utc": "2026-11-06T18:00:29+00:00",
-      "age_seconds": 4818
+      "age_seconds": 4939
     },
     {
       "channel": "Послезавтра",
       "title": "Европейский рай Люксембурга #европа #евросоюз #люксембург",
       "url": "https://www.youtube.com/shorts/jjKhgijmGks",
       "published_at_utc": "2026-11-06T17:39:07+00:00",
-      "age_seconds": 6082
+      "age_seconds": 6202
     },
     {
       "channel": "Майни",
       "title": "ПОТОМ НЕ ЖАЛУЙСЯ, ЧТО УЗНАЛ ЭТО ► Снежа | Реакция",
       "url": "https://www.youtube.com/watch?v=p_kPzYVqInQ",
       "published_at_utc": "2026-11-06T17:30:17+00:00",
-      "age_seconds": 6613
-    },
-    {
-      "channel": "JOHAN",
-      "title": "Новые горизонты ( HANDS OVER / NOVA RP )",
-      "url": "https://www.youtube.com/watch?v=f7JUgjSli7E",
-      "published_at_utc": "2026-11-06T17:21:25+00:00",
-      "age_seconds": 7148
+      "age_seconds": 6733
     }
   ]
 }
