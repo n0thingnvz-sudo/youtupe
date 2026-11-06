@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T19:49:34.729735+00:00",
+  "generated_at_utc": "2026-11-06T19:51:41.192547+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Обзор ДЛС Crimson Desert: Charting the Unknown",
       "url": "https://www.youtube.com/watch?v=zJ0q8FI9O70",
       "published_at_utc": "2026-11-06T18:39:10+00:00",
-      "age_seconds": 4206
+      "age_seconds": 4327
     },
     {
       "channel": "ТОПЛЕС",
       "title": "КАК РАБОТАЕТ ИММУНИТЕТ? Рассказываем всего за минуту!",
       "url": "https://www.youtube.com/shorts/8e4oj6g5t2c",
       "published_at_utc": "2026-11-06T18:10:27+00:00",
-      "age_seconds": 5888
+      "age_seconds": 6009
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самый человечный сервис",
       "url": "https://www.youtube.com/shorts/fz-zmGGTeFA",
       "published_at_utc": "2026-11-06T18:00:29+00:00",
-      "age_seconds": 6496
+      "age_seconds": 6618
     }
   ]
 }
