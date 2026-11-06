@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-06T13:49:35.901956+00:00",
+  "generated_at_utc": "2026-11-06T13:51:40.244703+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Тайская реклама KFC",
+      "url": "https://www.youtube.com/shorts/1G5Xk-ED0m8",
+      "published_at_utc": "2026-11-06T13:40:19+00:00",
+      "age_seconds": 628
+    },
     {
       "channel": "i11ushenka",
       "title": "Как Франция заставит Гейба Ньюэлла платить миллионы",
       "url": "https://www.youtube.com/shorts/VX1aNx0dV1I",
       "published_at_utc": "2026-11-06T13:11:26+00:00",
-      "age_seconds": 2225
+      "age_seconds": 2345
     },
     {
       "channel": "Натурал Альбертович",
       "title": "БАТЯ и ПЛОСКОСТОПИЕ (смешное видео, прикол, юмор, поржать, приколы, смех)",
       "url": "https://www.youtube.com/shorts/vzQrwRWfvIk",
       "published_at_utc": "2026-11-06T13:00:23+00:00",
-      "age_seconds": 2920
+      "age_seconds": 3044
     },
     {
       "channel": "Новостной Гусь",
       "title": "На этот раз хакеры зашли слишком далеко",
       "url": "https://www.youtube.com/shorts/9AqH8Zpn3sY",
       "published_at_utc": "2026-11-06T13:00:12+00:00",
-      "age_seconds": 2914
+      "age_seconds": 3034
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Импостер обнаружен",
       "url": "https://www.youtube.com/shorts/FD9eiI_gUT8",
       "published_at_utc": "2026-11-06T12:38:57+00:00",
-      "age_seconds": 4190
+      "age_seconds": 4310
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как достать пиццу из холодильника в гараже",
       "url": "https://www.youtube.com/shorts/t5QfAxKifzU",
       "published_at_utc": "2026-11-06T12:35:39+00:00",
-      "age_seconds": 4389
+      "age_seconds": 4509
     },
     {
       "channel": "МЯЧ Production",
       "title": "Недооцененная скромность Садио Мане 🙏🏻",
       "url": "https://www.youtube.com/shorts/ATMVOyr96N8",
       "published_at_utc": "2026-11-06T12:33:31+00:00",
-      "age_seconds": 4524
+      "age_seconds": 4644
     },
     {
       "channel": "OneTwo",
       "title": "КОРОЧЕ ГОВОРЯ, 100 ДНЕЙ В ЧЕРНОБЫЛЕ",
       "url": "https://www.youtube.com/watch?v=rjbhAUIhHq0",
       "published_at_utc": "2026-11-06T12:00:01+00:00",
-      "age_seconds": 6511
+      "age_seconds": 6631
     }
   ]
 }
