@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-11-06T14:25:41.460956+00:00",
+  "generated_at_utc": "2026-11-06T14:27:36.117759+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Как биологи спасли популяцию дибблеров, обманув самок (Стив легенда)",
+      "url": "https://www.youtube.com/shorts/FdMeC0hI2UM",
+      "published_at_utc": "2026-11-06T14:15:00+00:00",
+      "age_seconds": 692
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Геймеры против Сэма",
       "url": "https://www.youtube.com/shorts/6D6ryI_tZ80",
       "published_at_utc": "2026-11-06T14:00:28+00:00",
-      "age_seconds": 1458
+      "age_seconds": 1579
     },
     {
       "channel": "Dobryak",
       "title": "Пьяные выходки",
       "url": "https://www.youtube.com/shorts/ATimjP-yf6Y",
       "published_at_utc": "2026-11-06T13:48:45+00:00",
-      "age_seconds": 2195
+      "age_seconds": 2309
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тайская реклама KFC",
       "url": "https://www.youtube.com/shorts/1G5Xk-ED0m8",
       "published_at_utc": "2026-11-06T13:40:19+00:00",
-      "age_seconds": 2668
+      "age_seconds": 2788
     },
     {
       "channel": "i11ushenka",
       "title": "Как Франция заставит Гейба Ньюэлла платить миллионы",
       "url": "https://www.youtube.com/shorts/VX1aNx0dV1I",
       "published_at_utc": "2026-11-06T13:11:26+00:00",
-      "age_seconds": 4385
+      "age_seconds": 4506
     },
     {
       "channel": "Натурал Альбертович",
       "title": "БАТЯ и ПЛОСКОСТОПИЕ (смешное видео, прикол, юмор, поржать, приколы, смех)",
       "url": "https://www.youtube.com/shorts/vzQrwRWfvIk",
       "published_at_utc": "2026-11-06T13:00:23+00:00",
-      "age_seconds": 5084
+      "age_seconds": 5199
     },
     {
       "channel": "Новостной Гусь",
       "title": "На этот раз хакеры зашли слишком далеко",
       "url": "https://www.youtube.com/shorts/9AqH8Zpn3sY",
       "published_at_utc": "2026-11-06T13:00:12+00:00",
-      "age_seconds": 5074
+      "age_seconds": 5194
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Импостер обнаружен",
       "url": "https://www.youtube.com/shorts/FD9eiI_gUT8",
       "published_at_utc": "2026-11-06T12:38:57+00:00",
-      "age_seconds": 6350
+      "age_seconds": 6470
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Есть захочешь не так раскорячишься",
       "url": "https://www.youtube.com/shorts/t5QfAxKifzU",
       "published_at_utc": "2026-11-06T12:35:39+00:00",
-      "age_seconds": 6549
+      "age_seconds": 6669
     },
     {
       "channel": "МЯЧ Production",
       "title": "Недооцененная скромность Садио Мане 🙏🏻",
       "url": "https://www.youtube.com/shorts/ATMVOyr96N8",
       "published_at_utc": "2026-11-06T12:33:31+00:00",
-      "age_seconds": 6685
+      "age_seconds": 6804
     }
   ]
 }
