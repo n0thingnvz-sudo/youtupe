@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06T15:39:36.117855+00:00",
+  "generated_at_utc": "2026-11-06T15:41:35.494817+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,42 @@
       "title": "Маленькие чаевые",
       "url": "https://www.youtube.com/shorts/ePAcMgWMEQE",
       "published_at_utc": "2026-11-06T15:22:29+00:00",
-      "age_seconds": 978
+      "age_seconds": 1099
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Гепарды чирикают. И это прекрасно 😍",
       "url": "https://www.youtube.com/shorts/djjUYoV5EXw",
       "published_at_utc": "2026-11-06T14:27:35+00:00",
-      "age_seconds": 4288
+      "age_seconds": 4409
     },
     {
       "channel": "i11ushenka",
       "title": "Как биологи спасли популяцию дибблеров, обманув самок (Стив легенда)",
       "url": "https://www.youtube.com/shorts/FdMeC0hI2UM",
       "published_at_utc": "2026-11-06T14:15:00+00:00",
-      "age_seconds": 5012
+      "age_seconds": 5132
     },
     {
       "channel": "leafxup",
       "title": "ПОМОЧИЛИ НОЖКИ...",
       "url": "https://www.youtube.com/watch?v=0gpKMSIA47Q",
       "published_at_utc": "2026-11-06T14:13:41+00:00",
-      "age_seconds": 5135
+      "age_seconds": 5257
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Геймеры против Сэма",
       "url": "https://www.youtube.com/shorts/6D6ryI_tZ80",
       "published_at_utc": "2026-11-06T14:00:28+00:00",
-      "age_seconds": 5899
+      "age_seconds": 6019
     },
     {
       "channel": "Dobryak",
       "title": "Пьяные выходки",
       "url": "https://www.youtube.com/shorts/ATimjP-yf6Y",
       "published_at_utc": "2026-11-06T13:48:45+00:00",
-      "age_seconds": 6628
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Тайская реклама KFC",
-      "url": "https://www.youtube.com/shorts/1G5Xk-ED0m8",
-      "published_at_utc": "2026-11-06T13:40:19+00:00",
-      "age_seconds": 7108
+      "age_seconds": 6750
     }
   ]
 }
