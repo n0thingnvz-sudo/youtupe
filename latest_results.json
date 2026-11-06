@@ -1,83 +1,83 @@
 {
-  "generated_at_utc": "2026-11-06T17:21:38.492402+00:00",
+  "generated_at_utc": "2026-11-06T17:23:35.672296+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "JOHAN",
+      "title": "Новые горизонты ( HANDS OVER / NOVA RP )",
+      "url": "https://www.youtube.com/watch?v=f7JUgjSli7E",
+      "published_at_utc": "2026-11-06T17:21:25+00:00",
+      "age_seconds": 68
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Допранковался",
       "url": "https://www.youtube.com/shorts/XLagHIq0pLk",
       "published_at_utc": "2026-11-06T17:00:27+00:00",
-      "age_seconds": 1219
+      "age_seconds": 1340
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Не было печали купила баба порося",
       "url": "https://www.youtube.com/shorts/OHuTEdzfkPI",
       "published_at_utc": "2026-11-06T16:54:27+00:00",
-      "age_seconds": 1580
+      "age_seconds": 1701
     },
     {
       "channel": "Alina Мuradimova",
       "title": "Он идеальный... работодатель? 💔",
       "url": "https://www.youtube.com/shorts/57FEXBIv36o",
       "published_at_utc": "2026-11-06T16:46:30+00:00",
-      "age_seconds": 2062
+      "age_seconds": 2183
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/BNj5WaPV2y4",
       "published_at_utc": "2026-11-06T16:43:14+00:00",
-      "age_seconds": 2273
+      "age_seconds": 2392
     },
     {
       "channel": "sun_kill",
       "title": "ПРОВЕРЯЕМ НАШУ МЕНТАЛЬНУЮ СВЯЗЬ (не очень связаны)",
       "url": "https://www.youtube.com/shorts/1t-UebussR8",
       "published_at_utc": "2026-11-06T16:35:55+00:00",
-      "age_seconds": 2677
+      "age_seconds": 2797
     },
     {
       "channel": "Новостной Гусь",
       "title": "Бесконечное кругосветное путешествие... закончилось",
       "url": "https://www.youtube.com/shorts/rxeBVr8Z9DE",
       "published_at_utc": "2026-11-06T16:30:29+00:00",
-      "age_seconds": 3016
+      "age_seconds": 3137
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Проиграли и битву и войну",
       "url": "https://www.youtube.com/shorts/If2hOiYZV5g",
       "published_at_utc": "2026-11-06T16:22:59+00:00",
-      "age_seconds": 3467
+      "age_seconds": 3589
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Кабан Кабаныч решает вопросики",
       "url": "https://www.youtube.com/shorts/uCR17FhVeac",
       "published_at_utc": "2026-11-06T16:00:29+00:00",
-      "age_seconds": 4817
+      "age_seconds": 4938
     },
     {
       "channel": "Майни",
       "title": "ВСЕ МЕМЫ ОКТЯБРЯ ► небуди | Реакция",
       "url": "https://www.youtube.com/watch?v=rg6I8cCWFtY",
       "published_at_utc": "2026-11-06T15:45:02+00:00",
-      "age_seconds": 5728
+      "age_seconds": 5848
     },
     {
       "channel": "SHAPKA",
       "title": "СЛАВЯНСКИЕ МУЖЧИНЫ НЕ НУЖНЫ ИНОСТРАНКАМ. ЧЕ??",
       "url": "https://www.youtube.com/watch?v=gikpo-EieJM",
       "published_at_utc": "2026-11-06T15:22:44+00:00",
-      "age_seconds": 7074
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Маленькие чаевые",
-      "url": "https://www.youtube.com/shorts/ePAcMgWMEQE",
-      "published_at_utc": "2026-11-06T15:22:29+00:00",
-      "age_seconds": 7097
+      "age_seconds": 7193
     }
   ]
 }
