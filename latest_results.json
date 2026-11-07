@@ -1,13 +1,41 @@
 {
-  "generated_at_utc": "2026-11-06T22:19:25.035169+00:00",
+  "generated_at_utc": "2026-11-07T08:01:34.816511+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Никита Нестеров",
-      "title": "А как тогда расти по карьерной лестнице?",
-      "url": "https://www.youtube.com/shorts/DKMWQbpfed4",
-      "published_at_utc": "2026-11-06T20:21:04+00:00",
-      "age_seconds": 7076
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Зачем усложнять",
+      "url": "https://www.youtube.com/shorts/Ui27ivkP4S8",
+      "published_at_utc": "2026-11-07T08:00:05+00:00",
+      "age_seconds": 42
+    },
+    {
+      "channel": "MrLololoshka (Роман Фильченков)",
+      "title": "😱 Майнкрафт, но Я Впервые ИГРОК Против ПРИЗРАКА • 1 vs 4 [Фазмафобия] + Фиксплей",
+      "url": "https://www.youtube.com/watch?v=pJtHed78hrk",
+      "published_at_utc": "2026-11-07T08:00:02+00:00",
+      "age_seconds": 77
+    },
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Главный позор iPhone",
+      "url": "https://www.youtube.com/shorts/2mTcd5CuRvw",
+      "published_at_utc": "2026-11-07T07:40:26+00:00",
+      "age_seconds": 1241
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Последнее желание",
+      "url": "https://www.youtube.com/shorts/QNFbGOuHSE0",
+      "published_at_utc": "2026-11-07T07:00:01+00:00",
+      "age_seconds": 3646
+    },
+    {
+      "channel": "Новостной Гусь",
+      "title": "Очень прочное стекло",
+      "url": "https://www.youtube.com/shorts/kyjDeBSh9qs",
+      "published_at_utc": "2026-11-07T07:00:00+00:00",
+      "age_seconds": 3646
     }
   ]
 }
