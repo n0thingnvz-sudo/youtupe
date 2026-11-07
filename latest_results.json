@@ -1,55 +1,76 @@
 {
-  "generated_at_utc": "2026-11-07T10:43:39.140653+00:00",
+  "generated_at_utc": "2026-11-07T10:45:30.945336+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "@denmarnews 😮 Успеть за 60 ДНЕЙ! Трамп Договорится с Россией?",
+      "url": "https://www.youtube.com/shorts/KEnJl7Pp17w",
+      "published_at_utc": "2026-11-07T10:43:54+00:00",
+      "age_seconds": 48
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Айшоуспид против курицы",
+      "url": "https://www.youtube.com/shorts/qs9CYvIZihs",
+      "published_at_utc": "2026-11-07T10:38:03+00:00",
+      "age_seconds": 402
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Спрятали 1000 Пауков в Грязных Носках @denmarnews",
+      "url": "https://www.youtube.com/shorts/FYoJX2FCeKk",
+      "published_at_utc": "2026-11-07T10:37:53+00:00",
+      "age_seconds": 409
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Самый крепкий монитор",
       "url": "https://www.youtube.com/shorts/fhkvDpQeGFY",
       "published_at_utc": "2026-11-07T10:30:07+00:00",
-      "age_seconds": 759
+      "age_seconds": 877
     },
     {
       "channel": "1337LikeR",
       "title": "Балдёжный Roblox 5",
       "url": "https://www.youtube.com/watch?v=qHGtbr6OuCM",
       "published_at_utc": "2026-11-07T10:12:21+00:00",
-      "age_seconds": 1865
+      "age_seconds": 1983
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Альберт и Эйнштейн",
       "url": "https://www.youtube.com/shorts/S4gLzRAXm9w",
       "published_at_utc": "2026-11-07T10:00:38+00:00",
-      "age_seconds": 2529
+      "age_seconds": 2646
     },
     {
       "channel": "i11ushenka",
       "title": "Разница подходов: Испания vs Британия",
       "url": "https://www.youtube.com/shorts/LmCX0NdfUMs",
       "published_at_utc": "2026-11-07T09:57:40+00:00",
-      "age_seconds": 2691
+      "age_seconds": 2811
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ты — удильщик. И это вся твоя жизнь",
       "url": "https://www.youtube.com/watch?v=ZqwtYvhqmpg",
       "published_at_utc": "2026-11-07T09:42:54+00:00",
-      "age_seconds": 3610
+      "age_seconds": 3727
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Монетизация бездомных",
       "url": "https://www.youtube.com/shorts/dglSF2vi6bI",
       "published_at_utc": "2026-11-07T09:36:41+00:00",
-      "age_seconds": 3967
+      "age_seconds": 4084
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мыца❌ Ванять✅",
       "url": "https://www.youtube.com/shorts/XUDi7-4X84c",
       "published_at_utc": "2026-11-07T09:00:18+00:00",
-      "age_seconds": 6149
+      "age_seconds": 6266
     }
   ]
 }
