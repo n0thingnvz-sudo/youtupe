@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-07T15:35:43.145256+00:00",
+  "generated_at_utc": "2026-11-07T15:37:34.750423+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sun_kill",
+      "title": "ставим ставки, как быстро она съедет из дома",
+      "url": "https://www.youtube.com/shorts/4ywOOLY_hT4",
+      "published_at_utc": "2026-11-07T15:28:58+00:00",
+      "age_seconds": 454
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Тесла против ТopGear",
       "url": "https://www.youtube.com/shorts/LexbLqXVq4g",
       "published_at_utc": "2026-11-07T15:00:18+00:00",
-      "age_seconds": 2069
+      "age_seconds": 2188
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Последняя битва величайших",
       "url": "https://www.youtube.com/shorts/SffvUYGtTcI",
       "published_at_utc": "2026-11-07T14:45:54+00:00",
-      "age_seconds": 2934
+      "age_seconds": 3052
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Доигрались с ИИ",
       "url": "https://www.youtube.com/shorts/XETzAf157ys",
       "published_at_utc": "2026-11-07T14:00:33+00:00",
-      "age_seconds": 5654
+      "age_seconds": 5773
     },
     {
       "channel": "i11ushenka",
       "title": "Миллион долларов под дверью: Невероятная история румынского руманита",
       "url": "https://www.youtube.com/shorts/IYe-5j4nWV8",
       "published_at_utc": "2026-11-07T14:00:09+00:00",
-      "age_seconds": 5662
+      "age_seconds": 5783
     },
     {
       "channel": "Сергей Милушкин",
-      "title": "Админ заболел ресторану хана",
+      "title": "Как исправить цены на экране если админ ку-ку",
       "url": "https://www.youtube.com/shorts/B9enfhch9f4",
       "published_at_utc": "2026-11-07T13:48:14+00:00",
-      "age_seconds": 6395
+      "age_seconds": 6513
     }
   ]
 }
