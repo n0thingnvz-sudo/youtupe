@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-07T15:43:35.227178+00:00",
+  "generated_at_utc": "2026-11-07T15:45:39.032249+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "Я нашёл РЕЦЕПТ, который лучше не готовить одному.. ► TheBrianMaps ( Брайн Мапс ) | Реакция",
+      "url": "https://www.youtube.com/watch?v=u_BWokmOe5s",
+      "published_at_utc": "2026-11-07T15:30:05+00:00",
+      "age_seconds": 866
+    },
     {
       "channel": "sun_kill",
       "title": "ставим ставки, как быстро она съедет из дома",
       "url": "https://www.youtube.com/shorts/4ywOOLY_hT4",
       "published_at_utc": "2026-11-07T15:28:58+00:00",
-      "age_seconds": 814
+      "age_seconds": 934
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Тесла против ТopGear",
       "url": "https://www.youtube.com/shorts/LexbLqXVq4g",
       "published_at_utc": "2026-11-07T15:00:18+00:00",
-      "age_seconds": 2548
+      "age_seconds": 2670
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Последняя битва величайших",
       "url": "https://www.youtube.com/shorts/SffvUYGtTcI",
       "published_at_utc": "2026-11-07T14:45:54+00:00",
-      "age_seconds": 3413
+      "age_seconds": 3534
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Доигрались с ИИ",
       "url": "https://www.youtube.com/shorts/XETzAf157ys",
       "published_at_utc": "2026-11-07T14:00:33+00:00",
-      "age_seconds": 6133
+      "age_seconds": 6255
     },
     {
       "channel": "i11ushenka",
       "title": "Миллион долларов под дверью: Невероятная история румынского руманита",
       "url": "https://www.youtube.com/shorts/IYe-5j4nWV8",
       "published_at_utc": "2026-11-07T14:00:09+00:00",
-      "age_seconds": 6142
+      "age_seconds": 6263
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как исправить цены на экране если админ ку-ку",
       "url": "https://www.youtube.com/shorts/B9enfhch9f4",
       "published_at_utc": "2026-11-07T13:48:14+00:00",
-      "age_seconds": 6873
+      "age_seconds": 6995
     }
   ]
 }
