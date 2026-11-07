@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T18:29:32.693847+00:00",
+  "generated_at_utc": "2026-11-07T18:31:36.050147+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Почему нельзя ломать стены в Европе?",
       "url": "https://www.youtube.com/shorts/xQI43pqo2N4",
       "published_at_utc": "2026-11-07T17:07:56+00:00",
-      "age_seconds": 4835
+      "age_seconds": 4955
     },
     {
       "channel": "Майни",
       "title": "Итак, ты родился морским коньком... (Анимация) ► FunCartoons | Реакция",
       "url": "https://www.youtube.com/watch?v=FLeyBBwnSsI",
       "published_at_utc": "2026-11-07T17:00:28+00:00",
-      "age_seconds": 5282
+      "age_seconds": 5402
     },
     {
       "channel": "sereGGa",
       "title": "РАПИРНЫЙ БАТЛ КАП | Состав: Вася Кэп, Йонд, Амор, Арина ГП",
       "url": "https://www.youtube.com/watch?v=qrfqdD5sVUs",
       "published_at_utc": "2026-11-07T16:51:53+00:00",
-      "age_seconds": 5848
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Не трогайте конфеты",
-      "url": "https://www.youtube.com/shorts/oujjoZ632zY",
-      "published_at_utc": "2026-11-07T16:30:08+00:00",
-      "age_seconds": 7117
+      "age_seconds": 5970
     }
   ]
 }
