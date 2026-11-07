@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T14:54:03.229321+00:00",
+  "generated_at_utc": "2026-11-07T14:55:59.385154+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Доигрались с ИИ",
       "url": "https://www.youtube.com/shorts/XETzAf157ys",
       "published_at_utc": "2026-11-07T14:00:33+00:00",
-      "age_seconds": 3146
+      "age_seconds": 3261
     },
     {
       "channel": "i11ushenka",
       "title": "Миллион долларов под дверью: Невероятная история румынского руманита",
       "url": "https://www.youtube.com/shorts/IYe-5j4nWV8",
       "published_at_utc": "2026-11-07T14:00:09+00:00",
-      "age_seconds": 3144
+      "age_seconds": 3263
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Админ заболел ресторану хана",
       "url": "https://www.youtube.com/shorts/B9enfhch9f4",
       "published_at_utc": "2026-11-07T13:48:14+00:00",
-      "age_seconds": 3886
+      "age_seconds": 4001
     },
     {
       "channel": "Короче, новости",
       "title": "Пум - Всё: Что имел ввиду Путин?",
       "url": "https://www.youtube.com/shorts/T4ieW_d0DbI",
       "published_at_utc": "2026-11-07T13:00:26+00:00",
-      "age_seconds": 6750
+      "age_seconds": 6862
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Цветные крестики-нолики #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/9RkZlE1Gwn0",
       "published_at_utc": "2026-11-07T12:59:20+00:00",
-      "age_seconds": 6843
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Подгон от Майкрософт",
-      "url": "https://www.youtube.com/shorts/yeCe0JE2trQ",
-      "published_at_utc": "2026-11-07T12:54:32+00:00",
-      "age_seconds": 7108
+      "age_seconds": 6959
     }
   ]
 }
