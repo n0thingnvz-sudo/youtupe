@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-07T10:01:33.918896+00:00",
+  "generated_at_utc": "2026-11-07T10:03:34.165681+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Ты — удильщик. И это вся твоя жизнь",
+      "url": "https://www.youtube.com/watch?v=ZqwtYvhqmpg",
+      "published_at_utc": "2026-11-07T09:42:54+00:00",
+      "age_seconds": 1209
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Монетизация бездомных",
       "url": "https://www.youtube.com/shorts/dglSF2vi6bI",
       "published_at_utc": "2026-11-07T09:36:41+00:00",
-      "age_seconds": 1445
+      "age_seconds": 1566
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мыца❌ Ванять✅",
       "url": "https://www.youtube.com/shorts/XUDi7-4X84c",
       "published_at_utc": "2026-11-07T09:00:18+00:00",
-      "age_seconds": 3628
+      "age_seconds": 3748
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему собаки так быстро растут 🤨",
       "url": "https://www.youtube.com/shorts/T_EjqUwmeVY",
       "published_at_utc": "2026-11-07T08:14:03+00:00",
-      "age_seconds": 6421
+      "age_seconds": 6540
     }
   ]
 }
