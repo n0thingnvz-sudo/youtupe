@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T10:23:33.192622+00:00",
+  "generated_at_utc": "2026-11-07T10:25:33.501372+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Балдёжный Roblox 5",
       "url": "https://www.youtube.com/watch?v=qHGtbr6OuCM",
       "published_at_utc": "2026-11-07T10:12:21+00:00",
-      "age_seconds": 666
+      "age_seconds": 785
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Альберт и Эйнштейн",
       "url": "https://www.youtube.com/shorts/S4gLzRAXm9w",
       "published_at_utc": "2026-11-07T10:00:38+00:00",
-      "age_seconds": 1328
-    },
-    {
-      "channel": "i11ushenka",
-      "title": "Разница подходов: Испания vs Британия",
-      "url": "https://www.youtube.com/shorts/LmCX0NdfUMs",
-      "published_at_utc": "2026-11-07T09:57:40+00:00",
-      "age_seconds": 1491
+      "age_seconds": 1447
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ты — удильщик. И это вся твоя жизнь",
       "url": "https://www.youtube.com/watch?v=ZqwtYvhqmpg",
       "published_at_utc": "2026-11-07T09:42:54+00:00",
-      "age_seconds": 2410
+      "age_seconds": 2527
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Монетизация бездомных",
       "url": "https://www.youtube.com/shorts/dglSF2vi6bI",
       "published_at_utc": "2026-11-07T09:36:41+00:00",
-      "age_seconds": 2765
+      "age_seconds": 2884
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мыца❌ Ванять✅",
       "url": "https://www.youtube.com/shorts/XUDi7-4X84c",
       "published_at_utc": "2026-11-07T09:00:18+00:00",
-      "age_seconds": 4948
+      "age_seconds": 5067
     }
   ]
 }
