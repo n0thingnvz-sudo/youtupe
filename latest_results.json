@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-07T13:07:33.879740+00:00",
+  "generated_at_utc": "2026-11-07T13:09:32.487342+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Наташа и Вова | DvoePlay",
+      "title": "Цветные крестики-нолики #boardgames #настольныеигры #games #игры #настолки",
+      "url": "https://www.youtube.com/shorts/9RkZlE1Gwn0",
+      "published_at_utc": "2026-11-07T12:59:20+00:00",
+      "age_seconds": 582
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Подгон от Майкрософт",
       "url": "https://www.youtube.com/shorts/yeCe0JE2trQ",
       "published_at_utc": "2026-11-07T12:54:32+00:00",
-      "age_seconds": 735
+      "age_seconds": 854
     },
     {
       "channel": "Послезавтра",
       "title": "Лучший город #россия #гершман #екатеринбург",
       "url": "https://www.youtube.com/shorts/B-pLzh9R7Qc",
       "published_at_utc": "2026-11-07T12:46:57+00:00",
-      "age_seconds": 1172
+      "age_seconds": 1292
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Бездомные пчёлы просятся в новую семью 🐝",
       "url": "https://www.youtube.com/shorts/6DIXdNCDrUc",
       "published_at_utc": "2026-11-07T12:37:27+00:00",
-      "age_seconds": 1777
+      "age_seconds": 1895
     },
     {
       "channel": "Новостной Гусь",
       "title": "Да это просто погоня была",
       "url": "https://www.youtube.com/shorts/AYVYYJB9yRw",
       "published_at_utc": "2026-11-07T12:30:15+00:00",
-      "age_seconds": 2191
+      "age_seconds": 2310
     },
     {
       "channel": "Короче, новости",
       "title": "Как Обойти Запрет на Пиццу в России @denmarnews",
       "url": "https://www.youtube.com/shorts/GJH33o23vwg",
       "published_at_utc": "2026-11-07T12:00:08+00:00",
-      "age_seconds": 3996
+      "age_seconds": 4115
     },
     {
       "channel": "IG project",
       "title": "😱 НА ГЛИТЧЕЙ ПОДАЛИ В СУД ИЗ-ЗА МИСТЕРА ПАЗЗЛСА? 📺#злодеиобщийсбор #mrpuzzles #shorts",
       "url": "https://www.youtube.com/shorts/XayEd_3kmZU",
       "published_at_utc": "2026-11-07T11:54:18+00:00",
-      "age_seconds": 4358
+      "age_seconds": 4476
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Нереальная тусовка",
       "url": "https://www.youtube.com/shorts/mPrGEUnigyA",
       "published_at_utc": "2026-11-07T11:44:43+00:00",
-      "age_seconds": 4924
+      "age_seconds": 5043
     }
   ]
 }
