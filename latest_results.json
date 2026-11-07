@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-11-07T10:11:36.977405+00:00",
+  "generated_at_utc": "2026-11-07T10:13:32.135458+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "1337LikeR",
+      "title": "Балдёжный Roblox 5",
+      "url": "https://www.youtube.com/watch?v=qHGtbr6OuCM",
+      "published_at_utc": "2026-11-07T10:12:21+00:00",
+      "age_seconds": 64
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Альберт и Эйнштейн",
       "url": "https://www.youtube.com/shorts/S4gLzRAXm9w",
       "published_at_utc": "2026-11-07T10:00:38+00:00",
-      "age_seconds": 609
-    },
-    {
-      "channel": "i11ushenka",
-      "title": "Разница подходов: Испания vs Британия",
-      "url": "https://www.youtube.com/shorts/LmCX0NdfUMs",
-      "published_at_utc": "2026-11-07T09:57:40+00:00",
-      "age_seconds": 771
+      "age_seconds": 727
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ты — удильщик. И это вся твоя жизнь",
       "url": "https://www.youtube.com/watch?v=ZqwtYvhqmpg",
       "published_at_utc": "2026-11-07T09:42:54+00:00",
-      "age_seconds": 1691
+      "age_seconds": 1808
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Монетизация бездомных",
       "url": "https://www.youtube.com/shorts/dglSF2vi6bI",
       "published_at_utc": "2026-11-07T09:36:41+00:00",
-      "age_seconds": 2047
+      "age_seconds": 2164
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Мыца❌ Ванять✅",
       "url": "https://www.youtube.com/shorts/XUDi7-4X84c",
       "published_at_utc": "2026-11-07T09:00:18+00:00",
-      "age_seconds": 4229
+      "age_seconds": 4347
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему собаки так быстро растут 🤨",
       "url": "https://www.youtube.com/shorts/T_EjqUwmeVY",
       "published_at_utc": "2026-11-07T08:14:03+00:00",
-      "age_seconds": 7022
+      "age_seconds": 7139
     }
   ]
 }
