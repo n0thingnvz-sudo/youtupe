@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-08T12:11:31.738811+00:00",
+  "generated_at_utc": "2026-11-08T12:13:34.495984+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Как гусеница охотится на улиток",
+      "url": "https://www.youtube.com/shorts/vV1SPQb_yP0",
+      "published_at_utc": "2026-11-08T11:58:04+00:00",
+      "age_seconds": 864
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Стереотипы пострадали",
       "url": "https://www.youtube.com/shorts/sD3v5otxNgI",
       "published_at_utc": "2026-11-08T11:07:07+00:00",
-      "age_seconds": 3819
+      "age_seconds": 3942
     },
     {
       "channel": "Новостной Гусь",
       "title": "Худший адвент-календарь",
       "url": "https://www.youtube.com/shorts/l1pcYBQ_bbE",
       "published_at_utc": "2026-11-08T10:30:28+00:00",
-      "age_seconds": 6016
+      "age_seconds": 6140
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кукушка 👿 Худшая или лучшая мать?",
       "url": "https://www.youtube.com/shorts/6QfEerRmPng",
       "published_at_utc": "2026-11-08T10:15:39+00:00",
-      "age_seconds": 6923
+      "age_seconds": 7046
     },
     {
       "channel": "i11ushenka",
       "title": "Кот Шрёдингера из LEGO (Он и Ксеноморф, и Звезда Смерти) 🐈‍⬛",
       "url": "https://www.youtube.com/shorts/MciX6dL7fIk",
       "published_at_utc": "2026-11-08T10:15:25+00:00",
-      "age_seconds": 6906
+      "age_seconds": 7026
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Японских Крестоносцев",
       "url": "https://www.youtube.com/watch?v=Qi7gw4UjCUE",
       "published_at_utc": "2026-11-08T10:15:00+00:00",
-      "age_seconds": 6940
+      "age_seconds": 7059
     }
   ]
 }
