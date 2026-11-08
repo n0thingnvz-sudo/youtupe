@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-08T09:13:35.637733+00:00",
+  "generated_at_utc": "2026-11-08T09:15:27.598608+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Коты сквозь века",
+      "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
+      "published_at_utc": "2026-11-08T08:58:22+00:00",
+      "age_seconds": 969
+    },
     {
       "channel": "VASYAN1000",
       "title": "Бродяга сцепился с братухой #shorts #quest #юмор #прикол #games",
       "url": "https://www.youtube.com/shorts/gXD7tKXiZ9E",
       "published_at_utc": "2026-11-08T07:39:58+00:00",
-      "age_seconds": 5583
+      "age_seconds": 5696
     },
     {
       "channel": "Новостной Гусь",
       "title": "Показал QR-код на стриме",
       "url": "https://www.youtube.com/shorts/JKTjQMCF884",
       "published_at_utc": "2026-11-08T07:30:12+00:00",
-      "age_seconds": 6152
+      "age_seconds": 6272
     }
   ]
 }
