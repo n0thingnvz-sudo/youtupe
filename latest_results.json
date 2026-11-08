@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-08T16:35:34.535644+00:00",
+  "generated_at_utc": "2026-11-08T16:37:32.629057+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Просто очень толстый ястреб",
+      "url": "https://www.youtube.com/shorts/P16gMJOLeH8",
+      "published_at_utc": "2026-11-08T16:30:35+00:00",
+      "age_seconds": 370
+    },
     {
       "channel": "dikiy_vadik",
       "title": "Жизнь без интернета",
       "url": "https://www.youtube.com/watch?v=s0lWIO90IVs",
       "published_at_utc": "2026-11-08T16:04:42+00:00",
-      "age_seconds": 1820
+      "age_seconds": 1938
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Важнейшая новость на сегодня",
       "url": "https://www.youtube.com/shorts/EZY5tC2MUPY",
       "published_at_utc": "2026-11-08T16:00:28+00:00",
-      "age_seconds": 2057
+      "age_seconds": 2177
     },
     {
       "channel": "LenS",
       "title": "АВИЧЕ ПОБОЯЛСЯ ИДТИ МИД ПРОТИВ МОЕГО МАГНУСА на турнире за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=r_DtGR9sMtQ",
       "published_at_utc": "2026-11-08T15:23:15+00:00",
-      "age_seconds": 4330
+      "age_seconds": 4448
     },
     {
       "channel": "DeadP47",
       "title": "ЛУЧШАЯ ИГРА В ИСТОРИИ",
       "url": "https://www.youtube.com/watch?v=vB49WCbvZKY",
       "published_at_utc": "2026-11-08T15:11:30+00:00",
-      "age_seconds": 5035
+      "age_seconds": 5154
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Недостоин АвтоВАЗа",
       "url": "https://www.youtube.com/shorts/Jldw3mVZ_ws",
       "published_at_utc": "2026-11-08T15:00:34+00:00",
-      "age_seconds": 5651
+      "age_seconds": 5771
     },
     {
       "channel": "Майни",
       "title": "Мертвое полушарие клиентов WB и Ozon 8 ► ПУГОВКИН | Реакция",
       "url": "https://www.youtube.com/watch?v=hbD_8NTEueY",
       "published_at_utc": "2026-11-08T15:00:20+00:00",
-      "age_seconds": 5650
+      "age_seconds": 5770
     }
   ]
 }
