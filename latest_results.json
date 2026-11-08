@@ -1,34 +1,48 @@
 {
-  "generated_at_utc": "2026-11-08T13:11:34.515940+00:00",
+  "generated_at_utc": "2026-11-08T13:13:35.184090+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "тир лист ОТМЕНЕННЫХ ютуберов | Реакция",
+      "url": "https://www.youtube.com/watch?v=VtM_lTgJ01s",
+      "published_at_utc": "2026-11-08T13:00:26+00:00",
+      "age_seconds": 725
+    },
+    {
+      "channel": "Самый сахар",
+      "title": "После ЭТОГО вы не вернетесь в К&Б... Честно про магазин.",
+      "url": "https://www.youtube.com/watch?v=xXrLwsDFnNc",
+      "published_at_utc": "2026-11-08T13:00:13+00:00",
+      "age_seconds": 742
+    },
     {
       "channel": "dikiy_vadik",
       "title": "Учительница года",
       "url": "https://www.youtube.com/shorts/iWQBookKJwk",
       "published_at_utc": "2026-11-08T12:32:15+00:00",
-      "age_seconds": 2325
+      "age_seconds": 2446
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Финансовая грамотность их боялась",
       "url": "https://www.youtube.com/shorts/SqS356ckyFI",
       "published_at_utc": "2026-11-08T12:11:03+00:00",
-      "age_seconds": 3584
+      "age_seconds": 3704
     },
     {
       "channel": "ДАНИК",
       "title": "ПРОБУЕМ ВСЕ МЕНЮ МАКДОНАЛЬДС, КФС, БУРГЕР КИНГ В ТАИЛАНДЕ",
       "url": "https://www.youtube.com/watch?v=Wfk1ywTDJNo",
       "published_at_utc": "2026-11-08T12:01:26+00:00",
-      "age_seconds": 4183
+      "age_seconds": 4304
     },
     {
       "channel": "Тру Шорты",
       "title": "Как гусеница охотится на улиток",
       "url": "https://www.youtube.com/shorts/vV1SPQb_yP0",
       "published_at_utc": "2026-11-08T11:58:04+00:00",
-      "age_seconds": 4344
+      "age_seconds": 4464
     }
   ]
 }
