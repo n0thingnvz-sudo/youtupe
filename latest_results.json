@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-11-08T13:55:35.295734+00:00",
+  "generated_at_utc": "2026-11-08T13:57:34.373655+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Наташа и Вова | DvoePlay",
+      "title": "Береги свои шары #boardgames #настольныеигры #games #игры #настолки",
+      "url": "https://www.youtube.com/shorts/NaZanFytTNY",
+      "published_at_utc": "2026-11-08T13:49:10+00:00",
+      "age_seconds": 473
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Знакомьтесь Рибибок брат Абибаса",
       "url": "https://www.youtube.com/shorts/cC7wvvAdcA0",
       "published_at_utc": "2026-11-08T13:43:24+00:00",
-      "age_seconds": 684
+      "age_seconds": 802
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Побил мировой рекорд по FPS в Майнкрафте",
       "url": "https://www.youtube.com/shorts/VIsP2fCj1Vs",
       "published_at_utc": "2026-11-08T13:11:57+00:00",
-      "age_seconds": 2570
+      "age_seconds": 2689
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зачем работать, если можно уехать на Bugatti",
       "url": "https://www.youtube.com/shorts/qpchM1eIniI",
       "published_at_utc": "2026-11-08T13:10:13+00:00",
-      "age_seconds": 2673
+      "age_seconds": 2791
     },
     {
       "channel": "Майни",
       "title": "тир лист ОТМЕНЕННЫХ ютуберов | Реакция",
       "url": "https://www.youtube.com/watch?v=VtM_lTgJ01s",
       "published_at_utc": "2026-11-08T13:00:26+00:00",
-      "age_seconds": 3244
+      "age_seconds": 3364
     },
     {
       "channel": "Самый сахар",
       "title": "К&Б ЗАКРЫВАЮТ?! Правда, которую от нас скрывают...",
       "url": "https://www.youtube.com/watch?v=xXrLwsDFnNc",
       "published_at_utc": "2026-11-08T13:00:13+00:00",
-      "age_seconds": 3261
+      "age_seconds": 3380
     },
     {
       "channel": "dikiy_vadik",
       "title": "Учительница года",
       "url": "https://www.youtube.com/shorts/iWQBookKJwk",
       "published_at_utc": "2026-11-08T12:32:15+00:00",
-      "age_seconds": 4966
+      "age_seconds": 5084
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Финансовая грамотность их боялась",
       "url": "https://www.youtube.com/shorts/SqS356ckyFI",
       "published_at_utc": "2026-11-08T12:11:03+00:00",
-      "age_seconds": 6224
+      "age_seconds": 6343
     },
     {
       "channel": "ДАНИК",
       "title": "КТО БОЛЬШЕ ПОТОЛСТЕЕТ ЗА 24 ЧАСА | МАКДОНАЛЬДС, КФС, БУРГЕР КИНГ",
       "url": "https://www.youtube.com/watch?v=Wfk1ywTDJNo",
       "published_at_utc": "2026-11-08T12:01:26+00:00",
-      "age_seconds": 6825
+      "age_seconds": 6942
     },
     {
       "channel": "Тру Шорты",
       "title": "Как гусеница охотится на улиток",
       "url": "https://www.youtube.com/shorts/vV1SPQb_yP0",
       "published_at_utc": "2026-11-08T11:58:04+00:00",
-      "age_seconds": 6984
+      "age_seconds": 7104
     }
   ]
 }
