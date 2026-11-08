@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-08T09:43:29.247036+00:00",
+  "generated_at_utc": "2026-11-08T09:45:31.497437+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "курОлеся",
+      "title": "Время в воскресение после 16 ощущается как 💀",
+      "url": "https://www.youtube.com/shorts/07U2xjKc2UY",
+      "published_at_utc": "2026-11-08T09:31:37+00:00",
+      "age_seconds": 786
+    },
     {
       "channel": "Послезавтра",
       "title": "Страна с бесплатным транспортом #транспорт #бесплатно #люксембург",
       "url": "https://www.youtube.com/shorts/w9h6WYLKeBg",
       "published_at_utc": "2026-11-08T09:11:27+00:00",
-      "age_seconds": 1862
+      "age_seconds": 1982
     },
     {
       "channel": "Obsidian Time",
       "title": "Соулс-лайк бюджетом в 2 кириешки - False Hero",
       "url": "https://www.youtube.com/watch?v=SXSqIsMFz7Q",
       "published_at_utc": "2026-11-08T09:00:02+00:00",
-      "age_seconds": 2606
+      "age_seconds": 2728
     },
     {
       "channel": "i11ushenka",
       "title": "Коты сквозь века",
       "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
       "published_at_utc": "2026-11-08T08:58:22+00:00",
-      "age_seconds": 2649
+      "age_seconds": 2769
     }
   ]
 }
