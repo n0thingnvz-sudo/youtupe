@@ -1,13 +1,27 @@
 {
-  "generated_at_utc": "2026-11-07T22:05:23.808267+00:00",
+  "generated_at_utc": "2026-11-08T08:01:38.143895+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Никита Нестеров",
-      "title": "Будто два разных человека",
-      "url": "https://www.youtube.com/shorts/HwVkxQmHV8Q",
-      "published_at_utc": "2026-11-07T20:06:09+00:00",
-      "age_seconds": 7132
+      "channel": "VASYAN1000",
+      "title": "Бродяга сцепился с братухой #shorts #quest #юмор #прикол #games",
+      "url": "https://www.youtube.com/shorts/gXD7tKXiZ9E",
+      "published_at_utc": "2026-11-08T07:39:58+00:00",
+      "age_seconds": 1261
+    },
+    {
+      "channel": "Новостной Гусь",
+      "title": "Показал QR-код на стриме",
+      "url": "https://www.youtube.com/shorts/JKTjQMCF884",
+      "published_at_utc": "2026-11-08T07:30:12+00:00",
+      "age_seconds": 1835
+    },
+    {
+      "channel": "Dobryak",
+      "title": "Вор какашек",
+      "url": "https://www.youtube.com/shorts/zL3bjnXjhYg",
+      "published_at_utc": "2026-11-08T07:04:34+00:00",
+      "age_seconds": 3402
     }
   ]
 }
