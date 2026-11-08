@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-11-08T12:05:42.711164+00:00",
+  "generated_at_utc": "2026-11-08T12:07:34.895734+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "ДАНИК",
-      "title": "ПРОБУЕМ ВСЕ МЕНЮ МАКДОНАЛЬДС, КФС, БУРГЕР КИНГ В ТАИЛАНДЕ",
-      "url": "https://www.youtube.com/watch?v=Wfk1ywTDJNo",
-      "published_at_utc": "2026-11-08T12:01:26+00:00",
-      "age_seconds": 234
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Стереотипы пострадали",
       "url": "https://www.youtube.com/shorts/sD3v5otxNgI",
       "published_at_utc": "2026-11-08T11:07:07+00:00",
-      "age_seconds": 3460
+      "age_seconds": 3579
     },
     {
       "channel": "Новостной Гусь",
       "title": "Худший адвент-календарь",
       "url": "https://www.youtube.com/shorts/l1pcYBQ_bbE",
       "published_at_utc": "2026-11-08T10:30:28+00:00",
-      "age_seconds": 5657
+      "age_seconds": 5777
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кукушка 👿 Худшая или лучшая мать?",
       "url": "https://www.youtube.com/shorts/6QfEerRmPng",
       "published_at_utc": "2026-11-08T10:15:39+00:00",
-      "age_seconds": 6564
+      "age_seconds": 6684
     },
     {
       "channel": "i11ushenka",
       "title": "Кот Шрёдингера из LEGO (Он и Ксеноморф, и Звезда Смерти) 🐈‍⬛",
       "url": "https://www.youtube.com/shorts/MciX6dL7fIk",
       "published_at_utc": "2026-11-08T10:15:25+00:00",
-      "age_seconds": 6546
+      "age_seconds": 6666
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Японских Крестоносцев",
       "url": "https://www.youtube.com/watch?v=Qi7gw4UjCUE",
       "published_at_utc": "2026-11-08T10:15:00+00:00",
-      "age_seconds": 6580
+      "age_seconds": 6701
     }
   ]
 }
