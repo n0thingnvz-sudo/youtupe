@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T09:21:28.246579+00:00",
+  "generated_at_utc": "2026-11-08T09:23:29.317762+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,28 @@
       "title": "Соулс-лайк бюджетом в 2 кириешки - False Hero",
       "url": "https://www.youtube.com/watch?v=SXSqIsMFz7Q",
       "published_at_utc": "2026-11-08T09:00:02+00:00",
-      "age_seconds": 1285
+      "age_seconds": 1406
+    },
+    {
+      "channel": "i11ushenka",
+      "title": "Коты сквозь века",
+      "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
+      "published_at_utc": "2026-11-08T08:58:22+00:00",
+      "age_seconds": 1449
     },
     {
       "channel": "VASYAN1000",
       "title": "Бродяга сцепился с братухой #shorts #quest #юмор #прикол #games",
       "url": "https://www.youtube.com/shorts/gXD7tKXiZ9E",
       "published_at_utc": "2026-11-08T07:39:58+00:00",
-      "age_seconds": 6056
+      "age_seconds": 6176
     },
     {
       "channel": "Новостной Гусь",
       "title": "Показал QR-код на стриме",
       "url": "https://www.youtube.com/shorts/JKTjQMCF884",
       "published_at_utc": "2026-11-08T07:30:12+00:00",
-      "age_seconds": 6632
+      "age_seconds": 6752
     }
   ]
 }
