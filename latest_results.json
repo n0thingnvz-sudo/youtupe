@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T18:29:31.123695+00:00",
+  "generated_at_utc": "2026-11-08T18:31:33.581835+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Хороший мальчик",
       "url": "https://www.youtube.com/shorts/4ALHySPaEIM",
       "published_at_utc": "2026-11-08T18:00:15+00:00",
-      "age_seconds": 1710
+      "age_seconds": 1832
     },
     {
       "channel": "trkv17",
       "title": "Проиграл наследство бабушки, чтобы быть похожим на Мэллстроя - Нижний Гемблинг ч.5",
       "url": "https://www.youtube.com/watch?v=wLn6s2EJMbQ",
       "published_at_utc": "2026-11-08T17:10:13+00:00",
-      "age_seconds": 4704
+      "age_seconds": 4825
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самый быстрый бойфренд на Диком Востоке",
       "url": "https://www.youtube.com/shorts/ebxg4PdWs0Y",
       "published_at_utc": "2026-11-08T17:00:07+00:00",
-      "age_seconds": 5318
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Просто очень толстый ястреб",
-      "url": "https://www.youtube.com/shorts/P16gMJOLeH8",
-      "published_at_utc": "2026-11-08T16:30:35+00:00",
-      "age_seconds": 7089
+      "age_seconds": 5440
     }
   ]
 }
