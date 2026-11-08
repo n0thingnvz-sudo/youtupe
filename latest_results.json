@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-08T09:31:29.802061+00:00",
+  "generated_at_utc": "2026-11-08T09:33:30.078909+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "курОлеся",
+      "title": "Время в воскресение после 16 ощущается как 💀",
+      "url": "https://www.youtube.com/shorts/07U2xjKc2UY",
+      "published_at_utc": "2026-11-08T09:31:37+00:00",
+      "age_seconds": 66
+    },
     {
       "channel": "Послезавтра",
       "title": "Страна с бесплатным транспортом #транспорт #бесплатно #люксембург",
       "url": "https://www.youtube.com/shorts/w9h6WYLKeBg",
       "published_at_utc": "2026-11-08T09:11:27+00:00",
-      "age_seconds": 1142
+      "age_seconds": 1262
     },
     {
       "channel": "Obsidian Time",
       "title": "Соулс-лайк бюджетом в 2 кириешки - False Hero",
       "url": "https://www.youtube.com/watch?v=SXSqIsMFz7Q",
       "published_at_utc": "2026-11-08T09:00:02+00:00",
-      "age_seconds": 1887
+      "age_seconds": 2007
     },
     {
       "channel": "i11ushenka",
       "title": "Коты сквозь века",
       "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
       "published_at_utc": "2026-11-08T08:58:22+00:00",
-      "age_seconds": 1929
+      "age_seconds": 2049
     },
     {
       "channel": "VASYAN1000",
       "title": "Бродяга сцепился с братухой #shorts #quest #юмор #прикол #games",
       "url": "https://www.youtube.com/shorts/gXD7tKXiZ9E",
       "published_at_utc": "2026-11-08T07:39:58+00:00",
-      "age_seconds": 6656
+      "age_seconds": 6776
     }
   ]
 }
