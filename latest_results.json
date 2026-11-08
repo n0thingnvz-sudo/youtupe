@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-11-08T10:19:33.863855+00:00",
+  "generated_at_utc": "2026-11-08T10:21:33.384126+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Кот Шрёдингера из LEGO (Он и Ксеноморф, и Звезда Смерти) 🐈‍⬛",
+      "url": "https://www.youtube.com/shorts/MciX6dL7fIk",
+      "published_at_utc": "2026-11-08T10:15:25+00:00",
+      "age_seconds": 307
+    },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Японских Крестоносцев",
       "url": "https://www.youtube.com/watch?v=Qi7gw4UjCUE",
       "published_at_utc": "2026-11-08T10:15:00+00:00",
-      "age_seconds": 220
+      "age_seconds": 341
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ЗАЩИТА \"ВЕЛИКОЙ ДЫРОЧКИ\"! ПЕЩЕРА против КЛАНА в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=-Kp8e01XyyI",
       "published_at_utc": "2026-11-08T10:02:35+00:00",
-      "age_seconds": 1017
+      "age_seconds": 1137
     },
     {
       "channel": "sun_kill",
       "title": "ненавижу грубых людей и вот почему",
       "url": "https://www.youtube.com/shorts/Y2FwWVZCLpc",
       "published_at_utc": "2026-11-08T10:00:14+00:00",
-      "age_seconds": 1098
+      "age_seconds": 1218
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ястреб на массе",
       "url": "https://www.youtube.com/shorts/cLolRt5kSTs",
       "published_at_utc": "2026-11-08T09:35:45+00:00",
-      "age_seconds": 2581
+      "age_seconds": 2703
     },
     {
       "channel": "курОлеся",
       "title": "Время в воскресение после 16 ощущается как 💀",
       "url": "https://www.youtube.com/shorts/07U2xjKc2UY",
       "published_at_utc": "2026-11-08T09:31:37+00:00",
-      "age_seconds": 2827
+      "age_seconds": 2949
     },
     {
       "channel": "Послезавтра",
       "title": "Страна с бесплатным транспортом #транспорт #бесплатно #люксембург",
       "url": "https://www.youtube.com/shorts/w9h6WYLKeBg",
       "published_at_utc": "2026-11-08T09:11:27+00:00",
-      "age_seconds": 4022
+      "age_seconds": 4142
     },
     {
       "channel": "Obsidian Time",
       "title": "Соулс-лайк бюджетом в 2 кириешки - False Hero",
       "url": "https://www.youtube.com/watch?v=SXSqIsMFz7Q",
       "published_at_utc": "2026-11-08T09:00:02+00:00",
-      "age_seconds": 4771
+      "age_seconds": 4890
     },
     {
       "channel": "i11ushenka",
       "title": "Коты сквозь века",
       "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
       "published_at_utc": "2026-11-08T08:58:22+00:00",
-      "age_seconds": 4809
+      "age_seconds": 4930
     }
   ]
 }
