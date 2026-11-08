@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-08T12:33:29.036325+00:00",
+  "generated_at_utc": "2026-11-08T12:35:34.778360+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "dikiy_vadik",
+      "title": "Учительница года",
+      "url": "https://www.youtube.com/shorts/iWQBookKJwk",
+      "published_at_utc": "2026-11-08T12:32:15+00:00",
+      "age_seconds": 164
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Финансовая грамотность их боялась",
       "url": "https://www.youtube.com/shorts/SqS356ckyFI",
       "published_at_utc": "2026-11-08T12:11:03+00:00",
-      "age_seconds": 1302
+      "age_seconds": 1422
     },
     {
       "channel": "ДАНИК",
       "title": "ПРОБУЕМ ВСЕ МЕНЮ МАКДОНАЛЬДС, КФС, БУРГЕР КИНГ В ТАИЛАНДЕ",
       "url": "https://www.youtube.com/watch?v=Wfk1ywTDJNo",
       "published_at_utc": "2026-11-08T12:01:26+00:00",
-      "age_seconds": 1900
+      "age_seconds": 2024
     },
     {
       "channel": "Тру Шорты",
       "title": "Как гусеница охотится на улиток",
       "url": "https://www.youtube.com/shorts/vV1SPQb_yP0",
       "published_at_utc": "2026-11-08T11:58:04+00:00",
-      "age_seconds": 2064
+      "age_seconds": 2184
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Стереотипы пострадали",
       "url": "https://www.youtube.com/shorts/sD3v5otxNgI",
       "published_at_utc": "2026-11-08T11:07:07+00:00",
-      "age_seconds": 5138
+      "age_seconds": 5258
     }
   ]
 }
