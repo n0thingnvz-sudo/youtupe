@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-11-08T10:37:32.844759+00:00",
+  "generated_at_utc": "2026-11-08T10:39:29.556383+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Худший адвент-календарь",
+      "url": "https://www.youtube.com/shorts/l1pcYBQ_bbE",
+      "published_at_utc": "2026-11-08T10:30:28+00:00",
+      "age_seconds": 496
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кукушка 👿 Худшая или лучшая мать?",
       "url": "https://www.youtube.com/shorts/6QfEerRmPng",
       "published_at_utc": "2026-11-08T10:15:39+00:00",
-      "age_seconds": 1284
+      "age_seconds": 1401
     },
     {
       "channel": "i11ushenka",
       "title": "Кот Шрёдингера из LEGO (Он и Ксеноморф, и Звезда Смерти) 🐈‍⬛",
       "url": "https://www.youtube.com/shorts/MciX6dL7fIk",
       "published_at_utc": "2026-11-08T10:15:25+00:00",
-      "age_seconds": 1267
+      "age_seconds": 1386
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Японских Крестоносцев",
       "url": "https://www.youtube.com/watch?v=Qi7gw4UjCUE",
       "published_at_utc": "2026-11-08T10:15:00+00:00",
-      "age_seconds": 1301
+      "age_seconds": 1420
     },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ЗАЩИТА \"ВЕЛИКОЙ ДЫРОЧКИ\"! ПЕЩЕРА против КЛАНА в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=-Kp8e01XyyI",
       "published_at_utc": "2026-11-08T10:02:35+00:00",
-      "age_seconds": 2096
+      "age_seconds": 2213
     },
     {
       "channel": "sun_kill",
       "title": "ненавижу грубых людей и вот почему",
       "url": "https://www.youtube.com/shorts/Y2FwWVZCLpc",
       "published_at_utc": "2026-11-08T10:00:14+00:00",
-      "age_seconds": 2178
+      "age_seconds": 2298
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ястреб на массе",
       "url": "https://www.youtube.com/shorts/cLolRt5kSTs",
       "published_at_utc": "2026-11-08T09:35:45+00:00",
-      "age_seconds": 3661
+      "age_seconds": 3780
     },
     {
       "channel": "курОлеся",
       "title": "Время в воскресение после 16 ощущается как 💀",
       "url": "https://www.youtube.com/shorts/07U2xjKc2UY",
       "published_at_utc": "2026-11-08T09:31:37+00:00",
-      "age_seconds": 3908
+      "age_seconds": 4026
     },
     {
       "channel": "Послезавтра",
       "title": "Страна с бесплатным транспортом #транспорт #бесплатно #люксембург",
       "url": "https://www.youtube.com/shorts/w9h6WYLKeBg",
       "published_at_utc": "2026-11-08T09:11:27+00:00",
-      "age_seconds": 5102
+      "age_seconds": 5222
     },
     {
       "channel": "Obsidian Time",
       "title": "Соулс-лайк бюджетом в 2 кириешки - False Hero",
       "url": "https://www.youtube.com/watch?v=SXSqIsMFz7Q",
       "published_at_utc": "2026-11-08T09:00:02+00:00",
-      "age_seconds": 5849
+      "age_seconds": 5966
     },
     {
       "channel": "i11ushenka",
       "title": "Коты сквозь века",
       "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
       "published_at_utc": "2026-11-08T08:58:22+00:00",
-      "age_seconds": 5890
+      "age_seconds": 6009
     }
   ]
 }
