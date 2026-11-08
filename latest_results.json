@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-08T10:17:27.860121+00:00",
+  "generated_at_utc": "2026-11-08T10:19:33.863855+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Звездный Капитан",
+      "title": "Ужасы Японских Крестоносцев",
+      "url": "https://www.youtube.com/watch?v=Qi7gw4UjCUE",
+      "published_at_utc": "2026-11-08T10:15:00+00:00",
+      "age_seconds": 220
+    },
     {
       "channel": "ДЕРЖИ ДВЕРЬ",
       "title": "ЗАЩИТА \"ВЕЛИКОЙ ДЫРОЧКИ\"! ПЕЩЕРА против КЛАНА в РАСТ RUST",
       "url": "https://www.youtube.com/watch?v=-Kp8e01XyyI",
       "published_at_utc": "2026-11-08T10:02:35+00:00",
-      "age_seconds": 891
+      "age_seconds": 1017
     },
     {
       "channel": "sun_kill",
       "title": "ненавижу грубых людей и вот почему",
       "url": "https://www.youtube.com/shorts/Y2FwWVZCLpc",
       "published_at_utc": "2026-11-08T10:00:14+00:00",
-      "age_seconds": 978
+      "age_seconds": 1098
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ястреб на массе",
       "url": "https://www.youtube.com/shorts/cLolRt5kSTs",
       "published_at_utc": "2026-11-08T09:35:45+00:00",
-      "age_seconds": 2460
+      "age_seconds": 2581
     },
     {
       "channel": "курОлеся",
       "title": "Время в воскресение после 16 ощущается как 💀",
       "url": "https://www.youtube.com/shorts/07U2xjKc2UY",
       "published_at_utc": "2026-11-08T09:31:37+00:00",
-      "age_seconds": 2706
+      "age_seconds": 2827
     },
     {
       "channel": "Послезавтра",
       "title": "Страна с бесплатным транспортом #транспорт #бесплатно #люксембург",
       "url": "https://www.youtube.com/shorts/w9h6WYLKeBg",
       "published_at_utc": "2026-11-08T09:11:27+00:00",
-      "age_seconds": 3902
+      "age_seconds": 4022
     },
     {
       "channel": "Obsidian Time",
       "title": "Соулс-лайк бюджетом в 2 кириешки - False Hero",
       "url": "https://www.youtube.com/watch?v=SXSqIsMFz7Q",
       "published_at_utc": "2026-11-08T09:00:02+00:00",
-      "age_seconds": 4645
+      "age_seconds": 4771
     },
     {
       "channel": "i11ushenka",
       "title": "Коты сквозь века",
       "url": "https://www.youtube.com/shorts/PoMpOGjadFE",
       "published_at_utc": "2026-11-08T08:58:22+00:00",
-      "age_seconds": 4689
+      "age_seconds": 4809
     }
   ]
 }
