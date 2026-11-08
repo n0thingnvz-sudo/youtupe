@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T16:25:40.320051+00:00",
+  "generated_at_utc": "2026-11-08T16:27:36.483540+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Важнейшая новость на сегодня",
       "url": "https://www.youtube.com/shorts/EZY5tC2MUPY",
       "published_at_utc": "2026-11-08T16:00:28+00:00",
-      "age_seconds": 1460
+      "age_seconds": 1578
     },
     {
       "channel": "LenS",
       "title": "АВИЧЕ ПОБОЯЛСЯ ИДТИ МИД ПРОТИВ МОЕГО МАГНУСА на турнире за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=r_DtGR9sMtQ",
       "published_at_utc": "2026-11-08T15:23:15+00:00",
-      "age_seconds": 3735
+      "age_seconds": 3850
     },
     {
       "channel": "DeadP47",
       "title": "ЛУЧШАЯ ИГРА В ИСТОРИИ",
       "url": "https://www.youtube.com/watch?v=vB49WCbvZKY",
       "published_at_utc": "2026-11-08T15:11:30+00:00",
-      "age_seconds": 4441
+      "age_seconds": 4556
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Недостоин АвтоВАЗа",
       "url": "https://www.youtube.com/shorts/Jldw3mVZ_ws",
       "published_at_utc": "2026-11-08T15:00:34+00:00",
-      "age_seconds": 5054
+      "age_seconds": 5172
     },
     {
       "channel": "Майни",
       "title": "Мертвое полушарие клиентов WB и Ozon 8 ► ПУГОВКИН | Реакция",
       "url": "https://www.youtube.com/watch?v=hbD_8NTEueY",
       "published_at_utc": "2026-11-08T15:00:20+00:00",
-      "age_seconds": 5051
+      "age_seconds": 5170
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Америке не нужны арабские цифры",
       "url": "https://www.youtube.com/shorts/nPoCwejUxhA",
       "published_at_utc": "2026-11-08T14:34:00+00:00",
-      "age_seconds": 6649
+      "age_seconds": 6767
     }
   ]
 }
