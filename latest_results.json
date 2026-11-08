@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-11-08T18:37:32.314517+00:00",
+  "generated_at_utc": "2026-11-08T18:39:39.715416+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "Роналду Оставили ПУСТОЕ МЕСТО в Самолёте @denmarnews",
-      "url": "https://www.youtube.com/shorts/fSpKZhXSVkk",
-      "published_at_utc": "2026-11-08T18:23:41+00:00",
-      "age_seconds": 781
-    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Хороший мальчик",
       "url": "https://www.youtube.com/shorts/4ALHySPaEIM",
       "published_at_utc": "2026-11-08T18:00:15+00:00",
-      "age_seconds": 2190
+      "age_seconds": 2310
     },
     {
       "channel": "trkv17",
       "title": "Проиграл наследство бабушки, чтобы быть похожим на Мэллстроя - Нижний Гемблинг ч.5",
       "url": "https://www.youtube.com/watch?v=wLn6s2EJMbQ",
       "published_at_utc": "2026-11-08T17:10:13+00:00",
-      "age_seconds": 5185
+      "age_seconds": 5304
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Самый быстрый бойфренд на Диком Востоке",
       "url": "https://www.youtube.com/shorts/ebxg4PdWs0Y",
       "published_at_utc": "2026-11-08T17:00:07+00:00",
-      "age_seconds": 5798
+      "age_seconds": 5918
     }
   ]
 }
