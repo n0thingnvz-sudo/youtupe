@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-08T14:03:33.334698+00:00",
+  "generated_at_utc": "2026-11-08T14:05:34.719149+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Наташа и Вова | DvoePlay",
+      "title": "Береги свои шары #boardgames #настольныеигры #games #игры #настолки",
+      "url": "https://www.youtube.com/shorts/NaZanFytTNY",
+      "published_at_utc": "2026-11-08T13:49:10+00:00",
+      "age_seconds": 954
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Знакомьтесь Рибибок брат Абибаса",
       "url": "https://www.youtube.com/shorts/cC7wvvAdcA0",
       "published_at_utc": "2026-11-08T13:43:24+00:00",
-      "age_seconds": 1163
+      "age_seconds": 1282
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Побил мировой рекорд по FPS в Майнкрафте",
       "url": "https://www.youtube.com/shorts/VIsP2fCj1Vs",
       "published_at_utc": "2026-11-08T13:11:57+00:00",
-      "age_seconds": 3049
+      "age_seconds": 3169
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зачем работать, если можно уехать на Bugatti",
       "url": "https://www.youtube.com/shorts/qpchM1eIniI",
       "published_at_utc": "2026-11-08T13:10:13+00:00",
-      "age_seconds": 3152
+      "age_seconds": 3272
     },
     {
       "channel": "Майни",
       "title": "тир лист ОТМЕНЕННЫХ ютуберов | Реакция",
       "url": "https://www.youtube.com/watch?v=VtM_lTgJ01s",
       "published_at_utc": "2026-11-08T13:00:26+00:00",
-      "age_seconds": 3724
+      "age_seconds": 3844
     },
     {
       "channel": "Самый сахар",
       "title": "К&Б ЗАКРЫВАЮТ?! Правда, которую от нас скрывают...",
       "url": "https://www.youtube.com/watch?v=xXrLwsDFnNc",
       "published_at_utc": "2026-11-08T13:00:13+00:00",
-      "age_seconds": 3741
+      "age_seconds": 3861
     },
     {
       "channel": "dikiy_vadik",
       "title": "Учительница года",
       "url": "https://www.youtube.com/shorts/iWQBookKJwk",
       "published_at_utc": "2026-11-08T12:32:15+00:00",
-      "age_seconds": 5444
+      "age_seconds": 5564
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Финансовая грамотность их боялась",
       "url": "https://www.youtube.com/shorts/SqS356ckyFI",
       "published_at_utc": "2026-11-08T12:11:03+00:00",
-      "age_seconds": 6703
+      "age_seconds": 6823
     }
   ]
 }
