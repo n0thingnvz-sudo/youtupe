@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-09T13:35:38.423091+00:00",
+  "generated_at_utc": "2026-11-09T13:37:33.787967+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Толпа Не Смогла Сдвинуть 110-Тонную Фасолину @denmarnews",
+      "url": "https://www.youtube.com/shorts/HnBFlu5ED48",
+      "published_at_utc": "2026-11-09T13:20:25+00:00",
+      "age_seconds": 978
+    },
     {
       "channel": "leafxup",
       "title": "ПРЫЖОК С 40 ЭТАЖА...",
       "url": "https://www.youtube.com/watch?v=HezDHFV7Bcs",
       "published_at_utc": "2026-11-09T13:03:59+00:00",
-      "age_seconds": 1880
+      "age_seconds": 1998
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как свести с ума кого угодно",
       "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
       "published_at_utc": "2026-11-09T13:00:24+00:00",
-      "age_seconds": 2061
+      "age_seconds": 2182
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКРЫТИЕ РЕСТОРАНА (смешное видео, юмор, прикол, поржать,  приколы, вайны)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 2101
+      "age_seconds": 2218
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
       "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
       "published_at_utc": "2026-11-09T12:43:40+00:00",
-      "age_seconds": 3086
+      "age_seconds": 3203
     },
     {
       "channel": "sun_kill",
       "title": "я так рада, что давно закончила школу",
       "url": "https://www.youtube.com/shorts/21eycJBZXrU",
       "published_at_utc": "2026-11-09T12:08:39+00:00",
-      "age_seconds": 5153
+      "age_seconds": 5273
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гангстер-скромняга",
       "url": "https://www.youtube.com/shorts/yZWq5XUcl8U",
       "published_at_utc": "2026-11-09T12:01:55+00:00",
-      "age_seconds": 5571
+      "age_seconds": 5692
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ООО \"тмыв денег\"",
       "url": "https://www.youtube.com/shorts/2x-ESXwGFFY",
       "published_at_utc": "2026-11-09T12:00:08+00:00",
-      "age_seconds": 5677
+      "age_seconds": 5798
     }
   ]
 }
