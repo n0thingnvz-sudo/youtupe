@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-09T12:55:40.154495+00:00",
+  "generated_at_utc": "2026-11-09T12:57:34.093998+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
+      "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
+      "published_at_utc": "2026-11-09T12:43:40+00:00",
+      "age_seconds": 802
+    },
     {
       "channel": "sun_kill",
       "title": "я так рада, что давно закончила школу",
       "url": "https://www.youtube.com/shorts/21eycJBZXrU",
       "published_at_utc": "2026-11-09T12:08:39+00:00",
-      "age_seconds": 2753
+      "age_seconds": 2873
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гангстер-скромняга",
       "url": "https://www.youtube.com/shorts/yZWq5XUcl8U",
       "published_at_utc": "2026-11-09T12:01:55+00:00",
-      "age_seconds": 3171
+      "age_seconds": 3291
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ООО \"тмыв денег\"",
       "url": "https://www.youtube.com/shorts/2x-ESXwGFFY",
       "published_at_utc": "2026-11-09T12:00:08+00:00",
-      "age_seconds": 3277
+      "age_seconds": 3398
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/yrOFbiMtM1Q",
       "published_at_utc": "2026-11-09T11:14:48+00:00",
-      "age_seconds": 6007
+      "age_seconds": 6127
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Суеверный лайфхак",
       "url": "https://www.youtube.com/shorts/jQLwFjUngCI",
       "published_at_utc": "2026-11-09T11:00:27+00:00",
-      "age_seconds": 6858
+      "age_seconds": 6979
     }
   ]
 }
