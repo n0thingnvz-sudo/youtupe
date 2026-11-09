@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-09T19:35:47.795761+00:00",
+  "generated_at_utc": "2026-11-09T19:37:34.320928+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Чем дальше, тем страшнее 😅",
       "url": "https://www.youtube.com/shorts/ZcaQlT3ty0U",
       "published_at_utc": "2026-11-09T19:13:22+00:00",
-      "age_seconds": 1304
+      "age_seconds": 1423
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как скрыть сюжет фильма до премьеры",
       "url": "https://www.youtube.com/shorts/txWIVB-onNk",
       "published_at_utc": "2026-11-09T18:15:21+00:00",
-      "age_seconds": 4764
+      "age_seconds": 4885
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему динозаврам нельзя было высиживать яйца 🦕",
       "url": "https://www.youtube.com/shorts/juHATZuG9rs",
       "published_at_utc": "2026-11-09T17:50:49+00:00",
-      "age_seconds": 6254
+      "age_seconds": 6373
     }
   ]
 }
