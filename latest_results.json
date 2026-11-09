@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-11-09T13:57:32.650368+00:00",
+  "generated_at_utc": "2026-11-09T13:59:39.420747+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Войны оперативной памяти",
+      "url": "https://www.youtube.com/shorts/IMMG4YqIqUU",
+      "published_at_utc": "2026-11-09T13:44:41+00:00",
+      "age_seconds": 847
+    },
     {
       "channel": "Короче, новости",
       "title": "Толпа Не Смогла Сдвинуть 110-Тонную Фасолину @denmarnews",
       "url": "https://www.youtube.com/shorts/HnBFlu5ED48",
       "published_at_utc": "2026-11-09T13:20:25+00:00",
-      "age_seconds": 2178
+      "age_seconds": 2297
     },
     {
       "channel": "leafxup",
       "title": "ПРЫЖОК С 40 ЭТАЖА...",
       "url": "https://www.youtube.com/watch?v=HezDHFV7Bcs",
       "published_at_utc": "2026-11-09T13:03:59+00:00",
-      "age_seconds": 3196
+      "age_seconds": 3320
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как свести с ума кого угодно",
       "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
       "published_at_utc": "2026-11-09T13:00:24+00:00",
-      "age_seconds": 3382
+      "age_seconds": 3503
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКРЫТИЕ РЕСТОРАНА (смешное видео, юмор, прикол, поржать,  приколы, вайны)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 3418
+      "age_seconds": 3542
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
       "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
       "published_at_utc": "2026-11-09T12:43:40+00:00",
-      "age_seconds": 4403
+      "age_seconds": 4526
     },
     {
       "channel": "sun_kill",
       "title": "я так рада, что давно закончила школу",
       "url": "https://www.youtube.com/shorts/21eycJBZXrU",
       "published_at_utc": "2026-11-09T12:08:39+00:00",
-      "age_seconds": 6473
+      "age_seconds": 6593
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гангстер-скромняга",
       "url": "https://www.youtube.com/shorts/yZWq5XUcl8U",
       "published_at_utc": "2026-11-09T12:01:55+00:00",
-      "age_seconds": 6891
+      "age_seconds": 7013
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ООО \"тмыв денег\"",
       "url": "https://www.youtube.com/shorts/2x-ESXwGFFY",
       "published_at_utc": "2026-11-09T12:00:08+00:00",
-      "age_seconds": 6998
+      "age_seconds": 7119
     }
   ]
 }
