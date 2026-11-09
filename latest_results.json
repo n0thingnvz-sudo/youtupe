@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-11-09T18:09:37.466272+00:00",
+  "generated_at_utc": "2026-11-09T18:11:38.742345+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Почему динозаврам нельзя было высиживать яйца 🦕",
+      "url": "https://www.youtube.com/shorts/juHATZuG9rs",
+      "published_at_utc": "2026-11-09T17:50:49+00:00",
+      "age_seconds": 1214
+    },
     {
       "channel": "Дима Масленников",
       "title": "Город Крыс! (Exile, Парадеевич, Дипинс, Nowkie, Sasavot, Tenderlybae, Братишкин и другие)",
       "url": "https://www.youtube.com/watch?v=s6a8vvmw_ug",
       "published_at_utc": "2026-11-09T17:30:11+00:00",
-      "age_seconds": 2319
+      "age_seconds": 2439
     },
     {
       "channel": "ЛИТВИН",
       "title": "Экстремальная Гонка на Фудтраках с Блогерами !",
       "url": "https://www.youtube.com/watch?v=Nx4RUArual4",
       "published_at_utc": "2026-11-09T16:59:55+00:00",
-      "age_seconds": 4136
+      "age_seconds": 4256
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Честный парень",
       "url": "https://www.youtube.com/shorts/znKcFiTjX0E",
       "published_at_utc": "2026-11-09T16:49:57+00:00",
-      "age_seconds": 4731
+      "age_seconds": 4850
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/sB6xSFcz6dY",
       "published_at_utc": "2026-11-09T16:48:39+00:00",
-      "age_seconds": 4828
+      "age_seconds": 4948
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Руки поотрывать этим лапшичникам",
       "url": "https://www.youtube.com/shorts/sGXqrGfEIWY",
       "published_at_utc": "2026-11-09T16:46:36+00:00",
-      "age_seconds": 4932
+      "age_seconds": 5052
     },
     {
       "channel": "i11ushenka",
       "title": "Лотерейный заговор кассиров: как они забирали чужие миллионы",
       "url": "https://www.youtube.com/shorts/mjGWDamWdt8",
       "published_at_utc": "2026-11-09T16:30:40+00:00",
-      "age_seconds": 5872
+      "age_seconds": 5992
     },
     {
       "channel": "Ассистент грумера",
       "title": "УВОЛЬНЯЮСЬ/ Это должно было случиться #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/UsFlqlrTcxg",
       "published_at_utc": "2026-11-09T16:20:41+00:00",
-      "age_seconds": 6495
+      "age_seconds": 6614
     },
     {
       "channel": "МЯЧ Production",
       "title": "«Барса» – чума, МЮ – тоже, но есть нюанс | ХИТ №10",
       "url": "https://www.youtube.com/watch?v=g9dYhaZuHp4",
       "published_at_utc": "2026-11-09T16:17:51+00:00",
-      "age_seconds": 6664
+      "age_seconds": 6783
     }
   ]
 }
