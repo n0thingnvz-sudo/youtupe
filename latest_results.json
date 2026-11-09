@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-09T14:07:41.668175+00:00",
+  "generated_at_utc": "2026-11-09T14:09:41.255416+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Любите пиццу с ананасами?",
+      "url": "https://www.youtube.com/shorts/UrOwo71mJ6U",
+      "published_at_utc": "2026-11-09T14:00:14+00:00",
+      "age_seconds": 514
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Войны оперативной памяти",
       "url": "https://www.youtube.com/shorts/IMMG4YqIqUU",
       "published_at_utc": "2026-11-09T13:44:41+00:00",
-      "age_seconds": 1329
+      "age_seconds": 1448
     },
     {
       "channel": "Короче, новости",
       "title": "Толпа Не Смогла Сдвинуть 110-Тонную Фасолину @denmarnews",
       "url": "https://www.youtube.com/shorts/HnBFlu5ED48",
       "published_at_utc": "2026-11-09T13:20:25+00:00",
-      "age_seconds": 2781
+      "age_seconds": 2899
     },
     {
       "channel": "leafxup",
       "title": "ПРЫЖОК С 40 ЭТАЖА...",
       "url": "https://www.youtube.com/watch?v=HezDHFV7Bcs",
       "published_at_utc": "2026-11-09T13:03:59+00:00",
-      "age_seconds": 3800
+      "age_seconds": 3924
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как свести с ума кого угодно",
       "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
       "published_at_utc": "2026-11-09T13:00:24+00:00",
-      "age_seconds": 3985
+      "age_seconds": 4104
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКРЫТИЕ РЕСТОРАНА (смешное видео, юмор, прикол, поржать,  приколы, вайны)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 4021
+      "age_seconds": 4141
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
       "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
       "published_at_utc": "2026-11-09T12:43:40+00:00",
-      "age_seconds": 5006
+      "age_seconds": 5126
     },
     {
       "channel": "sun_kill",
       "title": "я так рада, что давно закончила школу",
       "url": "https://www.youtube.com/shorts/21eycJBZXrU",
       "published_at_utc": "2026-11-09T12:08:39+00:00",
-      "age_seconds": 7076
+      "age_seconds": 7193
     }
   ]
 }
