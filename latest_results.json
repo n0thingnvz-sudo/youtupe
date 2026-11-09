@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-11-09T14:19:52.543143+00:00",
+  "generated_at_utc": "2026-11-09T14:21:36.202192+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "Рыбаки поймали пианиста в океане",
+      "url": "https://www.youtube.com/shorts/uXCfEAKOQMs",
+      "published_at_utc": "2026-11-09T14:16:23+00:00",
+      "age_seconds": 264
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Любите пиццу с ананасами?",
       "url": "https://www.youtube.com/shorts/UrOwo71mJ6U",
       "published_at_utc": "2026-11-09T14:00:14+00:00",
-      "age_seconds": 1125
+      "age_seconds": 1232
     },
     {
       "channel": "i11ushenka",
       "title": "\"Пункт назначения\" в реальной жизни: История Трея",
       "url": "https://www.youtube.com/shorts/JELcaQOqmgg",
       "published_at_utc": "2026-11-09T14:00:12+00:00",
-      "age_seconds": 1100
+      "age_seconds": 1219
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Войны оперативной памяти",
       "url": "https://www.youtube.com/shorts/IMMG4YqIqUU",
       "published_at_utc": "2026-11-09T13:44:41+00:00",
-      "age_seconds": 2059
+      "age_seconds": 2166
     },
     {
       "channel": "Короче, новости",
       "title": "Толпа Не Смогла Сдвинуть 110-Тонную Фасолину @denmarnews",
       "url": "https://www.youtube.com/shorts/HnBFlu5ED48",
       "published_at_utc": "2026-11-09T13:20:25+00:00",
-      "age_seconds": 3503
+      "age_seconds": 3618
     },
     {
       "channel": "leafxup",
       "title": "ПРЫЖОК С 40 ЭТАЖА...",
       "url": "https://www.youtube.com/watch?v=HezDHFV7Bcs",
       "published_at_utc": "2026-11-09T13:03:59+00:00",
-      "age_seconds": 4534
+      "age_seconds": 4640
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как свести с ума кого угодно",
       "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
       "published_at_utc": "2026-11-09T13:00:24+00:00",
-      "age_seconds": 4715
+      "age_seconds": 4822
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКРЫТИЕ РЕСТОРАНА (смешное видео, юмор, прикол, поржать,  приколы, вайны)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 4755
+      "age_seconds": 4859
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
       "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
       "published_at_utc": "2026-11-09T12:43:40+00:00",
-      "age_seconds": 5740
+      "age_seconds": 5845
     }
   ]
 }
