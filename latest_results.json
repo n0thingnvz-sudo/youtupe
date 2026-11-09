@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-09T18:59:38.048260+00:00",
+  "generated_at_utc": "2026-11-09T19:01:38.537665+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Как скрыть сюжет фильма до премьеры",
       "url": "https://www.youtube.com/shorts/txWIVB-onNk",
       "published_at_utc": "2026-11-09T18:15:21+00:00",
-      "age_seconds": 2605
+      "age_seconds": 2725
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему динозаврам нельзя было высиживать яйца 🦕",
       "url": "https://www.youtube.com/shorts/juHATZuG9rs",
       "published_at_utc": "2026-11-09T17:50:49+00:00",
-      "age_seconds": 4095
+      "age_seconds": 4217
     },
     {
       "channel": "Дима Масленников",
       "title": "Город Крыс! (Exile, Парадеевич, Дипинс, Nowkie, Sasavot, Tenderlybae, Братишкин и другие)",
       "url": "https://www.youtube.com/watch?v=s6a8vvmw_ug",
       "published_at_utc": "2026-11-09T17:30:11+00:00",
-      "age_seconds": 5318
-    },
-    {
-      "channel": "ЛИТВИН",
-      "title": "Экстремальная Гонка на Фудтраках с Блогерами !",
-      "url": "https://www.youtube.com/watch?v=Nx4RUArual4",
-      "published_at_utc": "2026-11-09T16:59:55+00:00",
-      "age_seconds": 7136
+      "age_seconds": 5439
     }
   ]
 }
