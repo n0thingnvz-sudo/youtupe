@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-09T13:15:35.821506+00:00",
+  "generated_at_utc": "2026-11-09T13:17:34.641605+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,49 @@
       "title": "ПРЫЖОК С 40 ЭТАЖА...",
       "url": "https://www.youtube.com/watch?v=HezDHFV7Bcs",
       "published_at_utc": "2026-11-09T13:03:59+00:00",
-      "age_seconds": 679
+      "age_seconds": 798
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Как свести с ума кого угодно",
+      "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
+      "published_at_utc": "2026-11-09T13:00:24+00:00",
+      "age_seconds": 982
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКРЫТИЕ РЕСТОРАНА (смешное видео, юмор, прикол, поржать,  приколы, вайны)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 901
+      "age_seconds": 1020
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
       "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
       "published_at_utc": "2026-11-09T12:43:40+00:00",
-      "age_seconds": 1886
+      "age_seconds": 2004
     },
     {
       "channel": "sun_kill",
       "title": "я так рада, что давно закончила школу",
       "url": "https://www.youtube.com/shorts/21eycJBZXrU",
       "published_at_utc": "2026-11-09T12:08:39+00:00",
-      "age_seconds": 3952
+      "age_seconds": 4073
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гангстер-скромняга",
       "url": "https://www.youtube.com/shorts/yZWq5XUcl8U",
       "published_at_utc": "2026-11-09T12:01:55+00:00",
-      "age_seconds": 4373
+      "age_seconds": 4492
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ООО \"тмыв денег\"",
       "url": "https://www.youtube.com/shorts/2x-ESXwGFFY",
       "published_at_utc": "2026-11-09T12:00:08+00:00",
-      "age_seconds": 4479
+      "age_seconds": 4598
     }
   ]
 }
