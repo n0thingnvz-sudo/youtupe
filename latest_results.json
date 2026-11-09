@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-09T18:21:34.872371+00:00",
+  "generated_at_utc": "2026-11-09T18:23:36.241723+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Как скрыть сюжет фильма до премьеры",
+      "url": "https://www.youtube.com/shorts/txWIVB-onNk",
+      "published_at_utc": "2026-11-09T18:15:21+00:00",
+      "age_seconds": 447
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Почему динозаврам нельзя было высиживать яйца 🦕",
       "url": "https://www.youtube.com/shorts/juHATZuG9rs",
       "published_at_utc": "2026-11-09T17:50:49+00:00",
-      "age_seconds": 1815
+      "age_seconds": 1938
     },
     {
       "channel": "Дима Масленников",
       "title": "Город Крыс! (Exile, Парадеевич, Дипинс, Nowkie, Sasavot, Tenderlybae, Братишкин и другие)",
       "url": "https://www.youtube.com/watch?v=s6a8vvmw_ug",
       "published_at_utc": "2026-11-09T17:30:11+00:00",
-      "age_seconds": 3038
+      "age_seconds": 3161
     },
     {
       "channel": "ЛИТВИН",
       "title": "Экстремальная Гонка на Фудтраках с Блогерами !",
       "url": "https://www.youtube.com/watch?v=Nx4RUArual4",
       "published_at_utc": "2026-11-09T16:59:55+00:00",
-      "age_seconds": 4855
+      "age_seconds": 4978
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Честный парень",
       "url": "https://www.youtube.com/shorts/znKcFiTjX0E",
       "published_at_utc": "2026-11-09T16:49:57+00:00",
-      "age_seconds": 5450
+      "age_seconds": 5572
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/sB6xSFcz6dY",
       "published_at_utc": "2026-11-09T16:48:39+00:00",
-      "age_seconds": 5546
+      "age_seconds": 5669
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Руки поотрывать этим лапшичникам",
       "url": "https://www.youtube.com/shorts/sGXqrGfEIWY",
       "published_at_utc": "2026-11-09T16:46:36+00:00",
-      "age_seconds": 5651
+      "age_seconds": 5774
     },
     {
       "channel": "i11ushenka",
       "title": "Лотерейный заговор кассиров: как они забирали чужие миллионы",
       "url": "https://www.youtube.com/shorts/mjGWDamWdt8",
       "published_at_utc": "2026-11-09T16:30:40+00:00",
-      "age_seconds": 6591
+      "age_seconds": 6711
     }
   ]
 }
