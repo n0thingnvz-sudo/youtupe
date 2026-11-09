@@ -1,41 +1,55 @@
 {
-  "generated_at_utc": "2026-11-09T13:07:33.291823+00:00",
+  "generated_at_utc": "2026-11-09T13:09:36.014180+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Как свести с ума кого угодно",
+      "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
+      "published_at_utc": "2026-11-09T13:00:24+00:00",
+      "age_seconds": 503
+    },
     {
       "channel": "Натурал Альбертович",
       "title": "ЗАКРЫТИЕ РЕСТОРАНА (смешное видео, юмор, прикол, поржать,  приколы, вайны)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 418
+      "age_seconds": 540
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Упала со скалы, но отказалась сдаваться 🦊✨",
+      "url": "https://www.youtube.com/shorts/QrRQOq8OIfA",
+      "published_at_utc": "2026-11-09T12:43:40+00:00",
+      "age_seconds": 1525
     },
     {
       "channel": "sun_kill",
       "title": "я так рада, что давно закончила школу",
       "url": "https://www.youtube.com/shorts/21eycJBZXrU",
       "published_at_utc": "2026-11-09T12:08:39+00:00",
-      "age_seconds": 3474
+      "age_seconds": 3593
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гангстер-скромняга",
       "url": "https://www.youtube.com/shorts/yZWq5XUcl8U",
       "published_at_utc": "2026-11-09T12:01:55+00:00",
-      "age_seconds": 3892
+      "age_seconds": 4013
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "ООО \"тмыв денег\"",
       "url": "https://www.youtube.com/shorts/2x-ESXwGFFY",
       "published_at_utc": "2026-11-09T12:00:08+00:00",
-      "age_seconds": 3998
+      "age_seconds": 4119
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/yrOFbiMtM1Q",
       "published_at_utc": "2026-11-09T11:14:48+00:00",
-      "age_seconds": 6728
+      "age_seconds": 6850
     }
   ]
 }
