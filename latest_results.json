@@ -1,83 +1,90 @@
 {
-  "generated_at_utc": "2026-11-09T14:55:37.142324+00:00",
+  "generated_at_utc": "2026-11-09T14:57:39.317915+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Священник прошел Майнкрафт",
+      "url": "https://www.youtube.com/shorts/9TzKMQDzC1Y",
+      "published_at_utc": "2026-11-09T14:46:28+00:00",
+      "age_seconds": 620
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Игры спасают жизни",
       "url": "https://www.youtube.com/shorts/OqQn5LcdEqA",
       "published_at_utc": "2026-11-09T14:36:35+00:00",
-      "age_seconds": 1093
+      "age_seconds": 1211
     },
     {
       "channel": "Майни",
       "title": "ПОТОМ НЕ ЖАЛУЙСЯ, ЧТО УЗНАЛ ЭТО 2 ► Снежа | Реакция",
       "url": "https://www.youtube.com/watch?v=4c1ai_RcSy4",
       "published_at_utc": "2026-11-09T14:30:04+00:00",
-      "age_seconds": 1466
+      "age_seconds": 1586
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Доширак XL",
       "url": "https://www.youtube.com/watch?v=J253wJpgOBk",
       "published_at_utc": "2026-11-09T14:20:56+00:00",
-      "age_seconds": 2053
+      "age_seconds": 2171
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Рыбаки поймали пианиста в океане",
       "url": "https://www.youtube.com/shorts/uXCfEAKOQMs",
       "published_at_utc": "2026-11-09T14:16:23+00:00",
-      "age_seconds": 2307
+      "age_seconds": 2425
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Любите пиццу с ананасами?",
       "url": "https://www.youtube.com/shorts/UrOwo71mJ6U",
       "published_at_utc": "2026-11-09T14:00:14+00:00",
-      "age_seconds": 3275
+      "age_seconds": 3393
     },
     {
       "channel": "i11ushenka",
       "title": "\"Пункт назначения\" в реальной жизни: История Трея",
       "url": "https://www.youtube.com/shorts/JELcaQOqmgg",
       "published_at_utc": "2026-11-09T14:00:12+00:00",
-      "age_seconds": 3259
+      "age_seconds": 3379
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Войны оперативной памяти",
       "url": "https://www.youtube.com/shorts/IMMG4YqIqUU",
       "published_at_utc": "2026-11-09T13:44:41+00:00",
-      "age_seconds": 4208
+      "age_seconds": 4327
     },
     {
       "channel": "Короче, новости",
       "title": "Толпа Не Смогла Сдвинуть 110-Тонную Фасолину @denmarnews",
       "url": "https://www.youtube.com/shorts/HnBFlu5ED48",
       "published_at_utc": "2026-11-09T13:20:25+00:00",
-      "age_seconds": 5660
+      "age_seconds": 5778
     },
     {
       "channel": "leafxup",
       "title": "ПРЫЖОК С 40 ЭТАЖА...",
       "url": "https://www.youtube.com/watch?v=HezDHFV7Bcs",
       "published_at_utc": "2026-11-09T13:03:59+00:00",
-      "age_seconds": 6681
+      "age_seconds": 6801
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как свести с ума кого угодно",
       "url": "https://www.youtube.com/shorts/eelCvPZOe2c",
       "published_at_utc": "2026-11-09T13:00:24+00:00",
-      "age_seconds": 6865
+      "age_seconds": 6983
     },
     {
       "channel": "Натурал Альбертович",
       "title": "КУХНЯ - Последняя серия  (смешное видео, юмор, прикол, поржать,  приколы)",
       "url": "https://www.youtube.com/shorts/FVPkvcoC5eM",
       "published_at_utc": "2026-11-09T13:00:03+00:00",
-      "age_seconds": 6902
+      "age_seconds": 7020
     }
   ]
 }
