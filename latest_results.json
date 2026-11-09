@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-09T12:13:31.654687+00:00",
+  "generated_at_utc": "2026-11-09T12:15:33.991883+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "ООО \"тмыв денег\"",
+      "url": "https://www.youtube.com/shorts/2x-ESXwGFFY",
+      "published_at_utc": "2026-11-09T12:00:08+00:00",
+      "age_seconds": 877
+    },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/yrOFbiMtM1Q",
       "published_at_utc": "2026-11-09T11:14:48+00:00",
-      "age_seconds": 3486
+      "age_seconds": 3607
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Суеверный лайфхак",
       "url": "https://www.youtube.com/shorts/jQLwFjUngCI",
       "published_at_utc": "2026-11-09T11:00:27+00:00",
-      "age_seconds": 4338
+      "age_seconds": 4458
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Тяжелая судьба фасолины",
       "url": "https://www.youtube.com/shorts/i4BperzMsw4",
       "published_at_utc": "2026-11-09T10:48:38+00:00",
-      "age_seconds": 5047
+      "age_seconds": 5168
     },
     {
       "channel": "i11ushenka",
       "title": "Спидран по выселению 137 семей (Мировой Рекорд)",
       "url": "https://www.youtube.com/shorts/SlH6ankaZ8c",
       "published_at_utc": "2026-11-09T10:35:28+00:00",
-      "age_seconds": 5823
+      "age_seconds": 5943
     },
     {
       "channel": "Новостной Гусь",
       "title": "Восстановили все игры",
       "url": "https://www.youtube.com/shorts/A33s6YDzPvA",
       "published_at_utc": "2026-11-09T10:30:31+00:00",
-      "age_seconds": 6133
+      "age_seconds": 6254
     }
   ]
 }
