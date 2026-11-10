@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-10T16:43:36.849046+00:00",
+  "generated_at_utc": "2026-11-10T16:45:37.839890+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Почему на айфоне стало сложнее печатать?",
+      "url": "https://www.youtube.com/shorts/nPW0huuDVFs",
+      "published_at_utc": "2026-11-10T16:30:33+00:00",
+      "age_seconds": 852
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гений получается",
       "url": "https://www.youtube.com/shorts/LKoob3XGoAE",
       "published_at_utc": "2026-11-10T16:16:53+00:00",
-      "age_seconds": 1554
+      "age_seconds": 1673
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Шаурма, но вместо лаваша листья нори",
       "url": "https://www.youtube.com/shorts/pXgf0heOw8s",
       "published_at_utc": "2026-11-10T16:13:57+00:00",
-      "age_seconds": 1750
+      "age_seconds": 1867
     },
     {
       "channel": "Майни",
       "title": "худшее место на земле ► дикей | Реакция",
       "url": "https://www.youtube.com/watch?v=PibzxmpU934",
       "published_at_utc": "2026-11-10T16:00:16+00:00",
-      "age_seconds": 2535
+      "age_seconds": 2654
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ну Америкацы, и тут преуспели",
       "url": "https://www.youtube.com/shorts/ryD5UHup884",
       "published_at_utc": "2026-11-10T15:22:59+00:00",
-      "age_seconds": 4788
+      "age_seconds": 4907
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Жизнь лосося — это кошмар 😖",
       "url": "https://www.youtube.com/shorts/_UotpYppsxM",
       "published_at_utc": "2026-11-10T14:52:35+00:00",
-      "age_seconds": 6630
+      "age_seconds": 6748
     },
     {
       "channel": "Майни",
       "title": "Я Алкоголик. ► Добряк (Анимация) | Реакция",
       "url": "https://www.youtube.com/watch?v=APHkYqzA3i0",
       "published_at_utc": "2026-11-10T14:45:24+00:00",
-      "age_seconds": 7027
+      "age_seconds": 7146
     }
   ]
 }
