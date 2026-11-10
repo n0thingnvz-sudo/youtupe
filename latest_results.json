@@ -1,55 +1,48 @@
 {
-  "generated_at_utc": "2026-11-10T11:25:33.514487+00:00",
+  "generated_at_utc": "2026-11-10T11:27:31.077599+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Новостной Гусь",
-      "title": "Зонтики от камер",
-      "url": "https://www.youtube.com/shorts/nw5YEe5hWB0",
-      "published_at_utc": "2026-11-10T11:10:05+00:00",
-      "age_seconds": 881
-    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Вот что делает пёс, когда папка на работе 🐶",
       "url": "https://www.youtube.com/shorts/wsU_xEp-0FA",
       "published_at_utc": "2026-11-10T10:34:53+00:00",
-      "age_seconds": 3011
+      "age_seconds": 3129
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/59tdwnvG9Fk",
       "published_at_utc": "2026-11-10T10:03:32+00:00",
-      "age_seconds": 4885
+      "age_seconds": 5002
     },
     {
       "channel": "Короче, новости",
       "title": "Подрались с Полицией из-за Шаурмы за 1 евро @denmarnews",
       "url": "https://www.youtube.com/shorts/5Pn1UEFsS9w",
       "published_at_utc": "2026-11-10T10:01:17+00:00",
-      "age_seconds": 5006
+      "age_seconds": 5125
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Главный хейтер айфон дуо",
       "url": "https://www.youtube.com/shorts/MOm46fmMXhs",
       "published_at_utc": "2026-11-10T09:50:37+00:00",
-      "age_seconds": 5650
+      "age_seconds": 5768
     },
     {
       "channel": "Короче, новости",
       "title": "Милиция Вернула Советскую Форму @denmarnews",
       "url": "https://www.youtube.com/shorts/q8r7HEisyRE",
       "published_at_utc": "2026-11-10T09:48:53+00:00",
-      "age_seconds": 5750
+      "age_seconds": 5869
     },
     {
       "channel": "i11ushenka",
       "title": "Вампир, который переиграл всех в 4D-шахматы",
       "url": "https://www.youtube.com/shorts/ppLYEp5jaXI",
       "published_at_utc": "2026-11-10T09:45:20+00:00",
-      "age_seconds": 5951
+      "age_seconds": 6071
     }
   ]
 }
