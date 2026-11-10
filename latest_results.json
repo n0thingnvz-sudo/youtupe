@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-11-10T19:29:31.133609+00:00",
+  "generated_at_utc": "2026-11-10T19:31:38.148728+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Договорятся? Что Решили Украина и Россия на Переговорах в Абу-Даби",
+      "url": "https://www.youtube.com/shorts/COUSxWf-E9c",
+      "published_at_utc": "2026-11-10T19:29:54+00:00",
+      "age_seconds": 53
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "Купите алмазное блюдце за $1 млн баксов",
       "url": "https://www.youtube.com/shorts/Q_1ESny0yGU",
       "published_at_utc": "2026-11-10T18:12:02+00:00",
-      "age_seconds": 4604
-    },
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Горячий финский вечный двигатель",
-      "url": "https://www.youtube.com/shorts/EOIEiJudW84",
-      "published_at_utc": "2026-11-10T17:29:38+00:00",
-      "age_seconds": 7148
+      "age_seconds": 4729
     }
   ]
 }
