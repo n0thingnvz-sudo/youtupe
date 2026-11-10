@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T11:49:29.037853+00:00",
+  "generated_at_utc": "2026-11-10T11:51:32.054396+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,35 @@
       "title": "Вызываю",
       "url": "https://www.youtube.com/shorts/iRNmsRUdG6E",
       "published_at_utc": "2026-11-10T11:23:56+00:00",
-      "age_seconds": 1501
+      "age_seconds": 1624
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зонтики от камер",
       "url": "https://www.youtube.com/shorts/nw5YEe5hWB0",
       "published_at_utc": "2026-11-10T11:10:05+00:00",
-      "age_seconds": 2318
+      "age_seconds": 2441
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Вот что делает пёс, когда папка на работе 🐶",
       "url": "https://www.youtube.com/shorts/wsU_xEp-0FA",
       "published_at_utc": "2026-11-10T10:34:53+00:00",
-      "age_seconds": 4447
+      "age_seconds": 4570
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/59tdwnvG9Fk",
       "published_at_utc": "2026-11-10T10:03:32+00:00",
-      "age_seconds": 6321
+      "age_seconds": 6444
     },
     {
       "channel": "Короче, новости",
       "title": "Подрались с Полицией из-за Шаурмы за 1 евро @denmarnews",
       "url": "https://www.youtube.com/shorts/5Pn1UEFsS9w",
       "published_at_utc": "2026-11-10T10:01:17+00:00",
-      "age_seconds": 6444
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Главный хейтер айфон дуо",
-      "url": "https://www.youtube.com/shorts/MOm46fmMXhs",
-      "published_at_utc": "2026-11-10T09:50:37+00:00",
-      "age_seconds": 7088
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Милиция Вернула Советскую Форму @denmarnews",
-      "url": "https://www.youtube.com/shorts/q8r7HEisyRE",
-      "published_at_utc": "2026-11-10T09:48:53+00:00",
-      "age_seconds": 7188
+      "age_seconds": 6566
     }
   ]
 }
