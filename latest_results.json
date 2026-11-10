@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T09:57:27.855903+00:00",
+  "generated_at_utc": "2026-11-10T09:59:30.057440+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,35 @@
       "title": "Главный хейтер айфон дуо",
       "url": "https://www.youtube.com/shorts/MOm46fmMXhs",
       "published_at_utc": "2026-11-10T09:50:37+00:00",
-      "age_seconds": 368
+      "age_seconds": 489
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Милиция Вернула Советскую Форму @denmarnews",
+      "url": "https://www.youtube.com/shorts/q8r7HEisyRE",
+      "published_at_utc": "2026-11-10T09:48:53+00:00",
+      "age_seconds": 588
+    },
+    {
+      "channel": "i11ushenka",
+      "title": "Вампир, который переиграл всех в 4D-шахматы",
+      "url": "https://www.youtube.com/shorts/ppLYEp5jaXI",
+      "published_at_utc": "2026-11-10T09:45:20+00:00",
+      "age_seconds": 791
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скульптор от бога",
       "url": "https://www.youtube.com/shorts/MBqAicVE5Uc",
       "published_at_utc": "2026-11-10T08:29:51+00:00",
-      "age_seconds": 5214
+      "age_seconds": 5335
     },
     {
       "channel": "i11ushenka",
       "title": "Слишком круто для номинации: Эмми-2009 (битва легенд)",
       "url": "https://www.youtube.com/shorts/_yB-w1aR4KI",
       "published_at_utc": "2026-11-10T08:05:35+00:00",
-      "age_seconds": 6656
+      "age_seconds": 6776
     }
   ]
 }
