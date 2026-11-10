@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T12:19:30.769747+00:00",
+  "generated_at_utc": "2026-11-10T12:21:37.622259+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Собеседование в службу доставки",
       "url": "https://www.youtube.com/shorts/wUBHzcIgVKY",
       "published_at_utc": "2026-11-10T12:15:04+00:00",
-      "age_seconds": 239
+      "age_seconds": 359
     },
     {
       "channel": "dikiy_vadik",
       "title": "Вызываю",
       "url": "https://www.youtube.com/shorts/iRNmsRUdG6E",
       "published_at_utc": "2026-11-10T11:23:56+00:00",
-      "age_seconds": 3302
+      "age_seconds": 3422
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зонтики от камер",
       "url": "https://www.youtube.com/shorts/nw5YEe5hWB0",
       "published_at_utc": "2026-11-10T11:10:05+00:00",
-      "age_seconds": 4119
+      "age_seconds": 4239
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Вот что делает пёс, когда папка на работе 🐶",
       "url": "https://www.youtube.com/shorts/wsU_xEp-0FA",
       "published_at_utc": "2026-11-10T10:34:53+00:00",
-      "age_seconds": 6248
+      "age_seconds": 6368
     }
   ]
 }
