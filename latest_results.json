@@ -1,41 +1,55 @@
 {
-  "generated_at_utc": "2026-11-10T13:15:37.827220+00:00",
+  "generated_at_utc": "2026-11-10T13:17:38.411797+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Di ray",
+      "title": "ИДЕАЛЬНЫЙ БАЛАНС ДОТЫ 2 ДЛИНОЙ 227 ДНЕЙ!",
+      "url": "https://www.youtube.com/watch?v=Smu3YU8DT1k",
+      "published_at_utc": "2026-11-10T13:15:13+00:00",
+      "age_seconds": 133
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "Этого Мэра Выбрали с помощью Монетки @denmarnews",
+      "url": "https://www.youtube.com/shorts/-6cVUMuCRHo",
+      "published_at_utc": "2026-11-10T13:06:37+00:00",
+      "age_seconds": 605
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Не газуйте по ночам",
       "url": "https://www.youtube.com/shorts/HI-1abXW4E8",
       "published_at_utc": "2026-11-10T13:00:22+00:00",
-      "age_seconds": 867
+      "age_seconds": 983
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Слишком дружелюбная игра",
       "url": "https://www.youtube.com/shorts/qw56SD5hDyE",
       "published_at_utc": "2026-11-10T12:53:16+00:00",
-      "age_seconds": 1294
+      "age_seconds": 1411
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Лигр, тигон и лилигр 🦁🐯",
       "url": "https://www.youtube.com/shorts/CWYtqcVdICI",
       "published_at_utc": "2026-11-10T12:30:21+00:00",
-      "age_seconds": 2686
+      "age_seconds": 2806
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Собеседование в службу доставки",
       "url": "https://www.youtube.com/shorts/wUBHzcIgVKY",
       "published_at_utc": "2026-11-10T12:15:04+00:00",
-      "age_seconds": 3605
+      "age_seconds": 3725
     },
     {
       "channel": "dikiy_vadik",
       "title": "Вызываю",
       "url": "https://www.youtube.com/shorts/iRNmsRUdG6E",
       "published_at_utc": "2026-11-10T11:23:56+00:00",
-      "age_seconds": 6668
+      "age_seconds": 6785
     }
   ]
 }
