@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T12:01:45.826022+00:00",
+  "generated_at_utc": "2026-11-10T12:03:33.993028+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,28 @@
       "title": "Вызываю",
       "url": "https://www.youtube.com/shorts/iRNmsRUdG6E",
       "published_at_utc": "2026-11-10T11:23:56+00:00",
-      "age_seconds": 2229
+      "age_seconds": 2345
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зонтики от камер",
       "url": "https://www.youtube.com/shorts/nw5YEe5hWB0",
       "published_at_utc": "2026-11-10T11:10:05+00:00",
-      "age_seconds": 3045
+      "age_seconds": 3160
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Вот что делает пёс, когда папка на работе 🐶",
       "url": "https://www.youtube.com/shorts/wsU_xEp-0FA",
       "published_at_utc": "2026-11-10T10:34:53+00:00",
-      "age_seconds": 5180
+      "age_seconds": 5291
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч @Tetka_2200",
       "url": "https://www.youtube.com/shorts/59tdwnvG9Fk",
       "published_at_utc": "2026-11-10T10:03:32+00:00",
-      "age_seconds": 7049
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Подрались с Полицией из-за Шаурмы за 1 евро @denmarnews",
-      "url": "https://www.youtube.com/shorts/5Pn1UEFsS9w",
-      "published_at_utc": "2026-11-10T10:01:17+00:00",
-      "age_seconds": 7170
+      "age_seconds": 7165
     }
   ]
 }
