@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-10T12:41:34.476227+00:00",
+  "generated_at_utc": "2026-11-10T12:43:33.641109+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Лигр, тигон и лилигр 🦁🐯",
+      "url": "https://www.youtube.com/shorts/CWYtqcVdICI",
+      "published_at_utc": "2026-11-10T12:30:21+00:00",
+      "age_seconds": 762
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Собеседование в службу доставки",
       "url": "https://www.youtube.com/shorts/wUBHzcIgVKY",
       "published_at_utc": "2026-11-10T12:15:04+00:00",
-      "age_seconds": 1562
+      "age_seconds": 1681
     },
     {
       "channel": "dikiy_vadik",
       "title": "Вызываю",
       "url": "https://www.youtube.com/shorts/iRNmsRUdG6E",
       "published_at_utc": "2026-11-10T11:23:56+00:00",
-      "age_seconds": 4625
+      "age_seconds": 4743
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зонтики от камер",
       "url": "https://www.youtube.com/shorts/nw5YEe5hWB0",
       "published_at_utc": "2026-11-10T11:10:05+00:00",
-      "age_seconds": 5441
+      "age_seconds": 5560
     }
   ]
 }
