@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-11-10T13:05:38.071837+00:00",
+  "generated_at_utc": "2026-11-10T13:07:35.144643+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Новостной Гусь",
-      "title": "Не газуйте по ночам",
-      "url": "https://www.youtube.com/shorts/HI-1abXW4E8",
-      "published_at_utc": "2026-11-10T13:00:22+00:00",
-      "age_seconds": 263
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Слишком дружелюбная игра",
+      "url": "https://www.youtube.com/shorts/qw56SD5hDyE",
+      "published_at_utc": "2026-11-10T12:53:16+00:00",
+      "age_seconds": 809
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Лигр, тигон и лилигр 🦁🐯",
       "url": "https://www.youtube.com/shorts/CWYtqcVdICI",
       "published_at_utc": "2026-11-10T12:30:21+00:00",
-      "age_seconds": 2085
+      "age_seconds": 2201
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Собеседование в службу доставки",
       "url": "https://www.youtube.com/shorts/wUBHzcIgVKY",
       "published_at_utc": "2026-11-10T12:15:04+00:00",
-      "age_seconds": 3004
+      "age_seconds": 3119
     },
     {
       "channel": "dikiy_vadik",
       "title": "Вызываю",
       "url": "https://www.youtube.com/shorts/iRNmsRUdG6E",
       "published_at_utc": "2026-11-10T11:23:56+00:00",
-      "age_seconds": 6067
+      "age_seconds": 6183
     },
     {
       "channel": "Новостной Гусь",
       "title": "Зонтики от камер",
       "url": "https://www.youtube.com/shorts/nw5YEe5hWB0",
       "published_at_utc": "2026-11-10T11:10:05+00:00",
-      "age_seconds": 6880
+      "age_seconds": 6999
     }
   ]
 }
