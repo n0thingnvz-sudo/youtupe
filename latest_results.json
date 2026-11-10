@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-09T21:13:27.771569+00:00",
+  "generated_at_utc": "2026-11-10T08:01:36.946932+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Никита Нестеров",
-      "title": "Чат Инглиш Брекфаст Ти",
-      "url": "https://www.youtube.com/shorts/ZcaQlT3ty0U",
-      "published_at_utc": "2026-11-09T19:13:22+00:00",
-      "age_seconds": 7180
+      "channel": "Новостной Гусь",
+      "title": "Угон желтой подлодки",
+      "url": "https://www.youtube.com/shorts/VYphduNxE2E",
+      "published_at_utc": "2026-11-10T07:00:30+00:00",
+      "age_seconds": 3616
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Дайте побаловаться поприкалываться",
+      "url": "https://www.youtube.com/shorts/2EXXpFV251A",
+      "published_at_utc": "2026-11-10T07:00:01+00:00",
+      "age_seconds": 3646
     }
   ]
 }
