@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-11T14:21:41.552462+00:00",
+  "generated_at_utc": "2026-11-11T14:23:36.971451+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Они знают, кто мы: почему косатки отказываются трогать людей",
+      "url": "https://www.youtube.com/watch?v=bpdQaPOVQbE",
+      "published_at_utc": "2026-11-11T14:15:27+00:00",
+      "age_seconds": 457
+    },
     {
       "channel": "Новостной Гусь",
       "title": "ChatGPT не самый лучший адвокат, оказывается",
       "url": "https://www.youtube.com/shorts/LM7hO3gUjM8",
       "published_at_utc": "2026-11-11T14:10:26+00:00",
-      "age_seconds": 620
+      "age_seconds": 740
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Почему Tesla не делает люки в машинах",
       "url": "https://www.youtube.com/shorts/ngt-h3oAv4Q",
       "published_at_utc": "2026-11-11T14:02:07+00:00",
-      "age_seconds": 1121
+      "age_seconds": 1241
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно ли пройти Майнкрафт при помощи любви?",
       "url": "https://www.youtube.com/shorts/IEw55S5Xzt8",
       "published_at_utc": "2026-11-11T13:47:28+00:00",
-      "age_seconds": 2000
+      "age_seconds": 2119
     },
     {
       "channel": "Натурал Альбертович",
       "title": "ТРЕТИЙ ЛИШНИЙ (смешное видео, прикол, юмор, поржать, смех, #shorts )",
       "url": "https://www.youtube.com/shorts/c1GzdZKojY4",
       "published_at_utc": "2026-11-11T13:00:15+00:00",
-      "age_seconds": 4848
+      "age_seconds": 4967
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пропустил, но какой ценой?",
       "url": "https://www.youtube.com/shorts/YBbj5TjnUwA",
       "published_at_utc": "2026-11-11T12:43:36+00:00",
-      "age_seconds": 5832
+      "age_seconds": 5951
     },
     {
       "channel": "kropina",
       "title": "ОН ПРОДАВАЛ ДЕШЁВОЕ ВИНО ЗА МИЛЛИОНЫ",
       "url": "https://www.youtube.com/watch?v=DujNdOq4o9w",
       "published_at_utc": "2026-11-11T12:31:37+00:00",
-      "age_seconds": 6534
+      "age_seconds": 6655
     },
     {
       "channel": "windy31",
       "title": "ЭТО РЕАЛЬНО СТРАШНО (южный парк хоррор)",
       "url": "https://www.youtube.com/watch?v=mxEoCbToYac",
       "published_at_utc": "2026-11-11T12:29:30+00:00",
-      "age_seconds": 6715
+      "age_seconds": 6830
     }
   ]
 }
