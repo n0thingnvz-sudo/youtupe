@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-11T09:31:33.613782+00:00",
+  "generated_at_utc": "2026-11-11T09:33:28.541834+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Откуда ледяные башни в пустыне",
+      "url": "https://www.youtube.com/shorts/u07JTzFw20A",
+      "published_at_utc": "2026-11-11T09:19:26+00:00",
+      "age_seconds": 782
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой хаски игнорирует тебя не просто так 🙃",
       "url": "https://www.youtube.com/shorts/pWKi5pp8V40",
       "published_at_utc": "2026-11-11T08:56:40+00:00",
-      "age_seconds": 2064
+      "age_seconds": 2181
     },
     {
       "channel": "Послезавтра",
       "title": "Германия вымирает? #германия #берлин #мигранты",
       "url": "https://www.youtube.com/shorts/ghdtjLqMzTA",
       "published_at_utc": "2026-11-11T08:48:39+00:00",
-      "age_seconds": 2510
+      "age_seconds": 2630
     },
     {
       "channel": "i11ushenka",
       "title": "Как африканцы поздравляют мир: самый душевный интернет-бизнес",
       "url": "https://www.youtube.com/shorts/X2hIeaCso9Q",
       "published_at_utc": "2026-11-11T08:00:30+00:00",
-      "age_seconds": 5401
+      "age_seconds": 5521
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Отдаём ОГРОМНЫЙ ДОЛГ В Страшном Лесу [Зимняя Версия: 10000$] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=3wSEaorR7dg",
       "published_at_utc": "2026-11-11T08:00:02+00:00",
-      "age_seconds": 5475
+      "age_seconds": 5592
     }
   ]
 }
