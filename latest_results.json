@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-11-11T09:59:37.046413+00:00",
+  "generated_at_utc": "2026-11-11T10:01:33.286626+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sereGGa",
+      "title": "РОССИЯ ОНЛАЙН ГЛАЗАМИ НОВИЧКА",
+      "url": "https://www.youtube.com/watch?v=LTVMplcBAR0",
+      "published_at_utc": "2026-11-11T10:00:02+00:00",
+      "age_seconds": 78
+    },
     {
       "channel": "Тру Шорты",
       "title": "Откуда ледяные башни в пустыне",
       "url": "https://www.youtube.com/shorts/u07JTzFw20A",
       "published_at_utc": "2026-11-11T09:19:26+00:00",
-      "age_seconds": 2342
+      "age_seconds": 2464
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой хаски игнорирует тебя не просто так 🙃",
       "url": "https://www.youtube.com/shorts/pWKi5pp8V40",
       "published_at_utc": "2026-11-11T08:56:40+00:00",
-      "age_seconds": 3742
+      "age_seconds": 3863
     },
     {
       "channel": "Послезавтра",
       "title": "Германия вымирает? #германия #берлин #мигранты",
       "url": "https://www.youtube.com/shorts/ghdtjLqMzTA",
       "published_at_utc": "2026-11-11T08:48:39+00:00",
-      "age_seconds": 4190
-    },
-    {
-      "channel": "i11ushenka",
-      "title": "Как африканцы поздравляют мир: самый душевный интернет-бизнес",
-      "url": "https://www.youtube.com/shorts/X2hIeaCso9Q",
-      "published_at_utc": "2026-11-11T08:00:30+00:00",
-      "age_seconds": 7081
-    },
-    {
-      "channel": "MrLololoshka (Роман Фильченков)",
-      "title": "😱 Майнкрафт, но Мы Отдаём ОГРОМНЫЙ ДОЛГ В Страшном Лесу [Зимняя Версия: 10000$] + Фиксплей",
-      "url": "https://www.youtube.com/watch?v=3wSEaorR7dg",
-      "published_at_utc": "2026-11-11T08:00:02+00:00",
-      "age_seconds": 7154
+      "age_seconds": 4312
     }
   ]
 }
