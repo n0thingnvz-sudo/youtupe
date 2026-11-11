@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-11T15:27:33.655293+00:00",
+  "generated_at_utc": "2026-11-11T15:29:37.604430+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Он влюбился в бутылку",
+      "url": "https://www.youtube.com/shorts/QR_AdSTCV9U",
+      "published_at_utc": "2026-11-11T15:24:42+00:00",
+      "age_seconds": 226
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Круиз в один конец",
       "url": "https://www.youtube.com/shorts/DXpR2m8vOac",
       "published_at_utc": "2026-11-11T15:13:09+00:00",
-      "age_seconds": 817
+      "age_seconds": 939
     },
     {
       "channel": "Майни",
       "title": "СИДИМ👮🏻‍♂️⛓️ ► Valera Ghosther ( Валера Гостер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=SAZvdS5pI1k",
       "published_at_utc": "2026-11-11T15:00:40+00:00",
-      "age_seconds": 1550
+      "age_seconds": 1670
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Они знают, кто мы: почему косатки отказываются трогать людей",
       "url": "https://www.youtube.com/watch?v=bpdQaPOVQbE",
       "published_at_utc": "2026-11-11T14:15:27+00:00",
-      "age_seconds": 4295
+      "age_seconds": 4419
     },
     {
       "channel": "Новостной Гусь",
       "title": "ChatGPT не самый лучший адвокат, оказывается",
       "url": "https://www.youtube.com/shorts/LM7hO3gUjM8",
       "published_at_utc": "2026-11-11T14:10:26+00:00",
-      "age_seconds": 4579
+      "age_seconds": 4701
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Люк в крыше Tesla деньги на ветер",
       "url": "https://www.youtube.com/shorts/ngt-h3oAv4Q",
       "published_at_utc": "2026-11-11T14:02:07+00:00",
-      "age_seconds": 5080
+      "age_seconds": 5202
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно ли пройти Майнкрафт при помощи любви?",
       "url": "https://www.youtube.com/shorts/IEw55S5Xzt8",
       "published_at_utc": "2026-11-11T13:47:28+00:00",
-      "age_seconds": 5958
+      "age_seconds": 6080
     }
   ]
 }
