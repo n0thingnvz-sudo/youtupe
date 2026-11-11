@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-11T15:37:37.754419+00:00",
+  "generated_at_utc": "2026-11-11T15:39:34.639351+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "МЯЧ Production",
+      "title": "ПСЖ – это новая Барса Пепа?! 🤯",
+      "url": "https://www.youtube.com/shorts/L4fRKOKV9Ck",
+      "published_at_utc": "2026-11-11T15:30:35+00:00",
+      "age_seconds": 498
+    },
     {
       "channel": "Тру Шорты",
       "title": "Он влюбился в бутылку",
       "url": "https://www.youtube.com/shorts/QR_AdSTCV9U",
       "published_at_utc": "2026-11-11T15:24:42+00:00",
-      "age_seconds": 706
+      "age_seconds": 826
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Круиз в один конец",
       "url": "https://www.youtube.com/shorts/DXpR2m8vOac",
       "published_at_utc": "2026-11-11T15:13:09+00:00",
-      "age_seconds": 1421
+      "age_seconds": 1537
     },
     {
       "channel": "Майни",
       "title": "СИДИМ👮🏻‍♂️⛓️ ► Valera Ghosther ( Валера Гостер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=SAZvdS5pI1k",
       "published_at_utc": "2026-11-11T15:00:40+00:00",
-      "age_seconds": 2150
+      "age_seconds": 2270
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Они знают, кто мы: почему косатки отказываются трогать людей",
       "url": "https://www.youtube.com/watch?v=bpdQaPOVQbE",
       "published_at_utc": "2026-11-11T14:15:27+00:00",
-      "age_seconds": 4900
+      "age_seconds": 5016
     },
     {
       "channel": "Новостной Гусь",
       "title": "ChatGPT не самый лучший адвокат, оказывается",
       "url": "https://www.youtube.com/shorts/LM7hO3gUjM8",
       "published_at_utc": "2026-11-11T14:10:26+00:00",
-      "age_seconds": 5183
+      "age_seconds": 5299
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Люк в крыше Tesla деньги на ветер",
       "url": "https://www.youtube.com/shorts/ngt-h3oAv4Q",
       "published_at_utc": "2026-11-11T14:02:07+00:00",
-      "age_seconds": 5684
+      "age_seconds": 5799
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно ли пройти Майнкрафт при помощи любви?",
       "url": "https://www.youtube.com/shorts/IEw55S5Xzt8",
       "published_at_utc": "2026-11-11T13:47:28+00:00",
-      "age_seconds": 6562
+      "age_seconds": 6678
     }
   ]
 }
