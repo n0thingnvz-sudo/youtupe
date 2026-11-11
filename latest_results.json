@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-11-11T11:55:31.511297+00:00",
+  "generated_at_utc": "2026-11-11T11:57:32.195851+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "trkv17",
+      "title": "НИЖНИЙ ГЕМБЛИНГ - ВВЕДЕНИЕ",
+      "url": "https://www.youtube.com/watch?v=xflgxAyssw0",
+      "published_at_utc": "2026-11-11T11:47:40+00:00",
+      "age_seconds": 537
+    },
     {
       "channel": "leafxup",
       "title": "У МЕНЯ 5 ДЕТЕЙ ФУРЕЙ...",
       "url": "https://www.youtube.com/watch?v=HVpOo6alIeo",
       "published_at_utc": "2026-11-11T11:39:49+00:00",
-      "age_seconds": 926
+      "age_seconds": 1047
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 пород собак, которые явно умнее своего хозяина 🧠",
       "url": "https://www.youtube.com/shorts/lCBbZE7etvU",
       "published_at_utc": "2026-11-11T11:29:41+00:00",
-      "age_seconds": 1521
+      "age_seconds": 1642
     },
     {
       "channel": "dikiy_vadik",
       "title": "Школьные суеверия",
       "url": "https://www.youtube.com/shorts/GuulJJoeTgQ",
       "published_at_utc": "2026-11-11T11:19:17+00:00",
-      "age_seconds": 2142
+      "age_seconds": 2263
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "Растеры ПРОБУЮТ ВПЕРВЫЕ GTA5RP (История Новичка)",
       "url": "https://www.youtube.com/watch?v=ALnNI4E3Mr0",
       "published_at_utc": "2026-11-11T11:15:41+00:00",
-      "age_seconds": 2386
+      "age_seconds": 2507
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Фейковый кандидат",
       "url": "https://www.youtube.com/shorts/yD7I2ccOl1E",
       "published_at_utc": "2026-11-11T10:32:17+00:00",
-      "age_seconds": 4950
+      "age_seconds": 5068
     },
     {
       "channel": "Новостной Гусь",
       "title": "Лечение астмы у котиков",
       "url": "https://www.youtube.com/shorts/XdVj4BHirYc",
       "published_at_utc": "2026-11-11T10:30:12+00:00",
-      "age_seconds": 5073
+      "age_seconds": 5192
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Провальный Адвент календарь от знаменитости",
       "url": "https://www.youtube.com/shorts/6YEenQ8gahU",
       "published_at_utc": "2026-11-11T10:03:30+00:00",
-      "age_seconds": 6694
+      "age_seconds": 6814
     },
     {
       "channel": "i11ushenka",
       "title": "Чернобыльские грибы: щит для покорения космоса?",
       "url": "https://www.youtube.com/shorts/wD-vPkWpjuI",
       "published_at_utc": "2026-11-11T10:00:17+00:00",
-      "age_seconds": 6854
+      "age_seconds": 6974
     },
     {
       "channel": "sereGGa",
       "title": "РОССИЯ ОНЛАЙН ГЛАЗАМИ НОВИЧКА",
       "url": "https://www.youtube.com/watch?v=LTVMplcBAR0",
       "published_at_utc": "2026-11-11T10:00:02+00:00",
-      "age_seconds": 6918
+      "age_seconds": 7039
     }
   ]
 }
