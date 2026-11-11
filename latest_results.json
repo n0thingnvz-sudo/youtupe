@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-11T12:51:33.598115+00:00",
+  "generated_at_utc": "2026-11-11T12:53:31.478704+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Пропустил, но какой ценой?",
+      "url": "https://www.youtube.com/shorts/YBbj5TjnUwA",
+      "published_at_utc": "2026-11-11T12:43:36+00:00",
+      "age_seconds": 550
+    },
     {
       "channel": "kropina",
       "title": "ОН ПРОДАВАЛ ДЕШЁВОЕ ВИНО ЗА МИЛЛИОНЫ",
       "url": "https://www.youtube.com/watch?v=DujNdOq4o9w",
       "published_at_utc": "2026-11-11T12:31:37+00:00",
-      "age_seconds": 1134
+      "age_seconds": 1253
     },
     {
       "channel": "windy31",
       "title": "ЭТО РЕАЛЬНО СТРАШНО (южный парк хоррор)",
       "url": "https://www.youtube.com/watch?v=mxEoCbToYac",
       "published_at_utc": "2026-11-11T12:29:30+00:00",
-      "age_seconds": 1309
+      "age_seconds": 1427
     },
     {
       "channel": "trkv17",
       "title": "НИЖНИЙ ГЕМБЛИНГ - ВВЕДЕНИЕ",
       "url": "https://www.youtube.com/watch?v=xflgxAyssw0",
       "published_at_utc": "2026-11-11T11:47:40+00:00",
-      "age_seconds": 3778
+      "age_seconds": 3897
     },
     {
       "channel": "leafxup",
       "title": "У МЕНЯ 5 ДЕТЕЙ ФУРЕЙ...",
       "url": "https://www.youtube.com/watch?v=HVpOo6alIeo",
       "published_at_utc": "2026-11-11T11:39:49+00:00",
-      "age_seconds": 4288
+      "age_seconds": 4406
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 пород собак, которые явно умнее своего хозяина 🧠",
       "url": "https://www.youtube.com/shorts/lCBbZE7etvU",
       "published_at_utc": "2026-11-11T11:29:41+00:00",
-      "age_seconds": 4882
+      "age_seconds": 5001
     },
     {
       "channel": "dikiy_vadik",
       "title": "Школьные суеверия",
       "url": "https://www.youtube.com/shorts/GuulJJoeTgQ",
       "published_at_utc": "2026-11-11T11:19:17+00:00",
-      "age_seconds": 5503
+      "age_seconds": 5621
     },
     {
       "channel": "ПО ФАКТУ",
       "title": "Растеры ПРОБУЮТ ВПЕРВЫЕ GTA5RP (История Новичка)",
       "url": "https://www.youtube.com/watch?v=ALnNI4E3Mr0",
       "published_at_utc": "2026-11-11T11:15:41+00:00",
-      "age_seconds": 5748
+      "age_seconds": 5866
     }
   ]
 }
