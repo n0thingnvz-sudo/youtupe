@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T15:23:37.268040+00:00",
+  "generated_at_utc": "2026-11-11T15:25:37.464983+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Круиз в один конец",
       "url": "https://www.youtube.com/shorts/DXpR2m8vOac",
       "published_at_utc": "2026-11-11T15:13:09+00:00",
-      "age_seconds": 579
+      "age_seconds": 697
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Они знают, кто мы: почему косатки отказываются трогать людей",
       "url": "https://www.youtube.com/watch?v=bpdQaPOVQbE",
       "published_at_utc": "2026-11-11T14:15:27+00:00",
-      "age_seconds": 4061
+      "age_seconds": 4176
     },
     {
       "channel": "Новостной Гусь",
       "title": "ChatGPT не самый лучший адвокат, оказывается",
       "url": "https://www.youtube.com/shorts/LM7hO3gUjM8",
       "published_at_utc": "2026-11-11T14:10:26+00:00",
-      "age_seconds": 4341
+      "age_seconds": 4459
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Люк в крыше Tesla деньги на ветер",
       "url": "https://www.youtube.com/shorts/ngt-h3oAv4Q",
       "published_at_utc": "2026-11-11T14:02:07+00:00",
-      "age_seconds": 4842
+      "age_seconds": 4960
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Можно ли пройти Майнкрафт при помощи любви?",
       "url": "https://www.youtube.com/shorts/IEw55S5Xzt8",
       "published_at_utc": "2026-11-11T13:47:28+00:00",
-      "age_seconds": 5720
+      "age_seconds": 5838
     }
   ]
 }
