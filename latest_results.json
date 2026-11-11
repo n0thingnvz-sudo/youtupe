@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-11T13:59:35.659486+00:00",
+  "generated_at_utc": "2026-11-11T14:01:34.814410+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Можно ли пройти Майнкрафт при помощи любви?",
+      "url": "https://www.youtube.com/shorts/IEw55S5Xzt8",
+      "published_at_utc": "2026-11-11T13:47:28+00:00",
+      "age_seconds": 799
+    },
     {
       "channel": "Натурал Альбертович",
       "title": "ТРЕТИЙ ЛИШНИЙ (смешное видео, прикол, юмор, поржать, смех, #shorts )",
       "url": "https://www.youtube.com/shorts/c1GzdZKojY4",
       "published_at_utc": "2026-11-11T13:00:15+00:00",
-      "age_seconds": 3527
+      "age_seconds": 3648
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пропустил, но какой ценой?",
       "url": "https://www.youtube.com/shorts/YBbj5TjnUwA",
       "published_at_utc": "2026-11-11T12:43:36+00:00",
-      "age_seconds": 4511
+      "age_seconds": 4631
     },
     {
       "channel": "kropina",
       "title": "ОН ПРОДАВАЛ ДЕШЁВОЕ ВИНО ЗА МИЛЛИОНЫ",
       "url": "https://www.youtube.com/watch?v=DujNdOq4o9w",
       "published_at_utc": "2026-11-11T12:31:37+00:00",
-      "age_seconds": 5214
+      "age_seconds": 5334
     },
     {
       "channel": "windy31",
       "title": "ЭТО РЕАЛЬНО СТРАШНО (южный парк хоррор)",
       "url": "https://www.youtube.com/watch?v=mxEoCbToYac",
       "published_at_utc": "2026-11-11T12:29:30+00:00",
-      "age_seconds": 5389
+      "age_seconds": 5509
     }
   ]
 }
