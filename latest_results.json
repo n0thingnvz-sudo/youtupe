@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T18:43:37.440077+00:00",
+  "generated_at_utc": "2026-11-11T18:45:43.016623+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,28 @@
       "title": "Парни, записываем",
       "url": "https://www.youtube.com/shorts/xH4WwxmEkPY",
       "published_at_utc": "2026-11-11T17:22:45+00:00",
-      "age_seconds": 4802
+      "age_seconds": 4924
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Ученые в шоке здесь была звезда",
       "url": "https://www.youtube.com/shorts/xr99XBQSk54",
       "published_at_utc": "2026-11-11T17:02:38+00:00",
-      "age_seconds": 6009
+      "age_seconds": 6131
     },
     {
       "channel": "Майни",
       "title": "Шурик и Шарик — Скример на 01:22 ► 3 сезон 2 серия | Реакция",
       "url": "https://www.youtube.com/watch?v=ODMzSWvhQus",
       "published_at_utc": "2026-11-11T17:00:14+00:00",
-      "age_seconds": 6136
+      "age_seconds": 6256
     },
     {
       "channel": "Коннор",
       "title": "Проверил цветные вечные карандаши, как вам?",
       "url": "https://www.youtube.com/shorts/H9BZRrv9FAI",
       "published_at_utc": "2026-11-11T16:51:16+00:00",
-      "age_seconds": 6711
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Обмотался Долларами, Но всё Равно Попался @denmarnews",
-      "url": "https://www.youtube.com/shorts/wGr8gZIOP40",
-      "published_at_utc": "2026-11-11T16:43:57+00:00",
-      "age_seconds": 7126
+      "age_seconds": 6831
     }
   ]
 }
