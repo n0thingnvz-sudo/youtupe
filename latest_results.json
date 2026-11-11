@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T11:01:39.053620+00:00",
+  "generated_at_utc": "2026-11-11T11:03:32.375852+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Фейковый кандидат",
       "url": "https://www.youtube.com/shorts/yD7I2ccOl1E",
       "published_at_utc": "2026-11-11T10:32:17+00:00",
-      "age_seconds": 1709
+      "age_seconds": 1830
     },
     {
       "channel": "Новостной Гусь",
       "title": "Лечение астмы у котиков",
       "url": "https://www.youtube.com/shorts/XdVj4BHirYc",
       "published_at_utc": "2026-11-11T10:30:12+00:00",
-      "age_seconds": 1832
+      "age_seconds": 1954
     },
     {
       "channel": "Тимур Сидельников",
-      "title": "Провальная акция от Ким Кардашьян",
+      "title": "Провальный Адвент календарь от знаменитости",
       "url": "https://www.youtube.com/shorts/6YEenQ8gahU",
       "published_at_utc": "2026-11-11T10:03:30+00:00",
-      "age_seconds": 3458
+      "age_seconds": 3576
     },
     {
       "channel": "i11ushenka",
       "title": "Чернобыльские грибы: щит для покорения космоса?",
       "url": "https://www.youtube.com/shorts/wD-vPkWpjuI",
       "published_at_utc": "2026-11-11T10:00:17+00:00",
-      "age_seconds": 3614
+      "age_seconds": 3735
     },
     {
       "channel": "sereGGa",
       "title": "РОССИЯ ОНЛАЙН ГЛАЗАМИ НОВИЧКА",
       "url": "https://www.youtube.com/watch?v=LTVMplcBAR0",
       "published_at_utc": "2026-11-11T10:00:02+00:00",
-      "age_seconds": 3685
+      "age_seconds": 3799
     },
     {
       "channel": "Тру Шорты",
       "title": "Откуда ледяные башни в пустыне",
       "url": "https://www.youtube.com/shorts/u07JTzFw20A",
       "published_at_utc": "2026-11-11T09:19:26+00:00",
-      "age_seconds": 6062
+      "age_seconds": 6182
     }
   ]
 }
