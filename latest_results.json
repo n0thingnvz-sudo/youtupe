@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-11T16:07:37.493089+00:00",
+  "generated_at_utc": "2026-11-11T16:09:40.155664+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sun_kill",
+      "title": "так я ред или не ред?",
+      "url": "https://www.youtube.com/shorts/YMJq_-QgRGc",
+      "published_at_utc": "2026-11-11T16:00:56+00:00",
+      "age_seconds": 457
+    },
     {
       "channel": "курОлеся",
       "title": "Начали за здравие, закончили за…",
       "url": "https://www.youtube.com/shorts/Ah6JbJ48ZKo",
       "published_at_utc": "2026-11-11T15:40:07+00:00",
-      "age_seconds": 1599
+      "age_seconds": 1718
     },
     {
       "channel": "МЯЧ Production",
       "title": "ПСЖ – это новая Барса Пепа?! 🤯",
       "url": "https://www.youtube.com/shorts/L4fRKOKV9Ck",
       "published_at_utc": "2026-11-11T15:30:35+00:00",
-      "age_seconds": 2180
+      "age_seconds": 2301
     },
     {
       "channel": "Тру Шорты",
       "title": "Он влюбился в бутылку",
       "url": "https://www.youtube.com/shorts/QR_AdSTCV9U",
       "published_at_utc": "2026-11-11T15:24:42+00:00",
-      "age_seconds": 2506
+      "age_seconds": 2626
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Круиз в один конец",
       "url": "https://www.youtube.com/shorts/DXpR2m8vOac",
       "published_at_utc": "2026-11-11T15:13:09+00:00",
-      "age_seconds": 3218
+      "age_seconds": 3338
     },
     {
       "channel": "Майни",
       "title": "СИДИМ👮🏻‍♂️⛓️ ► Valera Ghosther ( Валера Гостер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=SAZvdS5pI1k",
       "published_at_utc": "2026-11-11T15:00:40+00:00",
-      "age_seconds": 3950
+      "age_seconds": 4071
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Они знают, кто мы: почему косатки отказываются трогать людей",
       "url": "https://www.youtube.com/watch?v=bpdQaPOVQbE",
       "published_at_utc": "2026-11-11T14:15:27+00:00",
-      "age_seconds": 6697
+      "age_seconds": 6820
     },
     {
       "channel": "Новостной Гусь",
       "title": "ChatGPT не самый лучший адвокат, оказывается",
       "url": "https://www.youtube.com/shorts/LM7hO3gUjM8",
       "published_at_utc": "2026-11-11T14:10:26+00:00",
-      "age_seconds": 6980
+      "age_seconds": 7100
     }
   ]
 }
