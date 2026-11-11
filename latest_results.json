@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T16:15:39.084711+00:00",
+  "generated_at_utc": "2026-11-11T16:17:38.953811+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,42 @@
       "title": "так я ред или не ред?",
       "url": "https://www.youtube.com/shorts/YMJq_-QgRGc",
       "published_at_utc": "2026-11-11T16:00:56+00:00",
-      "age_seconds": 816
+      "age_seconds": 936
     },
     {
       "channel": "курОлеся",
       "title": "Начали за здравие, закончили за…",
       "url": "https://www.youtube.com/shorts/Ah6JbJ48ZKo",
       "published_at_utc": "2026-11-11T15:40:07+00:00",
-      "age_seconds": 2078
+      "age_seconds": 2202
     },
     {
       "channel": "МЯЧ Production",
       "title": "ПСЖ – это новая Барса Пепа?! 🤯",
       "url": "https://www.youtube.com/shorts/L4fRKOKV9Ck",
       "published_at_utc": "2026-11-11T15:30:35+00:00",
-      "age_seconds": 2661
+      "age_seconds": 2783
     },
     {
       "channel": "Тру Шорты",
       "title": "Он влюбился в бутылку",
       "url": "https://www.youtube.com/shorts/QR_AdSTCV9U",
       "published_at_utc": "2026-11-11T15:24:42+00:00",
-      "age_seconds": 2986
+      "age_seconds": 3106
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Круиз в один конец",
       "url": "https://www.youtube.com/shorts/DXpR2m8vOac",
       "published_at_utc": "2026-11-11T15:13:09+00:00",
-      "age_seconds": 3699
+      "age_seconds": 3822
     },
     {
       "channel": "Майни",
       "title": "СИДИМ👮🏻‍♂️⛓️ ► Valera Ghosther ( Валера Гостер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=SAZvdS5pI1k",
       "published_at_utc": "2026-11-11T15:00:40+00:00",
-      "age_seconds": 4430
-    },
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "Они знают, кто мы: почему косатки отказываются трогать людей",
-      "url": "https://www.youtube.com/watch?v=bpdQaPOVQbE",
-      "published_at_utc": "2026-11-11T14:15:27+00:00",
-      "age_seconds": 7179
+      "age_seconds": 4550
     }
   ]
 }
