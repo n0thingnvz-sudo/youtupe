@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T10:01:33.286626+00:00",
+  "generated_at_utc": "2026-11-11T10:03:31.397710+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "РОССИЯ ОНЛАЙН ГЛАЗАМИ НОВИЧКА",
       "url": "https://www.youtube.com/watch?v=LTVMplcBAR0",
       "published_at_utc": "2026-11-11T10:00:02+00:00",
-      "age_seconds": 78
+      "age_seconds": 198
     },
     {
       "channel": "Тру Шорты",
       "title": "Откуда ледяные башни в пустыне",
       "url": "https://www.youtube.com/shorts/u07JTzFw20A",
       "published_at_utc": "2026-11-11T09:19:26+00:00",
-      "age_seconds": 2464
+      "age_seconds": 2582
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Твой хаски игнорирует тебя не просто так 🙃",
       "url": "https://www.youtube.com/shorts/pWKi5pp8V40",
       "published_at_utc": "2026-11-11T08:56:40+00:00",
-      "age_seconds": 3863
+      "age_seconds": 3982
     },
     {
       "channel": "Послезавтра",
       "title": "Германия вымирает? #германия #берлин #мигранты",
       "url": "https://www.youtube.com/shorts/ghdtjLqMzTA",
       "published_at_utc": "2026-11-11T08:48:39+00:00",
-      "age_seconds": 4312
+      "age_seconds": 4430
     }
   ]
 }
