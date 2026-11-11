@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-11-11T19:47:36.345911+00:00",
+  "generated_at_utc": "2026-11-11T19:49:34.697755+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Никита Нестеров",
-      "title": "И швец, и жнец, и на дуде игрец",
-      "url": "https://www.youtube.com/shorts/Knls2KF2cvA",
-      "published_at_utc": "2026-11-11T19:38:39+00:00",
-      "age_seconds": 509
-    },
     {
       "channel": "Короче, новости",
       "title": "Переговоры - ВСЁ: Россия Хочет Новую Ялту? @denmarnews",
       "url": "https://www.youtube.com/shorts/m24deYC9740",
       "published_at_utc": "2026-11-11T18:54:34+00:00",
-      "age_seconds": 3129
+      "age_seconds": 3249
     },
     {
       "channel": "ТОПЛЕС",
       "title": "ВЫ НИКОГДА НЕ ВИДЕЛИ ПАР",
       "url": "https://www.youtube.com/shorts/7ReFJ0D09IQ",
       "published_at_utc": "2026-11-11T18:45:07+00:00",
-      "age_seconds": 3687
+      "age_seconds": 3808
     }
   ]
 }
