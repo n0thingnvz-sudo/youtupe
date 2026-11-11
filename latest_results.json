@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T18:21:34.041658+00:00",
+  "generated_at_utc": "2026-11-11T18:23:35.237946+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,42 @@
       "title": "Парни, записываем",
       "url": "https://www.youtube.com/shorts/xH4WwxmEkPY",
       "published_at_utc": "2026-11-11T17:22:45+00:00",
-      "age_seconds": 3481
+      "age_seconds": 3601
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Ученые в шоке здесь была звезда",
       "url": "https://www.youtube.com/shorts/xr99XBQSk54",
       "published_at_utc": "2026-11-11T17:02:38+00:00",
-      "age_seconds": 4689
+      "age_seconds": 4808
     },
     {
       "channel": "Майни",
       "title": "Шурик и Шарик — Скример на 01:22 ► 3 сезон 2 серия | Реакция",
       "url": "https://www.youtube.com/watch?v=ODMzSWvhQus",
       "published_at_utc": "2026-11-11T17:00:14+00:00",
-      "age_seconds": 4816
+      "age_seconds": 4936
     },
     {
       "channel": "Коннор",
       "title": "Проверил цветные вечные карандаши, как вам?",
       "url": "https://www.youtube.com/shorts/H9BZRrv9FAI",
       "published_at_utc": "2026-11-11T16:51:16+00:00",
-      "age_seconds": 5388
+      "age_seconds": 5507
     },
     {
       "channel": "Короче, новости",
       "title": "Обмотался Долларами, Но всё Равно Попался @denmarnews",
       "url": "https://www.youtube.com/shorts/wGr8gZIOP40",
       "published_at_utc": "2026-11-11T16:43:57+00:00",
-      "age_seconds": 5806
+      "age_seconds": 5925
     },
     {
       "channel": "Новостной Гусь",
       "title": "Попали в свою же ловушку",
       "url": "https://www.youtube.com/shorts/g1Dv9ywBI4g",
       "published_at_utc": "2026-11-11T16:40:25+00:00",
-      "age_seconds": 6020
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Спортивный Майнкрафт",
-      "url": "https://www.youtube.com/shorts/8OiZl6AFkjw",
-      "published_at_utc": "2026-11-11T16:21:59+00:00",
-      "age_seconds": 7127
+      "age_seconds": 6139
     }
   ]
 }
