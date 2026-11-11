@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-11T18:53:36.030772+00:00",
+  "generated_at_utc": "2026-11-11T18:55:34.177909+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Парни, записываем",
       "url": "https://www.youtube.com/shorts/xH4WwxmEkPY",
       "published_at_utc": "2026-11-11T17:22:45+00:00",
-      "age_seconds": 5401
+      "age_seconds": 5521
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Ученые в шоке здесь была звезда",
       "url": "https://www.youtube.com/shorts/xr99XBQSk54",
       "published_at_utc": "2026-11-11T17:02:38+00:00",
-      "age_seconds": 6608
+      "age_seconds": 6729
     },
     {
       "channel": "Майни",
       "title": "Шурик и Шарик — Скример на 01:22 ► 3 сезон 2 серия | Реакция",
       "url": "https://www.youtube.com/watch?v=ODMzSWvhQus",
       "published_at_utc": "2026-11-11T17:00:14+00:00",
-      "age_seconds": 6736
+      "age_seconds": 6856
     }
   ]
 }
