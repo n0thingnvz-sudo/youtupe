@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T20:37:32.093252+00:00",
+  "generated_at_utc": "2026-11-12T20:39:30.573656+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Нормально сделай",
       "url": "https://www.youtube.com/shorts/CddWjV0sH-4",
       "published_at_utc": "2026-11-12T20:07:04+00:00",
-      "age_seconds": 1801
+      "age_seconds": 1920
     },
     {
       "channel": "Bulkin Drive",
       "title": "Кому достался BMW X5?!",
       "url": "https://www.youtube.com/watch?v=7EYCC7LLRkw",
       "published_at_utc": "2026-11-12T19:47:50+00:00",
-      "age_seconds": 2941
+      "age_seconds": 3061
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Путь длиною в жизнь",
       "url": "https://www.youtube.com/shorts/uwdBY2HihTE",
       "published_at_utc": "2026-11-12T19:00:35+00:00",
-      "age_seconds": 5770
+      "age_seconds": 5890
     }
   ]
 }
