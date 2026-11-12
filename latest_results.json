@@ -1,55 +1,41 @@
 {
-  "generated_at_utc": "2026-11-12T15:03:40.355134+00:00",
+  "generated_at_utc": "2026-11-12T15:05:35.142134+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Посади кочергу и жди 9 месяцев",
-      "url": "https://www.youtube.com/shorts/2GR3SOmcgc0",
-      "published_at_utc": "2026-11-12T14:49:58+00:00",
-      "age_seconds": 776
-    },
     {
       "channel": "лизкеч",
       "title": "@Tetka_2200 вк: лизкетч",
       "url": "https://www.youtube.com/shorts/Nkk6fnpOR-c",
       "published_at_utc": "2026-11-12T14:26:53+00:00",
-      "age_seconds": 2170
+      "age_seconds": 2285
     },
     {
       "channel": "Хаку",
       "title": "Я 50 часов проходил GTA Vice City на 100%",
       "url": "https://www.youtube.com/watch?v=Gf6GOg5PLRE",
       "published_at_utc": "2026-11-12T14:05:32+00:00",
-      "age_seconds": 3480
+      "age_seconds": 3595
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Замечали?",
       "url": "https://www.youtube.com/shorts/5Y-LyvsGe2w",
       "published_at_utc": "2026-11-12T14:00:32+00:00",
-      "age_seconds": 3741
+      "age_seconds": 3854
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Белка каскадёр устроила шоу ради обеда 😲 @Ritika-Das",
       "url": "https://www.youtube.com/shorts/b-IizolsKjw",
       "published_at_utc": "2026-11-12T13:58:23+00:00",
-      "age_seconds": 3888
+      "age_seconds": 4002
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что за бизнес Ким?",
       "url": "https://www.youtube.com/shorts/5MCXYIQV7GE",
       "published_at_utc": "2026-11-12T13:35:38+00:00",
-      "age_seconds": 5235
-    },
-    {
-      "channel": "dikiy_vadik",
-      "title": "Тот самый Ангел-хранитель",
-      "url": "https://www.youtube.com/shorts/Q4GLxpcK92E",
-      "published_at_utc": "2026-11-12T13:03:29+00:00",
-      "age_seconds": 7178
+      "age_seconds": 5349
     }
   ]
 }
