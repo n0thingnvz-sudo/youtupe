@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T13:05:34.062783+00:00",
+  "generated_at_utc": "2026-11-12T13:07:34.463280+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,35 @@
       "title": "Легендарный взлом",
       "url": "https://www.youtube.com/shorts/1LJBfYMP-wc",
       "published_at_utc": "2026-11-12T12:16:26+00:00",
-      "age_seconds": 2900
+      "age_seconds": 3020
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Аниме спасло жизнь",
       "url": "https://www.youtube.com/shorts/LKaY8m6qAH4",
       "published_at_utc": "2026-11-12T12:00:18+00:00",
-      "age_seconds": 3867
+      "age_seconds": 3988
     },
     {
       "channel": "OneTwo",
       "title": "ЕСЛИ БЫ ЖЕНЩИН НЕ СУЩЕСТВОВАЛО",
       "url": "https://www.youtube.com/watch?v=yCunVxvjeyI",
       "published_at_utc": "2026-11-12T12:00:03+00:00",
-      "age_seconds": 3870
+      "age_seconds": 3990
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Не бойтесь акул 🙃",
       "url": "https://www.youtube.com/shorts/AhkLMiMlFpM",
       "published_at_utc": "2026-11-12T11:55:47+00:00",
-      "age_seconds": 4155
+      "age_seconds": 4277
     },
     {
       "channel": "i11ushenka",
       "title": "Умная доска. Слишком. Умная. (Прослушка в классе)",
       "url": "https://www.youtube.com/shorts/ZHmLW8snEH8",
       "published_at_utc": "2026-11-12T11:30:11+00:00",
-      "age_seconds": 5660
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Раньше было лучше",
-      "url": "https://www.youtube.com/shorts/2ybALFAdno0",
-      "published_at_utc": "2026-11-12T11:04:56+00:00",
-      "age_seconds": 7190
+      "age_seconds": 5780
     }
   ]
 }
