@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T19:09:33.442658+00:00",
+  "generated_at_utc": "2026-11-12T19:11:32.920323+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,14 @@
       "title": "Ну отдохнул работяга, бывает",
       "url": "https://www.youtube.com/shorts/8715NIWup_E",
       "published_at_utc": "2026-11-12T18:00:16+00:00",
-      "age_seconds": 4108
+      "age_seconds": 4229
     },
     {
       "channel": "DeadP47",
       "title": "Привыкай к 30 FPS в GTA 6",
       "url": "https://www.youtube.com/watch?v=7SqboQs20R8",
       "published_at_utc": "2026-11-12T17:52:58+00:00",
-      "age_seconds": 4585
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Самый быстрый ответ президента в истории Твиттера",
-      "url": "https://www.youtube.com/shorts/dvBV3jAPB1Q",
-      "published_at_utc": "2026-11-12T17:10:00+00:00",
-      "age_seconds": 7124
+      "age_seconds": 4705
     }
   ]
 }
