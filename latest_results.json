@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T19:43:30.367144+00:00",
+  "generated_at_utc": "2026-11-12T19:45:29.621630+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Кому достался BMW X5?!",
       "url": "https://www.youtube.com/watch?v=7EYCC7LLRkw",
       "published_at_utc": "2026-11-12T19:05:42+00:00",
-      "age_seconds": 2229
+      "age_seconds": 2348
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Путь длиною в жизнь",
       "url": "https://www.youtube.com/shorts/uwdBY2HihTE",
       "published_at_utc": "2026-11-12T19:00:35+00:00",
-      "age_seconds": 2530
+      "age_seconds": 2649
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ну отдохнул работяга, бывает",
       "url": "https://www.youtube.com/shorts/8715NIWup_E",
       "published_at_utc": "2026-11-12T18:00:16+00:00",
-      "age_seconds": 6149
+      "age_seconds": 6268
     },
     {
       "channel": "DeadP47",
       "title": "Привыкай к 30 FPS в GTA 6",
       "url": "https://www.youtube.com/watch?v=7SqboQs20R8",
       "published_at_utc": "2026-11-12T17:52:58+00:00",
-      "age_seconds": 6624
+      "age_seconds": 6743
     }
   ]
 }
