@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-12T19:15:35.218412+00:00",
+  "generated_at_utc": "2026-11-12T19:17:32.822803+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Путь длиною в жизнь",
+      "url": "https://www.youtube.com/shorts/uwdBY2HihTE",
+      "published_at_utc": "2026-11-12T19:00:35+00:00",
+      "age_seconds": 971
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ну отдохнул работяга, бывает",
       "url": "https://www.youtube.com/shorts/8715NIWup_E",
       "published_at_utc": "2026-11-12T18:00:16+00:00",
-      "age_seconds": 4469
+      "age_seconds": 4590
     },
     {
       "channel": "DeadP47",
       "title": "Привыкай к 30 FPS в GTA 6",
       "url": "https://www.youtube.com/watch?v=7SqboQs20R8",
       "published_at_utc": "2026-11-12T17:52:58+00:00",
-      "age_seconds": 4946
+      "age_seconds": 5065
     }
   ]
 }
