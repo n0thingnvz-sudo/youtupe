@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-12T18:05:34.975536+00:00",
+  "generated_at_utc": "2026-11-12T18:07:35.016860+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Ну отдохнул работяга, бывает",
+      "url": "https://www.youtube.com/shorts/8715NIWup_E",
+      "published_at_utc": "2026-11-12T18:00:16+00:00",
+      "age_seconds": 390
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Самый быстрый ответ президента в истории Твиттера",
       "url": "https://www.youtube.com/shorts/dvBV3jAPB1Q",
       "published_at_utc": "2026-11-12T17:10:00+00:00",
-      "age_seconds": 3285
+      "age_seconds": 3405
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Акулья месть",
       "url": "https://www.youtube.com/shorts/1YOrAbYPuSc",
       "published_at_utc": "2026-11-12T17:00:38+00:00",
-      "age_seconds": 3848
+      "age_seconds": 3968
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Батарея 228 градусов заткнись и грейся",
       "url": "https://www.youtube.com/shorts/UjjBvKpMxRc",
       "published_at_utc": "2026-11-12T16:54:46+00:00",
-      "age_seconds": 4201
+      "age_seconds": 4322
     },
     {
       "channel": "sun_kill",
       "title": "Когда макияж не макияжится в важный день ✋🏻😔 #скетч",
       "url": "https://www.youtube.com/shorts/THIY7x3YlFU",
       "published_at_utc": "2026-11-12T16:41:31+00:00",
-      "age_seconds": 4981
+      "age_seconds": 5101
     },
     {
       "channel": "Alina Мuradimova",
       "title": "ИИ-СЛОП ПОБЕДИЛ | Неужели ИИ-шлак спровоцирует Ренессанс культуры?",
       "url": "https://www.youtube.com/watch?v=gAIUi7KDaFk",
       "published_at_utc": "2026-11-12T16:30:28+00:00",
-      "age_seconds": 5663
+      "age_seconds": 5785
     },
     {
       "channel": "МЯЧ Production",
       "title": "Манчестер Юнайтед – Худшая команда Европы? 😬",
       "url": "https://www.youtube.com/shorts/tye1SpFFo8M",
       "published_at_utc": "2026-11-12T16:29:15+00:00",
-      "age_seconds": 5740
+      "age_seconds": 5860
     }
   ]
 }
