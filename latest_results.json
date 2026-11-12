@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T19:57:35.553112+00:00",
+  "generated_at_utc": "2026-11-12T19:59:34.827173+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Кому достался BMW X5?!",
       "url": "https://www.youtube.com/watch?v=7EYCC7LLRkw",
       "published_at_utc": "2026-11-12T19:47:50+00:00",
-      "age_seconds": 545
+      "age_seconds": 661
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Путь длиною в жизнь",
       "url": "https://www.youtube.com/shorts/uwdBY2HihTE",
       "published_at_utc": "2026-11-12T19:00:35+00:00",
-      "age_seconds": 3374
+      "age_seconds": 3490
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Ну отдохнул работяга, бывает",
       "url": "https://www.youtube.com/shorts/8715NIWup_E",
       "published_at_utc": "2026-11-12T18:00:16+00:00",
-      "age_seconds": 6993
+      "age_seconds": 7109
     }
   ]
 }
