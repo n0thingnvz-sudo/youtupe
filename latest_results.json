@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T10:21:29.999391+00:00",
+  "generated_at_utc": "2026-11-12T10:23:25.852021+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Бедняга",
       "url": "https://www.youtube.com/shorts/X3FPtAEobXg",
       "published_at_utc": "2026-11-12T10:00:14+00:00",
-      "age_seconds": 1231
+      "age_seconds": 1350
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Что не так с чоко-паем?",
       "url": "https://www.youtube.com/shorts/mnplccie2JA",
       "published_at_utc": "2026-11-12T09:44:55+00:00",
-      "age_seconds": 2168
+      "age_seconds": 2285
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Распродажа от дяди Эпштейна",
       "url": "https://www.youtube.com/shorts/N55HpKnpMyQ",
       "published_at_utc": "2026-11-12T09:04:46+00:00",
-      "age_seconds": 4559
+      "age_seconds": 4678
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чит на бесплатную еду",
       "url": "https://www.youtube.com/shorts/wv-IEBDk6JA",
       "published_at_utc": "2026-11-12T09:00:15+00:00",
-      "age_seconds": 4830
+      "age_seconds": 4949
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 пород собак, о покупке которых люди жалеют 😔",
       "url": "https://www.youtube.com/shorts/mKLl9bBqHz8",
       "published_at_utc": "2026-11-12T08:35:09+00:00",
-      "age_seconds": 6352
+      "age_seconds": 6470
     },
     {
       "channel": "Никита Нестеров",
       "title": "Вы часто о них спрашиваете)",
       "url": "https://www.youtube.com/shorts/4kGZ_7v3Su8",
       "published_at_utc": "2026-11-12T08:25:55+00:00",
-      "age_seconds": 6909
+      "age_seconds": 7026
     }
   ]
 }
