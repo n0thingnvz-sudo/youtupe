@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-12T12:19:30.078414+00:00",
+  "generated_at_utc": "2026-11-12T12:21:29.785418+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "OneTwo",
+      "title": "ЕСЛИ БЫ ЖЕНЩИН НЕ СУЩЕСТВОВАЛО",
+      "url": "https://www.youtube.com/watch?v=yCunVxvjeyI",
+      "published_at_utc": "2026-11-12T12:00:03+00:00",
+      "age_seconds": 1230
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Не бойтесь акул 🙃",
       "url": "https://www.youtube.com/shorts/AhkLMiMlFpM",
       "published_at_utc": "2026-11-12T11:55:47+00:00",
-      "age_seconds": 1394
+      "age_seconds": 1514
     },
     {
       "channel": "i11ushenka",
       "title": "Умная доска. Слишком. Умная. (Прослушка в классе)",
       "url": "https://www.youtube.com/shorts/ZHmLW8snEH8",
       "published_at_utc": "2026-11-12T11:30:11+00:00",
-      "age_seconds": 2900
+      "age_seconds": 3021
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Раньше было лучше",
       "url": "https://www.youtube.com/shorts/2ybALFAdno0",
       "published_at_utc": "2026-11-12T11:04:56+00:00",
-      "age_seconds": 4429
+      "age_seconds": 4549
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Темка не пошла с самого начала",
       "url": "https://www.youtube.com/shorts/GahocI_aWr4",
       "published_at_utc": "2026-11-12T11:00:30+00:00",
-      "age_seconds": 4695
+      "age_seconds": 4815
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как власти Японии уговорили пожилых сдать водительские права",
       "url": "https://www.youtube.com/shorts/qFJJdhetLVs",
       "published_at_utc": "2026-11-12T10:30:13+00:00",
-      "age_seconds": 6511
+      "age_seconds": 6631
     }
   ]
 }
