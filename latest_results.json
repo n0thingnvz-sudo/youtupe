@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-11-12T17:15:42.551885+00:00",
+  "generated_at_utc": "2026-11-12T17:17:38.140446+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Самый быстрый ответ президента в истории Твиттера",
+      "url": "https://www.youtube.com/shorts/dvBV3jAPB1Q",
+      "published_at_utc": "2026-11-12T17:10:00+00:00",
+      "age_seconds": 407
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Акулья месть",
       "url": "https://www.youtube.com/shorts/1YOrAbYPuSc",
       "published_at_utc": "2026-11-12T17:00:38+00:00",
-      "age_seconds": 855
+      "age_seconds": 970
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Заткнись и грейся пока дают",
       "url": "https://www.youtube.com/shorts/UjjBvKpMxRc",
       "published_at_utc": "2026-11-12T16:54:46+00:00",
-      "age_seconds": 1209
+      "age_seconds": 1323
     },
     {
       "channel": "sun_kill",
       "title": "Когда макияж не макияжится в важный день ✋🏻😔 #скетч",
       "url": "https://www.youtube.com/shorts/THIY7x3YlFU",
       "published_at_utc": "2026-11-12T16:41:31+00:00",
-      "age_seconds": 1981
+      "age_seconds": 2103
     },
     {
       "channel": "Alina Мuradimova",
       "title": "ИИ-СЛОП ПОБЕДИЛ | Неужели ИИ-шлак спровоцирует Ренессанс культуры?",
       "url": "https://www.youtube.com/watch?v=gAIUi7KDaFk",
       "published_at_utc": "2026-11-12T16:30:28+00:00",
-      "age_seconds": 2671
+      "age_seconds": 2786
     },
     {
       "channel": "МЯЧ Production",
       "title": "Манчестер Юнайтед – Худшая команда Европы? 😬",
       "url": "https://www.youtube.com/shorts/tye1SpFFo8M",
       "published_at_utc": "2026-11-12T16:29:15+00:00",
-      "age_seconds": 2746
+      "age_seconds": 2861
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Пентхаус под землей",
       "url": "https://www.youtube.com/shorts/nXjLiHMXEpA",
       "published_at_utc": "2026-11-12T16:00:23+00:00",
-      "age_seconds": 4470
+      "age_seconds": 4585
     },
     {
       "channel": "Ассистент грумера",
       "title": "ДРАМАТИЧНАЯ ЮКИ В ГРУМИНГ-САЛОНЕ #շներ #գրումինգ #Երևան #Հայաստան #armenia",
       "url": "https://www.youtube.com/shorts/XjSAsUoiFAI",
       "published_at_utc": "2026-11-12T15:36:52+00:00",
-      "age_seconds": 5890
+      "age_seconds": 6005
     },
     {
       "channel": "i11ushenka",
       "title": "Инцидент с МакАфрикой 🍔",
       "url": "https://www.youtube.com/shorts/zMxmwApoMtI",
       "published_at_utc": "2026-11-12T15:23:06+00:00",
-      "age_seconds": 6685
+      "age_seconds": 6807
     },
     {
       "channel": "IG project",
       "title": "ВСЕ СЕКРЕТЫ, ОТСЫЛКИ В АДСКОМ БОССЕ 3 СЕЗОН - ЧАСТЬ 1 (Helluva Boss)",
       "url": "https://www.youtube.com/watch?v=qhEyUTP-kBk",
       "published_at_utc": "2026-11-12T15:19:13+00:00",
-      "age_seconds": 6949
+      "age_seconds": 7065
     }
   ]
 }
