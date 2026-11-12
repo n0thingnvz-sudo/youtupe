@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-12T09:57:27.912518+00:00",
+  "generated_at_utc": "2026-11-12T09:59:28.221991+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Что не так с чоко-паем?",
+      "url": "https://www.youtube.com/shorts/mnplccie2JA",
+      "published_at_utc": "2026-11-12T09:44:55+00:00",
+      "age_seconds": 848
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Распродажа от дяди Эпштейна",
       "url": "https://www.youtube.com/shorts/N55HpKnpMyQ",
       "published_at_utc": "2026-11-12T09:04:46+00:00",
-      "age_seconds": 3119
+      "age_seconds": 3239
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чит на бесплатную еду",
       "url": "https://www.youtube.com/shorts/wv-IEBDk6JA",
       "published_at_utc": "2026-11-12T09:00:15+00:00",
-      "age_seconds": 3389
+      "age_seconds": 3510
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 пород собак, о покупке которых люди жалеют 😔",
       "url": "https://www.youtube.com/shorts/mKLl9bBqHz8",
       "published_at_utc": "2026-11-12T08:35:09+00:00",
-      "age_seconds": 4911
+      "age_seconds": 5032
     },
     {
       "channel": "Никита Нестеров",
       "title": "Вы часто о них спрашиваете)",
       "url": "https://www.youtube.com/shorts/4kGZ_7v3Su8",
       "published_at_utc": "2026-11-12T08:25:55+00:00",
-      "age_seconds": 5468
+      "age_seconds": 5589
     },
     {
       "channel": "Послезавтра",
       "title": "Милан. Столица стиля и успеха? @posle_zavtra",
       "url": "https://www.youtube.com/watch?v=Rc-AVTv5nMI",
       "published_at_utc": "2026-11-12T08:15:11+00:00",
-      "age_seconds": 6078
+      "age_seconds": 6198
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лягушки победили",
       "url": "https://www.youtube.com/shorts/sRTPrpziV_c",
       "published_at_utc": "2026-11-12T08:00:23+00:00",
-      "age_seconds": 6981
+      "age_seconds": 7102
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кибертрак vs порше: кто быстрее",
       "url": "https://www.youtube.com/shorts/dq71Rwqvtxg",
       "published_at_utc": "2026-11-12T08:00:08+00:00",
-      "age_seconds": 6996
+      "age_seconds": 7116
     }
   ]
 }
