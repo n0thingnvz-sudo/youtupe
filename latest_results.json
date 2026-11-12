@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T15:19:38.737422+00:00",
+  "generated_at_utc": "2026-11-12T15:21:44.650634+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,63 +7,70 @@
       "title": "Порше хорошая машина",
       "url": "https://www.youtube.com/shorts/1y4ffVXrVXA",
       "published_at_utc": "2026-11-12T15:00:09+00:00",
-      "age_seconds": 1120
+      "age_seconds": 1239
     },
     {
       "channel": "МЯЧ Production",
       "title": "ТОП 10 Команд, развалившихся без звезды",
       "url": "https://www.youtube.com/watch?v=qWv5pExZxdM",
       "published_at_utc": "2026-11-12T15:00:09+00:00",
-      "age_seconds": 1129
+      "age_seconds": 1250
     },
     {
       "channel": "Майни",
       "title": "Аниматор против Анимации ► The Dark Age - Animator vs. Animation 14 ( Alan Becker ) | Реакция",
       "url": "https://www.youtube.com/watch?v=z2_LYMeKfF4",
       "published_at_utc": "2026-11-12T15:00:07+00:00",
-      "age_seconds": 1103
+      "age_seconds": 1223
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Творческий пес",
+      "url": "https://www.youtube.com/shorts/W0IhgehhGf0",
+      "published_at_utc": "2026-11-12T14:57:59+00:00",
+      "age_seconds": 1370
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Посади кочергу и жди 9 месяцев",
       "url": "https://www.youtube.com/shorts/2GR3SOmcgc0",
       "published_at_utc": "2026-11-12T14:49:58+00:00",
-      "age_seconds": 1733
+      "age_seconds": 1852
     },
     {
       "channel": "лизкеч",
       "title": "@Tetka_2200 вк: лизкетч",
       "url": "https://www.youtube.com/shorts/Nkk6fnpOR-c",
       "published_at_utc": "2026-11-12T14:26:53+00:00",
-      "age_seconds": 3127
+      "age_seconds": 3248
     },
     {
       "channel": "Хаку",
       "title": "Я 50 часов проходил GTA Vice City на 100%",
       "url": "https://www.youtube.com/watch?v=Gf6GOg5PLRE",
       "published_at_utc": "2026-11-12T14:05:32+00:00",
-      "age_seconds": 4438
+      "age_seconds": 4564
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Замечали?",
       "url": "https://www.youtube.com/shorts/5Y-LyvsGe2w",
       "published_at_utc": "2026-11-12T14:00:32+00:00",
-      "age_seconds": 4697
+      "age_seconds": 4816
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Белка каскадёр устроила шоу ради обеда 😲 @Ritika-Das",
       "url": "https://www.youtube.com/shorts/b-IizolsKjw",
       "published_at_utc": "2026-11-12T13:58:23+00:00",
-      "age_seconds": 4844
+      "age_seconds": 4967
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что за бизнес Ким?",
       "url": "https://www.youtube.com/shorts/5MCXYIQV7GE",
       "published_at_utc": "2026-11-12T13:35:38+00:00",
-      "age_seconds": 6191
+      "age_seconds": 6311
     }
   ]
 }
