@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T08:45:26.970533+00:00",
+  "generated_at_utc": "2026-11-12T08:47:38.192935+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Вы часто о них спрашиваете)",
       "url": "https://www.youtube.com/shorts/4kGZ_7v3Su8",
       "published_at_utc": "2026-11-12T08:25:55+00:00",
-      "age_seconds": 1146
+      "age_seconds": 1268
     },
     {
       "channel": "Послезавтра",
       "title": "Милан. Столица стиля и успеха? @posle_zavtra",
       "url": "https://www.youtube.com/watch?v=Rc-AVTv5nMI",
       "published_at_utc": "2026-11-12T08:15:11+00:00",
-      "age_seconds": 1758
+      "age_seconds": 1878
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лягушки победили",
       "url": "https://www.youtube.com/shorts/sRTPrpziV_c",
       "published_at_utc": "2026-11-12T08:00:23+00:00",
-      "age_seconds": 2660
+      "age_seconds": 2782
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кибертрак vs порше: кто быстрее",
       "url": "https://www.youtube.com/shorts/dq71Rwqvtxg",
       "published_at_utc": "2026-11-12T08:00:08+00:00",
-      "age_seconds": 2675
+      "age_seconds": 2797
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Не так они мечтали попасть в Википедию",
       "url": "https://www.youtube.com/shorts/2ixvHHhxhV8",
       "published_at_utc": "2026-11-12T07:53:12+00:00",
-      "age_seconds": 3092
+      "age_seconds": 3214
     }
   ]
 }
