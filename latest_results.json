@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-11-12T08:53:27.166299+00:00",
+  "generated_at_utc": "2026-11-12T08:55:26.287991+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "ТОП 5 пород собак, о покупке которых люди жалеют 😔",
-      "url": "https://www.youtube.com/shorts/mKLl9bBqHz8",
-      "published_at_utc": "2026-11-12T08:35:09+00:00",
-      "age_seconds": 1070
-    },
     {
       "channel": "Никита Нестеров",
       "title": "Вы часто о них спрашиваете)",
       "url": "https://www.youtube.com/shorts/4kGZ_7v3Su8",
       "published_at_utc": "2026-11-12T08:25:55+00:00",
-      "age_seconds": 1626
+      "age_seconds": 1747
     },
     {
       "channel": "Послезавтра",
       "title": "Милан. Столица стиля и успеха? @posle_zavtra",
       "url": "https://www.youtube.com/watch?v=Rc-AVTv5nMI",
       "published_at_utc": "2026-11-12T08:15:11+00:00",
-      "age_seconds": 2238
+      "age_seconds": 2358
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Лягушки победили",
       "url": "https://www.youtube.com/shorts/sRTPrpziV_c",
       "published_at_utc": "2026-11-12T08:00:23+00:00",
-      "age_seconds": 3141
+      "age_seconds": 3261
     },
     {
       "channel": "Новостной Гусь",
       "title": "Кибертрак vs порше: кто быстрее",
       "url": "https://www.youtube.com/shorts/dq71Rwqvtxg",
       "published_at_utc": "2026-11-12T08:00:08+00:00",
-      "age_seconds": 3155
+      "age_seconds": 3275
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Не так они мечтали попасть в Википедию",
       "url": "https://www.youtube.com/shorts/2ixvHHhxhV8",
       "published_at_utc": "2026-11-12T07:53:12+00:00",
-      "age_seconds": 3572
+      "age_seconds": 3693
     }
   ]
 }
