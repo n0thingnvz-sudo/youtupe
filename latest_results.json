@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-11-12T20:15:30.039498+00:00",
+  "generated_at_utc": "2026-11-12T20:17:31.676873+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Никита Нестеров",
-      "title": "Нормально сделай",
-      "url": "https://www.youtube.com/shorts/CddWjV0sH-4",
-      "published_at_utc": "2026-11-12T20:07:04+00:00",
-      "age_seconds": 481
-    },
     {
       "channel": "Bulkin Drive",
       "title": "Кому достался BMW X5?!",
       "url": "https://www.youtube.com/watch?v=7EYCC7LLRkw",
       "published_at_utc": "2026-11-12T19:47:50+00:00",
-      "age_seconds": 1621
+      "age_seconds": 1742
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Путь длиною в жизнь",
       "url": "https://www.youtube.com/shorts/uwdBY2HihTE",
       "published_at_utc": "2026-11-12T19:00:35+00:00",
-      "age_seconds": 4450
+      "age_seconds": 4571
     }
   ]
 }
