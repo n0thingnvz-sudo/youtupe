@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-12T14:11:32.798097+00:00",
+  "generated_at_utc": "2026-11-12T14:13:33.859952+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Замечали?",
-      "url": "https://www.youtube.com/shorts/5Y-LyvsGe2w",
-      "published_at_utc": "2026-11-12T14:00:32+00:00",
-      "age_seconds": 613
+      "channel": "Хаку",
+      "title": "Я 50 часов проходил GTA Vice City на 100%",
+      "url": "https://www.youtube.com/watch?v=Gf6GOg5PLRE",
+      "published_at_utc": "2026-11-12T14:05:32+00:00",
+      "age_seconds": 473
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Белка каскадёр устроила шоу ради обеда 😲 @Ritika-Das",
+      "url": "https://www.youtube.com/shorts/b-IizolsKjw",
+      "published_at_utc": "2026-11-12T13:58:23+00:00",
+      "age_seconds": 881
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Что за бизнес Ким?",
       "url": "https://www.youtube.com/shorts/5MCXYIQV7GE",
       "published_at_utc": "2026-11-12T13:35:38+00:00",
-      "age_seconds": 2108
+      "age_seconds": 2228
     },
     {
       "channel": "dikiy_vadik",
       "title": "Тот самый Ангел-хранитель",
       "url": "https://www.youtube.com/shorts/Q4GLxpcK92E",
       "published_at_utc": "2026-11-12T13:03:29+00:00",
-      "age_seconds": 4050
+      "age_seconds": 4172
     },
     {
       "channel": "Майни",
       "title": "ГЛАВНЫЙ ВОЗДУХАН ИНТЕРНЕТА - ЛИТВИН ► MILKA MAKER | Реакция",
       "url": "https://www.youtube.com/watch?v=E18Wn28QTu4",
       "published_at_utc": "2026-11-12T13:00:26+00:00",
-      "age_seconds": 4204
+      "age_seconds": 4324
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Читы — бан",
       "url": "https://www.youtube.com/shorts/767KPuRkAxE",
       "published_at_utc": "2026-11-12T13:00:23+00:00",
-      "age_seconds": 4222
+      "age_seconds": 4342
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Легендарный взлом",
       "url": "https://www.youtube.com/shorts/1LJBfYMP-wc",
       "published_at_utc": "2026-11-12T12:16:26+00:00",
-      "age_seconds": 6860
+      "age_seconds": 6980
     }
   ]
 }
