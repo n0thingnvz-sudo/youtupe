@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-12T10:43:26.245488+00:00",
+  "generated_at_utc": "2026-11-12T10:45:26.253162+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Как власти Японии уговорили пожилых сдать водительские права",
+      "url": "https://www.youtube.com/shorts/qFJJdhetLVs",
+      "published_at_utc": "2026-11-12T10:30:13+00:00",
+      "age_seconds": 870
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Бедняга",
       "url": "https://www.youtube.com/shorts/X3FPtAEobXg",
       "published_at_utc": "2026-11-12T10:00:14+00:00",
-      "age_seconds": 2550
+      "age_seconds": 2669
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Что не так с чоко-паем?",
       "url": "https://www.youtube.com/shorts/mnplccie2JA",
       "published_at_utc": "2026-11-12T09:44:55+00:00",
-      "age_seconds": 3486
+      "age_seconds": 3606
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Распродажа от дяди Эпштейна",
       "url": "https://www.youtube.com/shorts/N55HpKnpMyQ",
       "published_at_utc": "2026-11-12T09:04:46+00:00",
-      "age_seconds": 5879
+      "age_seconds": 5998
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чит на бесплатную еду",
       "url": "https://www.youtube.com/shorts/wv-IEBDk6JA",
       "published_at_utc": "2026-11-12T09:00:15+00:00",
-      "age_seconds": 6149
+      "age_seconds": 6268
     }
   ]
 }
