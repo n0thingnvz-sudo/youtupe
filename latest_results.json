@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-12T08:01:37.082567+00:00",
+  "generated_at_utc": "2026-11-12T08:03:33.875552+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Лягушки победили",
+      "url": "https://www.youtube.com/shorts/sRTPrpziV_c",
+      "published_at_utc": "2026-11-12T08:00:23+00:00",
+      "age_seconds": 141
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Кибертрак vs порше: кто быстрее",
       "url": "https://www.youtube.com/shorts/dq71Rwqvtxg",
       "published_at_utc": "2026-11-12T08:00:08+00:00",
-      "age_seconds": 37
+      "age_seconds": 156
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Не так они мечтали попасть в Википедию",
       "url": "https://www.youtube.com/shorts/2ixvHHhxhV8",
       "published_at_utc": "2026-11-12T07:53:12+00:00",
-      "age_seconds": 454
+      "age_seconds": 573
     },
     {
       "channel": "Послезавтра",
       "title": "Милан. Столица стиля и успеха? @posle_zavtra",
       "url": "https://www.youtube.com/watch?v=Rc-AVTv5nMI",
       "published_at_utc": "2026-11-12T07:44:49+00:00",
-      "age_seconds": 940
+      "age_seconds": 1060
     }
   ]
 }
