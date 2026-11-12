@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T10:39:27.007836+00:00",
+  "generated_at_utc": "2026-11-12T10:41:31.633663+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Бедняга",
       "url": "https://www.youtube.com/shorts/X3FPtAEobXg",
       "published_at_utc": "2026-11-12T10:00:14+00:00",
-      "age_seconds": 2309
+      "age_seconds": 2430
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Что не так с чоко-паем?",
       "url": "https://www.youtube.com/shorts/mnplccie2JA",
       "published_at_utc": "2026-11-12T09:44:55+00:00",
-      "age_seconds": 3246
+      "age_seconds": 3369
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Распродажа от дяди Эпштейна",
       "url": "https://www.youtube.com/shorts/N55HpKnpMyQ",
       "published_at_utc": "2026-11-12T09:04:46+00:00",
-      "age_seconds": 5638
+      "age_seconds": 5759
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Чит на бесплатную еду",
       "url": "https://www.youtube.com/shorts/wv-IEBDk6JA",
       "published_at_utc": "2026-11-12T09:00:15+00:00",
-      "age_seconds": 5908
+      "age_seconds": 6029
     }
   ]
 }
