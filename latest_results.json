@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-12T11:37:30.497630+00:00",
+  "generated_at_utc": "2026-11-12T11:39:29.217889+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Умная доска. Слишком. Умная. (Прослушка в классе)",
+      "url": "https://www.youtube.com/shorts/ZHmLW8snEH8",
+      "published_at_utc": "2026-11-12T11:30:11+00:00",
+      "age_seconds": 500
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Раньше было лучше",
       "url": "https://www.youtube.com/shorts/2ybALFAdno0",
       "published_at_utc": "2026-11-12T11:04:56+00:00",
-      "age_seconds": 1910
+      "age_seconds": 2029
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Темка не пошла с самого начала",
       "url": "https://www.youtube.com/shorts/GahocI_aWr4",
       "published_at_utc": "2026-11-12T11:00:30+00:00",
-      "age_seconds": 2175
+      "age_seconds": 2294
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как власти Японии уговорили пожилых сдать водительские права",
       "url": "https://www.youtube.com/shorts/qFJJdhetLVs",
       "published_at_utc": "2026-11-12T10:30:13+00:00",
-      "age_seconds": 3991
+      "age_seconds": 4110
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Бедняга",
       "url": "https://www.youtube.com/shorts/X3FPtAEobXg",
       "published_at_utc": "2026-11-12T10:00:14+00:00",
-      "age_seconds": 5791
+      "age_seconds": 5910
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Что не так с чоко-паем?",
       "url": "https://www.youtube.com/shorts/mnplccie2JA",
       "published_at_utc": "2026-11-12T09:44:55+00:00",
-      "age_seconds": 6727
+      "age_seconds": 6847
     }
   ]
 }
