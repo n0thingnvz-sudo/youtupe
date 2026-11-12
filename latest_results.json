@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T18:45:37.971687+00:00",
+  "generated_at_utc": "2026-11-12T18:47:31.525695+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Ну отдохнул работяга, бывает",
       "url": "https://www.youtube.com/shorts/8715NIWup_E",
       "published_at_utc": "2026-11-12T18:00:16+00:00",
-      "age_seconds": 2669
+      "age_seconds": 2789
     },
     {
       "channel": "DeadP47",
       "title": "Привыкай к 30 FPS в GTA 6",
       "url": "https://www.youtube.com/watch?v=7SqboQs20R8",
       "published_at_utc": "2026-11-12T17:52:58+00:00",
-      "age_seconds": 3150
+      "age_seconds": 3265
     },
     {
       "channel": "Новостной Гусь",
       "title": "Самый быстрый ответ президента в истории Твиттера",
       "url": "https://www.youtube.com/shorts/dvBV3jAPB1Q",
       "published_at_utc": "2026-11-12T17:10:00+00:00",
-      "age_seconds": 5684
+      "age_seconds": 5804
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Акулья месть",
       "url": "https://www.youtube.com/shorts/1YOrAbYPuSc",
       "published_at_utc": "2026-11-12T17:00:38+00:00",
-      "age_seconds": 6247
+      "age_seconds": 6367
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Батарея 228 градусов заткнись и грейся",
       "url": "https://www.youtube.com/shorts/UjjBvKpMxRc",
       "published_at_utc": "2026-11-12T16:54:46+00:00",
-      "age_seconds": 6600
+      "age_seconds": 6720
     }
   ]
 }
