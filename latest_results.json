@@ -1,41 +1,41 @@
 {
-  "generated_at_utc": "2026-11-13T19:27:36.338749+00:00",
+  "generated_at_utc": "2026-11-13T19:29:33.117159+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Хаку",
+      "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City",
+      "url": "https://www.youtube.com/watch?v=VQIAkFZlHOo",
+      "published_at_utc": "2026-11-13T19:28:45+00:00",
+      "age_seconds": 40
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Как учить информатике, если нет компьютера?",
       "url": "https://www.youtube.com/shorts/UYR6pwODTnk",
       "published_at_utc": "2026-11-13T19:00:26+00:00",
-      "age_seconds": 1580
+      "age_seconds": 1698
     },
     {
       "channel": "Короче, новости",
       "title": "Остановитесь: Памятник 67 в Смоленске @denmarnews",
       "url": "https://www.youtube.com/shorts/9w9UMdDDyWs",
       "published_at_utc": "2026-11-13T18:57:57+00:00",
-      "age_seconds": 1727
+      "age_seconds": 1845
     },
     {
       "channel": "Короче, новости",
       "title": "Птицы Загадили Весь Рим: Дождь из Помёта @denmarnews",
       "url": "https://www.youtube.com/shorts/ptMptHUiUQs",
       "published_at_utc": "2026-11-13T18:46:39+00:00",
-      "age_seconds": 2405
+      "age_seconds": 2523
     },
     {
       "channel": "Короче, новости",
       "title": "Задержан Самый Опасный Преступник с сыром-косичкой @denmarnews",
       "url": "https://www.youtube.com/shorts/7CForJGC9ZE",
       "published_at_utc": "2026-11-13T18:20:24+00:00",
-      "age_seconds": 3980
-    },
-    {
-      "channel": "JOHAN",
-      "title": "Бьем яйца 16 минут ( CRACK )",
-      "url": "https://www.youtube.com/watch?v=2UfOKvXuVNo",
-      "published_at_utc": "2026-11-13T17:27:12+00:00",
-      "age_seconds": 7161
+      "age_seconds": 4098
     }
   ]
 }
