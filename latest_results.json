@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-13T08:29:27.301368+00:00",
+  "generated_at_utc": "2026-11-13T08:31:31.666721+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Пицца спасает людей",
       "url": "https://www.youtube.com/shorts/x_LrxCDgCGc",
       "published_at_utc": "2026-11-13T08:13:30+00:00",
-      "age_seconds": 914
+      "age_seconds": 1036
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Недооценил население района",
       "url": "https://www.youtube.com/shorts/NbpFKsAMNF4",
       "published_at_utc": "2026-11-13T08:00:04+00:00",
-      "age_seconds": 1720
+      "age_seconds": 1841
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Незаметно захватил власть",
       "url": "https://www.youtube.com/shorts/hMNAxFO0IT8",
       "published_at_utc": "2026-11-13T07:00:12+00:00",
-      "age_seconds": 5312
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Вышел на прогулку",
-      "url": "https://www.youtube.com/shorts/2Dpk7Czqi4o",
-      "published_at_utc": "2026-11-13T06:30:05+00:00",
-      "age_seconds": 7119
+      "age_seconds": 5433
     }
   ]
 }
