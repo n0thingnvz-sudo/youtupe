@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-13T21:09:34.900207+00:00",
+  "generated_at_utc": "2026-11-13T21:11:28.242373+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Никита Нестеров",
+      "title": "И никаких подвохов 😅",
+      "url": "https://www.youtube.com/shorts/nvspi9R6_EY",
+      "published_at_utc": "2026-11-13T20:50:54+00:00",
+      "age_seconds": 1208
+    },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City",
       "url": "https://www.youtube.com/watch?v=VQIAkFZlHOo",
       "published_at_utc": "2026-11-13T19:28:45+00:00",
-      "age_seconds": 6042
+      "age_seconds": 6155
     }
   ]
 }
