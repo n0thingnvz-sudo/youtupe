@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-13T20:39:30.141863+00:00",
+  "generated_at_utc": "2026-11-13T20:41:30.965826+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City",
       "url": "https://www.youtube.com/watch?v=VQIAkFZlHOo",
       "published_at_utc": "2026-11-13T19:28:45+00:00",
-      "age_seconds": 4237
+      "age_seconds": 4358
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как учить информатике, если нет компьютера?",
       "url": "https://www.youtube.com/shorts/UYR6pwODTnk",
       "published_at_utc": "2026-11-13T19:00:26+00:00",
-      "age_seconds": 5898
+      "age_seconds": 6018
     },
     {
       "channel": "Короче, новости",
       "title": "Остановитесь: Памятник 67 в Смоленске @denmarnews",
       "url": "https://www.youtube.com/shorts/9w9UMdDDyWs",
       "published_at_utc": "2026-11-13T18:57:57+00:00",
-      "age_seconds": 6045
+      "age_seconds": 6165
     },
     {
       "channel": "Короче, новости",
       "title": "Птицы Загадили Весь Рим: Дождь из Помёта @denmarnews",
       "url": "https://www.youtube.com/shorts/ptMptHUiUQs",
       "published_at_utc": "2026-11-13T18:46:39+00:00",
-      "age_seconds": 6723
+      "age_seconds": 6843
     }
   ]
 }
