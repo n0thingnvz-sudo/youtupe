@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-13T20:57:35.199721+00:00",
+  "generated_at_utc": "2026-11-13T20:59:29.238141+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "И никаких подвохов 😅",
       "url": "https://www.youtube.com/shorts/nvspi9R6_EY",
       "published_at_utc": "2026-11-13T20:50:54+00:00",
-      "age_seconds": 374
+      "age_seconds": 489
     },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City",
       "url": "https://www.youtube.com/watch?v=VQIAkFZlHOo",
       "published_at_utc": "2026-11-13T19:28:45+00:00",
-      "age_seconds": 5321
+      "age_seconds": 5436
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как учить информатике, если нет компьютера?",
       "url": "https://www.youtube.com/shorts/UYR6pwODTnk",
       "published_at_utc": "2026-11-13T19:00:26+00:00",
-      "age_seconds": 6979
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "Остановитесь: Памятник 67 в Смоленске @denmarnews",
-      "url": "https://www.youtube.com/shorts/9w9UMdDDyWs",
-      "published_at_utc": "2026-11-13T18:57:57+00:00",
-      "age_seconds": 7126
+      "age_seconds": 7098
     }
   ]
 }
