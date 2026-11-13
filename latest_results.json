@@ -1,55 +1,55 @@
 {
-  "generated_at_utc": "2026-11-13T11:59:32.747561+00:00",
+  "generated_at_utc": "2026-11-13T12:01:37.020942+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Bulkin Drive",
+      "title": "Меняю РОЛЛС РОЙС на ДОМ В МОСКВЕ!",
+      "url": "https://www.youtube.com/watch?v=Oin2JBRkSYk",
+      "published_at_utc": "2026-11-13T11:49:07+00:00",
+      "age_seconds": 709
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Маскоровка сработала на 10 из10",
       "url": "https://www.youtube.com/shorts/qTBMWGZYnP0",
       "published_at_utc": "2026-11-13T11:45:22+00:00",
-      "age_seconds": 804
+      "age_seconds": 926
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Как потерять все за неделю",
       "url": "https://www.youtube.com/shorts/pjbS4H2voNo",
       "published_at_utc": "2026-11-13T11:35:07+00:00",
-      "age_seconds": 1420
+      "age_seconds": 1543
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Жизненный урок усвоен",
       "url": "https://www.youtube.com/shorts/ePbVIAIZgxE",
       "published_at_utc": "2026-11-13T11:00:19+00:00",
-      "age_seconds": 3508
+      "age_seconds": 3630
     },
     {
       "channel": "Послезавтра",
       "title": "Модный учебник для парней #мода #милан #история",
       "url": "https://www.youtube.com/shorts/oOQm15FQEJY",
       "published_at_utc": "2026-11-13T10:54:30+00:00",
-      "age_seconds": 3839
+      "age_seconds": 3959
     },
     {
       "channel": "Jim Gold",
       "title": "РОССИЯ, ПУТИН, ПОБЕДА!",
       "url": "https://www.youtube.com/watch?v=s8-3c8q0Gkg",
       "published_at_utc": "2026-11-13T10:48:03+00:00",
-      "age_seconds": 4259
+      "age_seconds": 4383
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это вам не Слэй",
       "url": "https://www.youtube.com/shorts/rd94Mk613Nc",
       "published_at_utc": "2026-11-13T10:26:08+00:00",
-      "age_seconds": 5559
-    },
-    {
-      "channel": "ПРЕМИЯ ДАРВИНА",
-      "title": "Как сделать деньги из воздуха",
-      "url": "https://www.youtube.com/shorts/UmQDRzRfr1Q",
-      "published_at_utc": "2026-11-13T10:00:23+00:00",
-      "age_seconds": 7104
+      "age_seconds": 5682
     }
   ]
 }
