@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-13T10:03:29.411540+00:00",
+  "generated_at_utc": "2026-11-13T10:05:28.346180+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Когда хаски устроился в охрану 😏",
+      "url": "https://www.youtube.com/shorts/qrMi_Bm6tOs",
+      "published_at_utc": "2026-11-13T09:58:29+00:00",
+      "age_seconds": 391
+    },
     {
       "channel": "парадеевич",
       "title": "Обмани Всех и Получи 1.000.000₽ / Дипинс, Воскресенский, Кореш, Вильчинский",
       "url": "https://www.youtube.com/watch?v=N4hH3PFH4s8",
       "published_at_utc": "2026-11-13T09:10:19+00:00",
-      "age_seconds": 3168
+      "age_seconds": 3287
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Добились своего",
       "url": "https://www.youtube.com/shorts/o6qW7kz6fnw",
       "published_at_utc": "2026-11-13T09:00:36+00:00",
-      "age_seconds": 3729
+      "age_seconds": 3848
     },
     {
       "channel": "VASYAN1000",
       "title": "Пришёл в больницу, а там… #shorts #quest #юмор #horror",
       "url": "https://www.youtube.com/shorts/dFX8-T5EB40",
       "published_at_utc": "2026-11-13T08:55:32+00:00",
-      "age_seconds": 4043
+      "age_seconds": 4161
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Осьминоги реально не с этой планеты 🐙",
       "url": "https://www.youtube.com/shorts/WFu1WNvrxE8",
       "published_at_utc": "2026-11-13T08:51:11+00:00",
-      "age_seconds": 4310
+      "age_seconds": 4429
     },
     {
       "channel": "Новостной Гусь",
       "title": "Правильный тайм менеджмент или она слегка преувеличивает",
       "url": "https://www.youtube.com/shorts/ivP_lGl6seY",
       "published_at_utc": "2026-11-13T08:40:02+00:00",
-      "age_seconds": 4962
+      "age_seconds": 5082
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Пицца спасает людей",
       "url": "https://www.youtube.com/shorts/x_LrxCDgCGc",
       "published_at_utc": "2026-11-13T08:13:30+00:00",
-      "age_seconds": 6555
+      "age_seconds": 6675
     }
   ]
 }
