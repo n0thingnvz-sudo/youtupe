@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-13T08:13:25.425944+00:00",
+  "generated_at_utc": "2026-11-13T08:15:25.221068+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Недооценил население района",
       "url": "https://www.youtube.com/shorts/NbpFKsAMNF4",
       "published_at_utc": "2026-11-13T08:00:04+00:00",
-      "age_seconds": 760
+      "age_seconds": 879
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Незаметно захватил власть",
       "url": "https://www.youtube.com/shorts/hMNAxFO0IT8",
       "published_at_utc": "2026-11-13T07:00:12+00:00",
-      "age_seconds": 4352
+      "age_seconds": 4471
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Вышел на прогулку",
       "url": "https://www.youtube.com/shorts/2Dpk7Czqi4o",
       "published_at_utc": "2026-11-13T06:30:05+00:00",
-      "age_seconds": 6159
+      "age_seconds": 6279
     }
   ]
 }
