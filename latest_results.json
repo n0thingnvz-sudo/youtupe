@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-13T12:13:35.498959+00:00",
+  "generated_at_utc": "2026-11-13T12:15:36.821305+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Влад Раговский",
+      "title": "Я Прожил День Миллиардера! (Парадеевич, Горилла)",
+      "url": "https://www.youtube.com/watch?v=17sP2VBIMz8",
+      "published_at_utc": "2026-11-13T12:12:35+00:00",
+      "age_seconds": 160
+    },
     {
       "channel": "Bulkin Drive",
       "title": "Меняю РОЛЛС РОЙС на ДОМ В МОСКВЕ!",
       "url": "https://www.youtube.com/watch?v=Oin2JBRkSYk",
       "published_at_utc": "2026-11-13T11:49:07+00:00",
-      "age_seconds": 1428
+      "age_seconds": 1547
     },
     {
       "channel": "Новостной Гусь",
       "title": "Маскоровка сработала на 10 из10",
       "url": "https://www.youtube.com/shorts/qTBMWGZYnP0",
       "published_at_utc": "2026-11-13T11:45:22+00:00",
-      "age_seconds": 1647
+      "age_seconds": 1763
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Как потерять все за неделю",
       "url": "https://www.youtube.com/shorts/pjbS4H2voNo",
       "published_at_utc": "2026-11-13T11:35:07+00:00",
-      "age_seconds": 2263
+      "age_seconds": 2379
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Жизненный урок усвоен",
       "url": "https://www.youtube.com/shorts/ePbVIAIZgxE",
       "published_at_utc": "2026-11-13T11:00:19+00:00",
-      "age_seconds": 4350
+      "age_seconds": 4467
     },
     {
       "channel": "Послезавтра",
       "title": "Модный учебник для парней #мода #милан #история",
       "url": "https://www.youtube.com/shorts/oOQm15FQEJY",
       "published_at_utc": "2026-11-13T10:54:30+00:00",
-      "age_seconds": 4679
+      "age_seconds": 4799
     },
     {
       "channel": "Jim Gold",
       "title": "РОССИЯ, ПУТИН, ПОБЕДА!",
       "url": "https://www.youtube.com/watch?v=s8-3c8q0Gkg",
       "published_at_utc": "2026-11-13T10:48:03+00:00",
-      "age_seconds": 5102
+      "age_seconds": 5222
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это вам не Слэй",
       "url": "https://www.youtube.com/shorts/rd94Mk613Nc",
       "published_at_utc": "2026-11-13T10:26:08+00:00",
-      "age_seconds": 6402
+      "age_seconds": 6518
     }
   ]
 }
