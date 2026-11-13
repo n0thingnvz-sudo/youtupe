@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-13T11:39:32.928777+00:00",
+  "generated_at_utc": "2026-11-13T11:41:30.388647+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Как потерять все за неделю",
+      "url": "https://www.youtube.com/shorts/pjbS4H2voNo",
+      "published_at_utc": "2026-11-13T11:35:07+00:00",
+      "age_seconds": 338
+    },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Жизненный урок усвоен",
       "url": "https://www.youtube.com/shorts/ePbVIAIZgxE",
       "published_at_utc": "2026-11-13T11:00:19+00:00",
-      "age_seconds": 2306
+      "age_seconds": 2425
     },
     {
       "channel": "Послезавтра",
       "title": "Модный учебник для парней #мода #милан #история",
       "url": "https://www.youtube.com/shorts/oOQm15FQEJY",
       "published_at_utc": "2026-11-13T10:54:30+00:00",
-      "age_seconds": 2639
+      "age_seconds": 2759
     },
     {
       "channel": "Jim Gold",
       "title": "РОССИЯ, ПУТИН, ПОБЕДА!",
       "url": "https://www.youtube.com/watch?v=s8-3c8q0Gkg",
       "published_at_utc": "2026-11-13T10:48:03+00:00",
-      "age_seconds": 3059
+      "age_seconds": 3176
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это вам не Слэй",
       "url": "https://www.youtube.com/shorts/rd94Mk613Nc",
       "published_at_utc": "2026-11-13T10:26:08+00:00",
-      "age_seconds": 4358
+      "age_seconds": 4477
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Как сделать деньги из воздуха",
       "url": "https://www.youtube.com/shorts/UmQDRzRfr1Q",
       "published_at_utc": "2026-11-13T10:00:23+00:00",
-      "age_seconds": 5902
+      "age_seconds": 6021
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Когда хаски устроился в охрану 😏",
       "url": "https://www.youtube.com/shorts/qrMi_Bm6tOs",
       "published_at_utc": "2026-11-13T09:58:29+00:00",
-      "age_seconds": 6036
+      "age_seconds": 6152
     }
   ]
 }
