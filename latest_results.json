@@ -1,69 +1,76 @@
 {
-  "generated_at_utc": "2026-11-13T12:47:32.307131+00:00",
+  "generated_at_utc": "2026-11-13T12:49:32.273233+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Взгляд на ГТА 6 десять лет назад",
+      "url": "https://www.youtube.com/shorts/P4lHDP5kQkg",
+      "published_at_utc": "2026-11-13T12:38:36+00:00",
+      "age_seconds": 609
+    },
     {
       "channel": "Тимур Сидельников",
       "title": "Бургер, но вместо булочек бельгийские вафли",
       "url": "https://www.youtube.com/shorts/zNZ5WYVHOnI",
       "published_at_utc": "2026-11-13T12:32:40+00:00",
-      "age_seconds": 864
+      "age_seconds": 984
+    },
+    {
+      "channel": "Денис Карамышев",
+      "title": "Психологический урон /PUBG: Battlegrounds",
+      "url": "https://www.youtube.com/watch?v=BaEKCKEml5o",
+      "published_at_utc": "2026-11-13T12:28:54+00:00",
+      "age_seconds": 1235
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин – покупка дома, лудомания, мужские измены и езда на скорости 300+",
       "url": "https://www.youtube.com/watch?v=3nW72MHjyyw",
       "published_at_utc": "2026-11-13T12:25:49+00:00",
-      "age_seconds": 1282
+      "age_seconds": 1402
     },
     {
       "channel": "Влад Раговский",
       "title": "Я Прожил День Миллиардера! (Парадеевич, Горилла)",
       "url": "https://www.youtube.com/watch?v=17sP2VBIMz8",
       "published_at_utc": "2026-11-13T12:12:35+00:00",
-      "age_seconds": 2076
+      "age_seconds": 2196
     },
     {
       "channel": "Bulkin Drive",
       "title": "Меняю РОЛЛС РОЙС на ДОМ В МОСКВЕ!",
       "url": "https://www.youtube.com/watch?v=Oin2JBRkSYk",
       "published_at_utc": "2026-11-13T11:49:07+00:00",
-      "age_seconds": 3465
+      "age_seconds": 3584
     },
     {
       "channel": "Новостной Гусь",
       "title": "Маскоровка сработала на 10 из10",
       "url": "https://www.youtube.com/shorts/qTBMWGZYnP0",
       "published_at_utc": "2026-11-13T11:45:22+00:00",
-      "age_seconds": 3683
+      "age_seconds": 3802
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Как потерять все за неделю",
       "url": "https://www.youtube.com/shorts/pjbS4H2voNo",
       "published_at_utc": "2026-11-13T11:35:07+00:00",
-      "age_seconds": 4299
+      "age_seconds": 4418
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Жизненный урок усвоен",
       "url": "https://www.youtube.com/shorts/ePbVIAIZgxE",
       "published_at_utc": "2026-11-13T11:00:19+00:00",
-      "age_seconds": 6386
+      "age_seconds": 6506
     },
     {
       "channel": "Послезавтра",
       "title": "Модный учебник для парней #мода #милан #история",
       "url": "https://www.youtube.com/shorts/oOQm15FQEJY",
       "published_at_utc": "2026-11-13T10:54:30+00:00",
-      "age_seconds": 6719
-    },
-    {
-      "channel": "Jim Gold",
-      "title": "РОССИЯ, ПУТИН, ПОБЕДА!",
-      "url": "https://www.youtube.com/watch?v=s8-3c8q0Gkg",
-      "published_at_utc": "2026-11-13T10:48:03+00:00",
-      "age_seconds": 7138
+      "age_seconds": 6839
     }
   ]
 }
