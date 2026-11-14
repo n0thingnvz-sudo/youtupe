@@ -1,34 +1,34 @@
 {
-  "generated_at_utc": "2026-11-14T18:49:46.470431+00:00",
+  "generated_at_utc": "2026-11-14T18:51:34.515240+00:00",
   "hours_window": 2,
   "items": [
     {
       "channel": "Тру Шорты",
-      "title": "Эту рыбку придумали. И запатентовали",
+      "title": "Этих рыбок покрасили. И запатентовали",
       "url": "https://www.youtube.com/shorts/B5Qu26f5qK4",
       "published_at_utc": "2026-11-14T18:21:41+00:00",
-      "age_seconds": 1607
+      "age_seconds": 1727
     },
     {
       "channel": "Ремонтяш",
       "title": "ОТКРЫВАЮ КОМП КЛУБ",
       "url": "https://www.youtube.com/watch?v=P4VO5aq15C0",
       "published_at_utc": "2026-11-14T18:06:34+00:00",
-      "age_seconds": 2539
+      "age_seconds": 2658
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самый странный игрок в истории Майнкрафта",
       "url": "https://www.youtube.com/shorts/nHsM2ZQuFBI",
       "published_at_utc": "2026-11-14T17:30:13+00:00",
-      "age_seconds": 4713
+      "age_seconds": 4833
     },
     {
       "channel": "Новостной Гусь",
       "title": "Мир остановится в день выхода GTA 6?",
       "url": "https://www.youtube.com/shorts/ZOj9xB-WFts",
       "published_at_utc": "2026-11-14T17:10:01+00:00",
-      "age_seconds": 5924
+      "age_seconds": 6044
     }
   ]
 }
