@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-14T16:41:30.053608+00:00",
+  "generated_at_utc": "2026-11-14T16:43:31.726181+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Это считается ИИ слопом?",
+      "url": "https://www.youtube.com/shorts/ZF3SaPIIUtQ",
+      "published_at_utc": "2026-11-14T16:30:48+00:00",
+      "age_seconds": 718
+    },
     {
       "channel": "Майни",
       "title": "ПВЗ и твари которые там обитают... ► ZAKATOON ( Закатун Анимация ) | Реакция",
       "url": "https://www.youtube.com/watch?v=B73DtUB5ODk",
       "published_at_utc": "2026-11-14T15:15:06+00:00",
-      "age_seconds": 5124
+      "age_seconds": 5244
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Распечатал и летаешь просто но работает",
       "url": "https://www.youtube.com/shorts/bbmQBvUnJt4",
       "published_at_utc": "2026-11-14T15:12:20+00:00",
-      "age_seconds": 5307
+      "age_seconds": 5427
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/CDymbuJX-2w",
       "published_at_utc": "2026-11-14T15:10:12+00:00",
-      "age_seconds": 5451
+      "age_seconds": 5572
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Штраф за тупость",
       "url": "https://www.youtube.com/shorts/wm6EjshvSwk",
       "published_at_utc": "2026-11-14T15:07:46+00:00",
-      "age_seconds": 5580
+      "age_seconds": 5700
     },
     {
       "channel": "Новостной Гусь",
       "title": "Отчитал главу Пентагона",
       "url": "https://www.youtube.com/shorts/Rq-ZRewtFQs",
       "published_at_utc": "2026-11-14T14:50:30+00:00",
-      "age_seconds": 6615
+      "age_seconds": 6735
     }
   ]
 }
