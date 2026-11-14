@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T19:29:31.563352+00:00",
+  "generated_at_utc": "2026-11-14T19:31:34.868719+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Продали 100 млн PS5 подешевеет в ближайшие 100 лет",
       "url": "https://www.youtube.com/shorts/gxW0n5Wb3Yw",
       "published_at_utc": "2026-11-14T18:49:45+00:00",
-      "age_seconds": 2342
+      "age_seconds": 2464
     },
     {
       "channel": "Тру Шорты",
       "title": "Этих рыбок покрасили. И запатентовали",
       "url": "https://www.youtube.com/shorts/B5Qu26f5qK4",
       "published_at_utc": "2026-11-14T18:21:41+00:00",
-      "age_seconds": 4007
+      "age_seconds": 4127
     },
     {
       "channel": "Ремонтяш",
       "title": "ОТКРЫВАЮ КОМП КЛУБ",
       "url": "https://www.youtube.com/watch?v=P4VO5aq15C0",
       "published_at_utc": "2026-11-14T18:06:34+00:00",
-      "age_seconds": 4940
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Самый странный игрок в истории Майнкрафта",
-      "url": "https://www.youtube.com/shorts/nHsM2ZQuFBI",
-      "published_at_utc": "2026-11-14T17:30:13+00:00",
-      "age_seconds": 7113
+      "age_seconds": 5060
     }
   ]
 }
