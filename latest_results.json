@@ -1,34 +1,34 @@
 {
-  "generated_at_utc": "2026-11-14T12:09:33.867923+00:00",
+  "generated_at_utc": "2026-11-14T12:11:30.834523+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ZLOY LIVE!",
+      "title": "СКОЛЬКО ДЕНЕГ МОЖНО ПОТРАТИТЬ В ГРУЗИИ?",
+      "url": "https://www.youtube.com/watch?v=bf4Bk0Rto_g",
+      "published_at_utc": "2026-11-14T12:00:11+00:00",
+      "age_seconds": 659
+    },
     {
       "channel": "sun_kill",
       "title": "мы не подружимся, если…",
       "url": "https://www.youtube.com/shorts/l2XNBLDwS4Q",
       "published_at_utc": "2026-11-14T11:15:55+00:00",
-      "age_seconds": 3156
+      "age_seconds": 3277
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скандал с Фрамбини",
       "url": "https://www.youtube.com/shorts/SKz9JKYSNRQ",
       "published_at_utc": "2026-11-14T10:54:14+00:00",
-      "age_seconds": 4472
+      "age_seconds": 4591
     },
     {
       "channel": "nowkie",
       "title": "Я создал свой собственный МУЛЬТФИЛЬМ (реально)",
       "url": "https://www.youtube.com/watch?v=uw5XstQDLbQ",
       "published_at_utc": "2026-11-14T10:34:29+00:00",
-      "age_seconds": 5655
-    },
-    {
-      "channel": "soskamakaka",
-      "title": "О БОЖЕ...",
-      "url": "https://www.youtube.com/shorts/Ljx9jGHkBbQ",
-      "published_at_utc": "2026-11-14T10:10:22+00:00",
-      "age_seconds": 7144
+      "age_seconds": 5774
     }
   ]
 }
