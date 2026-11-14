@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-11-14T17:15:34.623080+00:00",
+  "generated_at_utc": "2026-11-14T17:17:33.999579+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Мир остановится в день выхода GTA 6?",
+      "url": "https://www.youtube.com/shorts/ZOj9xB-WFts",
+      "published_at_utc": "2026-11-14T17:10:01+00:00",
+      "age_seconds": 404
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это считается ИИ слопом?",
       "url": "https://www.youtube.com/shorts/ZF3SaPIIUtQ",
       "published_at_utc": "2026-11-14T16:30:48+00:00",
-      "age_seconds": 2639
-    },
-    {
-      "channel": "Майни",
-      "title": "ПВЗ и твари которые там обитают... ► ZAKATOON ( Закатун Анимация ) | Реакция",
-      "url": "https://www.youtube.com/watch?v=B73DtUB5ODk",
-      "published_at_utc": "2026-11-14T15:15:06+00:00",
-      "age_seconds": 7164
+      "age_seconds": 2758
     }
   ]
 }
