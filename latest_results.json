@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-11-14T08:11:26.918144+00:00",
+  "generated_at_utc": "2026-11-14T08:13:27.522587+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "MrLololoshka (Роман Фильченков)",
-      "title": "09.03.2016 Первый домашний Френ",
-      "url": "https://www.youtube.com/shorts/_pYu9R8k1_I",
-      "published_at_utc": "2026-11-14T08:00:38+00:00",
-      "age_seconds": 634
-    },
     {
       "channel": "Тимур Сидельников",
       "title": "Я нашел где готовят Чикагскую Пиццу!",
       "url": "https://www.youtube.com/shorts/SIrlRkDMgXY",
       "published_at_utc": "2026-11-14T07:44:38+00:00",
-      "age_seconds": 1583
+      "age_seconds": 1702
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Погоня без шансов",
       "url": "https://www.youtube.com/shorts/hkrwOLc3DOo",
       "published_at_utc": "2026-11-14T07:00:34+00:00",
-      "age_seconds": 4210
+      "age_seconds": 4330
     }
   ]
 }
