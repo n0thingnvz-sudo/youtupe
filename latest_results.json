@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T18:05:38.836217+00:00",
+  "generated_at_utc": "2026-11-14T18:07:32.460306+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Самый странный игрок в истории Майнкрафта",
       "url": "https://www.youtube.com/shorts/nHsM2ZQuFBI",
       "published_at_utc": "2026-11-14T17:30:13+00:00",
-      "age_seconds": 2076
+      "age_seconds": 2194
     },
     {
       "channel": "Новостной Гусь",
       "title": "Мир остановится в день выхода GTA 6?",
       "url": "https://www.youtube.com/shorts/ZOj9xB-WFts",
       "published_at_utc": "2026-11-14T17:10:01+00:00",
-      "age_seconds": 3286
+      "age_seconds": 3404
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это считается ИИ слопом?",
       "url": "https://www.youtube.com/shorts/ZF3SaPIIUtQ",
       "published_at_utc": "2026-11-14T16:30:48+00:00",
-      "age_seconds": 5641
+      "age_seconds": 5759
     }
   ]
 }
