@@ -1,13 +1,27 @@
 {
-  "generated_at_utc": "2026-11-13T22:49:24.912416+00:00",
+  "generated_at_utc": "2026-11-14T08:01:43.304329+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Никита Нестеров",
-      "title": "И никаких подвохов 😅",
-      "url": "https://www.youtube.com/shorts/nvspi9R6_EY",
-      "published_at_utc": "2026-11-13T20:50:54+00:00",
-      "age_seconds": 7088
+      "channel": "Тимур Сидельников",
+      "title": "Я нашел где готовят Чикагскую Пиццу!",
+      "url": "https://www.youtube.com/shorts/SIrlRkDMgXY",
+      "published_at_utc": "2026-11-14T07:44:38+00:00",
+      "age_seconds": 996
+    },
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Погоня без шансов",
+      "url": "https://www.youtube.com/shorts/hkrwOLc3DOo",
+      "published_at_utc": "2026-11-14T07:00:34+00:00",
+      "age_seconds": 3619
+    },
+    {
+      "channel": "Короче, новости",
+      "title": "17.11 Началось? В США Перестали Летать Самолёты из-за Сбоя @denmarnews",
+      "url": "https://www.youtube.com/shorts/5o00dv85h-Y",
+      "published_at_utc": "2026-11-14T06:03:36+00:00",
+      "age_seconds": 7034
     }
   ]
 }
