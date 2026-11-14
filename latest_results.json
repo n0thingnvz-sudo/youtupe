@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T10:53:30.772186+00:00",
+  "generated_at_utc": "2026-11-14T10:55:30.025748+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,42 +7,42 @@
       "title": "Я создал свой собственный МУЛЬТФИЛЬМ (реально)",
       "url": "https://www.youtube.com/watch?v=uw5XstQDLbQ",
       "published_at_utc": "2026-11-14T10:34:29+00:00",
-      "age_seconds": 1095
+      "age_seconds": 1214
     },
     {
       "channel": "soskamakaka",
       "title": "О БОЖЕ...",
       "url": "https://www.youtube.com/shorts/Ljx9jGHkBbQ",
       "published_at_utc": "2026-11-14T10:10:22+00:00",
-      "age_seconds": 2581
+      "age_seconds": 2700
     },
     {
       "channel": "sereGGa",
       "title": "СТРАЖИ - НОВЫЕ РЕКРУТЫ? | НАЙС ИГРАЕШЬ #139",
       "url": "https://www.youtube.com/watch?v=eQG_67guFKo",
       "published_at_utc": "2026-11-14T10:00:32+00:00",
-      "age_seconds": 3167
+      "age_seconds": 3286
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Бадди",
       "url": "https://www.youtube.com/watch?v=uGVSoPv9aBQ",
       "published_at_utc": "2026-11-14T10:00:11+00:00",
-      "age_seconds": 3149
+      "age_seconds": 3269
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Работа мечты",
       "url": "https://www.youtube.com/shorts/x6_7t74ErRY",
       "published_at_utc": "2026-11-14T09:00:28+00:00",
-      "age_seconds": 6737
+      "age_seconds": 6857
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как бесплатная еда чуть не разорила целый район",
       "url": "https://www.youtube.com/shorts/PKffvQUfHVU",
       "published_at_utc": "2026-11-14T08:55:21+00:00",
-      "age_seconds": 7044
+      "age_seconds": 7163
     }
   ]
 }
