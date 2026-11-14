@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T12:13:31.622970+00:00",
+  "generated_at_utc": "2026-11-14T12:15:33.735343+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "мы не подружимся, если…",
       "url": "https://www.youtube.com/shorts/l2XNBLDwS4Q",
       "published_at_utc": "2026-11-14T11:15:55+00:00",
-      "age_seconds": 3397
+      "age_seconds": 3517
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скандал с Фрамбини",
       "url": "https://www.youtube.com/shorts/SKz9JKYSNRQ",
       "published_at_utc": "2026-11-14T10:54:14+00:00",
-      "age_seconds": 4712
+      "age_seconds": 4834
     },
     {
       "channel": "nowkie",
       "title": "Я создал свой собственный МУЛЬТФИЛЬМ (реально)",
       "url": "https://www.youtube.com/watch?v=uw5XstQDLbQ",
       "published_at_utc": "2026-11-14T10:34:29+00:00",
-      "age_seconds": 5894
+      "age_seconds": 6017
     }
   ]
 }
