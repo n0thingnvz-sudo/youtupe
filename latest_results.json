@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-14T11:27:33.119866+00:00",
+  "generated_at_utc": "2026-11-14T11:29:36.458940+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sun_kill",
+      "title": "мы не подружимся, если…",
+      "url": "https://www.youtube.com/shorts/l2XNBLDwS4Q",
+      "published_at_utc": "2026-11-14T11:15:55+00:00",
+      "age_seconds": 757
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скандал с Фрамбини",
       "url": "https://www.youtube.com/shorts/SKz9JKYSNRQ",
       "published_at_utc": "2026-11-14T10:54:14+00:00",
-      "age_seconds": 1951
+      "age_seconds": 2073
     },
     {
       "channel": "nowkie",
       "title": "Я создал свой собственный МУЛЬТФИЛЬМ (реально)",
       "url": "https://www.youtube.com/watch?v=uw5XstQDLbQ",
       "published_at_utc": "2026-11-14T10:34:29+00:00",
-      "age_seconds": 3134
+      "age_seconds": 3256
     },
     {
       "channel": "soskamakaka",
       "title": "О БОЖЕ...",
       "url": "https://www.youtube.com/shorts/Ljx9jGHkBbQ",
       "published_at_utc": "2026-11-14T10:10:22+00:00",
-      "age_seconds": 4622
+      "age_seconds": 4746
     },
     {
       "channel": "sereGGa",
       "title": "СТРАЖИ - НОВЫЕ РЕКРУТЫ? | НАЙС ИГРАЕШЬ #139",
       "url": "https://www.youtube.com/watch?v=eQG_67guFKo",
       "published_at_utc": "2026-11-14T10:00:32+00:00",
-      "age_seconds": 5208
+      "age_seconds": 5331
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Бадди",
       "url": "https://www.youtube.com/watch?v=uGVSoPv9aBQ",
       "published_at_utc": "2026-11-14T10:00:11+00:00",
-      "age_seconds": 5189
+      "age_seconds": 5311
     }
   ]
 }
