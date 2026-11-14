@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-14T12:17:33.528486+00:00",
+  "generated_at_utc": "2026-11-14T12:19:31.920714+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "sun_kill",
+      "title": "С каждым днем все чудесатее и чудесатее",
+      "url": "https://www.youtube.com/shorts/tNAd4IjAIZ4",
+      "published_at_utc": "2026-11-14T12:07:15+00:00",
+      "age_seconds": 677
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Глобальное унижение",
       "url": "https://www.youtube.com/shorts/eNx2BgZ5jj8",
       "published_at_utc": "2026-11-14T11:59:13+00:00",
-      "age_seconds": 1053
+      "age_seconds": 1173
     },
     {
       "channel": "sun_kill",
       "title": "мы не подружимся, если…",
       "url": "https://www.youtube.com/shorts/l2XNBLDwS4Q",
       "published_at_utc": "2026-11-14T11:15:55+00:00",
-      "age_seconds": 3637
+      "age_seconds": 3757
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скандал с Фрамбини",
       "url": "https://www.youtube.com/shorts/SKz9JKYSNRQ",
       "published_at_utc": "2026-11-14T10:54:14+00:00",
-      "age_seconds": 4952
+      "age_seconds": 5072
     },
     {
       "channel": "nowkie",
       "title": "Я создал свой собственный МУЛЬТФИЛЬМ (реально)",
       "url": "https://www.youtube.com/watch?v=uw5XstQDLbQ",
       "published_at_utc": "2026-11-14T10:34:29+00:00",
-      "age_seconds": 6134
+      "age_seconds": 6254
     }
   ]
 }
