@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-11-14T20:17:33.183432+00:00",
+  "generated_at_utc": "2026-11-14T20:19:32.188343+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Никита Нестеров",
-      "title": "Знает ответ на любой вопрос",
-      "url": "https://www.youtube.com/shorts/-Kn-4A5LmBE",
-      "published_at_utc": "2026-11-14T20:05:34+00:00",
-      "age_seconds": 692
-    },
     {
       "channel": "Сергей Милушкин",
       "title": "Продали 100 млн PS5 подешевеет в ближайшие 100 лет",
       "url": "https://www.youtube.com/shorts/gxW0n5Wb3Yw",
       "published_at_utc": "2026-11-14T18:49:45+00:00",
-      "age_seconds": 5223
+      "age_seconds": 5342
     },
     {
       "channel": "Тру Шорты",
       "title": "Этих рыбок покрасили. И запатентовали",
       "url": "https://www.youtube.com/shorts/B5Qu26f5qK4",
       "published_at_utc": "2026-11-14T18:21:41+00:00",
-      "age_seconds": 6887
+      "age_seconds": 7007
     }
   ]
 }
