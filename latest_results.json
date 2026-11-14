@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-14T12:45:30.340039+00:00",
+  "generated_at_utc": "2026-11-14T12:47:33.924731+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Птица додо не была глупой — её погубило другое 🤫",
+      "url": "https://www.youtube.com/shorts/K2GWbhr1Ako",
+      "published_at_utc": "2026-11-14T12:37:23+00:00",
+      "age_seconds": 579
+    },
     {
       "channel": "ВПИСКА",
       "title": "Жена оплатила приват в стрипе для Булкина? #шортс #тренды",
       "url": "https://www.youtube.com/shorts/l3cxWyacWMQ",
       "published_at_utc": "2026-11-14T12:12:07+00:00",
-      "age_seconds": 1982
+      "age_seconds": 2104
     },
     {
       "channel": "sun_kill",
       "title": "С каждым днем все чудесатее и чудесатее",
       "url": "https://www.youtube.com/shorts/tNAd4IjAIZ4",
       "published_at_utc": "2026-11-14T12:07:15+00:00",
-      "age_seconds": 2236
+      "age_seconds": 2356
     },
     {
       "channel": "ZLOY LIVE!",
       "title": "СКОЛЬКО ДЕНЕГ МОЖНО ПОТРАТИТЬ В ГРУЗИИ?",
       "url": "https://www.youtube.com/watch?v=bf4Bk0Rto_g",
       "published_at_utc": "2026-11-14T12:00:11+00:00",
-      "age_seconds": 2698
+      "age_seconds": 2821
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Глобальное унижение",
       "url": "https://www.youtube.com/shorts/eNx2BgZ5jj8",
       "published_at_utc": "2026-11-14T11:59:13+00:00",
-      "age_seconds": 2732
+      "age_seconds": 2853
     },
     {
       "channel": "sun_kill",
       "title": "мы не подружимся, если…",
       "url": "https://www.youtube.com/shorts/l2XNBLDwS4Q",
       "published_at_utc": "2026-11-14T11:15:55+00:00",
-      "age_seconds": 5316
+      "age_seconds": 5436
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Скандал с Фрамбини",
       "url": "https://www.youtube.com/shorts/SKz9JKYSNRQ",
       "published_at_utc": "2026-11-14T10:54:14+00:00",
-      "age_seconds": 6631
+      "age_seconds": 6752
     }
   ]
 }
