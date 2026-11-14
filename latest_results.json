@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-14T18:27:31.782540+00:00",
+  "generated_at_utc": "2026-11-14T18:29:34.743118+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тру Шорты",
+      "title": "Эту рыбку придумали. И запатентовали",
+      "url": "https://www.youtube.com/shorts/B5Qu26f5qK4",
+      "published_at_utc": "2026-11-14T18:21:41+00:00",
+      "age_seconds": 407
+    },
     {
       "channel": "Ремонтяш",
       "title": "ОТКРЫВАЮ КОМП КЛУБ",
       "url": "https://www.youtube.com/watch?v=P4VO5aq15C0",
       "published_at_utc": "2026-11-14T18:06:34+00:00",
-      "age_seconds": 1218
+      "age_seconds": 1341
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Самый странный игрок в истории Майнкрафта",
       "url": "https://www.youtube.com/shorts/nHsM2ZQuFBI",
       "published_at_utc": "2026-11-14T17:30:13+00:00",
-      "age_seconds": 3393
+      "age_seconds": 3516
     },
     {
       "channel": "Новостной Гусь",
       "title": "Мир остановится в день выхода GTA 6?",
       "url": "https://www.youtube.com/shorts/ZOj9xB-WFts",
       "published_at_utc": "2026-11-14T17:10:01+00:00",
-      "age_seconds": 4604
+      "age_seconds": 4727
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это считается ИИ слопом?",
       "url": "https://www.youtube.com/shorts/ZF3SaPIIUtQ",
       "published_at_utc": "2026-11-14T16:30:48+00:00",
-      "age_seconds": 6958
+      "age_seconds": 7081
     }
   ]
 }
