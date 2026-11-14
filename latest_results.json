@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T10:05:30.243154+00:00",
+  "generated_at_utc": "2026-11-14T10:07:32.948664+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Ужасы Бадди",
       "url": "https://www.youtube.com/watch?v=uGVSoPv9aBQ",
       "published_at_utc": "2026-11-14T10:00:11+00:00",
-      "age_seconds": 269
+      "age_seconds": 389
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Работа мечты",
       "url": "https://www.youtube.com/shorts/x6_7t74ErRY",
       "published_at_utc": "2026-11-14T09:00:28+00:00",
-      "age_seconds": 3857
+      "age_seconds": 3979
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как бесплатная еда чуть не разорила целый район",
       "url": "https://www.youtube.com/shorts/PKffvQUfHVU",
       "published_at_utc": "2026-11-14T08:55:21+00:00",
-      "age_seconds": 4163
+      "age_seconds": 4285
     },
     {
       "channel": "i11ushenka",
       "title": "Мастера маникюра vs Нейросети 💅",
       "url": "https://www.youtube.com/shorts/tg-fvn2srBw",
       "published_at_utc": "2026-11-14T08:15:13+00:00",
-      "age_seconds": 6558
+      "age_seconds": 6678
     }
   ]
 }
