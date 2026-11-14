@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T11:03:34.223420+00:00",
+  "generated_at_utc": "2026-11-14T11:05:31.731694+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Я создал свой собственный МУЛЬТФИЛЬМ (реально)",
       "url": "https://www.youtube.com/watch?v=uw5XstQDLbQ",
       "published_at_utc": "2026-11-14T10:34:29+00:00",
-      "age_seconds": 1695
+      "age_seconds": 1814
     },
     {
       "channel": "soskamakaka",
       "title": "О БОЖЕ...",
       "url": "https://www.youtube.com/shorts/Ljx9jGHkBbQ",
       "published_at_utc": "2026-11-14T10:10:22+00:00",
-      "age_seconds": 3182
+      "age_seconds": 3302
     },
     {
       "channel": "sereGGa",
       "title": "СТРАЖИ - НОВЫЕ РЕКРУТЫ? | НАЙС ИГРАЕШЬ #139",
       "url": "https://www.youtube.com/watch?v=eQG_67guFKo",
       "published_at_utc": "2026-11-14T10:00:32+00:00",
-      "age_seconds": 3768
+      "age_seconds": 3888
     },
     {
       "channel": "Звездный Капитан",
       "title": "Ужасы Бадди",
       "url": "https://www.youtube.com/watch?v=uGVSoPv9aBQ",
       "published_at_utc": "2026-11-14T10:00:11+00:00",
-      "age_seconds": 3749
+      "age_seconds": 3869
     }
   ]
 }
