@@ -1,13 +1,27 @@
 {
-  "generated_at_utc": "2026-11-14T21:07:31.275218+00:00",
+  "generated_at_utc": "2026-11-15T08:01:34.862617+00:00",
   "hours_window": 2,
   "items": [
     {
-      "channel": "Никита Нестеров",
-      "title": "Знает ответ на любой вопрос",
-      "url": "https://www.youtube.com/shorts/-Kn-4A5LmBE",
-      "published_at_utc": "2026-11-14T20:05:34+00:00",
-      "age_seconds": 3692
+      "channel": "Саша Фасоваша",
+      "title": "я спасаю завод от увольнения",
+      "url": "https://www.youtube.com/shorts/uH7HHAMiO_o",
+      "published_at_utc": "2026-11-15T08:00:36+00:00",
+      "age_seconds": 21
+    },
+    {
+      "channel": "ВПИСКА",
+      "title": "Булкин о стриме с Бустером. Кринж? #шортс #тренды",
+      "url": "https://www.youtube.com/shorts/_sgiJfuNeeY",
+      "published_at_utc": "2026-11-15T08:00:14+00:00",
+      "age_seconds": 58
+    },
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "10 недооценённых пород собак, которые в быту лучше популярных",
+      "url": "https://www.youtube.com/watch?v=L8nZ3Rkjg6g",
+      "published_at_utc": "2026-11-15T07:56:05+00:00",
+      "age_seconds": 299
     }
   ]
 }
