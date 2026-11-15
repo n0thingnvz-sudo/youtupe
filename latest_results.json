@@ -1,48 +1,62 @@
 {
-  "generated_at_utc": "2026-11-15T08:43:27.792311+00:00",
+  "generated_at_utc": "2026-11-15T08:45:27.748302+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Кассир из посёлка, которая думает, что она всем, как родная. Часть 3",
+      "url": "https://www.youtube.com/shorts/F6KfXsOdD8A",
+      "published_at_utc": "2026-11-15T08:41:05+00:00",
+      "age_seconds": 232
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Достойное решение проблемы",
+      "url": "https://www.youtube.com/shorts/Uwg9AbbtxTY",
+      "published_at_utc": "2026-11-15T08:32:59+00:00",
+      "age_seconds": 705
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Корейская полиция запомнит его надолго",
       "url": "https://www.youtube.com/shorts/vZuzyau8lpU",
       "published_at_utc": "2026-11-15T08:25:29+00:00",
-      "age_seconds": 1034
+      "age_seconds": 1154
     },
     {
       "channel": "VASYAN1000",
       "title": "Не трожь хрусталь! Это для Канье Уэста! #shorts #quest #прикол #юмор",
       "url": "https://www.youtube.com/shorts/BQMi8NG-J2Y",
       "published_at_utc": "2026-11-15T08:22:42+00:00",
-      "age_seconds": 1211
+      "age_seconds": 1331
     },
     {
       "channel": "Саша Фасоваша",
       "title": "я спасаю завод от увольнения",
       "url": "https://www.youtube.com/shorts/uH7HHAMiO_o",
       "published_at_utc": "2026-11-15T08:00:36+00:00",
-      "age_seconds": 2537
+      "age_seconds": 2657
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин о стриме с Бустером. Кринж? #шортс #тренды",
       "url": "https://www.youtube.com/shorts/_sgiJfuNeeY",
       "published_at_utc": "2026-11-15T08:00:14+00:00",
-      "age_seconds": 2575
+      "age_seconds": 2694
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Создали СУПЕР ЗАМОК • [Битва 1 на 1] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=ePy0U9xKhGE",
       "published_at_utc": "2026-11-15T08:00:10+00:00",
-      "age_seconds": 2583
+      "age_seconds": 2702
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "10 недооценённых пород собак, которые в быту лучше популярных",
       "url": "https://www.youtube.com/watch?v=L8nZ3Rkjg6g",
       "published_at_utc": "2026-11-15T07:56:05+00:00",
-      "age_seconds": 2814
+      "age_seconds": 2934
     }
   ]
 }
