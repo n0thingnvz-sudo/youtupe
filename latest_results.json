@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-15T13:31:37.480730+00:00",
+  "generated_at_utc": "2026-11-15T13:33:35.357040+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "SlivkiShow",
+      "title": "ПРОЩАЙ ДРУГ...",
+      "url": "https://www.youtube.com/watch?v=0MiNEpIsp_8",
+      "published_at_utc": "2026-11-15T13:24:59+00:00",
+      "age_seconds": 462
+    },
     {
       "channel": "Натурал Альбертович",
       "title": "Новые СМЕШНЫЕ ВИДЕО / СБОРНИК ПРИКОЛОВ / БольшаЯ Коллекция Смешных видео 🤣",
       "url": "https://www.youtube.com/watch?v=dZB_MLDrcIg",
       "published_at_utc": "2026-11-15T13:00:12+00:00",
-      "age_seconds": 1852
+      "age_seconds": 1971
     },
     {
       "channel": "leafxup",
       "title": "ШКОЛА ШКОЛА ТУПАЯ Х...",
       "url": "https://www.youtube.com/watch?v=AIO7hhcPxd0",
       "published_at_utc": "2026-11-15T12:58:51+00:00",
-      "age_seconds": 1949
+      "age_seconds": 2066
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Возможно ли первым прокомментировать ролик Мистера Биста?",
       "url": "https://www.youtube.com/shorts/Dv4_HOyXHYA",
       "published_at_utc": "2026-11-15T12:37:56+00:00",
-      "age_seconds": 3172
+      "age_seconds": 3292
     },
     {
       "channel": "IG project",
       "title": "😱 КВИН - КТО ОН ТАКОЙ? НОВЫЙ ХАЙПОВЫЙ ФЕМБОЙ ❤️ #farfetched #shorts",
       "url": "https://www.youtube.com/shorts/_6-5KW6LWdk",
       "published_at_utc": "2026-11-15T12:24:10+00:00",
-      "age_seconds": 4007
+      "age_seconds": 4127
     },
     {
       "channel": "i11ushenka",
       "title": "Самый дорогой спидран в истории человечества",
       "url": "https://www.youtube.com/shorts/IbwMhK5XXao",
       "published_at_utc": "2026-11-15T12:10:06+00:00",
-      "age_seconds": 4825
+      "age_seconds": 4945
     },
     {
       "channel": "Новостной Гусь",
       "title": "Приехал в аэропорт и остался без кроссовок",
       "url": "https://www.youtube.com/shorts/W7BnO6ClXz8",
       "published_at_utc": "2026-11-15T11:45:30+00:00",
-      "age_seconds": 6316
+      "age_seconds": 6437
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Работает как швейцарские часы",
       "url": "https://www.youtube.com/shorts/kzv8kkoAOUE",
       "published_at_utc": "2026-11-15T11:36:21+00:00",
-      "age_seconds": 6867
+      "age_seconds": 6987
     }
   ]
 }
