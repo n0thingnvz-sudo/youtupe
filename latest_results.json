@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-11-15T20:09:32.017653+00:00",
+  "generated_at_utc": "2026-11-15T20:11:30.290644+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Хаку",
+      "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 2)",
+      "url": "https://www.youtube.com/watch?v=62CE3j_BAgA",
+      "published_at_utc": "2026-11-15T19:57:49+00:00",
+      "age_seconds": 813
+    },
     {
       "channel": "Короче, новости",
       "title": "Король Ужасов: В США Прилетело НЛО @denmarnews",
       "url": "https://www.youtube.com/shorts/M2Nm4PV0_Cw",
       "published_at_utc": "2026-11-15T18:20:59+00:00",
-      "age_seconds": 6465
-    },
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "Ты — рыба-капля, и твоя гибель стала мемом 😨",
-      "url": "https://www.youtube.com/shorts/Xo2auymgLd4",
-      "published_at_utc": "2026-11-15T18:09:52+00:00",
-      "age_seconds": 7151
+      "age_seconds": 6583
     }
   ]
 }
