@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-11-15T16:17:31.780973+00:00",
+  "generated_at_utc": "2026-11-15T16:19:32.399015+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Майни",
-      "title": "13 Карт — Свидание Ромео ► 2 сезон 3 серия | Реакция",
-      "url": "https://www.youtube.com/watch?v=n6OWMJusNVw",
-      "published_at_utc": "2026-11-15T16:00:30+00:00",
-      "age_seconds": 960
-    },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Самый быстрый мир #boardgames #настольныеигры #games #игры #настолки",
       "url": "https://www.youtube.com/shorts/DlyJLYBzXS0",
       "published_at_utc": "2026-11-15T15:49:05+00:00",
-      "age_seconds": 1679
+      "age_seconds": 1798
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Это точно удобнее?",
       "url": "https://www.youtube.com/shorts/2SJd2wMeLv0",
       "published_at_utc": "2026-11-15T15:18:58+00:00",
-      "age_seconds": 3469
+      "age_seconds": 3589
     },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 2)",
       "url": "https://www.youtube.com/watch?v=62CE3j_BAgA",
       "published_at_utc": "2026-11-15T14:55:12+00:00",
-      "age_seconds": 4932
+      "age_seconds": 5052
     },
     {
       "channel": "Майни",
       "title": "ВЕРИТИ™ ЭТО НОВЫЙ FNAF™/ МозгоВзрыв №67 ► N-time ( Н Тайм ) | Реакция",
       "url": "https://www.youtube.com/watch?v=cs_eBWBD9B8",
       "published_at_utc": "2026-11-15T14:45:34+00:00",
-      "age_seconds": 5456
+      "age_seconds": 5576
     }
   ]
 }
