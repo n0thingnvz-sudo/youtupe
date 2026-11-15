@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-15T17:55:34.826418+00:00",
+  "generated_at_utc": "2026-11-15T17:57:32.834738+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Короче, новости",
+      "title": "Виноват Роналду: 11 Криштиану Проиграли с Позором @denmarnews",
+      "url": "https://www.youtube.com/shorts/yv3wwXo6ghM",
+      "published_at_utc": "2026-11-15T17:44:31+00:00",
+      "age_seconds": 732
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Ситуация с медицинской помощью в Афганистане",
       "url": "https://www.youtube.com/shorts/dxXOFI0xKJw",
       "published_at_utc": "2026-11-15T17:11:30+00:00",
-      "age_seconds": 2594
+      "age_seconds": 2715
     },
     {
       "channel": "Сергей Милушкин",
-      "title": "Унаследовал нефтяную скважину и понеслась",
+      "title": "Теперь ты нефтяной магнат сынок",
       "url": "https://www.youtube.com/shorts/1h2mOyuEBiU",
       "published_at_utc": "2026-11-15T16:58:53+00:00",
-      "age_seconds": 3353
+      "age_seconds": 3475
     },
     {
       "channel": "LenS",
       "title": "ВСТРЕТИЛ САМУЮ СИЛЬНУЮ КОМАНДУ ТУРНИРА за 3.000.000 РУБЛЕЙ",
       "url": "https://www.youtube.com/watch?v=jrz8tjCdkto",
       "published_at_utc": "2026-11-15T16:43:39+00:00",
-      "age_seconds": 4306
+      "age_seconds": 4424
     },
     {
       "channel": "Майни",
       "title": "13 Карт — Свидание Ромео ► 2 сезон 3 серия | Реакция",
       "url": "https://www.youtube.com/watch?v=n6OWMJusNVw",
       "published_at_utc": "2026-11-15T16:00:30+00:00",
-      "age_seconds": 6840
+      "age_seconds": 6960
     }
   ]
 }
