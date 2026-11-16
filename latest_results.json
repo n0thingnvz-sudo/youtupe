@@ -1,48 +1,48 @@
 {
-  "generated_at_utc": "2026-11-16T11:41:30.611769+00:00",
+  "generated_at_utc": "2026-11-16T11:43:30.391092+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Это крабовая лапша за 300р.",
+      "url": "https://www.youtube.com/shorts/VwoY5Jw3s4g",
+      "published_at_utc": "2026-11-16T11:26:13+00:00",
+      "age_seconds": 1009
+    },
     {
       "channel": "Короче, новости",
       "title": "США Обеднеет на МИЛЛИАРД из-за GTA VI @denmarnews",
       "url": "https://www.youtube.com/shorts/9a2k4lr1sYs",
       "published_at_utc": "2026-11-16T11:19:24+00:00",
-      "age_seconds": 1277
+      "age_seconds": 1398
     },
     {
       "channel": "i11ushenka",
       "title": "Цена понтов: история Павла Няшина",
       "url": "https://www.youtube.com/shorts/Q2yzieDKI4E",
       "published_at_utc": "2026-11-16T10:28:49+00:00",
-      "age_seconds": 4302
+      "age_seconds": 4422
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как выманить кота из укрытия 😹 @Yukithecutecat",
       "url": "https://www.youtube.com/shorts/mkKXzz_CcC8",
       "published_at_utc": "2026-11-16T10:04:02+00:00",
-      "age_seconds": 5819
+      "age_seconds": 5939
     },
     {
       "channel": "sun_kill",
       "title": "музыка из Декстера идеально вписалась ахахаха #блогерство",
       "url": "https://www.youtube.com/shorts/HbCRsQd2oLM",
       "published_at_utc": "2026-11-16T10:00:30+00:00",
-      "age_seconds": 6001
+      "age_seconds": 6121
     },
     {
       "channel": "Тру Шорты",
       "title": "Энтомологи, вы серьёзно?",
       "url": "https://www.youtube.com/shorts/NaH-lpwpGqQ",
       "published_at_utc": "2026-11-16T09:52:30+00:00",
-      "age_seconds": 6478
-    },
-    {
-      "channel": "курОлеся",
-      "title": "Мы это сделали @bushhiik 👏",
-      "url": "https://www.youtube.com/shorts/MSQVlfwkfkY",
-      "published_at_utc": "2026-11-16T09:42:13+00:00",
-      "age_seconds": 7110
+      "age_seconds": 6598
     }
   ]
 }
