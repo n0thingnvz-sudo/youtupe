@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-16T10:35:28.098381+00:00",
+  "generated_at_utc": "2026-11-16T10:37:25.752034+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Цена понтов: история Павла Няшина",
+      "url": "https://www.youtube.com/shorts/Q2yzieDKI4E",
+      "published_at_utc": "2026-11-16T10:28:49+00:00",
+      "age_seconds": 462
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как выманить кота из укрытия 😹 @Yukithecutecat",
       "url": "https://www.youtube.com/shorts/mkKXzz_CcC8",
       "published_at_utc": "2026-11-16T10:04:02+00:00",
-      "age_seconds": 1858
+      "age_seconds": 1977
     },
     {
       "channel": "sun_kill",
       "title": "музыка из Декстера идеально вписалась ахахаха #блогерство",
       "url": "https://www.youtube.com/shorts/HbCRsQd2oLM",
       "published_at_utc": "2026-11-16T10:00:30+00:00",
-      "age_seconds": 2041
+      "age_seconds": 2161
     },
     {
       "channel": "Тру Шорты",
       "title": "Энтомологи, вы серьёзно?",
       "url": "https://www.youtube.com/shorts/NaH-lpwpGqQ",
       "published_at_utc": "2026-11-16T09:52:30+00:00",
-      "age_seconds": 2518
+      "age_seconds": 2638
     },
     {
       "channel": "курОлеся",
       "title": "Мы это сделали @bushhiik 👏",
       "url": "https://www.youtube.com/shorts/MSQVlfwkfkY",
       "published_at_utc": "2026-11-16T09:42:13+00:00",
-      "age_seconds": 3150
+      "age_seconds": 3269
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Не удаляйте пожалуйста",
       "url": "https://www.youtube.com/shorts/TKSi-exlLWo",
       "published_at_utc": "2026-11-16T09:31:47+00:00",
-      "age_seconds": 3778
+      "age_seconds": 3897
     },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "👿 Майнкрафт, но Мы Нашли ЗАЧАРОВАНИЕ ФИКСПЛЕЯ #15 • [Новая Механика] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=Pwjmivhmiyg",
       "published_at_utc": "2026-11-16T08:38:21+00:00",
-      "age_seconds": 7012
+      "age_seconds": 7131
     }
   ]
 }
