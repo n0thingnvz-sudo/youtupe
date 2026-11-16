@@ -1,69 +1,69 @@
 {
-  "generated_at_utc": "2026-11-16T13:19:32.319684+00:00",
+  "generated_at_utc": "2026-11-16T13:21:33.762641+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Не врите в резюме",
+      "url": "https://www.youtube.com/shorts/60IPj_F8iYc",
+      "published_at_utc": "2026-11-16T13:05:21+00:00",
+      "age_seconds": 926
+    },
     {
       "channel": "Майни",
       "title": "Привыкай к 30 FPS в GTA 6 ► DeadP47 ( Дед47 ) | Реакция",
       "url": "https://www.youtube.com/watch?v=9ZeV3h4m7Z4",
       "published_at_utc": "2026-11-16T13:00:34+00:00",
-      "age_seconds": 1076
+      "age_seconds": 1196
     },
     {
       "channel": "Самый сахар",
       "title": "Попробовали все САМЫЕ Дешёвые Роллы из всех доставок",
       "url": "https://www.youtube.com/watch?v=3s_OqjpIBRw",
       "published_at_utc": "2026-11-16T13:00:28+00:00",
-      "age_seconds": 1086
+      "age_seconds": 1205
     },
     {
       "channel": "Новостной Гусь",
       "title": "Против такого взгляда никто бы не устоял",
       "url": "https://www.youtube.com/shorts/cRj9tC7yJpo",
       "published_at_utc": "2026-11-16T12:45:33+00:00",
-      "age_seconds": 1992
+      "age_seconds": 2113
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин о потери дедушки. Скрывал от всех? #шортс #интервью",
       "url": "https://www.youtube.com/shorts/9CxA7j2Ajhc",
       "published_at_utc": "2026-11-16T12:30:34+00:00",
-      "age_seconds": 2917
+      "age_seconds": 3039
     },
     {
       "channel": "sun_kill",
       "title": "знаю я одну такую ахахаха",
       "url": "https://www.youtube.com/shorts/gZzcjSz7Z6g",
       "published_at_utc": "2026-11-16T12:17:16+00:00",
-      "age_seconds": 3676
+      "age_seconds": 3796
     },
     {
       "channel": "МЯЧ Production",
       "title": "Батраков переоценен?! 🤔",
       "url": "https://www.youtube.com/shorts/Y9BDBlQk2t4",
       "published_at_utc": "2026-11-16T12:11:00+00:00",
-      "age_seconds": 4073
+      "age_seconds": 4195
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Нам врали: бегемоты не умеют плавать 🦛",
       "url": "https://www.youtube.com/shorts/OrVUbWiUOLU",
       "published_at_utc": "2026-11-16T11:43:00+00:00",
-      "age_seconds": 5762
+      "age_seconds": 5884
     },
     {
       "channel": "Тимур Сидельников",
       "title": "С каким вкусом эта лапша за 300р?",
       "url": "https://www.youtube.com/shorts/VwoY5Jw3s4g",
       "published_at_utc": "2026-11-16T11:26:13+00:00",
-      "age_seconds": 6771
-    },
-    {
-      "channel": "Короче, новости",
-      "title": "США Обеднеет на МИЛЛИАРД из-за GTA VI @denmarnews",
-      "url": "https://www.youtube.com/shorts/9a2k4lr1sYs",
-      "published_at_utc": "2026-11-16T11:19:24+00:00",
-      "age_seconds": 7159
+      "age_seconds": 6893
     }
   ]
 }
