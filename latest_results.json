@@ -1,55 +1,62 @@
 {
-  "generated_at_utc": "2026-11-16T16:19:32.140405+00:00",
+  "generated_at_utc": "2026-11-16T16:21:34.505098+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "Железобетонный аргумент",
+      "url": "https://www.youtube.com/shorts/hYQZYfkIfk0",
+      "published_at_utc": "2026-11-16T16:00:06+00:00",
+      "age_seconds": 1242
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Лайк за 82 тысячи долларов",
       "url": "https://www.youtube.com/shorts/tEKAIEtw-vQ",
       "published_at_utc": "2026-11-16T15:45:29+00:00",
-      "age_seconds": 1997
+      "age_seconds": 2119
     },
     {
       "channel": "Сергей Милушкин",
       "title": "18 лет он ждал GTA VI и снова ждать",
       "url": "https://www.youtube.com/shorts/WByagWbqYLQ",
       "published_at_utc": "2026-11-16T15:35:05+00:00",
-      "age_seconds": 2622
+      "age_seconds": 2744
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Цепочка слов ☀️🌚 #boardgames #games #игры #настольныеигры #настолки",
       "url": "https://www.youtube.com/shorts/mS_ME77Zf28",
       "published_at_utc": "2026-11-16T15:09:03+00:00",
-      "age_seconds": 4200
+      "age_seconds": 4322
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "100-метровый котик",
       "url": "https://www.youtube.com/shorts/T4GeAjEHQMY",
       "published_at_utc": "2026-11-16T15:00:40+00:00",
-      "age_seconds": 4686
+      "age_seconds": 4808
     },
     {
       "channel": "windy31",
       "title": "САМЫЙ РЕАЛИСТИЧНЫЙ ФНАФ (и это ОЧЕНЬ страшно...)",
       "url": "https://www.youtube.com/watch?v=7lG4EPHvGaE",
       "published_at_utc": "2026-11-16T15:00:05+00:00",
-      "age_seconds": 4751
+      "age_seconds": 4874
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Муравьиный начальник 3",
       "url": "https://www.youtube.com/shorts/YQhAo8QyQJM",
       "published_at_utc": "2026-11-16T14:42:04+00:00",
-      "age_seconds": 5802
+      "age_seconds": 5924
     },
     {
       "channel": "Хаку",
       "title": "Я прошел GTA Vice City на 100%",
       "url": "https://www.youtube.com/watch?v=Sh4kXGahd-g",
       "published_at_utc": "2026-11-16T14:41:34+00:00",
-      "age_seconds": 5869
+      "age_seconds": 5992
     }
   ]
 }
