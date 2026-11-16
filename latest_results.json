@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-11-16T15:11:45.134592+00:00",
+  "generated_at_utc": "2026-11-16T15:13:39.509791+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Наташа и Вова | DvoePlay",
+      "title": "Цепочка слов ☀️🌚 #boardgames #games #игры #настольныеигры #настолки",
+      "url": "https://www.youtube.com/shorts/mS_ME77Zf28",
+      "published_at_utc": "2026-11-16T15:09:03+00:00",
+      "age_seconds": 245
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Муравьиный начальник 3",
       "url": "https://www.youtube.com/shorts/YQhAo8QyQJM",
       "published_at_utc": "2026-11-16T14:42:04+00:00",
-      "age_seconds": 1733
+      "age_seconds": 1843
     },
     {
       "channel": "Хаку",
       "title": "Я прошел GTA Vice City на 100%",
       "url": "https://www.youtube.com/watch?v=Sh4kXGahd-g",
       "published_at_utc": "2026-11-16T14:41:34+00:00",
-      "age_seconds": 1802
+      "age_seconds": 1917
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/_Te0oYVOJpE",
       "published_at_utc": "2026-11-16T14:16:56+00:00",
-      "age_seconds": 3252
+      "age_seconds": 3361
     },
     {
       "channel": "Новостной Гусь",
       "title": "Фото возле зеркала",
       "url": "https://www.youtube.com/shorts/xn1f980HI8I",
       "published_at_utc": "2026-11-16T14:15:35+00:00",
-      "age_seconds": 3321
+      "age_seconds": 3431
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кот с окрасом из древней рукописи 🐱📜",
       "url": "https://www.youtube.com/shorts/UE3GmqxxKdw",
       "published_at_utc": "2026-11-16T14:06:29+00:00",
-      "age_seconds": 3886
+      "age_seconds": 3999
     },
     {
       "channel": "Ассистент грумера",
       "title": "ОДИН ДЕНЬ ИЗ МОЕЙ ЖИЗНИ В ЕРЕВАНЕ / Работа, собаки и все за кадром",
       "url": "https://www.youtube.com/watch?v=zIIPJigYmWI",
       "published_at_utc": "2026-11-16T14:00:31+00:00",
-      "age_seconds": 4235
+      "age_seconds": 4345
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Подарок из прошлого",
       "url": "https://www.youtube.com/shorts/Td5nYsjqmnU",
       "published_at_utc": "2026-11-16T14:00:28+00:00",
-      "age_seconds": 4228
+      "age_seconds": 4338
     },
     {
       "channel": "Короче, новости",
       "title": "Цензура в 3 Классе: Пушкин Больше НЕ ВЫПЬЕТ с Горя @denmarnews",
       "url": "https://www.youtube.com/shorts/TQTTDrsgRoI",
       "published_at_utc": "2026-11-16T13:21:58+00:00",
-      "age_seconds": 6535
+      "age_seconds": 6645
     }
   ]
 }
