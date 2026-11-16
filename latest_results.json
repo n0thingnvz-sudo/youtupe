@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-16T18:47:32.234952+00:00",
+  "generated_at_utc": "2026-11-16T18:49:34.882023+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "Это не матрица просто штаны одни на всех",
       "url": "https://www.youtube.com/shorts/TvMbftR6aU0",
       "published_at_utc": "2026-11-16T18:11:11+00:00",
-      "age_seconds": 2136
+      "age_seconds": 2256
     },
     {
       "channel": "ЕГОР ШКРЕД",
       "title": "Экстремальная НОЧЕВКА с ДЕВУШКОЙ! **НЕЛЬЗЯ ШУМЕТЬ**",
       "url": "https://www.youtube.com/watch?v=5amjoW7jmAg",
       "published_at_utc": "2026-11-16T18:01:15+00:00",
-      "age_seconds": 2734
+      "age_seconds": 2857
     },
     {
       "channel": "dikiy_vadik",
       "title": "Без интернета",
       "url": "https://www.youtube.com/shorts/ZtbFb8IRYOA",
       "published_at_utc": "2026-11-16T17:17:33+00:00",
-      "age_seconds": 5366
-    },
-    {
-      "channel": "DeadP47",
-      "title": "САМАЯ ДОРОГАЯ ИГРА В МОЕЙ ЖИЗНИ",
-      "url": "https://www.youtube.com/watch?v=KV81v3m-YuU",
-      "published_at_utc": "2026-11-16T16:47:44+00:00",
-      "age_seconds": 7179
+      "age_seconds": 5490
     }
   ]
 }
