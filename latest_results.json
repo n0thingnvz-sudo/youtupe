@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-16T08:41:25.363051+00:00",
+  "generated_at_utc": "2026-11-16T08:43:27.246839+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Так украли или совпадение ?",
       "url": "https://www.youtube.com/shorts/mSg9pyjsIus",
       "published_at_utc": "2026-11-16T07:03:00+00:00",
-      "age_seconds": 5864
+      "age_seconds": 5984
     },
     {
       "channel": "Новостной Гусь",
       "title": "Что она сказала?",
       "url": "https://www.youtube.com/shorts/2zQWtVgVDwA",
       "published_at_utc": "2026-11-16T07:00:23+00:00",
-      "age_seconds": 6020
+      "age_seconds": 6140
     }
   ]
 }
