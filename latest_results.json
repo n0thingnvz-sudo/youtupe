@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-11-16T15:49:31.584875+00:00",
+  "generated_at_utc": "2026-11-16T15:51:34.199714+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Сергей Милушкин",
+      "title": "18 лет он ждал GTA VI и снова ждать",
+      "url": "https://www.youtube.com/shorts/WByagWbqYLQ",
+      "published_at_utc": "2026-11-16T15:35:05+00:00",
+      "age_seconds": 943
+    },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Цепочка слов ☀️🌚 #boardgames #games #игры #настольныеигры #настолки",
       "url": "https://www.youtube.com/shorts/mS_ME77Zf28",
       "published_at_utc": "2026-11-16T15:09:03+00:00",
-      "age_seconds": 2399
+      "age_seconds": 2522
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "100-метровый котик",
       "url": "https://www.youtube.com/shorts/T4GeAjEHQMY",
       "published_at_utc": "2026-11-16T15:00:40+00:00",
-      "age_seconds": 2885
+      "age_seconds": 3007
     },
     {
       "channel": "windy31",
       "title": "САМЫЙ РЕАЛИСТИЧНЫЙ ФНАФ (и это ОЧЕНЬ страшно...)",
       "url": "https://www.youtube.com/watch?v=7lG4EPHvGaE",
       "published_at_utc": "2026-11-16T15:00:05+00:00",
-      "age_seconds": 2951
+      "age_seconds": 3074
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Муравьиный начальник 3",
       "url": "https://www.youtube.com/shorts/YQhAo8QyQJM",
       "published_at_utc": "2026-11-16T14:42:04+00:00",
-      "age_seconds": 4001
+      "age_seconds": 4123
     },
     {
       "channel": "Хаку",
       "title": "Я прошел GTA Vice City на 100%",
       "url": "https://www.youtube.com/watch?v=Sh4kXGahd-g",
       "published_at_utc": "2026-11-16T14:41:34+00:00",
-      "age_seconds": 4069
+      "age_seconds": 4192
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/_Te0oYVOJpE",
       "published_at_utc": "2026-11-16T14:16:56+00:00",
-      "age_seconds": 5518
+      "age_seconds": 5641
     },
     {
       "channel": "Новостной Гусь",
       "title": "Фото возле зеркала",
       "url": "https://www.youtube.com/shorts/xn1f980HI8I",
       "published_at_utc": "2026-11-16T14:15:35+00:00",
-      "age_seconds": 5589
+      "age_seconds": 5711
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кот с окрасом из древней рукописи 🐱📜",
       "url": "https://www.youtube.com/shorts/UE3GmqxxKdw",
       "published_at_utc": "2026-11-16T14:06:29+00:00",
-      "age_seconds": 6153
+      "age_seconds": 6275
     },
     {
       "channel": "Ассистент грумера",
       "title": "ОДИН ДЕНЬ ИЗ МОЕЙ ЖИЗНИ В ЕРЕВАНЕ / Работа, собаки и все за кадром",
       "url": "https://www.youtube.com/watch?v=zIIPJigYmWI",
       "published_at_utc": "2026-11-16T14:00:31+00:00",
-      "age_seconds": 6502
+      "age_seconds": 6625
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Подарок из прошлого",
       "url": "https://www.youtube.com/shorts/Td5nYsjqmnU",
       "published_at_utc": "2026-11-16T14:00:28+00:00",
-      "age_seconds": 6497
+      "age_seconds": 6619
     }
   ]
 }
