@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-16T17:49:36.123147+00:00",
+  "generated_at_utc": "2026-11-16T17:51:35.121255+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Без интернета",
       "url": "https://www.youtube.com/shorts/ZtbFb8IRYOA",
       "published_at_utc": "2026-11-16T17:17:33+00:00",
-      "age_seconds": 1888
+      "age_seconds": 2008
     },
     {
       "channel": "DeadP47",
       "title": "САМАЯ ДОРОГАЯ ИГРА В МОЕЙ ЖИЗНИ",
       "url": "https://www.youtube.com/watch?v=KV81v3m-YuU",
       "published_at_utc": "2026-11-16T16:47:44+00:00",
-      "age_seconds": 3701
+      "age_seconds": 3822
     },
     {
       "channel": "i11ushenka",
       "title": "Хроники Бронзового Дрипа (Мне нравится девушка. Ей 3500 лет)",
       "url": "https://www.youtube.com/shorts/MoyLYdgmyvo",
       "published_at_utc": "2026-11-16T16:36:38+00:00",
-      "age_seconds": 4313
+      "age_seconds": 4435
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Железобетонный аргумент",
       "url": "https://www.youtube.com/shorts/hYQZYfkIfk0",
       "published_at_utc": "2026-11-16T16:00:06+00:00",
-      "age_seconds": 6521
+      "age_seconds": 6641
     }
   ]
 }
