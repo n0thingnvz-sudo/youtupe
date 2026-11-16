@@ -1,62 +1,76 @@
 {
-  "generated_at_utc": "2026-11-16T15:15:41.099140+00:00",
+  "generated_at_utc": "2026-11-16T15:17:37.263844+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПРЕМИЯ ДАРВИНА",
+      "title": "100-метровый котик",
+      "url": "https://www.youtube.com/shorts/T4GeAjEHQMY",
+      "published_at_utc": "2026-11-16T15:00:40+00:00",
+      "age_seconds": 966
+    },
+    {
+      "channel": "windy31",
+      "title": "САМЫЙ РЕАЛИСТИЧНЫЙ ФНАФ (и это ОЧЕНЬ страшно...)",
+      "url": "https://www.youtube.com/watch?v=7lG4EPHvGaE",
+      "published_at_utc": "2026-11-16T15:00:05+00:00",
+      "age_seconds": 1035
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Муравьиный начальник 3",
       "url": "https://www.youtube.com/shorts/YQhAo8QyQJM",
       "published_at_utc": "2026-11-16T14:42:04+00:00",
-      "age_seconds": 1962
+      "age_seconds": 2083
     },
     {
       "channel": "Хаку",
       "title": "Я прошел GTA Vice City на 100%",
       "url": "https://www.youtube.com/watch?v=Sh4kXGahd-g",
       "published_at_utc": "2026-11-16T14:41:34+00:00",
-      "age_seconds": 2038
+      "age_seconds": 2153
     },
     {
       "channel": "лизкеч",
       "title": "вк: лизкетч",
       "url": "https://www.youtube.com/shorts/_Te0oYVOJpE",
       "published_at_utc": "2026-11-16T14:16:56+00:00",
-      "age_seconds": 3481
+      "age_seconds": 3600
     },
     {
       "channel": "Новостной Гусь",
       "title": "Фото возле зеркала",
       "url": "https://www.youtube.com/shorts/xn1f980HI8I",
       "published_at_utc": "2026-11-16T14:15:35+00:00",
-      "age_seconds": 3550
+      "age_seconds": 3670
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Кот с окрасом из древней рукописи 🐱📜",
       "url": "https://www.youtube.com/shorts/UE3GmqxxKdw",
       "published_at_utc": "2026-11-16T14:06:29+00:00",
-      "age_seconds": 4116
+      "age_seconds": 4234
     },
     {
       "channel": "Ассистент грумера",
       "title": "ОДИН ДЕНЬ ИЗ МОЕЙ ЖИЗНИ В ЕРЕВАНЕ / Работа, собаки и все за кадром",
       "url": "https://www.youtube.com/watch?v=zIIPJigYmWI",
       "published_at_utc": "2026-11-16T14:00:31+00:00",
-      "age_seconds": 4465
+      "age_seconds": 4584
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Подарок из прошлого",
       "url": "https://www.youtube.com/shorts/Td5nYsjqmnU",
       "published_at_utc": "2026-11-16T14:00:28+00:00",
-      "age_seconds": 4458
+      "age_seconds": 4578
     },
     {
       "channel": "Короче, новости",
       "title": "Цензура в 3 Классе: Пушкин Больше НЕ ВЫПЬЕТ с Горя @denmarnews",
       "url": "https://www.youtube.com/shorts/TQTTDrsgRoI",
       "published_at_utc": "2026-11-16T13:21:58+00:00",
-      "age_seconds": 6765
+      "age_seconds": 6885
     }
   ]
 }
