@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-16T11:35:29.118717+00:00",
+  "generated_at_utc": "2026-11-16T11:37:27.847921+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Это крабовая лапша за 300р.",
+      "url": "https://www.youtube.com/shorts/VwoY5Jw3s4g",
+      "published_at_utc": "2026-11-16T11:26:13+00:00",
+      "age_seconds": 648
+    },
     {
       "channel": "Короче, новости",
       "title": "США Обеднеет на МИЛЛИАРД из-за GTA VI @denmarnews",
       "url": "https://www.youtube.com/shorts/9a2k4lr1sYs",
       "published_at_utc": "2026-11-16T11:19:24+00:00",
-      "age_seconds": 918
+      "age_seconds": 1038
     },
     {
       "channel": "i11ushenka",
       "title": "Цена понтов: история Павла Няшина",
       "url": "https://www.youtube.com/shorts/Q2yzieDKI4E",
       "published_at_utc": "2026-11-16T10:28:49+00:00",
-      "age_seconds": 3942
+      "age_seconds": 4062
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как выманить кота из укрытия 😹 @Yukithecutecat",
       "url": "https://www.youtube.com/shorts/mkKXzz_CcC8",
       "published_at_utc": "2026-11-16T10:04:02+00:00",
-      "age_seconds": 5459
+      "age_seconds": 5578
     },
     {
       "channel": "sun_kill",
       "title": "музыка из Декстера идеально вписалась ахахаха #блогерство",
       "url": "https://www.youtube.com/shorts/HbCRsQd2oLM",
       "published_at_utc": "2026-11-16T10:00:30+00:00",
-      "age_seconds": 5642
+      "age_seconds": 5761
     },
     {
       "channel": "Тру Шорты",
       "title": "Энтомологи, вы серьёзно?",
       "url": "https://www.youtube.com/shorts/NaH-lpwpGqQ",
       "published_at_utc": "2026-11-16T09:52:30+00:00",
-      "age_seconds": 6118
+      "age_seconds": 6238
     },
     {
       "channel": "курОлеся",
       "title": "Мы это сделали @bushhiik 👏",
       "url": "https://www.youtube.com/shorts/MSQVlfwkfkY",
       "published_at_utc": "2026-11-16T09:42:13+00:00",
-      "age_seconds": 6751
+      "age_seconds": 6870
     }
   ]
 }
