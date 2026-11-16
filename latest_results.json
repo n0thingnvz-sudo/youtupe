@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-16T17:37:33.455202+00:00",
+  "generated_at_utc": "2026-11-16T17:39:32.170382+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "dikiy_vadik",
+      "title": "Без интернета",
+      "url": "https://www.youtube.com/shorts/ZtbFb8IRYOA",
+      "published_at_utc": "2026-11-16T17:17:33+00:00",
+      "age_seconds": 1287
+    },
     {
       "channel": "DeadP47",
       "title": "САМАЯ ДОРОГАЯ ИГРА В МОЕЙ ЖИЗНИ",
       "url": "https://www.youtube.com/watch?v=KV81v3m-YuU",
       "published_at_utc": "2026-11-16T16:47:44+00:00",
-      "age_seconds": 2980
+      "age_seconds": 3099
     },
     {
       "channel": "i11ushenka",
       "title": "Хроники Бронзового Дрипа (Мне нравится девушка. Ей 3500 лет)",
       "url": "https://www.youtube.com/shorts/MoyLYdgmyvo",
       "published_at_utc": "2026-11-16T16:36:38+00:00",
-      "age_seconds": 3593
+      "age_seconds": 3713
     },
     {
       "channel": "ПРЕМИЯ ДАРВИНА",
       "title": "Железобетонный аргумент",
       "url": "https://www.youtube.com/shorts/hYQZYfkIfk0",
       "published_at_utc": "2026-11-16T16:00:06+00:00",
-      "age_seconds": 5800
+      "age_seconds": 5919
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Лайк за 82 тысячи долларов",
       "url": "https://www.youtube.com/shorts/tEKAIEtw-vQ",
       "published_at_utc": "2026-11-16T15:45:29+00:00",
-      "age_seconds": 6678
+      "age_seconds": 6797
     }
   ]
 }
