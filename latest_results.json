@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T08:45:32.951904+00:00",
+  "generated_at_utc": "2026-11-17T08:47:28.700092+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Вторая луна",
       "url": "https://www.youtube.com/shorts/2aGgE94YUSE",
       "published_at_utc": "2026-11-17T08:27:54+00:00",
-      "age_seconds": 1013
+      "age_seconds": 1131
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Что кот думает, когда вы уходите? 🐱",
       "url": "https://www.youtube.com/shorts/QL6qXzmqdaQ",
       "published_at_utc": "2026-11-17T08:12:44+00:00",
-      "age_seconds": 1939
+      "age_seconds": 2056
     },
     {
       "channel": "Новостной Гусь",
       "title": "Программа по перевоспитанию населения",
       "url": "https://www.youtube.com/shorts/uN1WCarpXAQ",
       "published_at_utc": "2026-11-17T07:20:03+00:00",
-      "age_seconds": 5083
+      "age_seconds": 5201
     }
   ]
 }
