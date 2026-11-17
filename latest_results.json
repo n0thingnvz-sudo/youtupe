@@ -1,27 +1,20 @@
 {
-  "generated_at_utc": "2026-11-17T18:13:34.840792+00:00",
+  "generated_at_utc": "2026-11-17T18:15:42.096121+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "SonnyK",
-      "title": "GTA 6 ОСТАНОВИТ МИР",
-      "url": "https://www.youtube.com/watch?v=ZtfFdcqYQRE",
-      "published_at_utc": "2026-11-17T17:56:27+00:00",
-      "age_seconds": 1009
-    },
     {
       "channel": "i11ushenka",
       "title": "Будни индийской разведки 🇮🇳",
       "url": "https://www.youtube.com/shorts/GBkXtQUSpUk",
       "published_at_utc": "2026-11-17T16:42:36+00:00",
-      "age_seconds": 5395
+      "age_seconds": 5515
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Есть два мнения: мое и неправильное",
       "url": "https://www.youtube.com/shorts/F0fb9pr9raI",
       "published_at_utc": "2026-11-17T16:15:10+00:00",
-      "age_seconds": 7056
+      "age_seconds": 7179
     }
   ]
 }
