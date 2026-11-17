@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T12:29:31.323979+00:00",
+  "generated_at_utc": "2026-11-17T12:31:32.650247+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,35 @@
       "title": "Должно было сработать",
       "url": "https://www.youtube.com/shorts/mjBAt4C-enM",
       "published_at_utc": "2026-11-17T12:24:25+00:00",
-      "age_seconds": 261
+      "age_seconds": 382
     },
     {
       "channel": "Короче, новости",
       "title": "Войны, Кремль, ИИ: Обложка Economist на 2027 @denmarnews",
       "url": "https://www.youtube.com/shorts/czwrY4l2WNE",
       "published_at_utc": "2026-11-17T12:19:49+00:00",
-      "age_seconds": 534
+      "age_seconds": 655
     },
     {
       "channel": "ExileLive",
       "title": "Муж Кизару, Премия Slay, Новая Премия Эксайла и Другие Новости ! Вентилятор - Парадеевич !",
       "url": "https://www.youtube.com/watch?v=ScniUFPGZzc",
       "published_at_utc": "2026-11-17T11:58:08+00:00",
-      "age_seconds": 1858
+      "age_seconds": 1980
     },
     {
       "channel": "Мармеладыч",
       "title": "Я выпустил свои Акции!",
       "url": "https://www.youtube.com/shorts/m_dsmHf9AYo",
       "published_at_utc": "2026-11-17T11:25:00+00:00",
-      "age_seconds": 3837
+      "age_seconds": 3958
     },
     {
       "channel": "i11ushenka",
       "title": "Как Киберказахи обогатили реальный Казахстан 🇰🇿 🎮",
       "url": "https://www.youtube.com/shorts/Zb2_3tf7gwQ",
       "published_at_utc": "2026-11-17T11:07:11+00:00",
-      "age_seconds": 4880
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Афера в париках",
-      "url": "https://www.youtube.com/shorts/DLXZCvV3ab4",
-      "published_at_utc": "2026-11-17T10:30:36+00:00",
-      "age_seconds": 7089
-    },
-    {
-      "channel": "АНТИБЛОГЕР",
-      "title": "АСТРОЛУХИ - Скам на звёздах, натальных картах и курсы богатства",
-      "url": "https://www.youtube.com/watch?v=SKJkbxFnp3U",
-      "published_at_utc": "2026-11-17T10:30:32+00:00",
-      "age_seconds": 7106
+      "age_seconds": 5000
     }
   ]
 }
