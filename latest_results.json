@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T19:07:37.184584+00:00",
+  "generated_at_utc": "2026-11-17T19:09:38.214129+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Вот оно что",
       "url": "https://www.youtube.com/shorts/5XneIY1293c",
       "published_at_utc": "2026-11-17T18:47:56+00:00",
-      "age_seconds": 1153
+      "age_seconds": 1273
     },
     {
       "channel": "LenS",
       "title": "РОСТИК БЫЛ В ШОКЕ С КОМАНДЫ ЛЕНСА на турнире за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=QjecVepP6jk",
       "published_at_utc": "2026-11-17T18:29:55+00:00",
-      "age_seconds": 2252
+      "age_seconds": 2373
     },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 3)",
       "url": "https://www.youtube.com/watch?v=Upw3NKO8Fwo",
       "published_at_utc": "2026-11-17T18:22:09+00:00",
-      "age_seconds": 2719
+      "age_seconds": 2840
     },
     {
       "channel": "SonnyK",
       "title": "GTA 6 ОСТАНОВИТ МИР",
       "url": "https://www.youtube.com/watch?v=ZtfFdcqYQRE",
       "published_at_utc": "2026-11-17T17:56:27+00:00",
-      "age_seconds": 4251
+      "age_seconds": 4372
     }
   ]
 }
