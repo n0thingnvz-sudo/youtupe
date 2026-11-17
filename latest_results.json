@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-11-17T08:19:28.532660+00:00",
+  "generated_at_utc": "2026-11-17T08:21:27.658038+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "Что кот думает, когда вы уходите? 🐱",
-      "url": "https://www.youtube.com/shorts/QL6qXzmqdaQ",
-      "published_at_utc": "2026-11-17T08:12:44+00:00",
-      "age_seconds": 376
-    },
     {
       "channel": "Новостной Гусь",
       "title": "Программа по перевоспитанию населения",
       "url": "https://www.youtube.com/shorts/uN1WCarpXAQ",
       "published_at_utc": "2026-11-17T07:20:03+00:00",
-      "age_seconds": 3520
+      "age_seconds": 3641
     }
   ]
 }
