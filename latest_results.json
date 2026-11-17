@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-17T11:33:37.382141+00:00",
+  "generated_at_utc": "2026-11-17T11:35:33.564608+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Мармеладыч",
+      "title": "Я выпустил свои Акции!",
+      "url": "https://www.youtube.com/shorts/m_dsmHf9AYo",
+      "published_at_utc": "2026-11-17T11:25:00+00:00",
+      "age_seconds": 598
+    },
     {
       "channel": "i11ushenka",
       "title": "Как Киберказахи обогатили реальный Казахстан 🇰🇿 🎮",
       "url": "https://www.youtube.com/shorts/Zb2_3tf7gwQ",
       "published_at_utc": "2026-11-17T11:07:11+00:00",
-      "age_seconds": 1520
+      "age_seconds": 1640
     },
     {
       "channel": "Новостной Гусь",
       "title": "Афера в париках",
       "url": "https://www.youtube.com/shorts/DLXZCvV3ab4",
       "published_at_utc": "2026-11-17T10:30:36+00:00",
-      "age_seconds": 3728
+      "age_seconds": 3849
     },
     {
       "channel": "АНТИБЛОГЕР",
       "title": "АСТРОЛУХИ - Скам на звёздах, натальных картах и курсы богатства",
       "url": "https://www.youtube.com/watch?v=SKJkbxFnp3U",
       "published_at_utc": "2026-11-17T10:30:32+00:00",
-      "age_seconds": 3745
+      "age_seconds": 3867
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "ТОП 5 пород собак, которые живут дольше всех 🐕",
       "url": "https://www.youtube.com/shorts/QspHCOsvUmo",
       "published_at_utc": "2026-11-17T10:27:35+00:00",
-      "age_seconds": 3927
+      "age_seconds": 4048
     },
     {
       "channel": "nowkie",
       "title": "ОВЕРДОЗ — 1 СЕРИЯ (пилот нашего мульта)",
       "url": "https://www.youtube.com/watch?v=XwAnAtRs0pc",
       "published_at_utc": "2026-11-17T10:21:10+00:00",
-      "age_seconds": 4293
+      "age_seconds": 4414
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Прощание с гта 5",
       "url": "https://www.youtube.com/shorts/0pmyaTFmn50",
       "published_at_utc": "2026-11-17T10:13:07+00:00",
-      "age_seconds": 4778
+      "age_seconds": 4899
     }
   ]
 }
