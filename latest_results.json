@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-17T13:13:32.583906+00:00",
+  "generated_at_utc": "2026-11-17T13:15:34.242488+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Алежа Обухов",
+      "title": "Тот самый женатый скуф, который клеится к молодым девушкам",
+      "url": "https://www.youtube.com/shorts/AJrtoO8cUXg",
+      "published_at_utc": "2026-11-17T13:01:02+00:00",
+      "age_seconds": 839
+    },
     {
       "channel": "Майни",
       "title": "ГЛАВНАЯ КРЫСА ИНТЕРНЕТА - СЕРГЕЙ РОМАНЦЕВ ► MILKA MAKER ( Милка Мейкер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=OGzFkJPVXSU",
       "published_at_utc": "2026-11-17T13:00:34+00:00",
-      "age_seconds": 716
+      "age_seconds": 836
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Как японцы заботятся о безопасности в городах",
       "url": "https://www.youtube.com/shorts/iiGgwSqql6U",
       "published_at_utc": "2026-11-17T12:44:15+00:00",
-      "age_seconds": 1711
+      "age_seconds": 1832
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Должно было сработать",
       "url": "https://www.youtube.com/shorts/mjBAt4C-enM",
       "published_at_utc": "2026-11-17T12:24:25+00:00",
-      "age_seconds": 2901
+      "age_seconds": 3021
     },
     {
       "channel": "Короче, новости",
       "title": "Войны, Кремль, ИИ: Обложка Economist на 2027 @denmarnews",
       "url": "https://www.youtube.com/shorts/czwrY4l2WNE",
       "published_at_utc": "2026-11-17T12:19:49+00:00",
-      "age_seconds": 3173
+      "age_seconds": 3294
     },
     {
       "channel": "ExileLive",
       "title": "Муж Кизару, Премия Slay, Новая Премия Эксайла и Другие Новости ! Вентилятор - Парадеевич !",
       "url": "https://www.youtube.com/watch?v=ScniUFPGZzc",
       "published_at_utc": "2026-11-17T11:58:08+00:00",
-      "age_seconds": 4499
+      "age_seconds": 4620
     },
     {
       "channel": "Мармеладыч",
       "title": "Я выпустил свои Акции!",
       "url": "https://www.youtube.com/shorts/m_dsmHf9AYo",
       "published_at_utc": "2026-11-17T11:25:00+00:00",
-      "age_seconds": 6476
+      "age_seconds": 6597
     }
   ]
 }
