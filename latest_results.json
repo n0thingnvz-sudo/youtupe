@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-11-17T10:35:32.906865+00:00",
+  "generated_at_utc": "2026-11-17T10:37:28.291307+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "АНТИБЛОГЕР",
-      "title": "АСТРОЛУХИ - Скам на звёздах, натальных картах и курсы богатства",
-      "url": "https://www.youtube.com/watch?v=SKJkbxFnp3U",
-      "published_at_utc": "2026-11-17T10:30:32+00:00",
-      "age_seconds": 265
-    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Прощание с гта 5",
       "url": "https://www.youtube.com/shorts/0pmyaTFmn50",
       "published_at_utc": "2026-11-17T10:13:07+00:00",
-      "age_seconds": 1299
+      "age_seconds": 1418
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин выбирает лучшие авто в мире #тренды #шортс",
       "url": "https://www.youtube.com/shorts/5oc2DrxiYZg",
       "published_at_utc": "2026-11-17T09:06:59+00:00",
-      "age_seconds": 5292
+      "age_seconds": 5410
     },
     {
       "channel": "курОлеся",
       "title": "Это у мам в базовых настройках",
       "url": "https://www.youtube.com/shorts/uwVsMhpWxao",
       "published_at_utc": "2026-11-17T08:41:45+00:00",
-      "age_seconds": 6780
+      "age_seconds": 6898
     }
   ]
 }
