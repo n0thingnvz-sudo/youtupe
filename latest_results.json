@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T20:03:40.209762+00:00",
+  "generated_at_utc": "2026-11-17T20:05:35.335839+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Для чего нужны блоки?",
       "url": "https://www.youtube.com/shorts/j0f1lWc4aPc",
       "published_at_utc": "2026-11-17T19:10:31+00:00",
-      "age_seconds": 3139
+      "age_seconds": 3255
     },
     {
       "channel": "Никита Нестеров",
       "title": "Вот оно что",
       "url": "https://www.youtube.com/shorts/5XneIY1293c",
       "published_at_utc": "2026-11-17T18:47:56+00:00",
-      "age_seconds": 4516
+      "age_seconds": 4632
     },
     {
       "channel": "LenS",
       "title": "РОСТИК БЫЛ В ШОКЕ С КОМАНДЫ ЛЕНСА на турнире за 3.000.000 рублей",
       "url": "https://www.youtube.com/watch?v=QjecVepP6jk",
       "published_at_utc": "2026-11-17T18:29:55+00:00",
-      "age_seconds": 5615
+      "age_seconds": 5731
     },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 3)",
       "url": "https://www.youtube.com/watch?v=Upw3NKO8Fwo",
       "published_at_utc": "2026-11-17T18:22:09+00:00",
-      "age_seconds": 6082
+      "age_seconds": 6198
     }
   ]
 }
