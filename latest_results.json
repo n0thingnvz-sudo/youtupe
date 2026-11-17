@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-11-17T18:35:36.628786+00:00",
+  "generated_at_utc": "2026-11-17T18:37:40.562162+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "LenS",
-      "title": "РОСТИК БЫЛ В ШОКЕ С КОМАНДЫ ЛЕНСА на турнире за 3.000.000 рублей",
-      "url": "https://www.youtube.com/watch?v=QjecVepP6jk",
-      "published_at_utc": "2026-11-17T18:29:55+00:00",
-      "age_seconds": 331
-    },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 3)",
       "url": "https://www.youtube.com/watch?v=Upw3NKO8Fwo",
       "published_at_utc": "2026-11-17T18:22:09+00:00",
-      "age_seconds": 798
+      "age_seconds": 922
     },
     {
       "channel": "SonnyK",
       "title": "GTA 6 ОСТАНОВИТ МИР",
       "url": "https://www.youtube.com/watch?v=ZtfFdcqYQRE",
       "published_at_utc": "2026-11-17T17:56:27+00:00",
-      "age_seconds": 2330
+      "age_seconds": 2451
     },
     {
       "channel": "i11ushenka",
       "title": "Будни индийской разведки 🇮🇳",
       "url": "https://www.youtube.com/shorts/GBkXtQUSpUk",
       "published_at_utc": "2026-11-17T16:42:36+00:00",
-      "age_seconds": 6716
+      "age_seconds": 6835
     }
   ]
 }
