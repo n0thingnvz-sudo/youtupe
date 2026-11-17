@@ -1,34 +1,34 @@
 {
-  "generated_at_utc": "2026-11-17T10:43:34.467815+00:00",
+  "generated_at_utc": "2026-11-17T10:45:36.074761+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Афера в париках",
+      "url": "https://www.youtube.com/shorts/DLXZCvV3ab4",
+      "published_at_utc": "2026-11-17T10:30:36+00:00",
+      "age_seconds": 850
+    },
     {
       "channel": "АНТИБЛОГЕР",
       "title": "АСТРОЛУХИ - Скам на звёздах, натальных картах и курсы богатства",
       "url": "https://www.youtube.com/watch?v=SKJkbxFnp3U",
       "published_at_utc": "2026-11-17T10:30:32+00:00",
-      "age_seconds": 747
-    },
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "ТОП 5 пород собак, которые живут дольше всех 🐕",
-      "url": "https://www.youtube.com/shorts/QspHCOsvUmo",
-      "published_at_utc": "2026-11-17T10:27:35+00:00",
-      "age_seconds": 929
+      "age_seconds": 868
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Прощание с гта 5",
       "url": "https://www.youtube.com/shorts/0pmyaTFmn50",
       "published_at_utc": "2026-11-17T10:13:07+00:00",
-      "age_seconds": 1779
+      "age_seconds": 1901
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин выбирает лучшие авто в мире #тренды #шортс",
       "url": "https://www.youtube.com/shorts/5oc2DrxiYZg",
       "published_at_utc": "2026-11-17T09:06:59+00:00",
-      "age_seconds": 5774
+      "age_seconds": 5895
     }
   ]
 }
