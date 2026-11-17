@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-17T21:25:34.719494+00:00",
+  "generated_at_utc": "2026-11-17T21:27:32.097645+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ТОПЛЕС",
+      "title": "КАК НАУЧНО ПРЕДСКАЗАТЬ ТРЕНДЫ?",
+      "url": "https://www.youtube.com/shorts/A12SUrQIvSU",
+      "published_at_utc": "2026-11-17T21:23:13+00:00",
+      "age_seconds": 201
+    },
     {
       "channel": "Короче, новости",
       "title": "Цифровой Апокалипсис НАЧАЛСЯ ВОВРЕМЯ? @denmarnews",
       "url": "https://www.youtube.com/shorts/9cVZalH8oyM",
       "published_at_utc": "2026-11-17T20:10:15+00:00",
-      "age_seconds": 4468
+      "age_seconds": 4587
     }
   ]
 }
