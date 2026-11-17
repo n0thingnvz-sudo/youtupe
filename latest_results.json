@@ -1,76 +1,83 @@
 {
-  "generated_at_utc": "2026-11-17T14:55:44.517037+00:00",
+  "generated_at_utc": "2026-11-17T14:57:52.237357+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "dikiy_vadik",
+      "title": "Как обращаться к маме",
+      "url": "https://www.youtube.com/shorts/5EHDghTCfjQ",
+      "published_at_utc": "2026-11-17T14:50:47+00:00",
+      "age_seconds": 388
+    },
     {
       "channel": "Короче, новости",
       "title": "Россия Скачет на Батутах без Рогозина",
       "url": "https://www.youtube.com/shorts/-7wvA-lQ8l8",
       "published_at_utc": "2026-11-17T14:33:22+00:00",
-      "age_seconds": 1282
+      "age_seconds": 1413
     },
     {
       "channel": "Послезавтра",
       "title": "Самая известная страна #страны #италия #сша",
       "url": "https://www.youtube.com/shorts/tf2VIsIsV70",
       "published_at_utc": "2026-11-17T14:09:51+00:00",
-      "age_seconds": 2678
+      "age_seconds": 2798
     },
     {
       "channel": "leafxup",
       "title": "ВСЕ ЧАСТИ МИШК ФРЕДИ...",
       "url": "https://www.youtube.com/watch?v=JSZu1V4NyqU",
       "published_at_utc": "2026-11-17T14:07:39+00:00",
-      "age_seconds": 2862
+      "age_seconds": 2993
     },
     {
       "channel": "Наташа и Вова | DvoePlay",
       "title": "Кто любит овощи? 😏 #funnygames #игры #games #couple #challenge",
       "url": "https://www.youtube.com/shorts/gsoZsvGqeuU",
       "published_at_utc": "2026-11-17T14:06:50+00:00",
-      "age_seconds": 2897
+      "age_seconds": 3029
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/H7IWwFEizZI",
       "published_at_utc": "2026-11-17T13:47:54+00:00",
-      "age_seconds": 4034
+      "age_seconds": 4166
     },
     {
       "channel": "Тимур Сидельников",
       "title": "Тако, но в стиле GTA 6",
       "url": "https://www.youtube.com/shorts/Qe_Se_3IAZw",
       "published_at_utc": "2026-11-17T13:45:36+00:00",
-      "age_seconds": 4172
+      "age_seconds": 4304
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Хороший получится стрим",
       "url": "https://www.youtube.com/shorts/xAwWBd2Z3GE",
       "published_at_utc": "2026-11-17T13:36:52+00:00",
-      "age_seconds": 4676
+      "age_seconds": 4807
     },
     {
       "channel": "Di ray",
       "title": "САМЫЙ СЧАСТЛИВЫЙ ИГРОК В DOTA 2!",
       "url": "https://www.youtube.com/watch?v=n3YhcYt9hSw",
       "published_at_utc": "2026-11-17T13:27:41+00:00",
-      "age_seconds": 5269
+      "age_seconds": 5397
     },
     {
       "channel": "Алежа Обухов",
       "title": "Тот самый женатый скуф, который клеится к молодым девушкам",
       "url": "https://www.youtube.com/shorts/AJrtoO8cUXg",
       "published_at_utc": "2026-11-17T13:01:02+00:00",
-      "age_seconds": 6841
+      "age_seconds": 6974
     },
     {
       "channel": "Майни",
       "title": "ГЛАВНАЯ КРЫСА ИНТЕРНЕТА - СЕРГЕЙ РОМАНЦЕВ ► MILKA MAKER ( Милка Мейкер ) | Реакция",
       "url": "https://www.youtube.com/watch?v=OGzFkJPVXSU",
       "published_at_utc": "2026-11-17T13:00:34+00:00",
-      "age_seconds": 6837
+      "age_seconds": 6956
     }
   ]
 }
