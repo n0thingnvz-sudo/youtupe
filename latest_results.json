@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T08:15:27.173428+00:00",
+  "generated_at_utc": "2026-11-17T08:17:28.694623+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Что кот думает, когда вы уходите? 🐱",
       "url": "https://www.youtube.com/shorts/QL6qXzmqdaQ",
       "published_at_utc": "2026-11-17T08:12:44+00:00",
-      "age_seconds": 134
+      "age_seconds": 255
     },
     {
       "channel": "Новостной Гусь",
       "title": "Программа по перевоспитанию населения",
       "url": "https://www.youtube.com/shorts/uN1WCarpXAQ",
       "published_at_utc": "2026-11-17T07:20:03+00:00",
-      "age_seconds": 3280
+      "age_seconds": 3400
     }
   ]
 }
