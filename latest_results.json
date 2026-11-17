@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-17T07:27:26.199269+00:00",
+  "generated_at_utc": "2026-11-17T07:29:26.141858+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Программа по перевоспитанию населения",
+      "url": "https://www.youtube.com/shorts/uN1WCarpXAQ",
+      "published_at_utc": "2026-11-17T07:20:03+00:00",
+      "age_seconds": 520
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Решил проблему радикально",
       "url": "https://www.youtube.com/shorts/YyePnvYZ10U",
       "published_at_utc": "2026-11-17T05:37:22+00:00",
-      "age_seconds": 6562
+      "age_seconds": 6682
     }
   ]
 }
