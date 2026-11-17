@@ -1,20 +1,27 @@
 {
-  "generated_at_utc": "2026-11-17T10:29:31.725450+00:00",
+  "generated_at_utc": "2026-11-17T10:31:30.747770+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Прощание с гта 5",
+      "url": "https://www.youtube.com/shorts/0pmyaTFmn50",
+      "published_at_utc": "2026-11-17T10:13:07+00:00",
+      "age_seconds": 1059
+    },
     {
       "channel": "ВПИСКА",
       "title": "Булкин выбирает лучшие авто в мире #тренды #шортс",
       "url": "https://www.youtube.com/shorts/5oc2DrxiYZg",
       "published_at_utc": "2026-11-17T09:06:59+00:00",
-      "age_seconds": 4932
+      "age_seconds": 5052
     },
     {
       "channel": "курОлеся",
       "title": "Это у мам в базовых настройках",
       "url": "https://www.youtube.com/shorts/uwVsMhpWxao",
       "published_at_utc": "2026-11-17T08:41:45+00:00",
-      "age_seconds": 6418
+      "age_seconds": 6540
     }
   ]
 }
