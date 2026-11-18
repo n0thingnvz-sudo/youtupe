@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T21:17:30.881954+00:00",
+  "generated_at_utc": "2026-11-18T21:19:33.027902+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,42 @@
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=1mYPXUA6QLI",
       "published_at_utc": "2026-11-18T21:14:12+00:00",
-      "age_seconds": 184
+      "age_seconds": 306
+    },
+    {
+      "channel": "SHAPKA",
+      "title": "Фемочка Добралась до BVS...",
+      "url": "https://www.youtube.com/watch?v=tVPcpUNcwMg",
+      "published_at_utc": "2026-11-18T21:09:12+00:00",
+      "age_seconds": 565
     },
     {
       "channel": "SHAPKA",
       "title": "Фемочка Добралась до BVS...",
       "url": "https://www.youtube.com/watch?v=r7aqyR9ND-c",
       "published_at_utc": "2026-11-18T20:53:33+00:00",
-      "age_seconds": 1384
+      "age_seconds": 1504
     },
     {
       "channel": "Хаку",
       "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100%",
       "url": "https://www.youtube.com/watch?v=R5uA2srZJtA",
       "published_at_utc": "2026-11-18T20:42:57+00:00",
-      "age_seconds": 2065
+      "age_seconds": 2187
     },
     {
       "channel": "DeadP47",
       "title": "Я был НЕПРАВ насчет GTA 6",
       "url": "https://www.youtube.com/watch?v=_qJPm6CP35A",
       "published_at_utc": "2026-11-18T19:56:17+00:00",
-      "age_seconds": 4865
+      "age_seconds": 4987
     },
     {
       "channel": "Никита Нестеров",
       "title": "Да просто у нас город маленький",
       "url": "https://www.youtube.com/shorts/dAzDKNjQs4E",
       "published_at_utc": "2026-11-18T19:40:15+00:00",
-      "age_seconds": 5809
+      "age_seconds": 5931
     }
   ]
 }
