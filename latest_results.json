@@ -1,62 +1,76 @@
 {
-  "generated_at_utc": "2026-11-18T14:15:38.239852+00:00",
+  "generated_at_utc": "2026-11-18T14:17:35.496984+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Она уронила айфон в море, но тут подплыла белуха... 😮",
+      "url": "https://www.youtube.com/shorts/6il8m8WYhS4",
+      "published_at_utc": "2026-11-18T14:05:41+00:00",
+      "age_seconds": 684
+    },
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Что не так с чипсами Pringles?",
+      "url": "https://www.youtube.com/shorts/cyfhA9548x4",
+      "published_at_utc": "2026-11-18T13:55:41+00:00",
+      "age_seconds": 1285
+    },
     {
       "channel": "курОлеся",
       "title": "Даздраперма Дискриминантовна в своем репертуаре.",
       "url": "https://www.youtube.com/shorts/L6ehNrVz3a8",
       "published_at_utc": "2026-11-18T13:33:19+00:00",
-      "age_seconds": 2487
+      "age_seconds": 2606
     },
     {
       "channel": "Хаку",
       "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100%",
       "url": "https://www.youtube.com/watch?v=R5uA2srZJtA",
       "published_at_utc": "2026-11-18T13:29:18+00:00",
-      "age_seconds": 2770
+      "age_seconds": 2888
     },
     {
       "channel": "Саша Фасоваша",
       "title": "Я УСТАЛА",
       "url": "https://www.youtube.com/shorts/rr3pU_EcpCw",
       "published_at_utc": "2026-11-18T13:28:18+00:00",
-      "age_seconds": 2800
+      "age_seconds": 2920
     },
     {
       "channel": "i11ushenka",
       "title": "Чит-код против Сената США (По совету адвоката я отказываюсь отвечать на ваши вопросы)",
       "url": "https://www.youtube.com/shorts/Coj1mLfMGcY",
       "published_at_utc": "2026-11-18T13:05:02+00:00",
-      "age_seconds": 4170
+      "age_seconds": 4290
     },
     {
       "channel": "ВПИСКА",
       "title": "Топ автомобилей Булкина ч2. #шортс #авто",
       "url": "https://www.youtube.com/shorts/ShvOr7FjD9g",
       "published_at_utc": "2026-11-18T13:00:27+00:00",
-      "age_seconds": 4488
+      "age_seconds": 4607
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "ОНА ВЫШЛА!",
       "url": "https://www.youtube.com/shorts/_TI_Vvp1mNQ",
       "published_at_utc": "2026-11-18T12:51:10+00:00",
-      "age_seconds": 5018
+      "age_seconds": 5137
     },
     {
       "channel": "Новостной Гусь",
       "title": "Куда делись пираты?",
       "url": "https://www.youtube.com/shorts/BPzSEdC15k4",
       "published_at_utc": "2026-11-18T12:35:29+00:00",
-      "age_seconds": 5957
+      "age_seconds": 6077
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кодекс нарушен",
       "url": "https://www.youtube.com/shorts/wg7OvFBoPEo",
       "published_at_utc": "2026-11-18T12:32:18+00:00",
-      "age_seconds": 6150
+      "age_seconds": 6269
     }
   ]
 }
