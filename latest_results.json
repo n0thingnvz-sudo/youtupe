@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T20:37:33.986697+00:00",
+  "generated_at_utc": "2026-11-18T20:39:34.850711+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Я был НЕПРАВ насчет GTA 6",
       "url": "https://www.youtube.com/watch?v=_qJPm6CP35A",
       "published_at_utc": "2026-11-18T19:56:17+00:00",
-      "age_seconds": 2468
+      "age_seconds": 2588
     },
     {
       "channel": "Никита Нестеров",
       "title": "Да просто у нас город маленький",
       "url": "https://www.youtube.com/shorts/dAzDKNjQs4E",
       "published_at_utc": "2026-11-18T19:40:15+00:00",
-      "age_seconds": 3412
+      "age_seconds": 3531
     },
     {
       "channel": "Новостной Гусь",
       "title": "Упустили бесплатную рекламу",
       "url": "https://www.youtube.com/shorts/7vw6iSJA-Fo",
       "published_at_utc": "2026-11-18T19:00:38+00:00",
-      "age_seconds": 5769
+      "age_seconds": 5887
     }
   ]
 }
