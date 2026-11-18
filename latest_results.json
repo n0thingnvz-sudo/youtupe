@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-11-18T07:41:27.777585+00:00",
+  "generated_at_utc": "2026-11-18T07:43:26.905285+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Хаку",
-      "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 3)",
-      "url": "https://www.youtube.com/watch?v=h5stJXGnZBA",
-      "published_at_utc": "2026-11-18T07:39:43+00:00",
-      "age_seconds": 96
-    },
     {
       "channel": "Новостной Гусь",
       "title": "Почему нельзя ставить капканы?",
       "url": "https://www.youtube.com/shorts/YLJP6fV169o",
       "published_at_utc": "2026-11-18T07:00:32+00:00",
-      "age_seconds": 2411
+      "age_seconds": 2531
     }
   ]
 }
