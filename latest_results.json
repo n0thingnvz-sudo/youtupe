@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-18T13:15:40.531041+00:00",
+  "generated_at_utc": "2026-11-18T13:17:45.059111+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "i11ushenka",
+      "title": "Чит-код против Сената США (По совету адвоката я отказываюсь отвечать на ваши вопросы)",
+      "url": "https://www.youtube.com/shorts/Coj1mLfMGcY",
+      "published_at_utc": "2026-11-18T13:05:02+00:00",
+      "age_seconds": 689
+    },
     {
       "channel": "ВПИСКА",
       "title": "Топ автомобилей Булкина ч2. #шортс #авто",
       "url": "https://www.youtube.com/shorts/ShvOr7FjD9g",
       "published_at_utc": "2026-11-18T13:00:27+00:00",
-      "age_seconds": 887
+      "age_seconds": 1015
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "ОНА ВЫШЛА!",
       "url": "https://www.youtube.com/shorts/_TI_Vvp1mNQ",
       "published_at_utc": "2026-11-18T12:51:10+00:00",
-      "age_seconds": 1417
+      "age_seconds": 1547
     },
     {
       "channel": "Новостной Гусь",
       "title": "Куда делись пираты?",
       "url": "https://www.youtube.com/shorts/BPzSEdC15k4",
       "published_at_utc": "2026-11-18T12:35:29+00:00",
-      "age_seconds": 2357
+      "age_seconds": 2487
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кодекс нарушен",
       "url": "https://www.youtube.com/shorts/wg7OvFBoPEo",
       "published_at_utc": "2026-11-18T12:32:18+00:00",
-      "age_seconds": 2549
+      "age_seconds": 2679
     }
   ]
 }
