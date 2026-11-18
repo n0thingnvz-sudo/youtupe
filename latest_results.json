@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T22:55:23.825107+00:00",
+  "generated_at_utc": "2026-11-18T22:57:23.885497+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=1mYPXUA6QLI",
       "published_at_utc": "2026-11-18T21:14:12+00:00",
-      "age_seconds": 6058
+      "age_seconds": 6179
     },
     {
       "channel": "SHAPKA",
       "title": "Фемочка Добралась до BVS...",
       "url": "https://www.youtube.com/watch?v=tVPcpUNcwMg",
       "published_at_utc": "2026-11-18T21:09:12+00:00",
-      "age_seconds": 6324
+      "age_seconds": 6444
     }
   ]
 }
