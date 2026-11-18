@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-18T16:45:48.477584+00:00",
+  "generated_at_utc": "2026-11-18T16:47:36.180934+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "почему я пропадаю ► Данкар | Реакция",
+      "url": "https://www.youtube.com/watch?v=_ZdExT7tvrs",
+      "published_at_utc": "2026-11-18T16:30:38+00:00",
+      "age_seconds": 952
+    },
     {
       "channel": "Новостной Гусь",
       "title": "Кто лучше всех сможет справиться с монотонной работой?",
       "url": "https://www.youtube.com/shorts/8iYOzc7bQ3Q",
       "published_at_utc": "2026-11-18T16:10:09+00:00",
-      "age_seconds": 2077
+      "age_seconds": 2197
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Вайбовый магазин",
       "url": "https://www.youtube.com/shorts/IKykZXcfCZs",
       "published_at_utc": "2026-11-18T15:59:18+00:00",
-      "age_seconds": 2729
+      "age_seconds": 2849
     },
     {
       "channel": "windy31",
       "title": "ГТА 6 ВЫШЛА - СНЯЛ ПЕРВЫМ - ПЕРВЫЙ ДЕНЬ",
       "url": "https://www.youtube.com/watch?v=xHqv_hRQHbA",
       "published_at_utc": "2026-11-18T15:30:01+00:00",
-      "age_seconds": 4526
+      "age_seconds": 4639
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Где богатые а где бедные что выбираете",
       "url": "https://www.youtube.com/shorts/-Q9D4sun3Zg",
       "published_at_utc": "2026-11-18T15:01:09+00:00",
-      "age_seconds": 6219
+      "age_seconds": 6338
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/Yv1e6NI6Zuo",
       "published_at_utc": "2026-11-18T14:55:57+00:00",
-      "age_seconds": 6548
+      "age_seconds": 6668
     }
   ]
 }
