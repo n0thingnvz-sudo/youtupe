@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T13:47:35.817464+00:00",
+  "generated_at_utc": "2026-11-18T13:49:38.015725+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,49 +7,56 @@
       "title": "Даздраперма Дискриминантовна в своем репертуаре.",
       "url": "https://www.youtube.com/shorts/L6ehNrVz3a8",
       "published_at_utc": "2026-11-18T13:33:19+00:00",
-      "age_seconds": 806
+      "age_seconds": 925
+    },
+    {
+      "channel": "Хаку",
+      "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100%",
+      "url": "https://www.youtube.com/watch?v=R5uA2srZJtA",
+      "published_at_utc": "2026-11-18T13:29:18+00:00",
+      "age_seconds": 1211
     },
     {
       "channel": "Саша Фасоваша",
       "title": "Я УСТАЛА",
       "url": "https://www.youtube.com/shorts/rr3pU_EcpCw",
       "published_at_utc": "2026-11-18T13:28:18+00:00",
-      "age_seconds": 1119
+      "age_seconds": 1239
     },
     {
       "channel": "i11ushenka",
       "title": "Чит-код против Сената США (По совету адвоката я отказываюсь отвечать на ваши вопросы)",
       "url": "https://www.youtube.com/shorts/Coj1mLfMGcY",
       "published_at_utc": "2026-11-18T13:05:02+00:00",
-      "age_seconds": 2489
+      "age_seconds": 2610
     },
     {
       "channel": "ВПИСКА",
       "title": "Топ автомобилей Булкина ч2. #шортс #авто",
       "url": "https://www.youtube.com/shorts/ShvOr7FjD9g",
       "published_at_utc": "2026-11-18T13:00:27+00:00",
-      "age_seconds": 2807
+      "age_seconds": 2927
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "ОНА ВЫШЛА!",
       "url": "https://www.youtube.com/shorts/_TI_Vvp1mNQ",
       "published_at_utc": "2026-11-18T12:51:10+00:00",
-      "age_seconds": 3337
+      "age_seconds": 3456
     },
     {
       "channel": "Новостной Гусь",
       "title": "Куда делись пираты?",
       "url": "https://www.youtube.com/shorts/BPzSEdC15k4",
       "published_at_utc": "2026-11-18T12:35:29+00:00",
-      "age_seconds": 4276
+      "age_seconds": 4396
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кодекс нарушен",
       "url": "https://www.youtube.com/shorts/wg7OvFBoPEo",
       "published_at_utc": "2026-11-18T12:32:18+00:00",
-      "age_seconds": 4469
+      "age_seconds": 4588
     }
   ]
 }
