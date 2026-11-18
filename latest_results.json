@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T19:43:33.737061+00:00",
+  "generated_at_utc": "2026-11-18T19:45:35.080512+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Упустили бесплатную рекламу",
       "url": "https://www.youtube.com/shorts/7vw6iSJA-Fo",
       "published_at_utc": "2026-11-18T19:00:38+00:00",
-      "age_seconds": 2526
+      "age_seconds": 2648
     },
     {
       "channel": "JOHAN",
       "title": "Прохождение GTA6 ( Часть 1: Снова Vice city )",
       "url": "https://www.youtube.com/watch?v=mozRaCIHR6E",
       "published_at_utc": "2026-11-18T17:55:13+00:00",
-      "age_seconds": 6440
+      "age_seconds": 6561
     },
     {
       "channel": "Дима Масленников",
       "title": "Это КОНЕЦ! МЫ ВЫЖИВАЕМ на Острове! (Чтобы Выжить 1 серия)",
       "url": "https://www.youtube.com/watch?v=nKcLtjYjw2g",
       "published_at_utc": "2026-11-18T17:53:44+00:00",
-      "age_seconds": 6544
+      "age_seconds": 6665
     }
   ]
 }
