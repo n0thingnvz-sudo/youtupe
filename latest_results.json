@@ -1,41 +1,34 @@
 {
-  "generated_at_utc": "2026-11-18T08:15:29.622048+00:00",
+  "generated_at_utc": "2026-11-18T08:17:39.038701+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Короче, новости",
-      "title": "Водородный Поезд Готов к Испытаниям @denmarnews",
-      "url": "https://www.youtube.com/shorts/X2K7IKHpwYc",
-      "published_at_utc": "2026-11-18T08:00:31+00:00",
-      "age_seconds": 852
-    },
     {
       "channel": "MrLololoshka (Роман Фильченков)",
       "title": "😱 Майнкрафт, но Мы Запустили Новую МОНОПОЛИЮ • Майнополия [Игра Втроём] + Фиксплей",
       "url": "https://www.youtube.com/watch?v=6kkPV2W-PVs",
       "published_at_utc": "2026-11-18T08:00:14+00:00",
-      "age_seconds": 901
+      "age_seconds": 1030
     },
     {
       "channel": "Хаку",
       "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100%",
       "url": "https://www.youtube.com/watch?v=OpU3XNCiAWs",
       "published_at_utc": "2026-11-18T07:49:12+00:00",
-      "age_seconds": 1570
+      "age_seconds": 1698
     },
     {
       "channel": "Хаку",
       "title": "Прохожу ХАРДКОРНЫЙ МОД на GTA Vice City (День 3)",
       "url": "https://www.youtube.com/watch?v=h5stJXGnZBA",
       "published_at_utc": "2026-11-18T07:39:43+00:00",
-      "age_seconds": 2139
+      "age_seconds": 2267
     },
     {
       "channel": "Новостной Гусь",
       "title": "Почему нельзя ставить капканы?",
       "url": "https://www.youtube.com/shorts/YLJP6fV169o",
       "published_at_utc": "2026-11-18T07:00:32+00:00",
-      "age_seconds": 4453
+      "age_seconds": 4582
     }
   ]
 }
