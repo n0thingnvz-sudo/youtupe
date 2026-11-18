@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T22:41:25.663469+00:00",
+  "generated_at_utc": "2026-11-18T22:43:23.401740+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,28 +7,21 @@
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=1mYPXUA6QLI",
       "published_at_utc": "2026-11-18T21:14:12+00:00",
-      "age_seconds": 5220
+      "age_seconds": 5338
     },
     {
       "channel": "SHAPKA",
       "title": "Фемочка Добралась до BVS...",
       "url": "https://www.youtube.com/watch?v=tVPcpUNcwMg",
       "published_at_utc": "2026-11-18T21:09:12+00:00",
-      "age_seconds": 5484
+      "age_seconds": 5604
     },
     {
       "channel": "SHAPKA",
       "title": "Фемочка Добралась до BVS...",
       "url": "https://www.youtube.com/watch?v=r7aqyR9ND-c",
       "published_at_utc": "2026-11-18T20:53:33+00:00",
-      "age_seconds": 6423
-    },
-    {
-      "channel": "Хаку",
-      "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100%",
-      "url": "https://www.youtube.com/watch?v=R5uA2srZJtA",
-      "published_at_utc": "2026-11-18T20:42:57+00:00",
-      "age_seconds": 7101
+      "age_seconds": 6543
     }
   ]
 }
