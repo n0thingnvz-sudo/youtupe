@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T13:19:55.413620+00:00",
+  "generated_at_utc": "2026-11-18T13:21:41.964427+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "ОНА ВЫШЛА!",
       "url": "https://www.youtube.com/shorts/_TI_Vvp1mNQ",
       "published_at_utc": "2026-11-18T12:51:10+00:00",
-      "age_seconds": 1657
+      "age_seconds": 1780
     },
     {
       "channel": "Новостной Гусь",
       "title": "Куда делись пираты?",
       "url": "https://www.youtube.com/shorts/BPzSEdC15k4",
       "published_at_utc": "2026-11-18T12:35:29+00:00",
-      "age_seconds": 2596
+      "age_seconds": 2720
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Кодекс нарушен",
       "url": "https://www.youtube.com/shorts/wg7OvFBoPEo",
       "published_at_utc": "2026-11-18T12:32:18+00:00",
-      "age_seconds": 2789
+      "age_seconds": 2912
     }
   ]
 }
