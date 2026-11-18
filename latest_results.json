@@ -1,27 +1,34 @@
 {
-  "generated_at_utc": "2026-11-18T21:11:33.184790+00:00",
+  "generated_at_utc": "2026-11-18T21:13:30.234961+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "SHAPKA",
+      "title": "Фемочка Добралась до BVS...",
+      "url": "https://www.youtube.com/watch?v=r7aqyR9ND-c",
+      "published_at_utc": "2026-11-18T20:53:33+00:00",
+      "age_seconds": 1144
+    },
     {
       "channel": "Хаку",
       "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100%",
       "url": "https://www.youtube.com/watch?v=R5uA2srZJtA",
       "published_at_utc": "2026-11-18T20:42:57+00:00",
-      "age_seconds": 1708
+      "age_seconds": 1825
     },
     {
       "channel": "DeadP47",
       "title": "Я был НЕПРАВ насчет GTA 6",
       "url": "https://www.youtube.com/watch?v=_qJPm6CP35A",
       "published_at_utc": "2026-11-18T19:56:17+00:00",
-      "age_seconds": 4507
+      "age_seconds": 4624
     },
     {
       "channel": "Никита Нестеров",
       "title": "Да просто у нас город маленький",
       "url": "https://www.youtube.com/shorts/dAzDKNjQs4E",
       "published_at_utc": "2026-11-18T19:40:15+00:00",
-      "age_seconds": 5451
+      "age_seconds": 5570
     }
   ]
 }
