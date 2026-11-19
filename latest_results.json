@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-19T13:15:34.680006+00:00",
+  "generated_at_utc": "2026-11-19T13:17:35.267110+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "ВПИСКА",
+      "title": "Булкин о GTA6. Я не буду спать! #шортс #тренды",
+      "url": "https://www.youtube.com/shorts/lfY9ERAUkQg",
+      "published_at_utc": "2026-11-19T13:11:33+00:00",
+      "age_seconds": 341
+    },
     {
       "channel": "IG project",
       "title": "😱 ЛУЧШИЙ ШИП С МИСТЕРОМ ПАЗЗЛСОМ - ПУШКАРЬ или ЛЕГГИ??? 📺 #злодеиобщийсбор #mrpuzzles #shorts",
       "url": "https://www.youtube.com/shorts/CMdxewrPSrI",
       "published_at_utc": "2026-11-19T13:02:02+00:00",
-      "age_seconds": 773
+      "age_seconds": 895
     },
     {
       "channel": "sun_kill",
       "title": "дай бог 🙏🏻😭",
       "url": "https://www.youtube.com/shorts/vDaejSMq3W8",
       "published_at_utc": "2026-11-19T13:01:14+00:00",
-      "age_seconds": 798
+      "age_seconds": 918
     },
     {
       "channel": "i11ushenka",
       "title": "Баги в ГТА6: Всё не так страшно?",
       "url": "https://www.youtube.com/shorts/BSSZz0eh6O0",
       "published_at_utc": "2026-11-19T12:22:20+00:00",
-      "age_seconds": 3131
+      "age_seconds": 3251
     },
     {
       "channel": "sun_kill",
       "title": "собираем меня на VK TUSA",
       "url": "https://www.youtube.com/shorts/YRxX-Vub330",
       "published_at_utc": "2026-11-19T12:18:01+00:00",
-      "age_seconds": 3391
+      "age_seconds": 3511
     },
     {
       "channel": "Obsidian Time",
       "title": "Перепроходим OUTER WILDS на все ачивки (наверное)",
       "url": "https://www.youtube.com/watch?v=0M-tWLX_gdM",
       "published_at_utc": "2026-11-19T11:21:05+00:00",
-      "age_seconds": 6868
+      "age_seconds": 6989
     }
   ]
 }
