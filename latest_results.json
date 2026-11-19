@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T20:35:33.230606+00:00",
+  "generated_at_utc": "2026-11-19T20:37:31.527270+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Вот и поговорили",
       "url": "https://www.youtube.com/shorts/VHSpdKkyjcs",
       "published_at_utc": "2026-11-19T20:03:13+00:00",
-      "age_seconds": 1913
+      "age_seconds": 2032
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Первый арест Айшоуспида в ГТА 6",
       "url": "https://www.youtube.com/shorts/g_1PXZ_d1lo",
       "published_at_utc": "2026-11-19T20:00:12+00:00",
-      "age_seconds": 2075
+      "age_seconds": 2194
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ну вид имеет",
       "url": "https://www.youtube.com/shorts/7obOPjvihyE",
       "published_at_utc": "2026-11-19T19:00:36+00:00",
-      "age_seconds": 5651
+      "age_seconds": 5770
     }
   ]
 }
