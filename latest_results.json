@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T19:31:37.452146+00:00",
+  "generated_at_utc": "2026-11-19T19:33:33.487408+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Ну вид имеет",
       "url": "https://www.youtube.com/shorts/7obOPjvihyE",
       "published_at_utc": "2026-11-19T19:00:36+00:00",
-      "age_seconds": 1812
+      "age_seconds": 1930
     },
     {
       "channel": "windy31",
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=6x7t_kldlK0",
       "published_at_utc": "2026-11-19T18:34:10+00:00",
-      "age_seconds": 3431
+      "age_seconds": 3548
     },
     {
       "channel": "windy31",
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=aGXEQeI_iEA",
       "published_at_utc": "2026-11-19T18:23:43+00:00",
-      "age_seconds": 4058
+      "age_seconds": 4175
     },
     {
       "channel": "ТОПЛЕС",
       "title": "Почему МАРАФОНЫ именно такие?",
       "url": "https://www.youtube.com/shorts/N5qKeYrTmUw",
       "published_at_utc": "2026-11-19T18:23:41+00:00",
-      "age_seconds": 4015
+      "age_seconds": 4133
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Перепутал ссылку",
       "url": "https://www.youtube.com/shorts/mewQT9iqN3c",
       "published_at_utc": "2026-11-19T18:00:18+00:00",
-      "age_seconds": 5430
+      "age_seconds": 5548
     }
   ]
 }
