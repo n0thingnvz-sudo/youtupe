@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-19T13:41:30.938611+00:00",
+  "generated_at_utc": "2026-11-19T13:43:29.671832+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Тимур Сидельников",
+      "title": "Пицца, но вместо теста фарш",
+      "url": "https://www.youtube.com/shorts/n8ZOy9DPVkc",
+      "published_at_utc": "2026-11-19T13:34:38+00:00",
+      "age_seconds": 505
+    },
     {
       "channel": "Игорь Линк",
       "title": "GTA 6 - ЛУЧШАЯ ИГРА В ИСТОРИИ ЗЕМЛИ",
       "url": "https://www.youtube.com/watch?v=_8n1-KNp7cA",
       "published_at_utc": "2026-11-19T13:20:23+00:00",
-      "age_seconds": 1267
+      "age_seconds": 1386
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин о GTA6. Я не буду спать! #шортс #тренды",
       "url": "https://www.youtube.com/shorts/lfY9ERAUkQg",
       "published_at_utc": "2026-11-19T13:11:33+00:00",
-      "age_seconds": 1777
+      "age_seconds": 1897
     },
     {
       "channel": "IG project",
       "title": "😱 ЛУЧШИЙ ШИП С МИСТЕРОМ ПАЗЗЛСОМ - ПУШКАРЬ или ЛЕГГИ??? 📺 #злодеиобщийсбор #mrpuzzles #shorts",
       "url": "https://www.youtube.com/shorts/CMdxewrPSrI",
       "published_at_utc": "2026-11-19T13:02:02+00:00",
-      "age_seconds": 2332
+      "age_seconds": 2451
     },
     {
       "channel": "sun_kill",
       "title": "дай бог 🙏🏻😭",
       "url": "https://www.youtube.com/shorts/vDaejSMq3W8",
       "published_at_utc": "2026-11-19T13:01:14+00:00",
-      "age_seconds": 2358
+      "age_seconds": 2478
     },
     {
       "channel": "i11ushenka",
       "title": "Баги в ГТА6: Всё не так страшно?",
       "url": "https://www.youtube.com/shorts/BSSZz0eh6O0",
       "published_at_utc": "2026-11-19T12:22:20+00:00",
-      "age_seconds": 4691
+      "age_seconds": 4811
     },
     {
       "channel": "sun_kill",
       "title": "собираем меня на VK TUSA",
       "url": "https://www.youtube.com/shorts/YRxX-Vub330",
       "published_at_utc": "2026-11-19T12:18:01+00:00",
-      "age_seconds": 4951
+      "age_seconds": 5071
     }
   ]
 }
