@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-19T09:53:33.339493+00:00",
+  "generated_at_utc": "2026-11-19T09:55:33.347621+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Ммм да есть вопросик 🙈",
+      "url": "https://www.youtube.com/shorts/W3G5jPfU3Mk",
+      "published_at_utc": "2026-11-19T09:50:44+00:00",
+      "age_seconds": 260
+    },
     {
       "channel": "Короче, новости",
       "title": "Это Мой Друг! Трамп Встретился с Путиным и Уснул @denmarnews",
       "url": "https://www.youtube.com/shorts/tJvzFtr7-Sg",
       "published_at_utc": "2026-11-19T09:09:53+00:00",
-      "age_seconds": 2569
+      "age_seconds": 2689
     },
     {
       "channel": "ВПИСКА",
       "title": "Булкин предал аудиторию? Ответ на хейт #шортс #тренды",
       "url": "https://www.youtube.com/shorts/vQwjrfxrQzM",
       "published_at_utc": "2026-11-19T09:00:07+00:00",
-      "age_seconds": 3184
+      "age_seconds": 3306
     },
     {
       "channel": "Послезавтра",
       "title": "Футбольная столица Европы? #европа #футбол #милан",
       "url": "https://www.youtube.com/shorts/4JnCoSddee0",
       "published_at_utc": "2026-11-19T08:11:29+00:00",
-      "age_seconds": 6060
+      "age_seconds": 6180
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Знает ли собака, какой она породы? 🙃",
       "url": "https://www.youtube.com/shorts/OkjxvyH-zMY",
       "published_at_utc": "2026-11-19T07:59:15+00:00",
-      "age_seconds": 6826
+      "age_seconds": 6949
     }
   ]
 }
