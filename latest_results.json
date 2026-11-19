@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-19T08:27:28.664621+00:00",
+  "generated_at_utc": "2026-11-19T08:29:31.726475+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Футбольная столица Европы? #европа #футбол #милан",
+      "url": "https://www.youtube.com/shorts/4JnCoSddee0",
+      "published_at_utc": "2026-11-19T08:11:29+00:00",
+      "age_seconds": 1020
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Знает ли собака, какой она породы? 🙃",
       "url": "https://www.youtube.com/shorts/OkjxvyH-zMY",
       "published_at_utc": "2026-11-19T07:59:15+00:00",
-      "age_seconds": 1666
+      "age_seconds": 1788
     },
     {
       "channel": "JOHAN",
       "title": "Прохождение GTA6 ( Часть 1: Снова Vice city )",
       "url": "https://www.youtube.com/watch?v=lF7nUFhzzHk",
       "published_at_utc": "2026-11-19T07:31:26+00:00",
-      "age_seconds": 3307
+      "age_seconds": 3427
     },
     {
       "channel": "Короче, новости",
       "title": "АнтиРКН приправляет Steam к Госуслугам",
       "url": "https://www.youtube.com/shorts/Bcj4Glw2yu8",
       "published_at_utc": "2026-11-19T07:23:09+00:00",
-      "age_seconds": 3813
+      "age_seconds": 3932
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не захотел больше играть",
       "url": "https://www.youtube.com/shorts/Y81mF5GHlJU",
       "published_at_utc": "2026-11-19T07:00:29+00:00",
-      "age_seconds": 5175
+      "age_seconds": 5295
     }
   ]
 }
