@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T18:11:45.780617+00:00",
+  "generated_at_utc": "2026-11-19T18:13:40.171761+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,63 +7,49 @@
       "title": "Перепутал ссылку",
       "url": "https://www.youtube.com/shorts/mewQT9iqN3c",
       "published_at_utc": "2026-11-19T18:00:18+00:00",
-      "age_seconds": 632
+      "age_seconds": 750
     },
     {
       "channel": "DeadP47",
       "title": "\"ЦЕНЗУРА\" В GTA 6",
       "url": "https://www.youtube.com/watch?v=cAt1MmLsIpM",
       "published_at_utc": "2026-11-19T17:21:00+00:00",
-      "age_seconds": 3030
+      "age_seconds": 3150
     },
     {
       "channel": "курОлеся",
       "title": "До чего докатилась…",
       "url": "https://www.youtube.com/shorts/lUET_NQsNYs",
       "published_at_utc": "2026-11-19T17:16:08+00:00",
-      "age_seconds": 3280
+      "age_seconds": 3398
     },
     {
       "channel": "Майни",
       "title": "КАК ДАЛЬТОНИЗМ СЛОМАЛ СЮЖЕТ ФНАФ... ► FLEYY | Реакция",
       "url": "https://www.youtube.com/watch?v=IesVw60e3F4",
       "published_at_utc": "2026-11-19T17:15:13+00:00",
-      "age_seconds": 3317
+      "age_seconds": 3437
     },
     {
       "channel": "курОлеся",
       "title": "Похожа?",
       "url": "https://www.youtube.com/shorts/A5MASowygIg",
       "published_at_utc": "2026-11-19T17:15:07+00:00",
-      "age_seconds": 3341
+      "age_seconds": 3459
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гта 6 и запреты",
       "url": "https://www.youtube.com/shorts/i-0yWhPe9Nc",
       "published_at_utc": "2026-11-19T17:01:44+00:00",
-      "age_seconds": 4146
+      "age_seconds": 4264
     },
     {
       "channel": "Новостной Гусь",
       "title": "Как еще защищают ярмарки?",
       "url": "https://www.youtube.com/shorts/oieoTM-A7DI",
       "published_at_utc": "2026-11-19T16:30:09+00:00",
-      "age_seconds": 6040
-    },
-    {
-      "channel": "ДАНИК",
-      "title": "УГАДАЙ ЗАВОЗ | Масленников, Бабич, Азамат",
-      "url": "https://www.youtube.com/watch?v=caP6VDPVTck",
-      "published_at_utc": "2026-11-19T16:12:46+00:00",
-      "age_seconds": 7108
-    },
-    {
-      "channel": "LenS",
-      "title": "Я УДАЛЯЮ DOTA 2 | 7.42 ХУДШИЙ ПАТЧ В ИСТОРИИ | ТИНКЕР МЁРТВ? 💀",
-      "url": "https://www.youtube.com/watch?v=IGbnA92crfM",
-      "published_at_utc": "2026-11-19T16:11:46+00:00",
-      "age_seconds": 7183
+      "age_seconds": 6158
     }
   ]
 }
