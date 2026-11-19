@@ -1,55 +1,55 @@
 {
-  "generated_at_utc": "2026-11-19T18:29:58.625982+00:00",
+  "generated_at_utc": "2026-11-19T18:31:58.194651+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "windy31",
+      "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
+      "url": "https://www.youtube.com/watch?v=aGXEQeI_iEA",
+      "published_at_utc": "2026-11-19T18:23:43+00:00",
+      "age_seconds": 478
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Перепутал ссылку",
       "url": "https://www.youtube.com/shorts/mewQT9iqN3c",
       "published_at_utc": "2026-11-19T18:00:18+00:00",
-      "age_seconds": 1712
+      "age_seconds": 1840
     },
     {
       "channel": "DeadP47",
       "title": "\"ЦЕНЗУРА\" В GTA 6",
       "url": "https://www.youtube.com/watch?v=cAt1MmLsIpM",
       "published_at_utc": "2026-11-19T17:21:00+00:00",
-      "age_seconds": 4128
+      "age_seconds": 4249
     },
     {
       "channel": "курОлеся",
       "title": "До чего докатилась…",
       "url": "https://www.youtube.com/shorts/lUET_NQsNYs",
       "published_at_utc": "2026-11-19T17:16:08+00:00",
-      "age_seconds": 4360
+      "age_seconds": 4487
     },
     {
       "channel": "Майни",
       "title": "КАК ДАЛЬТОНИЗМ СЛОМАЛ СЮЖЕТ ФНАФ... ► FLEYY | Реакция",
       "url": "https://www.youtube.com/watch?v=IesVw60e3F4",
       "published_at_utc": "2026-11-19T17:15:13+00:00",
-      "age_seconds": 4397
+      "age_seconds": 4521
     },
     {
       "channel": "курОлеся",
       "title": "Похожа?",
       "url": "https://www.youtube.com/shorts/A5MASowygIg",
       "published_at_utc": "2026-11-19T17:15:07+00:00",
-      "age_seconds": 4421
+      "age_seconds": 4548
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Гта 6 и запреты",
       "url": "https://www.youtube.com/shorts/i-0yWhPe9Nc",
       "published_at_utc": "2026-11-19T17:01:44+00:00",
-      "age_seconds": 5226
-    },
-    {
-      "channel": "Новостной Гусь",
-      "title": "Как еще защищают ярмарки?",
-      "url": "https://www.youtube.com/shorts/oieoTM-A7DI",
-      "published_at_utc": "2026-11-19T16:30:09+00:00",
-      "age_seconds": 7120
+      "age_seconds": 5354
     }
   ]
 }
