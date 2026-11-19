@@ -1,41 +1,48 @@
 {
-  "generated_at_utc": "2026-11-19T11:33:32.607259+00:00",
+  "generated_at_utc": "2026-11-19T11:35:39.365739+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Obsidian Time",
+      "title": "Перепроходим OUTER WILDS на все ачивки (наверное)",
+      "url": "https://www.youtube.com/watch?v=0M-tWLX_gdM",
+      "published_at_utc": "2026-11-19T11:21:05+00:00",
+      "age_seconds": 873
+    },
     {
       "channel": "sereGGa",
       "title": "МЫ ЖДАЛИ ЭТОГО 200 ДНЕЙ??? | ПАТЧ 7.42",
       "url": "https://www.youtube.com/watch?v=-VIG7yJqJ98",
       "published_at_utc": "2026-11-19T10:59:22+00:00",
-      "age_seconds": 2039
+      "age_seconds": 2165
     },
     {
       "channel": "Новостной Гусь",
       "title": "Конец домашкам?",
       "url": "https://www.youtube.com/shorts/URN2FWUY3KY",
       "published_at_utc": "2026-11-19T10:30:34+00:00",
-      "age_seconds": 3730
+      "age_seconds": 3858
     },
     {
       "channel": "i11ushenka",
       "title": "Актёр, который заспидранил капитализм",
       "url": "https://www.youtube.com/shorts/dujO94qGeG0",
       "published_at_utc": "2026-11-19T10:03:19+00:00",
-      "age_seconds": 5352
+      "age_seconds": 5472
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Ммм да есть вопросик 🙈",
       "url": "https://www.youtube.com/shorts/W3G5jPfU3Mk",
       "published_at_utc": "2026-11-19T09:50:44+00:00",
-      "age_seconds": 6137
+      "age_seconds": 6265
     },
     {
       "channel": "Хаку",
       "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100% (День 2)",
       "url": "https://www.youtube.com/watch?v=836rxE38VYs",
       "published_at_utc": "2026-11-19T09:41:46+00:00",
-      "age_seconds": 6698
+      "age_seconds": 6825
     }
   ]
 }
