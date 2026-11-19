@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T20:09:33.222812+00:00",
+  "generated_at_utc": "2026-11-19T20:11:34.691982+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,42 @@
       "title": "Вот и поговорили",
       "url": "https://www.youtube.com/shorts/VHSpdKkyjcs",
       "published_at_utc": "2026-11-19T20:03:13+00:00",
-      "age_seconds": 353
+      "age_seconds": 475
+    },
+    {
+      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
+      "title": "Первый арест Айшоуспида в ГТА 6",
+      "url": "https://www.youtube.com/shorts/g_1PXZ_d1lo",
+      "published_at_utc": "2026-11-19T20:00:12+00:00",
+      "age_seconds": 635
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Ну вид имеет",
       "url": "https://www.youtube.com/shorts/7obOPjvihyE",
       "published_at_utc": "2026-11-19T19:00:36+00:00",
-      "age_seconds": 4090
+      "age_seconds": 4211
     },
     {
       "channel": "windy31",
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=6x7t_kldlK0",
       "published_at_utc": "2026-11-19T18:34:10+00:00",
-      "age_seconds": 5708
+      "age_seconds": 5829
     },
     {
       "channel": "windy31",
       "title": "ПОМОГИ НАЧИНАЮЩЕМУ СТРИМЕРУ - ГТА 6",
       "url": "https://www.youtube.com/watch?v=aGXEQeI_iEA",
       "published_at_utc": "2026-11-19T18:23:43+00:00",
-      "age_seconds": 6335
+      "age_seconds": 6456
     },
     {
       "channel": "ТОПЛЕС",
       "title": "Почему МАРАФОНЫ именно такие?",
       "url": "https://www.youtube.com/shorts/N5qKeYrTmUw",
       "published_at_utc": "2026-11-19T18:23:41+00:00",
-      "age_seconds": 6293
+      "age_seconds": 6414
     }
   ]
 }
