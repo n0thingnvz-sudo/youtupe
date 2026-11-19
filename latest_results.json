@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-11-19T12:35:34.242489+00:00",
+  "generated_at_utc": "2026-11-19T12:37:31.872625+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "i11ushenka",
-      "title": "Баги в ГТА6: Всё не так страшно?",
-      "url": "https://www.youtube.com/shorts/BSSZz0eh6O0",
-      "published_at_utc": "2026-11-19T12:22:20+00:00",
-      "age_seconds": 731
-    },
     {
       "channel": "sun_kill",
       "title": "собираем меня на VK TUSA",
       "url": "https://www.youtube.com/shorts/YRxX-Vub330",
       "published_at_utc": "2026-11-19T12:18:01+00:00",
-      "age_seconds": 991
+      "age_seconds": 1111
     },
     {
       "channel": "Obsidian Time",
       "title": "Перепроходим OUTER WILDS на все ачивки (наверное)",
       "url": "https://www.youtube.com/watch?v=0M-tWLX_gdM",
       "published_at_utc": "2026-11-19T11:21:05+00:00",
-      "age_seconds": 4468
+      "age_seconds": 4586
     },
     {
       "channel": "sereGGa",
       "title": "МЫ ЖДАЛИ ЭТОГО 200 ДНЕЙ??? | ПАТЧ 7.42",
       "url": "https://www.youtube.com/watch?v=-VIG7yJqJ98",
       "published_at_utc": "2026-11-19T10:59:22+00:00",
-      "age_seconds": 5758
+      "age_seconds": 5878
     }
   ]
 }
