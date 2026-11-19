@@ -1,34 +1,27 @@
 {
-  "generated_at_utc": "2026-11-19T08:07:29.786135+00:00",
+  "generated_at_utc": "2026-11-19T08:09:28.911760+00:00",
   "hours_window": 2,
   "items": [
-    {
-      "channel": "Глеб Рандалайнен",
-      "title": "Знает ли собака, какой она породы? 🙃",
-      "url": "https://www.youtube.com/shorts/OkjxvyH-zMY",
-      "published_at_utc": "2026-11-19T07:59:15+00:00",
-      "age_seconds": 466
-    },
     {
       "channel": "JOHAN",
       "title": "Прохождение GTA6 ( Часть 1: Снова Vice city )",
       "url": "https://www.youtube.com/watch?v=lF7nUFhzzHk",
       "published_at_utc": "2026-11-19T07:31:26+00:00",
-      "age_seconds": 2107
+      "age_seconds": 2227
     },
     {
       "channel": "Короче, новости",
       "title": "АнтиРКН приправляет Steam к Госуслугам",
       "url": "https://www.youtube.com/shorts/Bcj4Glw2yu8",
       "published_at_utc": "2026-11-19T07:23:09+00:00",
-      "age_seconds": 2614
+      "age_seconds": 2732
     },
     {
       "channel": "Новостной Гусь",
       "title": "Не захотел больше играть",
       "url": "https://www.youtube.com/shorts/Y81mF5GHlJU",
       "published_at_utc": "2026-11-19T07:00:29+00:00",
-      "age_seconds": 3976
+      "age_seconds": 4095
     }
   ]
 }
