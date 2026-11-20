@@ -1,69 +1,83 @@
 {
-  "generated_at_utc": "2026-11-20T14:11:45.732009+00:00",
+  "generated_at_utc": "2026-11-20T14:13:33.382986+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "лизкеч",
+      "title": "Когда родители решили отправить тебя в самостоятельную жизнь",
+      "url": "https://www.youtube.com/shorts/5Z2eRDM2BgU",
+      "published_at_utc": "2026-11-20T14:00:48+00:00",
+      "age_seconds": 728
+    },
+    {
+      "channel": "Новостной Гусь",
+      "title": "Месть фанатов",
+      "url": "https://www.youtube.com/shorts/BuCAePZnArM",
+      "published_at_utc": "2026-11-20T14:00:04+00:00",
+      "age_seconds": 761
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "В США самолеты летают на дискетах",
       "url": "https://www.youtube.com/shorts/3tp3ODu3RRc",
       "published_at_utc": "2026-11-20T13:22:44+00:00",
-      "age_seconds": 2892
+      "age_seconds": 3003
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Баги в ГТА 6",
       "url": "https://www.youtube.com/shorts/NuUq0zP4RsM",
       "published_at_utc": "2026-11-20T13:17:56+00:00",
-      "age_seconds": 3179
+      "age_seconds": 3290
     },
     {
       "channel": "Obsidian Time",
       "title": "КРОЛИЧЬЯ ПРОБЛЕМА",
       "url": "https://www.youtube.com/shorts/OEA0y5jU8W8",
       "published_at_utc": "2026-11-20T13:00:20+00:00",
-      "age_seconds": 4284
+      "age_seconds": 4392
     },
     {
       "channel": "Майни",
       "title": "ВСЕ РАДЫ КОНЦУ МЕЛСТРОЯ ► BVS ( БВС ) | Реакция",
       "url": "https://www.youtube.com/watch?v=n9R6WuQSAB8",
       "published_at_utc": "2026-11-20T13:00:04+00:00",
-      "age_seconds": 4226
+      "age_seconds": 4346
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как 4 бегемота Эскобара устроили хаос в Колумбии 🦛",
       "url": "https://www.youtube.com/shorts/WtO13AF75sU",
       "published_at_utc": "2026-11-20T12:55:33+00:00",
-      "age_seconds": 4539
+      "age_seconds": 4650
     },
     {
       "channel": "windy31",
       "title": "не такого ты ожидал от ГТА 6 - ПОЛНОЕ ПРОЖДЕНИЕ GTA 6 #3",
       "url": "https://www.youtube.com/watch?v=bt74i5dJbtE",
       "published_at_utc": "2026-11-20T12:48:23+00:00",
-      "age_seconds": 4985
+      "age_seconds": 5095
     },
     {
       "channel": "IG project",
       "title": "😱 ЭНДЖЕЛ ДАСТ В ГТА 6? КОГО ЕЩЕ ТУДА ДОБАВИЛИ? 🚘 #gta6 #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/BgkYKCTurPo",
       "published_at_utc": "2026-11-20T12:44:54+00:00",
-      "age_seconds": 5171
+      "age_seconds": 5281
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Дорогой ты идешь слишком быстро",
       "url": "https://www.youtube.com/shorts/nyviOs4TL6w",
       "published_at_utc": "2026-11-20T12:41:32+00:00",
-      "age_seconds": 5364
+      "age_seconds": 5475
     },
     {
       "channel": "Ремонтяш",
       "title": "Ноутбук СБЕР, не для розничной продажи.",
       "url": "https://www.youtube.com/watch?v=2QfWZvHHgUo",
       "published_at_utc": "2026-11-20T12:19:20+00:00",
-      "age_seconds": 6702
+      "age_seconds": 6813
     }
   ]
 }
