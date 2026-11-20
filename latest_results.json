@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-20T12:31:40.928468+00:00",
+  "generated_at_utc": "2026-11-20T12:33:35.852550+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Ремонтяш",
+      "title": "Ноутбук СБЕР, не для розничной продажи.",
+      "url": "https://www.youtube.com/watch?v=2QfWZvHHgUo",
+      "published_at_utc": "2026-11-20T12:19:20+00:00",
+      "age_seconds": 815
+    },
     {
       "channel": "Сергей Милушкин",
       "title": "10 лет тюрьмы за свободу воронам",
       "url": "https://www.youtube.com/shorts/xLLaJtrfaxI",
       "published_at_utc": "2026-11-20T12:07:38+00:00",
-      "age_seconds": 1391
+      "age_seconds": 1509
     },
     {
       "channel": "i11ushenka",
       "title": "ГТА 6: Неуязвимые зоозащитники?",
       "url": "https://www.youtube.com/shorts/WgKFuP55CS4",
       "published_at_utc": "2026-11-20T11:50:37+00:00",
-      "age_seconds": 2395
+      "age_seconds": 2515
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Адекватная версия Мистера Макса",
       "url": "https://www.youtube.com/shorts/_Jjjawy1CjA",
       "published_at_utc": "2026-11-20T11:01:01+00:00",
-      "age_seconds": 5387
+      "age_seconds": 5505
     },
     {
       "channel": "Тру Шорты",
       "title": "Самый странный 3D-принтер в природе",
       "url": "https://www.youtube.com/shorts/jV27A16KcZQ",
       "published_at_utc": "2026-11-20T10:42:16+00:00",
-      "age_seconds": 6492
+      "age_seconds": 6612
     }
   ]
 }
