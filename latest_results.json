@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-20T16:07:37.964719+00:00",
+  "generated_at_utc": "2026-11-20T16:09:34.445537+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Почему осликов расселили?",
+      "url": "https://www.youtube.com/shorts/KmK6u7DKNIU",
+      "published_at_utc": "2026-11-20T16:00:37+00:00",
+      "age_seconds": 489
+    },
     {
       "channel": "sun_kill",
       "title": "Protein Max - высокобелковый перекус для высокопродуктивного дня!",
       "url": "https://www.youtube.com/shorts/o-HsBEMBz38",
       "published_at_utc": "2026-11-20T15:10:48+00:00",
-      "age_seconds": 3344
+      "age_seconds": 3464
     },
     {
       "channel": "Майни",
       "title": "🤔Что GTA 6 должна украсть у GTA 4? ► King jr ( Кинг ДМ ) | Реакция",
       "url": "https://www.youtube.com/watch?v=UEBWGq6cQpw",
       "published_at_utc": "2026-11-20T15:00:31+00:00",
-      "age_seconds": 3959
+      "age_seconds": 4079
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Лицо того кто не стирал:",
       "url": "https://www.youtube.com/shorts/8plbGMeaZ_w",
       "published_at_utc": "2026-11-20T14:44:02+00:00",
-      "age_seconds": 4964
+      "age_seconds": 5085
     },
     {
       "channel": "Alina Мuradimova",
       "title": "обсуждаем статью \"страх быть увиденной чужими глазами\"",
       "url": "https://www.youtube.com/shorts/W7EKLxd-rl4",
       "published_at_utc": "2026-11-20T14:17:33+00:00",
-      "age_seconds": 6558
+      "age_seconds": 6679
     }
   ]
 }
