@@ -1,48 +1,41 @@
 {
-  "generated_at_utc": "2026-11-20T13:01:40.253346+00:00",
+  "generated_at_utc": "2026-11-20T13:03:33.842942+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Глеб Рандалайнен",
+      "title": "Как 4 бегемота Эскобара устроили хаос в Колумбии 🦛",
+      "url": "https://www.youtube.com/shorts/WtO13AF75sU",
+      "published_at_utc": "2026-11-20T12:55:33+00:00",
+      "age_seconds": 450
+    },
     {
       "channel": "IG project",
       "title": "😱 ЭНДЖЕЛ ДАСТ В ГТА 6? КОГО ЕЩЕ ТУДА ДОБАВИЛИ? 🚘 #gta6 #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/BgkYKCTurPo",
       "published_at_utc": "2026-11-20T12:44:54+00:00",
-      "age_seconds": 963
-    },
-    {
-      "channel": "Сергей Милушкин",
-      "title": "Поспешишь людей насмешишь и не только",
-      "url": "https://www.youtube.com/shorts/nyviOs4TL6w",
-      "published_at_utc": "2026-11-20T12:41:32+00:00",
-      "age_seconds": 1155
+      "age_seconds": 1080
     },
     {
       "channel": "Ремонтяш",
       "title": "Ноутбук СБЕР, не для розничной продажи.",
       "url": "https://www.youtube.com/watch?v=2QfWZvHHgUo",
       "published_at_utc": "2026-11-20T12:19:20+00:00",
-      "age_seconds": 2494
+      "age_seconds": 2612
     },
     {
       "channel": "Сергей Милушкин",
       "title": "10 лет тюрьмы за свободу воронам",
       "url": "https://www.youtube.com/shorts/xLLaJtrfaxI",
       "published_at_utc": "2026-11-20T12:07:38+00:00",
-      "age_seconds": 3189
+      "age_seconds": 3308
     },
     {
       "channel": "i11ushenka",
       "title": "ГТА 6: Неуязвимые зоозащитники?",
       "url": "https://www.youtube.com/shorts/WgKFuP55CS4",
       "published_at_utc": "2026-11-20T11:50:37+00:00",
-      "age_seconds": 4194
-    },
-    {
-      "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
-      "title": "Адекватная версия Мистера Макса",
-      "url": "https://www.youtube.com/shorts/_Jjjawy1CjA",
-      "published_at_utc": "2026-11-20T11:01:01+00:00",
-      "age_seconds": 7186
+      "age_seconds": 4314
     }
   ]
 }
