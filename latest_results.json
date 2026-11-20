@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T08:15:41.296753+00:00",
+  "generated_at_utc": "2026-11-20T08:17:47.214197+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "GTA 6. Как журналисты вам ВРУТ.",
       "url": "https://www.youtube.com/watch?v=cumjzTvqLN4",
       "published_at_utc": "2026-11-20T07:56:57+00:00",
-      "age_seconds": 1124
+      "age_seconds": 1250
     },
     {
       "channel": "Новостной Гусь",
       "title": "Будьте аккуратны с портретами в Северной Корее",
       "url": "https://www.youtube.com/shorts/3jJZbaSoxTI",
       "published_at_utc": "2026-11-20T07:00:26+00:00",
-      "age_seconds": 4459
+      "age_seconds": 4585
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Сивуч Вася и его приключения 🙃",
       "url": "https://www.youtube.com/shorts/t6V5gbQ0eRo",
       "published_at_utc": "2026-11-20T06:21:28+00:00",
-      "age_seconds": 6817
+      "age_seconds": 6945
     }
   ]
 }
