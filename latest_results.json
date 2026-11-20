@@ -1,62 +1,69 @@
 {
-  "generated_at_utc": "2026-11-20T13:11:51.123284+00:00",
+  "generated_at_utc": "2026-11-20T13:13:38.058604+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Obsidian Time",
+      "title": "КРОЛИЧЬЯ ПРОБЛЕМА",
+      "url": "https://www.youtube.com/shorts/OEA0y5jU8W8",
+      "published_at_utc": "2026-11-20T13:00:20+00:00",
+      "age_seconds": 797
+    },
     {
       "channel": "Майни",
       "title": "ВСЕ РАДЫ КОНЦУ МЕЛСТРОЯ ► BVS ( БВС ) | Реакция",
       "url": "https://www.youtube.com/watch?v=n9R6WuQSAB8",
       "published_at_utc": "2026-11-20T13:00:04+00:00",
-      "age_seconds": 626
+      "age_seconds": 746
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как 4 бегемота Эскобара устроили хаос в Колумбии 🦛",
       "url": "https://www.youtube.com/shorts/WtO13AF75sU",
       "published_at_utc": "2026-11-20T12:55:33+00:00",
-      "age_seconds": 937
+      "age_seconds": 1052
     },
     {
       "channel": "windy31",
       "title": "не такого ты ожидал от ГТА 6 - ПОЛНОЕ ПРОЖДЕНИЕ GTA 6 #3",
       "url": "https://www.youtube.com/watch?v=bt74i5dJbtE",
       "published_at_utc": "2026-11-20T12:48:23+00:00",
-      "age_seconds": 1384
+      "age_seconds": 1498
     },
     {
       "channel": "IG project",
       "title": "😱 ЭНДЖЕЛ ДАСТ В ГТА 6? КОГО ЕЩЕ ТУДА ДОБАВИЛИ? 🚘 #gta6 #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/BgkYKCTurPo",
       "published_at_utc": "2026-11-20T12:44:54+00:00",
-      "age_seconds": 1567
+      "age_seconds": 1683
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Поспешишь людей насмешишь и не только",
       "url": "https://www.youtube.com/shorts/nyviOs4TL6w",
       "published_at_utc": "2026-11-20T12:41:32+00:00",
-      "age_seconds": 1760
+      "age_seconds": 1876
     },
     {
       "channel": "Ремонтяш",
       "title": "Ноутбук СБЕР, не для розничной продажи.",
       "url": "https://www.youtube.com/watch?v=2QfWZvHHgUo",
       "published_at_utc": "2026-11-20T12:19:20+00:00",
-      "age_seconds": 3098
+      "age_seconds": 3214
     },
     {
       "channel": "Сергей Милушкин",
       "title": "10 лет тюрьмы за свободу воронам",
       "url": "https://www.youtube.com/shorts/xLLaJtrfaxI",
       "published_at_utc": "2026-11-20T12:07:38+00:00",
-      "age_seconds": 3794
+      "age_seconds": 3910
     },
     {
       "channel": "i11ushenka",
       "title": "ГТА 6: Неуязвимые зоозащитники?",
       "url": "https://www.youtube.com/shorts/WgKFuP55CS4",
       "published_at_utc": "2026-11-20T11:50:37+00:00",
-      "age_seconds": 4794
+      "age_seconds": 4915
     }
   ]
 }
