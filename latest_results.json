@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-20T09:17:44.801948+00:00",
+  "generated_at_utc": "2026-11-20T09:19:49.475499+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Хаку",
+      "title": "Играем В GTA 6 Пока Не ПРОЙДЕМ НА 100% (День 3)",
+      "url": "https://www.youtube.com/watch?v=mILr1WiuAYU",
+      "published_at_utc": "2026-11-20T09:12:44+00:00",
+      "age_seconds": 416
+    },
     {
       "channel": "Послезавтра",
       "title": "Парфёнов: о Намедни, России, Набокове и ремесле журналиста @posle_zavtra",
       "url": "https://www.youtube.com/watch?v=2bCa9a1yX5k",
       "published_at_utc": "2026-11-20T08:37:04+00:00",
-      "age_seconds": 2365
+      "age_seconds": 2485
     },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как у дятла не разорвало мозг от таких ударов? Факты о дятлах",
       "url": "https://www.youtube.com/shorts/8VYB_7t8tu8",
       "published_at_utc": "2026-11-20T08:31:11+00:00",
-      "age_seconds": 2761
+      "age_seconds": 2882
     },
     {
       "channel": "i11ushenka",
       "title": "Запретный полёт в GTA 6",
       "url": "https://www.youtube.com/shorts/jmnQQHu2_Z4",
       "published_at_utc": "2026-11-20T08:20:59+00:00",
-      "age_seconds": 3334
+      "age_seconds": 3453
     },
     {
       "channel": "Игорь Линк",
       "title": "У GTA 6 есть ПРОБЛЕМА",
       "url": "https://www.youtube.com/watch?v=cumjzTvqLN4",
       "published_at_utc": "2026-11-20T07:56:57+00:00",
-      "age_seconds": 4847
+      "age_seconds": 4972
     }
   ]
 }
