@@ -1,34 +1,41 @@
 {
-  "generated_at_utc": "2026-11-20T08:47:43.570152+00:00",
+  "generated_at_utc": "2026-11-20T08:49:40.925309+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Послезавтра",
+      "title": "Парфенов: о Намедни, России, Набокове и ремесле журналиста @posle_zavtra",
+      "url": "https://www.youtube.com/watch?v=2bCa9a1yX5k",
+      "published_at_utc": "2026-11-20T08:37:04+00:00",
+      "age_seconds": 685
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как у дятла не разорвало мозг от таких ударов? Факты о дятлах",
       "url": "https://www.youtube.com/shorts/8VYB_7t8tu8",
       "published_at_utc": "2026-11-20T08:31:11+00:00",
-      "age_seconds": 960
+      "age_seconds": 1075
     },
     {
       "channel": "i11ushenka",
       "title": "Запретный полёт в GTA 6",
       "url": "https://www.youtube.com/shorts/jmnQQHu2_Z4",
       "published_at_utc": "2026-11-20T08:20:59+00:00",
-      "age_seconds": 1534
+      "age_seconds": 1653
     },
     {
       "channel": "Игорь Линк",
       "title": "У GTA 6 есть ПРОБЛЕМА",
       "url": "https://www.youtube.com/watch?v=cumjzTvqLN4",
       "published_at_utc": "2026-11-20T07:56:57+00:00",
-      "age_seconds": 3046
+      "age_seconds": 3163
     },
     {
       "channel": "Новостной Гусь",
       "title": "Будьте аккуратны с портретами в Северной Корее",
       "url": "https://www.youtube.com/shorts/3jJZbaSoxTI",
       "published_at_utc": "2026-11-20T07:00:26+00:00",
-      "age_seconds": 6385
+      "age_seconds": 6501
     }
   ]
 }
