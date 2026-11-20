@@ -1,13 +1,20 @@
 {
-  "generated_at_utc": "2026-11-20T07:13:30.717746+00:00",
+  "generated_at_utc": "2026-11-20T07:15:29.022400+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Новостной Гусь",
+      "title": "Будьте аккуратны с портретами в Северной Корее",
+      "url": "https://www.youtube.com/shorts/3jJZbaSoxTI",
+      "published_at_utc": "2026-11-20T07:00:26+00:00",
+      "age_seconds": 858
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Сивуч Вася и его приключения 🙃",
       "url": "https://www.youtube.com/shorts/t6V5gbQ0eRo",
       "published_at_utc": "2026-11-20T06:21:28+00:00",
-      "age_seconds": 3093
+      "age_seconds": 3212
     }
   ]
 }
