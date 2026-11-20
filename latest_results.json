@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T11:33:33.468617+00:00",
+  "generated_at_utc": "2026-11-20T11:35:32.392926+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "Адекватная версия Мистера Макса",
       "url": "https://www.youtube.com/shorts/_Jjjawy1CjA",
       "published_at_utc": "2026-11-20T11:01:01+00:00",
-      "age_seconds": 1905
+      "age_seconds": 2025
     },
     {
       "channel": "Тру Шорты",
       "title": "Самый странный 3D-принтер в природе",
       "url": "https://www.youtube.com/shorts/jV27A16KcZQ",
       "published_at_utc": "2026-11-20T10:42:16+00:00",
-      "age_seconds": 3012
+      "age_seconds": 3132
     },
     {
       "channel": "Thoisoi",
       "title": "Как Расплавить ЛЮБОЕ Вещество?",
       "url": "https://www.youtube.com/watch?v=wD1qTqugy7Y",
       "published_at_utc": "2026-11-20T10:11:08+00:00",
-      "age_seconds": 4881
+      "age_seconds": 5001
     },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Стримеры vs ГТА 6",
       "url": "https://www.youtube.com/shorts/aDQGI8z4ETI",
       "published_at_utc": "2026-11-20T09:37:28+00:00",
-      "age_seconds": 6918
+      "age_seconds": 7038
     },
     {
       "channel": "Алежа Обухов",
       "title": "Тот самый сосед наводит порядки в доме",
       "url": "https://www.youtube.com/shorts/5_pJTghgoCo",
       "published_at_utc": "2026-11-20T09:36:40+00:00",
-      "age_seconds": 6979
+      "age_seconds": 7100
     }
   ]
 }
