@@ -1,48 +1,62 @@
 {
-  "generated_at_utc": "2026-11-20T13:09:36.302875+00:00",
+  "generated_at_utc": "2026-11-20T13:11:51.123284+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "Майни",
+      "title": "ВСЕ РАДЫ КОНЦУ МЕЛСТРОЯ ► BVS ( БВС ) | Реакция",
+      "url": "https://www.youtube.com/watch?v=n9R6WuQSAB8",
+      "published_at_utc": "2026-11-20T13:00:04+00:00",
+      "age_seconds": 626
+    },
     {
       "channel": "Глеб Рандалайнен",
       "title": "Как 4 бегемота Эскобара устроили хаос в Колумбии 🦛",
       "url": "https://www.youtube.com/shorts/WtO13AF75sU",
       "published_at_utc": "2026-11-20T12:55:33+00:00",
-      "age_seconds": 811
+      "age_seconds": 937
+    },
+    {
+      "channel": "windy31",
+      "title": "не такого ты ожидал от ГТА 6 - ПОЛНОЕ ПРОЖДЕНИЕ GTA 6 #3",
+      "url": "https://www.youtube.com/watch?v=bt74i5dJbtE",
+      "published_at_utc": "2026-11-20T12:48:23+00:00",
+      "age_seconds": 1384
     },
     {
       "channel": "IG project",
       "title": "😱 ЭНДЖЕЛ ДАСТ В ГТА 6? КОГО ЕЩЕ ТУДА ДОБАВИЛИ? 🚘 #gta6 #отельхазбин #shorts",
       "url": "https://www.youtube.com/shorts/BgkYKCTurPo",
       "published_at_utc": "2026-11-20T12:44:54+00:00",
-      "age_seconds": 1442
+      "age_seconds": 1567
     },
     {
       "channel": "Сергей Милушкин",
       "title": "Поспешишь людей насмешишь и не только",
       "url": "https://www.youtube.com/shorts/nyviOs4TL6w",
       "published_at_utc": "2026-11-20T12:41:32+00:00",
-      "age_seconds": 1636
+      "age_seconds": 1760
     },
     {
       "channel": "Ремонтяш",
       "title": "Ноутбук СБЕР, не для розничной продажи.",
       "url": "https://www.youtube.com/watch?v=2QfWZvHHgUo",
       "published_at_utc": "2026-11-20T12:19:20+00:00",
-      "age_seconds": 2974
+      "age_seconds": 3098
     },
     {
       "channel": "Сергей Милушкин",
       "title": "10 лет тюрьмы за свободу воронам",
       "url": "https://www.youtube.com/shorts/xLLaJtrfaxI",
       "published_at_utc": "2026-11-20T12:07:38+00:00",
-      "age_seconds": 3670
+      "age_seconds": 3794
     },
     {
       "channel": "i11ushenka",
       "title": "ГТА 6: Неуязвимые зоозащитники?",
       "url": "https://www.youtube.com/shorts/WgKFuP55CS4",
       "published_at_utc": "2026-11-20T11:50:37+00:00",
-      "age_seconds": 4674
+      "age_seconds": 4794
     }
   ]
 }
