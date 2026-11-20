@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T11:51:35.117294+00:00",
+  "generated_at_utc": "2026-11-20T11:53:31.527396+00:00",
   "hours_window": 2,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Адекватная версия Мистера Макса",
       "url": "https://www.youtube.com/shorts/_Jjjawy1CjA",
       "published_at_utc": "2026-11-20T11:01:01+00:00",
-      "age_seconds": 2985
+      "age_seconds": 3104
     },
     {
       "channel": "Тру Шорты",
       "title": "Самый странный 3D-принтер в природе",
       "url": "https://www.youtube.com/shorts/jV27A16KcZQ",
       "published_at_utc": "2026-11-20T10:42:16+00:00",
-      "age_seconds": 4092
+      "age_seconds": 4212
     },
     {
       "channel": "Thoisoi",
       "title": "Как Расплавить ЛЮБОЕ Вещество?",
       "url": "https://www.youtube.com/watch?v=wD1qTqugy7Y",
       "published_at_utc": "2026-11-20T10:11:08+00:00",
-      "age_seconds": 5961
+      "age_seconds": 6081
     }
   ]
 }
