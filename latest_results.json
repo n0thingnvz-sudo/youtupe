@@ -1,48 +1,55 @@
 {
-  "generated_at_utc": "2026-11-20T16:59:32.639759+00:00",
+  "generated_at_utc": "2026-11-20T17:01:41.610238+00:00",
   "hours_window": 2,
   "items": [
+    {
+      "channel": "kropina",
+      "title": "ТРЭШ-РЕАЛИТИ ДЛЯ ЖЕНЩИН: \"Лебедь\", 2004",
+      "url": "https://www.youtube.com/watch?v=dIcpmQmeH8A",
+      "published_at_utc": "2026-11-20T16:58:56+00:00",
+      "age_seconds": 95
+    },
+    {
+      "channel": "Послезавтра",
+      "title": "Русский успех #россия #успех #парфенов",
+      "url": "https://www.youtube.com/shorts/0xylBTr_54I",
+      "published_at_utc": "2026-11-20T16:55:21+00:00",
+      "age_seconds": 308
+    },
     {
       "channel": "ПОСЛЕДНЯЯ ИЗВИЛИНА",
       "title": "Корзина зла",
       "url": "https://www.youtube.com/shorts/DI0HjZsQY6Q",
       "published_at_utc": "2026-11-20T16:46:43+00:00",
-      "age_seconds": 723
+      "age_seconds": 850
     },
     {
       "channel": "SHAPKA",
       "title": "Рокстары прогрели гоев :(",
       "url": "https://www.youtube.com/watch?v=PT4p9t-YkOc",
       "published_at_utc": "2026-11-20T16:46:19+00:00",
-      "age_seconds": 738
+      "age_seconds": 860
     },
     {
       "channel": "Коннор",
       "title": "Проверил, как вам?",
       "url": "https://www.youtube.com/shorts/DqDf1g0VCOo",
       "published_at_utc": "2026-11-20T16:06:24+00:00",
-      "age_seconds": 3160
+      "age_seconds": 3288
     },
     {
       "channel": "Новостной Гусь",
       "title": "Почему осликов расселили?",
       "url": "https://www.youtube.com/shorts/KmK6u7DKNIU",
       "published_at_utc": "2026-11-20T16:00:37+00:00",
-      "age_seconds": 3488
+      "age_seconds": 3615
     },
     {
       "channel": "sun_kill",
       "title": "Protein Max - высокобелковый перекус для высокопродуктивного дня!",
       "url": "https://www.youtube.com/shorts/o-HsBEMBz38",
       "published_at_utc": "2026-11-20T15:10:48+00:00",
-      "age_seconds": 6464
-    },
-    {
-      "channel": "Майни",
-      "title": "🤔Что GTA 6 должна украсть у GTA 4? ► King jr ( Кинг ДМ ) | Реакция",
-      "url": "https://www.youtube.com/watch?v=UEBWGq6cQpw",
-      "published_at_utc": "2026-11-20T15:00:31+00:00",
-      "age_seconds": 7079
+      "age_seconds": 6585
     }
   ]
 }
